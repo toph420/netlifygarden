@@ -57,8 +57,8 @@ Where to go from here:
 > - [[Calendar/+ MOCs/🌜 Dream Journal\|🌜 Dream Journal]]
 > - [[Writing Journal\|🖋 Writing Journal]]
 
-
-[](🖋%20Writing%20Journal.md)l.md)onal Management]]
+> [!example]+ Cards
+> - [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]
 > - [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/200 - Philosophy, Psychology, Spirtuality, Religion\|200 - Philosophy, Psychology, Spirtuality, Religion]]
 > - [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
 > - [[Cards/400 - Communications, Language, Linguistics/400 - Communications, Language, Linguistics\|400 - Communications, Language, Linguistics]]
