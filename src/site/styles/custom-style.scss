@@ -9,6 +9,26 @@
     display:block;
   }
   
+
+//   CALLOUT
+
+.callout {
+    font-family: var(--font-default);
+    word-wrap: break-word;
+    display: block;
+    font-size: 1rem;
+}
+
+  
+.callout-content {
+    padding: 20px;
+}
+
+.callout-title {
+    padding:15px;
+}
+
+
   
   
   
@@ -36,22 +56,21 @@
   }
   
 
-  
-  // CALLOUTS
-  
-  
-  .callout-content {
-      padding: 20px;
-  }
-  
-  .callout-title {
-      padding:15px;
-  }
 
 
 
 
 /* MADO TABLES (from mados theme.css */
+
+.table-view-table>thead>tr>th {
+    font-weight: bold;
+    font-size: 1rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid;
+    max-width: 100%;
+}
 
 .markdown-rendered table {
     width: calc(100% - 0px);
@@ -71,6 +90,7 @@
     border-width: var(--table-header-border-width);
     background: none;
     border-color: var(--table-header-border-color);
+    font-weight:bold;
 }
 
 
@@ -106,6 +126,16 @@
 	font-weight:400;
 }
 
+.markdown-rendered tbody tr {
+    background: none;
+}
+
+.markdown-rendered table tr:nth-child(2n) td {
+    background-color: var(--background-primary);
+}
+
+
+
 .markdown-rendered table thead>tr>*:first-child{
 	border-radius:4px 0 0 0;
 }
@@ -122,21 +152,3 @@
 	border-radius:0 0 4px 0;
 }
 
-
-.markdown-rendered tbody tr:nth-child(odd) {
-    background:none;
-}
-
-.markdown-rendered tbody tr {
-    background: none;
-}
-
-.markdown-rendered table tr:nth-child(2n) td {
-    background-color: var(--background-primary);
-}
-
-
-
-.markdown-rendered tbody tr>td:nth-child(2n+2) {
-    background-color: var(--background-fourth); 
-}
