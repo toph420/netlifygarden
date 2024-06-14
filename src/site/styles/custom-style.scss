@@ -2,22 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 
-body {
-    --font-default: "JetBrains Mono", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    ;
-    --font-monospace-default: "JetBrains Mono", Menlo, SFMono-Regular, Consolas, "Roboto Mono", 'Source Code Pro', monospace;
-    --font-interface-override: '??';
-    --font-interface-theme: '??';
-    --font-interface: var(--font-interface-override), var(--font-interface-theme), var(--default-font, '??'), var(--font-default);
-    --font-text-override: '??';
-    --font-text-theme: '??';
-    --font-text: var(--font-text-override), var(--font-text-theme), var(--font-interface);
-    --font-monospace-override: '??';
-    --font-monospace-theme: '??';
-    --font-monospace: var(--font-monospace-override), var(--font-monospace-theme), var(--font-monospace-default);
-    --font-text-size: 16px;
-    --font-mermaid: var(--font-text);
-  }
 
 
 
@@ -58,7 +42,7 @@ body {
   }
   
   .markdown-rendered th {
-      border:1px solid #fff;
+     border: 1px solid rgba(255, 255, 255, .25);
   }
   
   
@@ -142,7 +126,7 @@ body {
 
 
 /* Mado Table */
-[class*="mado-table"]:not(.mado-table-normal) .markdown-preview-section table{
+[class*="mado-table"]:not(.mado-table-normal) table{
 	width:calc(100% - 0px);
 	margin-inline:auto;
 	border-radius:var(--button-radius);
@@ -151,47 +135,47 @@ body {
 	padding:2px;
 	background:var(--background-secondary);
 }
-[class*="mado-table"]:not(.mado-table-normal) .markdown-preview-section table :is(th, td){
+[class*="mado-table"]:not(.mado-table-normal) table :is(th, td){
 	padding:11px 11px;
 	text-align:center;
 	min-width:83px;
 }
-[class*="mado-table"]:not(.mado-table-normal) .markdown-preview-section table th{
+[class*="mado-table"]:not(.mado-table-normal) table th{
 	background-color:var(--background-secondary);
 	font-weight:600;
 	font-size:1em;
 }
-[class*="mado-table"]:not(.mado-table-normal).markdown-rendered .markdown-preview-section table td,
-[class*="mado-table"]:not(.mado-table-normal).mado-table-topless .markdown-preview-section table th{
+.markdown-rendered [class*="mado-table"]:not(.mado-table-normal) table td,
+.markdown-preview-section [class*="mado-table"]:not(.mado-table-normal) table th{
 	background:var(--background-fourth);
 	border:none;
 	font-weight:400;
 }
-[class*="mado-table"]:not(.mado-table-normal) .markdown-preview-section table thead>tr>*:first-child{
+[class*="mado-table"]:not(.mado-table-normal) table thead>tr>*:first-child{
 	border-radius:4px 0 0 0;
 }
-[class*="mado-table"]:not(.mado-table-normal) .markdown-preview-section table thead>tr>*:last-child{
+[class*="mado-table"]:not(.mado-table-normal) table thead>tr>*:last-child{
 	border-radius:0 4px 0 0;
 }
-[class*="mado-table"]:not(.mado-table-normal) .markdown-preview-section table tbody>tr:last-child>*:first-child{
+[class*="mado-table"]:not(.mado-table-normal) table tbody>tr:last-child>*:first-child{
 	border-radius:0 0 0 4px;
 }
-[class*="mado-table"]:not(.mado-table-normal) .markdown-preview-section table tbody>tr:last-child>*:last-child{
+[class*="mado-table"]:not(.mado-table-normal) table tbody>tr:last-child>*:last-child{
 	border-radius:0 0 4px 0;
 }
 
 
 /* Mado Table Options */
-[class*="mado-table"]:not(.mado-table-normal).mado-table-left .markdown-preview-section table tr :is(th:first-child, td:first-child),
-[class*="mado-table"]:not(.mado-table-normal).mado-table-right .markdown-preview-section table tr :is(th:last-child, td:last-child),
-[class*="mado-table"]:not(.mado-table-normal).mado-table-top.markdown-rendered .markdown-preview-section table tr th,
-[class*="mado-table"]:not(.mado-table-normal).mado-table-bottom .markdown-preview-section table tr:last-child td{
+[class*="mado-table"]:not(.mado-table-normal).mado-table-left table tr :is(th:first-child, td:first-child),
+[class*="mado-table"]:not(.mado-table-normal).mado-table-right table tr :is(th:last-child, td:last-child),
+[class*="mado-table"]:not(.mado-table-normal).mado-table-top table tr th,
+[class*="mado-table"]:not(.mado-table-normal).mado-table-bottom table tr:last-child td{
 	background-color:var(--background-secondary);
 	font-weight:600;
 	font-size:1em;
 	border:var(--border);
 }
-.mado-table-normal.mado-table-left .markdown-preview-section table tr :is(th:first-child, td:first-child),
+.mado-table-normal.mado-table-left table tr :is(th:first-child, td:first-child),
 .mado-table-normal.mado-table-right .markdown-preview-section table tr :is(th:last-child, td:last-child),
 .mado-table-normal.mado-table-top.markdown-rendered .markdown-preview-section table tr th,
 .mado-table-normal.mado-table-bottom .markdown-preview-section table tr:last-child td{
@@ -210,20 +194,12 @@ body {
 }
 
 /* Mado Table Stripe/Border styling, also adapting colors for headers */
-[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe.markdown-rendered 						.markdown-preview-section table tr:nth-child(2n) td:not(:first-child):not(:last-child),
-[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe.markdown-rendered:not(.mado-table-left) .markdown-preview-section table tr:nth-child(2n) td:first-child,
-[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe.markdown-rendered.mado-table-left 		.markdown-preview-section table tr:nth-child(2n+1) td:first-child,
-[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe.markdown-rendered:not(.mado-table-right) .markdown-preview-section table tr:nth-child(2n) td:last-child,
-[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe.markdown-rendered.mado-table-right 		.markdown-preview-section table tr:nth-child(2n+1) td:last-child,
-.mado-table-normal.mado-table-stripe.markdown-rendered 	.markdown-preview-section table tr:nth-child(2n+1) :is(td:first-child, td:last-child),
-[class*="mado-table"]:not(.mado-table-normal).mado-table-border.markdown-rendered .markdown-preview-section table :is(tr th:nth-child(2n+2), tr td:nth-child(2n+1)),
-[class*="mado-table"]:not(.mado-table-normal).mado-table-border.markdown-rendered.mado-table-bottom .markdown-preview-section table tr:last-child td:nth-child(2n){
+[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe table tr:nth-child(2n) td:not(:first-child):not(:last-child),
+[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe:not(.mado-table-left) table tr:nth-child(2n) td:first-child,
+.mado-table-normal.mado-table-stripe table tr:nth-child(2n+1) :is(td:first-child, td:last-child) {
 	background-color:var(--background-primary);
 }
-.mado-table-normal.mado-table-stripe.markdown-rendered .markdown-preview-section table tr:nth-child(2n) td,
-.mado-table-normal.mado-table-border.markdown-rendered .markdown-preview-section table :is(tr th:nth-child(2n+1), tr td:nth-child(2n+1)),
-.mado-table-border.markdown-rendered.mado-table-bottom .markdown-preview-section table tr:last-child td:nth-child(2n+1),
-[class*="mado-table"]:not(.mado-table-normal).mado-table-stripe.markdown-rendered.mado-table-bottom .markdown-preview-section table tr:last-child :is(td:first-child, td:last-child){
+.mado-table-normal.mado-table-stripe.markdown-rendered table tr:nth-child(2n) td {
 	background-color:var(--background-secondary);
 }
 
