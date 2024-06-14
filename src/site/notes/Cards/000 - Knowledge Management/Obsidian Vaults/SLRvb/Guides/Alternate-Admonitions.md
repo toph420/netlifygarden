@@ -11,8 +11,8 @@ Primary purpose of this snippet is getting [Admonitions](https://publish.obsidia
 [**Get CSS Snippet Here**](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/S%20-%20Admonitions.css)
 
 
-![Admonition-Dark.png](/img/user/Extras/Attachments/SLRvb%20Images/Admonition-Dark.png)
-![Admonition-Light.png](/img/user/Extras/Attachments/SLRvb%20Images/Admonition-Light.png)
+![[Admonition-Dark.png\|Admonition-Dark.png]]
+![[Admonition-Light.png\|Admonition-Light.png]]
 
 
 ---

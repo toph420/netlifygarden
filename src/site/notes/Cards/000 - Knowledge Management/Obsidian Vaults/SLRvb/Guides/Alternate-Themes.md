@@ -35,8 +35,8 @@
 
 # SlRvb Gray
 [Link](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Theme%20-%20SlRvb%20Gray.css)
-![Theme-SlRvb-Gray--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-SlRvb-Gray--Darkmode.png)
-![Theme-SlRvb-Gray--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-SlRvb-Gray--Lightmode.png)
+![[Theme-SlRvb-Gray--Darkmode.png\|Theme-SlRvb-Gray--Darkmode.png]]
+![[Theme-SlRvb-Gray--Lightmode.png\|Theme-SlRvb-Gray--Lightmode.png]]
 
 **Fonts used:**
 - Headings: [Norwester](https://jamiewilson.io/norwester/)
@@ -48,8 +48,8 @@
 
 # SlRvb Blue
 [Link](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Theme%20-%20SlRvb%20Blue.css)
-![Theme-SlRvb-Blue--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-SlRvb-Blue--Darkmode.png)
-![Theme-SlRvb-Blue--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-SlRvb-Blue--Lightmode.png)
+![[Theme-SlRvb-Blue--Darkmode.png\|Theme-SlRvb-Blue--Darkmode.png]]
+![[Theme-SlRvb-Blue--Lightmode.png\|Theme-SlRvb-Blue--Lightmode.png]]
 
 **Fonts used:**
 - Headings: [Recursive Sans Linear Static Black](https://www.recursive.design/)
@@ -57,8 +57,8 @@
 
 # D&D
 [Link](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Theme%20-%20DnD.css)
-![Theme-DnD--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-DnD--Darkmode.png)
-![Theme-DnD--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-DnD--Lightmode.png)
+![[Theme-DnD--Darkmode.png\|Theme-DnD--Darkmode.png]]
+![[Theme-DnD--Lightmode.png\|Theme-DnD--Lightmode.png]]
 
 **Fonts used:**
 - Headings: [Cinzel Decorative](https://fonts.google.com/specimen/Cinzel+Decorative)
@@ -67,8 +67,8 @@
 - Monospace: [Fira Code](https://github.com/tonsky/FiraCode)
 
 # D&D WOTC
-![Theme-DnD-WOTC--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-DnD-WOTC--Lightmode.png)]
-![Theme-DnD-WOTC--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-DnD-WOTC--Darkmode.png)]
+![[Theme-DnD-WOTC--Lightmode.png\|Theme-DnD-WOTC--Lightmode.png]]]
+![[Theme-DnD-WOTC--Darkmode.png\|Theme-DnD-WOTC--Darkmode.png]]]
 
 **Fonts used:**
 - Headings: [Draconic](https://www.dafont.com/draconis.font)
@@ -79,8 +79,8 @@
 # School Days
 [Link](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Theme%20-%20School%20Days.css)
 
-![Theme-School-Days--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-School-Days--Darkmode.png)]
-![Theme-School-Days--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-School-Days--Lightmode.png)]
+![[Theme-School-Days--Darkmode.png\|Theme-School-Days--Darkmode.png]]]
+![[Theme-School-Days--Lightmode.png\|Theme-School-Days--Lightmode.png]]]
 
 **Fonts used:**
 - Vault Name: [Collegiate](https://www.dafont.com/collegiateflf.font)
@@ -91,20 +91,20 @@
 
 # Tangerine Dunes
 [Link](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Theme%20-%20Tangerine%20Dunes.css)
-![Theme-Tangerine-Dunes--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-Tangerine-Dunes--Darkmode.png)
-![Theme-Tangerine-Dunes--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-Tangerine-Dunes--Lightmode.png)
+![[Theme-Tangerine-Dunes--Darkmode.png\|Theme-Tangerine-Dunes--Darkmode.png]]
+![[Theme-Tangerine-Dunes--Lightmode.png\|Theme-Tangerine-Dunes--Lightmode.png]]
 
 # Drowned
 [Link](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Theme%20-%20Drowned.css)
-![Theme-Drowned--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-Drowned--Darkmode.png)
-![Theme-Drowned--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-Drowned--Lightmode.png)
+![[Theme-Drowned--Darkmode.png\|Theme-Drowned--Darkmode.png]]
+![[Theme-Drowned--Lightmode.png\|Theme-Drowned--Lightmode.png]]
 
 # Nord
 
-![Theme-Nord--Darkmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-Nord--Darkmode.png)
-![Theme-Nord--Lightmode.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-Nord--Lightmode.png)
+![[Theme-Nord--Darkmode.png\|Theme-Nord--Darkmode.png]]
+![[Theme-Nord--Lightmode.png\|Theme-Nord--Lightmode.png]]
 
 # ITS Dark
 [Link](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Theme%20-%20ITS%20Dark.css)
 
-![Theme-ITS-Dark.png](/img/user/Extras/Attachments/SLRvb%20Images/Theme-ITS-Dark.png)
+![[Theme-ITS-Dark.png\|Theme-ITS-Dark.png]]

@@ -229,7 +229,7 @@ Utility - asterion as rogue
 Support - cleric shadowheart
 Offensive - wizard gale 
 
-- ![image 10.jpg](/img/user/Extras/Attachments/image%2010.jpg)
+- ![[image 10.jpg\|image 10.jpg]]
 
 Wizard - Gale
 Healer - Shadowheart

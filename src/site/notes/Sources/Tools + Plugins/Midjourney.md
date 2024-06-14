@@ -37,7 +37,7 @@
 >
 > > [!tweet]- Styles 
 >> [MJ Styles|embed](https://twitter.com/themousecrypto/status/1650169861924847617?s=61&t=gyRX2W0x81b80X8f34EMoQ)
->> ![Midjourney - art styles.png](/img/user/Extras/Attachments/Midjourney%20-%20art%20styles.png)
+>> ![[Midjourney - art styles.png\|Midjourney - art styles.png]]
 >
 > > [!tweet]- Filmmaking Styles ![Screenshot 2023-04-11 at 2.08.57 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-04-11%20at%202.08.57%20PM.png)
 > > [Filmmaking Tips|embed](https://twitter.com/themousecrypto/status/1645503795563044864?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
@@ -72,16 +72,16 @@
 > > [!tweet]- Vector art ![Midjourney - vector.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20vector.png)
 > > [Vector Art|embed](https://twitter.com/realchasecurtis/status/1638199553311625216?s=46&t=ltXPd0UXMbjM40a6oiE7aQ) 
 >
-> > [!tweet]- Photography Prompt ![Screenshot 2023-03-20 at 4.56.50 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-03-20%20at%204.56.50%20PM.png)
+> > [!tweet]- Photography Prompt ![[Screenshot 2023-03-20 at 4.56.50 PM.png\|thumb]]
 > > [Fuji X|embed](https://twitter.com/icreatelife/status/1637632721710206979?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 >
-> > [!tweet]- Illustrations of Cities  ![Screenshot 2023-03-20 at 4.58.33 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-03-20%20at%204.58.33%20PM.png)
+> > [!tweet]- Illustrations of Cities  ![[Screenshot 2023-03-20 at 4.58.33 PM.png\|thumb]]
 > > [Illustration Cities|embed](https://twitter.com/kaseyklimes/status/1636339563525275657?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
 >
-> > [!tweet]- Using ChatGPT to Generate Prompts ![Midjourney - living room.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20living%20room.png)
+> > [!tweet]- Using ChatGPT to Generate Prompts ![[Midjourney - living room.png\|thumb]]
 > > [Using ChatGPT to Generate Prompts|embed](https://twitter.com/nickfloats/status/1635116672054079488?s=20)
 > 
-> > [!tweet]- Using Prompt Templates ![Screenshot 2023-03-20 at 5.04.01 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-03-20%20at%205.04.01%20PM.png)
+> > [!tweet]- Using Prompt Templates ![[Screenshot 2023-03-20 at 5.04.01 PM.png\|thumb]]
 > > [Midjourney Prompt Template Usage|embed](https://twitter.com/followmarcos/status/1631420664140660736?s=20)
 > 
 > > [!tweet]- Game Asset Prompting ![Midjourney - treasure.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20treasure.png)

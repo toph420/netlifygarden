@@ -55,7 +55,7 @@
 
 
 
-![Palia - ii.png](/img/user/Extras/Attachments/Palia%20-%20ii.png)
+![[Palia - ii.png\|Palia - ii.png]]
 
 ![IMG_0529.jpeg](/img/user/Extras/Attachments/IMG_0529.jpeg)
 

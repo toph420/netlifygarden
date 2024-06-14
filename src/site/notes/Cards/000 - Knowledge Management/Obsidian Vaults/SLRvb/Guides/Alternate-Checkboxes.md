@@ -95,10 +95,10 @@ Style Settings found under:
 
 **Colorful Text**
 Toggled on by default 
-![Alternate_Checkbox-Colored-Text.png](/img/user/Extras/Attachments/SLRvb%20Images/Alternate_Checkbox-Colored-Text.png)
+![[Alternate_Checkbox-Colored-Text.png\|Alternate_Checkbox-Colored-Text.png]]
 
 **Dim Text**
-![Alternate_Checkbox-Dim-Text.png](/img/user/Extras/Attachments/SLRvb%20Images/Alternate_Checkbox-Dim-Text.png)
+![[Alternate_Checkbox-Dim-Text.png\|Alternate_Checkbox-Dim-Text.png]]
 
 **Colorful Backgrounds:**
-![Alternate_Checkbox-Colored-Background.png](/img/user/Extras/Attachments/SLRvb%20Images/Alternate_Checkbox-Colored-Background.png)
+![[Alternate_Checkbox-Colored-Background.png\|Alternate_Checkbox-Colored-Background.png]]
