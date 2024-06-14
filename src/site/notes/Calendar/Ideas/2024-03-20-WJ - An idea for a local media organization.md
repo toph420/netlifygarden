@@ -78,8 +78,8 @@ I've been thinking about this for a while. We have a growing number of "independ
 - Hakim
 	- [What should new leftists do?](https://youtu.be/DYeXbWzI6l0?si=w-BNYeFRnxM0cWbo)
 	- [Revolution: A how to guide](https://youtu.be/iB2SWjdzlq8?si=F7tz4b9oSWzRqddG)
-		- ![IMG_0532.jpeg](/img/user/Extras/Attachments/IMG_0532.jpeg)
-		- ![IMG_0533.jpeg](/img/user/Extras/Attachments/IMG_0533.jpeg)
+		- ![[IMG_0532.jpeg\|IMG_0532.jpeg]]
+		- ![[IMG_0533.jpeg\|IMG_0533.jpeg]]
 		- [[Marxist Theory of Knowledge\|Marxist Theory of Knowledge]]
 - Second Thought
 - Yugopnik

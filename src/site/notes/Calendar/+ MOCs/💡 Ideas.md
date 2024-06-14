@@ -46,7 +46,7 @@
 > - [i] #💡 Ask a bunch of different groups of friends, ideally the photog/videog guys of the group to do some documenting their group, make a series of it
 > - [i] #💡 [[Movies\|Movies]] are like user interfaces, you must anticipate the viewers eye movement, look into this.
 > - [i] #💡 reading about all this [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]] stuff is making me appreciate the human experience even more, there's something about ASI that will never quite be human, and although it may be more intelligent, there will always be the human consciousness dividing the real men from the machines
-> - [i] #💡 Dope user names  ![A92442AB-E26D-4924-A776-D95610B76329.jpeg](/img/user/Extras/Attachments/A92442AB-E26D-4924-A776-D95610B76329.jpeg)
+> - [i] #💡 Dope user names  ![[A92442AB-E26D-4924-A776-D95610B76329.jpeg\|A92442AB-E26D-4924-A776-D95610B76329.jpeg]]
 > - [i] 12:26 #💡  A thriller about an activist woman who sees someone throw garbage out of their car so she stops picks up the plastic bag full of fast food garbage and follows the person home, this is where chaos ensues and she realizes maybe that was a bad idea
 > - [i] #💡 #🔥 a story about a billionaire who hires hitmen around the world to kill off his online trolls gets out of hand!
 > - [i] #💡 #on/writing character name: **Jessica Silver Greenberg** (from the daily, a reporter)

@@ -62,7 +62,7 @@ let greeting = gratitudes[Math.floor(Math.random()*gratitudes.length)]
 dv.paragraph(greeting.message + " - " + greeting.page.file.link);
 ```
 Result: 
-![Pasted image 20221213204239.png](/img/user/Extras/Attachments/Pasted%20image%2020221213204239.png)
+![[Pasted image 20221213204239.png\|Pasted image 20221213204239.png]]
 
 **Users Implementation:**
 ```js
@@ -104,7 +104,7 @@ dv.paragraph("*A random awesome thing:* " + awesomegreeting.message + " (" + awe
 
 
 ## Result
-![Pasted image 20221213204107.png](/img/user/Extras/Attachments/Pasted%20image%2020221213204107.png)
+![[Pasted image 20221213204107.png\|Pasted image 20221213204107.png]]
 
 ## Explanation
 > It works like a charm, and it’s so good! Thank you very much!

@@ -39,7 +39,7 @@
 >> [MJ Styles|embed](https://twitter.com/themousecrypto/status/1650169861924847617?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 >> ![[Midjourney - art styles.png\|Midjourney - art styles.png]]
 >
-> > [!tweet]- Filmmaking Styles ![Screenshot 2023-04-11 at 2.08.57 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-04-11%20at%202.08.57%20PM.png)
+> > [!tweet]- Filmmaking Styles ![[Screenshot 2023-04-11 at 2.08.57 PM.png\|thumb]]
 > > [Filmmaking Tips|embed](https://twitter.com/themousecrypto/status/1645503795563044864?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
 >
 > > [!tweet]- Exploring Materials, Patterns & Colors
@@ -54,7 +54,7 @@
 > > [!Tweet]- Camera Choice
 > > [Camera choice|embed](https://twitter.com/realchasecurtis/status/1637952418641002498?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 >
-> > [!tweet]- Fashion Styling and Color ![Midjourney - fashion tips.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20fashion%20tips.png)
+> > [!tweet]- Fashion Styling and Color ![[Midjourney - fashion tips.png\|thumb]]
 > > [Fashion Styling and Color|embed](https://twitter.com/nickfloats/status/1641880576646078465?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 >
 > > [!Tweet]- Styling Prompts
@@ -69,7 +69,7 @@
 > > [!tweet]- Website Design
 > > [Websites|embed](https://twitter.com/abder_ang/status/1638536277661306880?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
 >
-> > [!tweet]- Vector art ![Midjourney - vector.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20vector.png)
+> > [!tweet]- Vector art ![[Midjourney - vector.png\|thumb]]
 > > [Vector Art|embed](https://twitter.com/realchasecurtis/status/1638199553311625216?s=46&t=ltXPd0UXMbjM40a6oiE7aQ) 
 >
 > > [!tweet]- Photography Prompt ![[Screenshot 2023-03-20 at 4.56.50 PM.png\|thumb]]
@@ -84,19 +84,19 @@
 > > [!tweet]- Using Prompt Templates ![[Screenshot 2023-03-20 at 5.04.01 PM.png\|thumb]]
 > > [Midjourney Prompt Template Usage|embed](https://twitter.com/followmarcos/status/1631420664140660736?s=20)
 > 
-> > [!tweet]- Game Asset Prompting ![Midjourney - treasure.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20treasure.png)
+> > [!tweet]- Game Asset Prompting ![[Midjourney - treasure.png\|thumb]]
 > > [Game Prompting|embed](https://twitter.com/icreatelife/status/1634616083704324097?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
 >
-> > [!tweet]- Architecural Prompting Tips ![Midjourney - living room-1.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20living%20room-1.png)
+> > [!tweet]- Architecural Prompting Tips ![[Midjourney - living room-1.png\|thumb]]
 > >  [Architecural Prompting Tips|embed](https://twitter.com/LinusEkenstam/status/1622925454234591238?s=20&t=IQHBcn3o1GjXdNBNLpfjKg)
 >
-> > [!tweet]- UI Design ![Midjourney - ui.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20ui.png)
+> > [!tweet]- UI Design ![[Midjourney - ui.png\|thumb]]
 > > [AI UI Design in Midjourney - Big Thread|embed](https://twitter.com/javilop/status/1601521685454147589?s=61&t=kNogVqEdtFdPEIlr5JR-Mg)
 >
-> > [!tweet]- Pixel Art ![Screenshot 2023-03-20 at 5.06.38 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-03-20%20at%205.06.38%20PM.png)
+> > [!tweet]- Pixel Art ![[Screenshot 2023-03-20 at 5.06.38 PM.png\|thumb]]
 > > [Pixel Art Pirate Ship|embed](https://www.reddit.com/r/midjourney/comments/11cv5qo/the_pirates_lifes_for_me/)
 >
-> > [!tweet]- Magical Landing Page ![Midjourney - landingpage.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20landingpage.png)
+> > [!tweet]- Magical Landing Page ![[Midjourney - landingpage.png\|thumb]]
 > > [Magical Landing Page|embed](https://twitter.com/followmarcos/status/1637901784143347713?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 > 
 > > [!tweet]- Alien Worlds

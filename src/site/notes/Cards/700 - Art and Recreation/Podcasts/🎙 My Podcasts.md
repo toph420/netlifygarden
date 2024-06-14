@@ -61,10 +61,10 @@ Check out my [Profile on Podchaser](https://www.podchaser.com/users/me92363) and
 - gather the suspects
 - Achewillow 
 - unwell a Midwest gothic
-- ![9D95365D-436D-4FA9-A63F-6A6E15C1630A.jpeg](/img/user/Extras/Attachments/9D95365D-436D-4FA9-A63F-6A6E15C1630A.jpeg)
+- ![[9D95365D-436D-4FA9-A63F-6A6E15C1630A.jpeg\|9D95365D-436D-4FA9-A63F-6A6E15C1630A.jpeg]]
 - Similar to Parkdale Haunt and a unwell  - [reddit](https://www.reddit.com/r/audiodrama/s/tTf78HmEWL)
 - [fiction Podcasts in podcast format ](https://www.reddit.com/r/audiodrama/s/kO028c1tVh)
-- ![0F69DFBE-D2A7-4163-8ED9-582BE7794FC5.jpeg](/img/user/Extras/Attachments/0F69DFBE-D2A7-4163-8ED9-582BE7794FC5.jpeg)
+- ![[0F69DFBE-D2A7-4163-8ED9-582BE7794FC5.jpeg\|0F69DFBE-D2A7-4163-8ED9-582BE7794FC5.jpeg]]
 - [The Lovecraft 5](http://www.19nocturneboulevard.net/all_show_pages/other_serieses/Lovecraft5.htm)
 - - [Julian Simpson (lovecraftian)](https://tvtropes.org/pmwiki/pmwiki.php/Radio/PleasantGreenUniverse)
 	- [Stream episode Mythos by Julian Simpson](https://soundcloud.com/purehokum/mythos2018)
@@ -72,7 +72,7 @@ Check out my [Profile on Podchaser](https://www.podchaser.com/users/me92363) and
 
 
 ## Horror (ish?)
-- ![F4D3108C-BC9E-4E95-B66A-B2A089B8FD07.jpeg](/img/user/Extras/Attachments/F4D3108C-BC9E-4E95-B66A-B2A089B8FD07.jpeg)
+- ![[F4D3108C-BC9E-4E95-B66A-B2A089B8FD07.jpeg\|F4D3108C-BC9E-4E95-B66A-B2A089B8FD07.jpeg]]
 - big new thread - [Horror fiction reccommendations](https://www.reddit.com/r/audiodrama/s/BwSev4q5AX)
 - Tartarus - beneath Antarctica people keep humanity safe from the monsters they imprison 
 - **Ghost Wax** (Scarier than MA?)

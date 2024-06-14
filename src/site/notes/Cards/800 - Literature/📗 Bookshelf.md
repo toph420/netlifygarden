@@ -39,7 +39,7 @@
 - [ ] Natural General Intelligence: How understanding the brain can help us build AI by Christopher Summerfield
 - [ ] [Truevine: Two Brothers, a Kidnapping, and a Mother's Quest: A True Story of the Jim Crow South: Macy, Beth: 9780316337540: Amazon.com: Books](https://www.amazon.com/Truevine-Brothers-Kidnapping-Mothers-Quest/dp/0316337544/ref=nodl_?dplnkId=a080edcb-5a4b-41de-aa1f-1e4e15f20fc9#customerReviews)
 
-![IMG_0719.jpeg](/img/user/Extras/Attachments/IMG_0719.jpeg)
+![[IMG_0719.jpeg\|IMG_0719.jpeg]]
 
 ### Logged `#to/read`
 > [!Todo]- To Read
@@ -52,7 +52,7 @@
 > - [b] #to/read They Knew by Sarah Kendzior ![[2023-09-01 - they knew.png\|2023-09-01 - they knew.png]]
 > - [b] #🔗 #on/leftism #to/read [One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society, 2nd Edition: Herbert Marcuse, Douglas Kellner: 8601404923456: Amazon.com: Books](https://www.amazon.com/One-Dimensional-Man-Ideology-Advanced-Industrial/dp/0807014176?nodl=1&dplnkId=e62a4211-ce96-4a63-a33a-d2740d5e542d) ⏳ 2024-04-01
 > - [b] #🔗 #on/leftism #to/read [Blood in my Eye by George Jackson](https://www.amazon.com/Blood-My-Eye-George-Jackson/dp/0933121237) ⏳ 2024-04-01
-> - [b] #🔗 #on/writing #to/read Writing books, on storytelling  ![IMG_0795.jpeg](/img/user/Extras/Attachments/IMG_0795.jpeg)⏳ 2024-06-11
+> - [b] #🔗 #on/writing #to/read Writing books, on storytelling  ![[IMG_0795.jpeg\|IMG_0795.jpeg]]⏳ 2024-06-11
 > 
 { .block-language-dataview}
 
@@ -62,10 +62,10 @@
 - [Matt Lech asks what books people are reading](https://x.com/mattlech/status/1784051318576869804?s=46) - some good reccs from lefties
 - [Lolo asks for Cuban History reccs](https://x.com/loloverruled/status/1784677881878290616?s=46)
 
-![A72C28C0-4EA0-46C8-B2EA-3D42693435A8.jpeg|320 +grid](/img/user/Extras/Attachments/A72C28C0-4EA0-46C8-B2EA-3D42693435A8.jpeg)
+![[A72C28C0-4EA0-46C8-B2EA-3D42693435A8.jpeg\|320 +grid]]
 ![[Bookshelf - tiago fortes 2023 reading list.png\|+grid]]
 
-![9EF8E99B-EFAE-4212-AB98-2A305533C2E6.jpeg|+grid](/img/user/Extras/Attachments/9EF8E99B-EFAE-4212-AB98-2A305533C2E6.jpeg)
+![[9EF8E99B-EFAE-4212-AB98-2A305533C2E6.jpeg\|+grid]]
 ![[Bookshelf - ai books.png\|Bookshelf - ai books.png]]
 
 ![[Bookshelf - olayemi.png\|Bookshelf - olayemi.png]]

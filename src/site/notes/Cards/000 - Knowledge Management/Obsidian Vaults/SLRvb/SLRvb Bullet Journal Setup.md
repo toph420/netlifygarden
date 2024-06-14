@@ -46,7 +46,7 @@
 > 
 > I'm using numbers at the beginning of the folder names just to sort them in the order I want to see the folders in, they don't really mean anything beyond that.
 > 
-> ![Screen Shot 2022-12-02 at 3.38.34 PM.png](/img/user/Extras/Attachments/Screen%20Shot%202022-12-02%20at%203.38.34%20PM.png)
+> ![[Screen Shot 2022-12-02 at 3.38.34 PM.png\|Screen Shot 2022-12-02 at 3.38.34 PM.png]]
 > 
 > # 0 BuJo: MOCs
 > 

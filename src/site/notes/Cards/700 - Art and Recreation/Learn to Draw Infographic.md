@@ -15,7 +15,7 @@
 > Huge infographic of resources and curriculum to learn how to draw
 
 > [!Image]- Infographic
-> ![25E5FE8C-03FA-45EF-A914-63946D534785.png](/img/user/Extras/Attachments/25E5FE8C-03FA-45EF-A914-63946D534785.png)
+> ![[25E5FE8C-03FA-45EF-A914-63946D534785.png\|25E5FE8C-03FA-45EF-A914-63946D534785.png]]
 
 
 > [!Abstract]- Course

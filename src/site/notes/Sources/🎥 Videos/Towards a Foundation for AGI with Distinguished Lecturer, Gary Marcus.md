@@ -37,7 +37,7 @@ Instead, he offers the notion that we need to include reasoning and human values
 - Claims robotics aren't very impressive and unnecessary, but would be helpful.
 
 
-![IMG_2522.jpg](/img/user/Extras/Attachments/IMG_2522.jpg)
+![[IMG_2522.jpg\|IMG_2522.jpg]]
 
 ## Action
 - [ ] #❓ #on/ai #to/learn  What is Gofi? or GOFAI? Is it Good Old Fashion AI? 

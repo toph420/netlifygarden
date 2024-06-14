@@ -30,11 +30,11 @@
 - Arena to fight and become the one to remove collar, don't do too early, wait til ready to leave
 - pick up all books, crafting recipes in them! 
 - Find all companions
-	- ![6C7C6884-FDFA-4E30-9F82-9D9053E85BEA.jpeg](/img/user/Extras/Attachments/6C7C6884-FDFA-4E30-9F82-9D9053E85BEA.jpeg)
+	- ![[6C7C6884-FDFA-4E30-9F82-9D9053E85BEA.jpeg\|6C7C6884-FDFA-4E30-9F82-9D9053E85BEA.jpeg]]
 
 ## Skills
 - most important are not damage skills!
-- ![DFDEE8FC-9324-4BEB-B9EF-17C52F9CC801.jpeg](/img/user/Extras/Attachments/DFDEE8FC-9324-4BEB-B9EF-17C52F9CC801.jpeg)
+- ![[DFDEE8FC-9324-4BEB-B9EF-17C52F9CC801.jpeg\|DFDEE8FC-9324-4BEB-B9EF-17C52F9CC801.jpeg]]
 - for each: **adrenaline, tactical retreat, chloroform**
 - Warfare: phoenix dive, first aid 
 - Mobility - cloak and dagger, phoenix dive, tactical retreat, after positioning use teleportation on enemies
@@ -52,10 +52,10 @@
 - Torturer (mages can burn through magic armor, entangle, suffocate)
 - Hot head (crit chance on mages) combined with savage sortlidge
 - what a rush (below 50% +1 AP)
-- ![IMG_0293.jpeg](/img/user/Extras/Attachments/IMG_0293.jpeg)
-- ![IMG_0292.jpeg](/img/user/Extras/Attachments/IMG_0292.jpeg)
-- ![IMG_0291.jpeg](/img/user/Extras/Attachments/IMG_0291.jpeg)
-- ![IMG_0290.jpeg](/img/user/Extras/Attachments/IMG_0290.jpeg)
+- ![[IMG_0293.jpeg\|IMG_0293.jpeg]]
+- ![[IMG_0292.jpeg\|IMG_0292.jpeg]]
+- ![[IMG_0291.jpeg\|IMG_0291.jpeg]]
+- ![[IMG_0290.jpeg\|IMG_0290.jpeg]]
 -
 
 ## combat abilities
@@ -82,11 +82,11 @@
 ## Team Comp
 - Mix em!
 - examples 
-- warfare melee sword and board - ![IMG_0294.jpeg](/img/user/Extras/Attachments/IMG_0294.jpeg)
-- Scoundrel - ![IMG_0294 1.jpeg](/img/user/Extras/Attachments/IMG_0294%201.jpeg)
-- Hydro aero - ![IMG_0297.jpeg](/img/user/Extras/Attachments/IMG_0297.jpeg)
+- warfare melee sword and board - ![[IMG_0294.jpeg\|IMG_0294.jpeg]]
+- Scoundrel - ![[IMG_0294 1.jpeg\|IMG_0294 1.jpeg]]
+- Hydro aero - ![[IMG_0297.jpeg\|IMG_0297.jpeg]]
 	- 
-- wizard Pyro (flaming crescendo) geo necro - fortify and reactive armor (geo) - ![IMG_0298.jpeg](/img/user/Extras/Attachments/IMG_0298.jpeg) 
+- wizard Pyro (flaming crescendo) geo necro - fortify and reactive armor (geo) - ![[IMG_0298.jpeg\|IMG_0298.jpeg]] 
 - Summoner (boring) - 1 summon skill and mix, phys and magic skills, best is str based tank summoner, lots of gear to stay alive for summons to do damage 
 - Physical skills are warfare summons scoundrel poly necro huntsman
 - Magic aero geo hydro pyro

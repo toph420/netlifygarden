@@ -46,7 +46,7 @@
 > > [Infinity Pool - Trailer](https://youtu.be/PVnIMvVEkrA)
 >
 >> [!image] Vuhlandes
-> > ![Screenshot 2023-06-01 at 4.04.30 PM.png](/img/user/Extras/Attachments/Screenshot%202023-06-01%20at%204.04.30%20PM.png)
+> > ![[Screenshot 2023-06-01 at 4.04.30 PM.png\|Screenshot 2023-06-01 at 4.04.30 PM.png]]
 > > [The cheat codes to ANY video can be cinematic. - YouTube](https://www.youtube.com/watch?v=tszx4NTH1kA)
 >
 > > [!Video] I think you should leave

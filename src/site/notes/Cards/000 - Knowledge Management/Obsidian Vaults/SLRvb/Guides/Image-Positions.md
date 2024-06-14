@@ -53,7 +53,7 @@
 | --- | --- |
 | `grid` | Display image side-by-side in a grid |
 
-![Pasted image 20221220220939.png](/img/user/Extras/Attachments/Pasted%20image%2020221220220939.png)
+![[Pasted image 20221220220939.png\|Pasted image 20221220220939.png]]
 
 ### Cover (Mostly for Customizable Version)
 
@@ -89,10 +89,10 @@ These are particularly useful for images with transparency that are illegible in
 | `right` | `right` will move the image to the right. |
 | `center` | `center` will move the image to the center. |
 
-![Pasted image 20221220220958.png](/img/user/Extras/Attachments/Pasted%20image%2020221220220958.png)]
+![[Pasted image 20221220220958.png\|Pasted image 20221220220958.png]]]
 
 ### Types
-![Pasted image 20221220221015.png](/img/user/Extras/Attachments/Pasted%20image%2020221220221015.png)]
+![[Pasted image 20221220221015.png\|Pasted image 20221220221015.png]]]
 
 > ⚠ **NOTE** 
 > `small`/`tall`/etc *only* apply for these types. If you want to resize an image use either [my variables](#sizing) or Obsidian's numbers `|100`
@@ -134,7 +134,7 @@ Attribute | Description |
 
 
 ### Inner Image Position
-![Pasted image 20221220221044.png](/img/user/Extras/Attachments/Pasted%20image%2020221220221044.png)]
+![[Pasted image 20221220221044.png\|Pasted image 20221220221044.png]]]
 
 Attribute | Description |
 ---|---|
@@ -163,7 +163,7 @@ Attribute | Description |
 `p+bcc`| Move the inside of the image to the center bottom, slightly higher than `p+bc`|
 ### Sizing
 
-![Pasted image 20221220221144.png](/img/user/Extras/Attachments/Pasted%20image%2020221220221144.png)
+![[Pasted image 20221220221144.png\|Pasted image 20221220221144.png]]
 
 Attribute | Resize to |
 ---|---|

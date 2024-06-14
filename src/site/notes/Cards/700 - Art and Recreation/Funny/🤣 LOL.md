@@ -19,8 +19,8 @@ See my [LOL Raindrop collection](https://raindrop.io/tophg/lol-35164069) for mor
 - [Pinkydoll Gang Gang Yes Yes Yes](https://twitter.com/neiljacobs/status/1678949109326028802?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 
 ## Tweets
-![LOL - jules.png|400](/img/user/Extras/Attachments/LOL%20-%20jules.png)
-![A75DFC32-5DB8-4210-83E8-2D36514786A8.jpeg|400](/img/user/Extras/Attachments/A75DFC32-5DB8-4210-83E8-2D36514786A8.jpeg)
+![[LOL - jules.png\|400]]
+![[A75DFC32-5DB8-4210-83E8-2D36514786A8.jpeg\|400]]
 
 ## Bookmarks
 

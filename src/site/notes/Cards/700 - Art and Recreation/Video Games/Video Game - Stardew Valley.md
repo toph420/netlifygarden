@@ -112,12 +112,12 @@
 ### Dates
 - 11 -- Luau
 - 28 -- Dance of moonlight
-![Screenshot 2023-06-10 at 4.05.14 PM.png](/img/user/Extras/Attachments/Screenshot%202023-06-10%20at%204.05.14%20PM.png)
+![[Screenshot 2023-06-10 at 4.05.14 PM.png\|Screenshot 2023-06-10 at 4.05.14 PM.png]]
 
 ### Important
 - dont give poppy or quarz
 - dont like bananas. mango, egg, bread
-- ![Screenshot 2023-06-10 at 4.07.15 PM.png](/img/user/Extras/Attachments/Screenshot%202023-06-10%20at%204.07.15%20PM.png)
+- ![[Screenshot 2023-06-10 at 4.07.15 PM.png\|Screenshot 2023-06-10 at 4.07.15 PM.png]]
 
 
 ## To Do
@@ -330,9 +330,9 @@ Monster Drops
 
 
 > [!NOTE]+ Key Bindings
-> ![Screenshot 2024-04-16 at 10.16.01 PM.png](/img/user/Extras/Attachments/Screenshot%202024-04-16%20at%2010.16.01%20PM.png)
-> ![Screenshot 2024-04-16 at 10.16.11 PM.png](/img/user/Extras/Attachments/Screenshot%202024-04-16%20at%2010.16.11%20PM.png)
-> ![Screenshot 2024-04-16 at 10.16.22 PM.png](/img/user/Extras/Attachments/Screenshot%202024-04-16%20at%2010.16.22%20PM.png)
+> ![[Screenshot 2024-04-16 at 10.16.01 PM.png\|Screenshot 2024-04-16 at 10.16.01 PM.png]]
+> ![[Screenshot 2024-04-16 at 10.16.11 PM.png\|Screenshot 2024-04-16 at 10.16.11 PM.png]]
+> ![[Screenshot 2024-04-16 at 10.16.22 PM.png\|Screenshot 2024-04-16 at 10.16.22 PM.png]]
 
 ---
 up:: [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]

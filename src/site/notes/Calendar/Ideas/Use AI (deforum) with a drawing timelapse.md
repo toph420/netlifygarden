@@ -15,7 +15,7 @@
 
 [See this Tweet](https://twitter.com/eatpaint3000/status/1602678163548811266?s=57&t=rd--hDTdiMytK0sw9tPwhg)
 
-![Screen Shot 2022-12-14 at 10.37.33 AM.png](/img/user/Extras/Attachments/Screen%20Shot%202022-12-14%20at%2010.37.33%20AM.png)
+![[Screen Shot 2022-12-14 at 10.37.33 AM.png\|Screen Shot 2022-12-14 at 10.37.33 AM.png]]
 
 ---
 up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]

@@ -21,7 +21,7 @@
 ## Tweets
 - [Designing Cards](https://twitter.com/uiuxadrian/status/1647156584856924162?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 
-![657893B7-ECAF-4A3E-BAC3-D9B46C85D3B4.jpeg](/img/user/Extras/Attachments/657893B7-ECAF-4A3E-BAC3-D9B46C85D3B4.jpeg)
+![[657893B7-ECAF-4A3E-BAC3-D9B46C85D3B4.jpeg\|657893B7-ECAF-4A3E-BAC3-D9B46C85D3B4.jpeg]]
 
 
 ---

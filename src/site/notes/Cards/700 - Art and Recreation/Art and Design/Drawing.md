@@ -16,7 +16,7 @@
 
 See [My Drawing YouTube Playlist](https://www.youtube.com/playlist?list=PLy-dDGNue8NdEQMAeIK_Snr_-wkADAD_r&jct=If8pGEJ15ndXafdv1lqmHrauTbTzRw) and [[Cards/700 - Art and Recreation/Digital Drawing\|Digital Drawing]]
 
-![1D406F6C-780E-4312-BD65-F30C2DAF0B8A.png](/img/user/Extras/Attachments/1D406F6C-780E-4312-BD65-F30C2DAF0B8A.png)
+![[1D406F6C-780E-4312-BD65-F30C2DAF0B8A.png\|1D406F6C-780E-4312-BD65-F30C2DAF0B8A.png]]
 ## Courses
 - [Reddit thread of Drawing Courses and Resources](https://www.reddit.com/r/DigitalArt/s/Sg5ELZ3yE5)
 - [Reddit thread of huge list of drawing resources](https://www.reddit.com/r/learnart/s/6ElCndQ365)
@@ -30,7 +30,7 @@ See [My Drawing YouTube Playlist](https://www.youtube.com/playlist?list=PLy-dDGN
 - [Art with Flo](https://www.youtube.com/@ArtwithFlo)
 - [Ten Hundred](https://youtu.be/xu7stFSOaqg?si=RRDAjA6i6WiDCxik) - drawing in [[Adobe Fresco\|Adobe Fresco]] and [[Cards/700 - Art and Recreation/Procreate/Procreate\|Procreate]]
 
-![1154A01A-6C00-4834-BD43-184237FB41D5.jpeg|ws-med](/img/user/Extras/Attachments/1154A01A-6C00-4834-BD43-184237FB41D5.jpeg)
+![[1154A01A-6C00-4834-BD43-184237FB41D5.jpeg\|ws-med]]
 
 ## Drawing Ideas
 - From Midst episode 8 - Gala: A drawing of a crowd of people at a party all huddled together to get their picture taken by a massive camera that explodes fire and steam upon capturing, some people die, others arrive late in gunships, the inventor stands at a microphone organizing the photo up front on stage [[Midst\|Midst]]
