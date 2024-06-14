@@ -37,7 +37,7 @@ The goal is to learn, share the process, and wind up with some cool stories and 
 
 Let's do an exercise, my first writing prompt... I'll spend 20 minutes just winging it here. I'm nervous. 
 
-### Prompt: "They took a short joyride through a dark night."
+> Prompt: "They took a short joyride through a dark night."
 
 They tossed their empty sodas and waved to the bored high schooler itching to clean out the empty theater and get the fuck out of there. The lobby was empty and wreaked of buttery popcorn. The leftover staff of kids stood impatiently, texting their dealers and lying to their moms. He didn't want to take her home yet. 
 

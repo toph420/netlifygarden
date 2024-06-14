@@ -11,10 +11,12 @@ I use [Obsidian](https://obsidian.md/) to manage pretty much everything in my li
 Due to the nature of some of these notes not every link will be reachable, but I'll do my best to continue to make more notes public! Below are some jumping off points.
 
 Where to go from here:
-- Be sure to check out the [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]] to keep up with my writing journey
+- Be sure to check out the [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]] to keep up with my new writing journey. 
+- Learn some more about [[Atlas/🧠 Sid\|🧠 Sid]], that's what I call my [[Sources/Tools + Plugins/Obsidian\|Obsidian]] vault (homage to Sid from [The Incredible Toon Machine](https://www.youtube.com/watch?v=w6RD2s4TQAQ))
 - Check out [Ducks Films](http://ducksfilms.com) to see my videography work and hire me
 - Check out [TopherGroenink.com](http://tophergroenink.com) to see some of my older work
-- You can find a bunch of cool, inspiring things I’ve saved, such as videos, photos, art, funny stuff, etc. in my [Cosmos](https://www.cosmos.so/topher) and [Raindrop](https://raindrop.io/tophg) collections.
+- You can find a bunch of cool things from around the web that I’ve saved, like videos, photos, art, funny stuff, etc. in my [Cosmos](https://www.cosmos.so/topher) and [Raindrop](https://raindrop.io/tophg) collections.
+- Feel free to shoot me a message on [Instagram](https://www.instagram.com/toph.g/) or Discord @toph.g if you want to talk!
 
 ---
 

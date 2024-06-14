@@ -99,7 +99,8 @@
 
 
 > [!attention]- Unrequited (`-#on/obsidian`)
->  - [[Sources/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]
+>  - [[🏠 Home\|🏠 Home]]
+> - [[Sources/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]
 > - [[Sources/🎥 Videos/Aidan Helfant - Understand the Zettelkasten Method in Obsidian\|Aidan Helfant - Understand the Zettelkasten Method in Obsidian]]
 > - [[Sources/Tools + Plugins/Plugin - Quickadd\|Plugin - Quickadd]]
 > - [[Sources/Tools + Plugins/Plugin - Text Generator\|Plugin - Text Generator]]
