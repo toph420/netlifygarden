@@ -1,16 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-}
+    --font-default: "JetBrains Mono", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    ;
+    --font-monospace-default: "JetBrains Mono", Menlo, SFMono-Regular, Consolas, "Roboto Mono", 'Source Code Pro', monospace;
+    --font-interface-override: '??';
+    --font-interface-theme: '??';
+    --font-interface: var(--font-interface-override), var(--font-interface-theme), var(--default-font, '??'), var(--font-default);
+    --font-text-override: '??';
+    --font-text-theme: '??';
+    --font-text: var(--font-text-override), var(--font-text-theme), var(--font-interface);
+    --font-monospace-override: '??';
+    --font-monospace-theme: '??';
+    --font-monospace: var(--font-monospace-override), var(--font-monospace-theme), var(--font-monospace-default);
+    --font-text-size: 16px;
+    --font-mermaid: var(--font-text);
+  }
+
+
+
+  
+  
+  
+  /* Custom Table fields */
+  
+  .markdown-rendered .client,
+  .markdown-rendered .block {
+    font-size: .55em;
+    font-weight:bold;
+    text-transform: uppercase;
+    background: var(--background-secondary-alt);
+    padding: 5px 7px;
+    letter-spacing: .5px;
+    border-radius: 3px;
+    display: inline;
+  }
+  
+  
+  .markdown-rendered table {
+          margin: auto;
+        width:calc(100% - 0px);
+        margin-inline:auto;
+        border-radius:var(--button-radius);
+        border-collapse:separate;
+        padding:2px;
+      }
+  
+  .markdown-rendered table, 
+  .markdown-rendered th, 
+  .markdown-rendered td {
+      border: 1px solid rgba(255, 255, 255, .25);
+      border-collapse: collapse;
+      font-size: 18px;
+      line-height: 1.5;
+  }
+  
+  .markdown-rendered th {
+      border:1px solid #fff;
+  }
+  
+  
+  .markdown-rendered th, 
+  .markdown-rendered td {
+      padding: 20px;
+      font-size: var(--table-text-size);
+      color: var(--table-text-color);
+  }
+  
+  .markdown-rendered thead {
+      border-top: 2px solid var(--color-accent);
+  }
+  
+  .markdown-rendered .summary,
+  .markdown-rendered span.summary {
+    font-size: .8em;
+    display: block;
+    line-height: 1.5em;
+    /* font-style: italic; */
+    padding:5px 0 0 0;
+  }
+  
+  .markdown-rendered thead tr>th {
+       border: 1px solid rgba(255, 255, 255, .25);
+  }
+  
+  .markdown-rendered thead>tr>th,
+  .table-view-table>thead>tr>th {
+      font-weight: 700;
+      font-size: normal;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      border-bottom: solid;
+      max-width: 100%;
+  }
+  
+  .table-view-table>tbody>tr>td {
+      text-align: left;
+      border: 1px solid rgba(255, 255, 255, .25);
+      font-weight: 400;
+      max-width: 100%;
+  }
+  
+  .markdown-rendered th {
+      font-size: var(--table-header-size);
+      font-weight: var(--table-header-weight);
+      color: var(--table-header-color);
+      font-family: var(--table-header-font);
+      text-align: left;
+  }
+  
+  
+  .markdown-rendered .table-view-table>tbody>tr:hover {
+      background-color: var(--text-selection) !important;
+  }
+  
+  .markdown-rendered tbody tr:hover,
+  .markdown-rendered tbody tr:nth-child(odd):hover {
+      background-color: var(--text-selection);
+  }
+  
+  // CALLOUTS
+  
+  
+  .callout-content {
+      padding: 20px;
+  }
+  
+  .callout-title {
+      padding:15px;
+  }
+
 
 
 
@@ -128,3 +250,6 @@ body {
 	margin-inline:auto!important;
 }
 
+
+
+  
