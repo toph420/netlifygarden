@@ -51,30 +51,31 @@
 
 
 
-
 /* MADO TABLES (from mados theme.css */
+
+.markdown-rendered table {
+    width: calc(100% - 0px);
+    margin-inline: auto;
+    border-radius: var(--button-radius);
+    border-collapse: separate;
+    border: var(--border);
+    padding: 2px;
+    background: var(--background-secondary);
+}
 
 .markdown-rendered thead th {
     background: none;
 }
 
+.markdown-rendered thead tr>th {
+    border-width: var(--table-header-border-width);
+    background: none;
+    border-color: var(--table-header-border-color);
+}
+
+
 /* Mado Table */
 
-.markdown-rendered tbody tr:nth-child(odd) {
-    background:none;
-}
-
-.markdown-rendered tbody tr {
-    background: none;
-}
-
-.markdown-rendered table tr:nth-child(2n) td {
-    background-color: var(--background-primary);
-}
-
-.markdown-rendered table tr:nth-child(2n) td {
-	background-color:var(--background-secondary);
-}
 
 .markdown-rendered table{
 	width:calc(100% - 0px);
@@ -121,10 +122,21 @@
 	border-radius:0 0 4px 0;
 }
 
-.markdown-rendered thead tr>th {
-    border-width: var(--table-header-border-width);
+
+.markdown-rendered tbody tr:nth-child(odd) {
+    background:none;
+}
+
+.markdown-rendered tbody tr {
     background: none;
-    border-color: var(--table-header-border-color);
+}
+
+.markdown-rendered table tr:nth-child(2n) td {
+    background-color: var(--background-primary);
 }
 
 
+
+.markdown-rendered tbody tr>td:nth-child(2n+2) {
+    background-color: var(--background-fourth); 
+}
