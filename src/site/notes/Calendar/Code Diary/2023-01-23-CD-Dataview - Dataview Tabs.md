@@ -1,0 +1,83 @@
+---
+{"dg-publish":true,"permalink":"/calendar/code-diary/2023-01-23-cd-dataview-dataview-tabs/","title":"Dataview Tabs"}
+---
+
+> [!metadata]- Meta
+> **up**:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
+> **type**:: #log/code 
+> **tags**:: #on/snippets 
+> **language**:: [[Dataview\|Dataview]]
+> **program**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+> **topics**:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
+
+
+# Dataview Tabs
+**Language::**  [[Dataview\|Dataview]]
+**Program**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+**Link**::
+
+## Summary
+> Use Dataview JS to generate tabs and their respective tab pages
+
+## Code
+```js (change to dataviewjs to use)
+const createButton = (name) => {
+	const btn = dv.el('button', name)
+	btn.addEventListener('click', (event) => {
+		event.preventDefault()
+		removeTable()
+		renderTable(name)
+	})
+	
+	return btn
+}
+
+const buttons = ['#📥/🟥', '#📥/🟧', '#📥/🟨', '#📥/🟩']
+
+
+const renderTable = (name) => {
+	const pages = dv.pages('"Sources"').where(page => page.status == name).where(page => page.type != '#📥/🛠').sort(page => page.file.cday, "desc")
+	dv.table(
+	['Title', 'Summary', 'Rating', 'Type'], 
+	pages.map(page => [page.file.link, page.summary, page.rating, '<span class=center-block>' + page.type.slice(4) + '</span>']))
+}
+
+const removeTable = () => {
+	this.container.lastChild.remove()
+}
+
+buttons.forEach(button => createButton(button))
+
+renderTable('#📥/🟥')
+```
+
+## Result
+
+> [!example]+ Tabs
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:18869:21)
+    at evalInContext (plugin:dataview:18870:7)
+    at asyncEvalInContext (plugin:dataview:18880:32)
+    at DataviewJSRenderer.render (plugin:dataview:18906:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18448:14)
+    at e.load (app://obsidian.md/app.js:1:1165962)
+    at DataviewApi.executeJs (plugin:dataview:19449:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:90:61)
+    at new Promise (&lt;anonymous&gt;)
+    at __async (plugin:digitalgarden:74:10)
+    at eval (plugin:digitalgarden:10699:41)
+    at GardenPageCompiler.eval (plugin:digitalgarden:17175:50)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:90:61)
+    at new Promise (&lt;anonymous&gt;)
+    at __async (plugin:digitalgarden:74:10)
+    at eval (plugin:digitalgarden:17173:50)
+    at GardenPageCompiler.eval (plugin:digitalgarden:17126:36)
+    at Generator.next (&lt;anonymous&gt;)
+    at fulfilled (plugin:digitalgarden:77:24)</pre>
+
+
+---
+up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
