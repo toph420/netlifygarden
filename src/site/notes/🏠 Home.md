@@ -20,42 +20,44 @@ Where to go from here:
 
 ## Writing Journal
 
-| Entries                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|My First Writing Entry]]<span class=summary>Getting started on a writing journey, let's see how it goes.</span> |
-| [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|Things I Want to Write About]]<span class=summary></span>                                                 |
+| Entries                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|Everything he said that day was bullshit]]<span class=summary>A writing prompt inspired by a conversation with my dad</span> |
+| [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|My First Writing Entry]]<span class=summary>Getting started on a writing journey, let's see how it goes.</span>                                |
+| [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|Things I Want to Write About]]<span class=summary></span>                                                                                |
 
 { .block-language-dataview}
 
 ## Where to?
 
-> [!example]+ Notes
-> - [[Atlas/🗺 Maps\|🗺 Maps]]
-> - [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]]
-> - [[Atlas/📥 Sources\|📥 Sources]]
-> - [[Cards/Canvasses/📋 Canvasses\|📋 Canvasses]]
-> - [[Atlas/🧊 Icebox\|🧊 Icebox]]
-> - [[Atlas/📚 Library\|📚 Library]]
-> - [[Atlas/🧠 Sid\|🧠 Sid]]
-
-> [!example]+ Work
-> - [[Atlas/🏹 Action\|🏹 Action]]
-> - [[Calendar/+ MOCs/👥 Meeting Log\|👥 Meeting Log]]
-> - [[Spaces/🦆 Ducks Films/🦆 Ducks Films\|🦆 Ducks Films]]
-> - [[Spaces/🦆 Ducks Apparel/🦆 Ducks Apparel\|🦆 Ducks Apparel]]
-> - [[Spaces/🦆 Ducks Films/🌈 Ducks Projects/🌈 Ducks Projects\|🌈 Ducks Projects]]
-> - [[Spaces/🦆 Ducks Films/Areas/💸 Ducks Finances\|💸 Ducks Finances]]
-
-> [!example]+ Log
-> - [[Calendar/+ MOCs/🪵 Log\|🪵 Log]]
-> - [[Calendar/+ MOCs/📓 Journal\|📓 Journal]]
-> - [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
-> - [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]]
-> - [[Calendar/+ MOCs/📊 Habits\|📊 Habits]]
-> - [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
-> - [[Calendar/+ MOCs/🎲 Prompt Journal\|🎲 Prompt Journal]]
-> - [[Calendar/+ MOCs/🌜 Dream Journal\|🌜 Dream Journal]]
-> - [[Writing Journal\|🖋 Writing Journal]]
+> [!multi-column]
+> > [!example]+ Notes
+> > - [[Atlas/🗺 Maps\|🗺 Maps]]
+> > - [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]]
+> > - [[Atlas/📥 Sources\|📥 Sources]]
+> > - [[Cards/Canvasses/📋 Canvasses\|📋 Canvasses]]
+> > - [[Atlas/🧊 Icebox\|🧊 Icebox]]
+> > - [[Atlas/📚 Library\|📚 Library]]
+> > - [[Atlas/🧠 Sid\|🧠 Sid]]
+> 
+> > [!example]+ Work
+> > - [[Atlas/🏹 Action\|🏹 Action]]
+> > - [[Calendar/+ MOCs/👥 Meeting Log\|👥 Meeting Log]]
+> > - [[Spaces/🦆 Ducks Films/🦆 Ducks Films\|🦆 Ducks Films]]
+> > - [[Spaces/🦆 Ducks Apparel/🦆 Ducks Apparel\|🦆 Ducks Apparel]]
+> > - [[Spaces/🦆 Ducks Films/🌈 Ducks Projects/🌈 Ducks Projects\|🌈 Ducks Projects]]
+> > - [[Spaces/🦆 Ducks Films/Areas/💸 Ducks Finances\|💸 Ducks Finances]]
+> 
+> > [!example]+ Log
+> > - [[Calendar/+ MOCs/🪵 Log\|🪵 Log]]
+> > - [[Calendar/+ MOCs/📓 Journal\|📓 Journal]]
+> > - [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
+> > - [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]]
+> > - [[Calendar/+ MOCs/📊 Habits\|📊 Habits]]
+> > - [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
+> > - [[Calendar/+ MOCs/🎲 Prompt Journal\|🎲 Prompt Journal]]
+> > - [[Calendar/+ MOCs/🌜 Dream Journal\|🌜 Dream Journal]]
+> > - [[Writing Journal\|🖋 Writing Journal]]
 
 > [!example]+ Cards
 > - [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]
