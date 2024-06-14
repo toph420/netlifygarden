@@ -54,11 +54,28 @@
 
 /* MADO TABLES (from mados theme.css */
 
-.markdown-rendered thead tr {
-    background-color: var(--table-header-background); 
+.markdown-rendered thead th {
+    background: none;
 }
 
 /* Mado Table */
+
+.markdown-rendered tbody tr:nth-child(odd) {
+    background:none;
+}
+
+.markdown-rendered tbody tr {
+    background: none;
+}
+
+.markdown-rendered table tr:nth-child(2n) td {
+    background-color: var(--background-primary);
+}
+
+.markdown-rendered table tr:nth-child(2n) td {
+	background-color:var(--background-secondary);
+}
+
 .markdown-rendered table{
 	width:calc(100% - 0px);
 	margin-inline:auto;
@@ -104,70 +121,10 @@
 	border-radius:0 0 4px 0;
 }
 
-
-/* Mado Table Options */
-// [class*="mado-table"]:not(.mado-table-normal).mado-table-left table tr :is(th:first-child, td:first-child),
-// [class*="mado-table"]:not(.mado-table-normal).mado-table-right table tr :is(th:last-child, td:last-child),
-// [class*="mado-table"]:not(.mado-table-normal).mado-table-top table tr th,
-// [class*="mado-table"]:not(.mado-table-normal).mado-table-bottom table tr:last-child td{
-// 	background-color:var(--background-secondary);
-// 	font-weight:600;
-// 	font-size:1em;
-// 	border:var(--border);
-// }
-
-// .mado-table-normal.mado-table-left table tr :is(th:first-child, td:first-child),
-// .mado-table-normal.mado-table-right .markdown-preview-section table tr :is(th:last-child, td:last-child),
-// .mado-table-normal.mado-table-top.markdown-rendered .markdown-preview-section table tr th,
-// .mado-table-normal.mado-table-bottom .markdown-preview-section table tr:last-child td{
-// 	background-color:var(--background-secondary);
-// 	font-weight:600;
-// 	font-size:1em;
-// }
-
-// .mado-table-normal.mado-table-left .markdown-preview-section table tr :is(th:first-child, td:first-child){
-// 	border-right:1px solid var(--color-accent-1);
-// }
-// .mado-table-normal.mado-table-right .markdown-preview-section table tr :is(th:last-child, td:last-child){
-// 	border-left:1.5px solid var(--color-accent-1);
-// }
-// .mado-table-normal.mado-table-bottom .markdown-preview-section table tr:last-child td{
-// 	border-top:2px solid var(--color-accent-1);
-// }
-
-/* Mado Table Stripe/Border styling, also adapting colors for headers */
-.markdown-rendered table tr:nth-child(2n) td:not(:first-child):not(:last-child),
-.markdown-rendered table tr:nth-child(2n) td:first-child,
-.markdown-rendered table tr:nth-child(2n+1) :is(td:first-child, td:last-child) {
-	background-color:var(--background-primary);
-}
-.markdown-rendered table tr:nth-child(2n) td {
-	background-color:var(--background-secondary);
+.markdown-rendered thead tr>th {
+    border-width: var(--table-header-border-width);
+    background: none;
+    border-color: var(--table-header-border-color);
 }
 
 
-
-/* Mado Table Auto-Expand */
-
-// /* Remove master-parent width limit */
-// .mado-table-auto.is-readable-line-width>div.markdown-preview-sizer.markdown-preview-section,
-// .mado-table-auto.markdown-source-view.mod-cm6.is-readable-line-width :is(.cm-sizer, .cm-content){
-// 	max-width:100%;
-// }
-
-// /* attach width limit to all other normal divs except table */
-// .mado-table-auto.is-readable-line-width>div.markdown-preview-sizer.markdown-preview-section>div>*,
-// .mado-table-auto.markdown-source-view.mod-cm6.is-readable-line-width .cm-editor .cm-contentContainer .cm-content div:not(.cm-table-widget){
-// 	max-width:var(--file-line-width);
-// 	margin-inline:auto!important;
-// }
-// .mado-table-auto.is-readable-line-width>div.markdown-preview-sizer.markdown-preview-section>div>table,
-// .mado-table-auto.markdown-source-view.mod-cm6.is-readable-line-width .cm-editor .cm-contentContainer .cm-content table{
-// 	max-width:100%;
-// 	width:auto;
-// 	margin-inline:auto!important;
-// }
-
-
-
-  
