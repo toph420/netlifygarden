@@ -28,14 +28,14 @@
 > > ![[trim.1D152A15-2C12-4E0D-A6D6-5F2D0C14D5E2.mov]]
 > 
 > > [!image] [[Black Phone\|Black Phone]] |  [YouTube](https://youtu.be/K64pgOhvd0E)
-> > ![black-phone-titles.gif](/img/user/Extras/Attachments/black-phone-titles.gif)
+> > ![[black-phone-titles.gif\|black-phone-titles.gif]]
 >  
 > > [!image] [[Enter the Void\|Enter the Void]] | [YouTube](https://www.youtube.com/watch?v=U-TeW3ezLKc)
 > > ![enter-the-void-titles.gif](/img/user/Extras/Attachments/enter-the-void-titles.gif)
 
 > [!multi-column]
 > > [!image] [[American Utopia\|American Utopia]]
-> > ![Movie Titles - americna utopia 1.png](/img/user/Extras/Attachments/Movie%20Titles%20-%20americna%20utopia%201.png)
+> > ![[Movie Titles - americna utopia 1.png\|Movie Titles - americna utopia 1.png]]
 > 
 > > [!image] Feels Good Man
 > > ![feels-good-man-title.gif](/img/user/Extras/Attachments/feels-good-man-title.gif)
