@@ -25,24 +25,24 @@
 > [!multi-column]
 > > [!image] [[Movie - You People\|Movie - You People]] |  [Trailer](https://youtu.be/pCMHc-IFAB0)
 > > Love the retro 2d ripped photos and graphics for transitions
-> > ![[trim.1D152A15-2C12-4E0D-A6D6-5F2D0C14D5E2.mov]]
+> > ![[trim.1D152A15-2C12-4E0D-A6D6-5F2D0C14D5E2.mov\|trim.1D152A15-2C12-4E0D-A6D6-5F2D0C14D5E2.mov]]
 > 
 > > [!image] [[Black Phone\|Black Phone]] |  [YouTube](https://youtu.be/K64pgOhvd0E)
 > > ![[black-phone-titles.gif\|black-phone-titles.gif]]
 >  
 > > [!image] [[Enter the Void\|Enter the Void]] | [YouTube](https://www.youtube.com/watch?v=U-TeW3ezLKc)
-> > ![enter-the-void-titles.gif](/img/user/Extras/Attachments/enter-the-void-titles.gif)
+> > ![[enter-the-void-titles.gif\|enter-the-void-titles.gif]]
 
 > [!multi-column]
 > > [!image] [[American Utopia\|American Utopia]]
 > > ![[Movie Titles - americna utopia 1.png\|Movie Titles - americna utopia 1.png]]
 > 
 > > [!image] Feels Good Man
-> > ![feels-good-man-title.gif](/img/user/Extras/Attachments/feels-good-man-title.gif)
+> > ![[feels-good-man-title.gif\|feels-good-man-title.gif]]
 > > [Feels Good Man - OFFICIAL TRAILER - YouTube](https://www.youtube.com/watch?v=97akfYZv28I)
 >
 > > [!image]
-> > ![97599BFB-E4D8-4071-9B1E-21CC9DB05206.gif](/img/user/Extras/Attachments/97599BFB-E4D8-4071-9B1E-21CC9DB05206.gif)
+> > ![[97599BFB-E4D8-4071-9B1E-21CC9DB05206.gif\|97599BFB-E4D8-4071-9B1E-21CC9DB05206.gif]]
 > > [Infinity Pool - Trailer](https://youtu.be/PVnIMvVEkrA)
 >
 >> [!image] Vuhlandes
@@ -50,7 +50,7 @@
 > > [The cheat codes to ANY video can be cinematic. - YouTube](https://www.youtube.com/watch?v=tszx4NTH1kA)
 >
 > > [!Video] I think you should leave
-> > ![[trim.4E2548EE-72F8-4838-A1C7-5F35755DE6A9.mov]]
+> > ![[trim.4E2548EE-72F8-4838-A1C7-5F35755DE6A9.mov\|trim.4E2548EE-72F8-4838-A1C7-5F35755DE6A9.mov]]
 
 ---
 
