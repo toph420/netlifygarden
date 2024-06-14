@@ -36,18 +36,18 @@
 - [Israeli atrocities revealed during ceasefire](https://x.com/muhammadshehad2/status/1728047954735301109?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [Israel Lies thread](https://x.com/muhammadshehad2/status/1782737187982721039?s=46)
 
-![[IMG_0635.jpeg\|IMG_0635.jpeg]]
+![IMG_0635.jpeg](/img/user/Extras/Attachments/IMG_0635.jpeg)
 
-![[E3CE2403-D538-43FF-A02B-35EAD3E42420.jpeg\|E3CE2403-D538-43FF-A02B-35EAD3E42420.jpeg]]
+![E3CE2403-D538-43FF-A02B-35EAD3E42420.jpeg](/img/user/Extras/Attachments/E3CE2403-D538-43FF-A02B-35EAD3E42420.jpeg)
 
-![[D4BA45D9-EF6E-4715-BBEC-E77F3E674C3B.jpeg\|D4BA45D9-EF6E-4715-BBEC-E77F3E674C3B.jpeg]]
+![D4BA45D9-EF6E-4715-BBEC-E77F3E674C3B.jpeg](/img/user/Extras/Attachments/D4BA45D9-EF6E-4715-BBEC-E77F3E674C3B.jpeg)
 
-![[716B6E43-8F18-48A6-984E-306A6361D9F6.jpeg\|716B6E43-8F18-48A6-984E-306A6361D9F6.jpeg]]
+![716B6E43-8F18-48A6-984E-306A6361D9F6.jpeg](/img/user/Extras/Attachments/716B6E43-8F18-48A6-984E-306A6361D9F6.jpeg)
 
-![[Pasted image 20231011100759.png\|Pasted image 20231011100759.png]]
+![Pasted image 20231011100759.png](/img/user/Extras/Attachments/Pasted%20image%2020231011100759.png)
 
-![[The Middle East - ispal.png\|The Middle East - ispal.png]]
-![[The Middle East - numbers.png\|The Middle East - numbers.png]]
+![The Middle East - ispal.png](/img/user/Extras/Attachments/The%20Middle%20East%20-%20ispal.png)
+![The Middle East - numbers.png](/img/user/Extras/Attachments/The%20Middle%20East%20-%20numbers.png)
 
 
 ---

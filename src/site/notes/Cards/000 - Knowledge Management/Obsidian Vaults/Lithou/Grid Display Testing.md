@@ -27,7 +27,7 @@ The CSS by default will limit the height of images to 30% of the viewport height
 
 ## Using with paragraphs. 
 
-Putting some images in line with a paragraph will ![[herald.png\|herald.png]]![[test.jpg\|test.jpg]]![[herald.png\|herald.png]]![[test.jpg\|test.jpg]] break the paragraph into two as you can see here. 
+Putting some images in line with a paragraph will ![herald.png](/img/user/Extras/Attachments/herald.png)![test.jpg](/img/user/Extras/Attachments/test.jpg)![herald.png](/img/user/Extras/Attachments/herald.png)![test.jpg](/img/user/Extras/Attachments/test.jpg) break the paragraph into two as you can see here. 
 
 if you want the paragraphs to flow around the images, I'd suggest using image flags instead. 
 
@@ -38,8 +38,8 @@ The CSS code is included in the image flags CSS. Just grab that and you are good
 
 The first method is to use the "+grid" flag with any image. This is a core flag that will display the images spread across a line. : 
 
-![[test.jpg\|+grid]]![[testc.jpg\|+grid]]
-![[testc.jpg\|+grid]]![[testc.jpg\|+grid]]![[testc.jpg\|+grid]]
+![test.jpg|+grid](/img/user/Extras/Attachments/test.jpg)![testc.jpg|+grid](/img/user/Extras/Attachments/testc.jpg)
+![testc.jpg|+grid](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+grid](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+grid](/img/user/Extras/Attachments/testc.jpg)
 
 If you are using pictures that are uniform in shape, you can also use the size flags since they are setup to evenly distribute a set percentage based on the width of the page. 
 
@@ -53,7 +53,7 @@ Below as an example are, from left to right:
 - a medium res portrait image 
 
 
-![[herald.png\|+grid -border2]]![[plate.jpg\|+grid -sm]]![[wood.jpg\|+grid -glow]]![[testc.jpg\|+grid]]![[avatar.jpg\|+grid]]
+![herald.png|+grid -border2](/img/user/Extras/Attachments/herald.png)![plate.jpg|+grid -sm](/img/user/Extras/Attachments/plate.jpg)![wood.jpg|+grid -glow](/img/user/Extras/Attachments/wood.jpg)![testc.jpg|+grid](/img/user/Extras/Attachments/testc.jpg)![avatar.jpg|+grid](/img/user/Extras/Attachments/avatar.jpg)
 
 Note: This method also allows for combining of flags. In the example above, the first image has a border flag added while the middle image has a "glow" flag added.
 
@@ -71,8 +71,8 @@ cssclass: img-grid
 
 After that just add the images. Put the images that you want together on the same line. This will auto adjust the sizes as you do so. 
 
-![[herald.png\|herald.png]]![[plate.jpg\|plate.jpg]]![[wood.jpg\|wood.jpg]]![[testc.jpg\|testc.jpg]]![[avatar.jpg\|avatar.jpg]]
-![[herald.png\|herald.png]]![[test.jpg\|test.jpg]]
+![herald.png](/img/user/Extras/Attachments/herald.png)![plate.jpg](/img/user/Extras/Attachments/plate.jpg)![wood.jpg](/img/user/Extras/Attachments/wood.jpg)![testc.jpg](/img/user/Extras/Attachments/testc.jpg)![avatar.jpg](/img/user/Extras/Attachments/avatar.jpg)
+![herald.png](/img/user/Extras/Attachments/herald.png)![test.jpg](/img/user/Extras/Attachments/test.jpg)
 
 
 
@@ -80,8 +80,8 @@ After that just add the images. Put the images that you want together on the sam
 # Mixing Both Methods
 Mixing both together can lead to some interesting results. 
 
-![[herald.png\|+side -med -glow ]]![[plate.jpg\|plate.jpg]]![[wood.jpg\|wood.jpg]]![[testc.jpg\|testc.jpg]]![[avatar.jpg\|avatar.jpg]]
-![[herald.png\|herald.png]]![[test.jpg\|test.jpg]]
+![herald.png|+side -med -glow ](/img/user/Extras/Attachments/herald.png)![plate.jpg](/img/user/Extras/Attachments/plate.jpg)![wood.jpg](/img/user/Extras/Attachments/wood.jpg)![testc.jpg](/img/user/Extras/Attachments/testc.jpg)![avatar.jpg](/img/user/Extras/Attachments/avatar.jpg)
+![herald.png](/img/user/Extras/Attachments/herald.png)![test.jpg](/img/user/Extras/Attachments/test.jpg)
 
 
 Feel free to test this out. Let me know if you would like to have it exhibit different behaviour. 

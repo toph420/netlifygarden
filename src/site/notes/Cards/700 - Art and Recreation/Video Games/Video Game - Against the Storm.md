@@ -63,7 +63,7 @@
 		- herbs can be procesed into pies and privisions, also labor intense
 	- **SPECIALIZE**
 		- ie conersteons like GRAIN BAGS can turn production into huge numbers
-![[Screenshot 2024-05-10 at 7.47.45 PM.png\|Screenshot 2024-05-10 at 7.47.45 PM.png]]
+![Screenshot 2024-05-10 at 7.47.45 PM.png](/img/user/Extras/Attachments/Screenshot%202024-05-10%20at%207.47.45%20PM.png)
 
 ---
 up:: [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]

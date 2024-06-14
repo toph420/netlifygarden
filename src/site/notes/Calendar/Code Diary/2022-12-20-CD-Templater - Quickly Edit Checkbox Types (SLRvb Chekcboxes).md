@@ -146,6 +146,6 @@ WHERE contains(status, "i")
 
 ## Result
 
-![[Obsidian_NVA9eSfNIr.gif\|Obsidian_NVA9eSfNIr.gif]]
-![[Obsidian_GRw3CAvq99.gif\|Obsidian_GRw3CAvq99.gif]]---
+![Obsidian_NVA9eSfNIr.gif](/img/user/Extras/Attachments/Obsidian_NVA9eSfNIr.gif)
+![Obsidian_GRw3CAvq99.gif](/img/user/Extras/Attachments/Obsidian_GRw3CAvq99.gif)---
 up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]

@@ -122,8 +122,8 @@
 ## Pets
 - [Pets Guide - cRPG Bro](https://youtu.be/TCPWDRtlV50?si=XBQX1m4Q6evnQMKT)
 	- Horse: 
-		- ![[797E1928-0EDE-40B8-9BBD-3411FCBBE8A7.jpeg\|797E1928-0EDE-40B8-9BBD-3411FCBBE8A7.jpeg]]
-		- ![[F0DE8998-CA8E-4D78-B61B-9552BF49E863.jpeg\|F0DE8998-CA8E-4D78-B61B-9552BF49E863.jpeg]]
+		- ![797E1928-0EDE-40B8-9BBD-3411FCBBE8A7.jpeg](/img/user/Extras/Attachments/797E1928-0EDE-40B8-9BBD-3411FCBBE8A7.jpeg)
+		- ![F0DE8998-CA8E-4D78-B61B-9552BF49E863.jpeg](/img/user/Extras/Attachments/F0DE8998-CA8E-4D78-B61B-9552BF49E863.jpeg)
 
 ## Buffing
 - bonuses of same type do not stack usually, higher takes over, except DODGE stacks
@@ -171,7 +171,7 @@
 - other - stack
 	- weapon focus, rangers bond, smite evil, mark of justice, rage, madness domain (sosiel)
 ## Crusades
-- ![[F140D312-9312-432D-B4B4-F3711F199C94.jpeg\|F140D312-9312-432D-B4B4-F3711F199C94.jpeg]]
+- ![F140D312-9312-432D-B4B4-F3711F199C94.jpeg](/img/user/Extras/Attachments/F140D312-9312-432D-B4B4-F3711F199C94.jpeg)
 - Don't permanently lose units
 - Get a bunch of archers, **marksman** 
 - Go on offense immediately 
@@ -184,9 +184,9 @@
 - Save boost morale decrees for later, so do a decree that reduces morale and then one that increaes
 - ranks -- leadership - general xp, logistics - buildings, diplomacy - defense /decrees and purchasing finance points, military - recruiting units
 - Buildings -- drezen - buy material points not finance points, **Main stables** (recruit mounted), **teleportation circle** (30 energy requirement), **alchemist labs** (multiple, good for general energy), **hospital** for infirmary (multiple), **training ground** near archery and main stables.... 
-	- ![[443C1570-539D-4DFD-B853-D77DF7850C32.jpeg\|443C1570-539D-4DFD-B853-D77DF7850C32.jpeg]]
+	- ![443C1570-539D-4DFD-B853-D77DF7850C32.jpeg](/img/user/Extras/Attachments/443C1570-539D-4DFD-B853-D77DF7850C32.jpeg)
 	- crpgbro endgame: 4 alch labs, hall of strategy, mail. Academy, pathfinder society lodge, supply center, watchtower, hall of glory, market, spellcasters lodge, **monuments** - bonus to go twice w high hit chance, build ne in each fortress after upgrading them.
-	- ![[4BD20DA7-FB64-4A5C-BC73-54B1525E40DB.jpeg\|4BD20DA7-FB64-4A5C-BC73-54B1525E40DB.jpeg]]
+	- ![4BD20DA7-FB64-4A5C-BC73-54B1525E40DB.jpeg](/img/user/Extras/Attachments/4BD20DA7-FB64-4A5C-BC73-54B1525E40DB.jpeg)
 	- Outposts -- archery range, barracks, stables, spellcadters lodge
 - keep morale up by battling forts and demons
 - Need to recruit more than necessary for military score
@@ -203,15 +203,15 @@
 ## Main Character
 - [Arcane Rider - Magus - cRPG Bro](https://youtu.be/dTlGa1mXa20?si=fHiW2QEsRmFrf9I5)
 - [Updated Arcane Rider - cRPG Bro](https://youtu.be/sryPq-kMUkA?si=PVXeOsCwrHZNKtuH)
-	- ![[A0DD2AAB-BA72-49EF-B8A9-19E4B7D63035.jpeg\|A0DD2AAB-BA72-49EF-B8A9-19E4B7D63035.jpeg]]
-	- ![[A015B03C-DBEC-4EE5-B337-A19DB00E0AEF.jpeg\|A015B03C-DBEC-4EE5-B337-A19DB00E0AEF.jpeg]]
+	- ![A0DD2AAB-BA72-49EF-B8A9-19E4B7D63035.jpeg](/img/user/Extras/Attachments/A0DD2AAB-BA72-49EF-B8A9-19E4B7D63035.jpeg)
+	- ![A015B03C-DBEC-4EE5-B337-A19DB00E0AEF.jpeg](/img/user/Extras/Attachments/A015B03C-DBEC-4EE5-B337-A19DB00E0AEF.jpeg)
 - [Skald - Must have melee support](https://youtu.be/gV4AlviTC9M?si=_UOyLKKiWK2mq6xC)
 	- main character or mercenary
-	- ![[34475959-BD33-4E7A-97E0-85B8EAE68495.jpeg\|34475959-BD33-4E7A-97E0-85B8EAE68495.jpeg]]
+	- ![34475959-BD33-4E7A-97E0-85B8EAE68495.jpeg](/img/user/Extras/Attachments/34475959-BD33-4E7A-97E0-85B8EAE68495.jpeg)
 	- **Respec Arue**
 ## Companions
 ⭐️ -  melee based party, rules this game, but swarms can be tough, for these use:
-![[E2B51777-49CA-4E27-92FD-67C595FAEA83.jpeg\|E2B51777-49CA-4E27-92FD-67C595FAEA83.jpeg]]
+![E2B51777-49CA-4E27-92FD-67C595FAEA83.jpeg](/img/user/Extras/Attachments/E2B51777-49CA-4E27-92FD-67C595FAEA83.jpeg)
 
 For amateurs it's good to have both **daeran** and **sosiel** for lord of healing and buffs
 
@@ -223,42 +223,42 @@ to switch it up:
 - [Camellia - Tank - cRPG Bro](https://youtu.be/1yf6B8iF99U?si=TlElfTY0cnae08MR)
 - ⭐️[Camellia - Crits and Opportunity Machine](https://youtu.be/hws7s7c4alY?si=3dQGHVVZgPGhT93j)
 	- Back of party, lockpick, disarm, stealth 
-	- ![[3394AADE-5FB9-4649-9013-D0C45364C549.jpeg\|3394AADE-5FB9-4649-9013-D0C45364C549.jpeg]]
-	- ![[1ABF3949-A539-4401-AEE0-19DAD2A27B98.jpeg\|1ABF3949-A539-4401-AEE0-19DAD2A27B98.jpeg]]
+	- ![3394AADE-5FB9-4649-9013-D0C45364C549.jpeg](/img/user/Extras/Attachments/3394AADE-5FB9-4649-9013-D0C45364C549.jpeg)
+	- ![1ABF3949-A539-4401-AEE0-19DAD2A27B98.jpeg](/img/user/Extras/Attachments/1ABF3949-A539-4401-AEE0-19DAD2A27B98.jpeg)
 - ⭐️ [Daeran - Everything, Dual wield, buffs, heals](https://youtu.be/cNiLempJ7dg?si=iJizR-jXdDXWuLws)
-	- ![[1A270D02-9EBF-468B-AF28-6CB3B75B5328.jpeg\|1A270D02-9EBF-468B-AF28-6CB3B75B5328.jpeg]]
-	- ![[B1C87BC7-F8C9-452A-BBE8-DD21D0106CA9.jpeg\|B1C87BC7-F8C9-452A-BBE8-DD21D0106CA9.jpeg]]
+	- ![1A270D02-9EBF-468B-AF28-6CB3B75B5328.jpeg](/img/user/Extras/Attachments/1A270D02-9EBF-468B-AF28-6CB3B75B5328.jpeg)
+	- ![B1C87BC7-F8C9-452A-BBE8-DD21D0106CA9.jpeg](/img/user/Extras/Attachments/B1C87BC7-F8C9-452A-BBE8-DD21D0106CA9.jpeg)
 - ⭐️[Seelah - Paladin Full DPS & Smites - cROG Bro ](https://youtu.be/v-y4dftS83A?si=jJAECzPZ8lVq3Mhg)
-	- ![[E399F634-8193-4405-9082-08655B29D42C.jpeg\|E399F634-8193-4405-9082-08655B29D42C.jpeg]]
-	- ![[51333286-BE4F-4D5C-B0BF-95092032BFD4.jpeg\|51333286-BE4F-4D5C-B0BF-95092032BFD4.jpeg]]
-	- ![[18F10B1C-98B6-4D8E-BE71-926FDA2FACEB.jpeg\|18F10B1C-98B6-4D8E-BE71-926FDA2FACEB.jpeg]]
+	- ![E399F634-8193-4405-9082-08655B29D42C.jpeg](/img/user/Extras/Attachments/E399F634-8193-4405-9082-08655B29D42C.jpeg)
+	- ![51333286-BE4F-4D5C-B0BF-95092032BFD4.jpeg](/img/user/Extras/Attachments/51333286-BE4F-4D5C-B0BF-95092032BFD4.jpeg)
+	- ![18F10B1C-98B6-4D8E-BE71-926FDA2FACEB.jpeg](/img/user/Extras/Attachments/18F10B1C-98B6-4D8E-BE71-926FDA2FACEB.jpeg)
 - [Seelah - Tank - cRPG Bro](https://youtu.be/KRSG_6If_ak?si=ZVAuLoKU85CzO2ph)
-	- ![[84F1B642-7336-4B63-9BDC-3077825D8965.jpeg\|84F1B642-7336-4B63-9BDC-3077825D8965.jpeg]]
+	- ![84F1B642-7336-4B63-9BDC-3077825D8965.jpeg](/img/user/Extras/Attachments/84F1B642-7336-4B63-9BDC-3077825D8965.jpeg)
 - [Lann - Hound Sniper - cRPG Bro](https://youtu.be/o-W_5RYP6pY?si=u8UM1ifH-YIN1GuM)
-	- ![[BA94842D-E12B-491F-BC70-1ECF4C7C19FB.jpeg\|BA94842D-E12B-491F-BC70-1ECF4C7C19FB.jpeg]]
+	- ![BA94842D-E12B-491F-BC70-1ECF4C7C19FB.jpeg](/img/user/Extras/Attachments/BA94842D-E12B-491F-BC70-1ECF4C7C19FB.jpeg)
 - ⭐️ [Lann - Mounted Archer](https://youtu.be/d26WOZUJnTE?si=zOs341ormzirE8mm)
-	- ![[21CF27FB-F5E2-4E79-83DE-A802513A0ECE.jpeg\|21CF27FB-F5E2-4E79-83DE-A802513A0ECE.jpeg]]
-	- ![[FE6D0784-FD43-4558-8453-7A74CA172AA8.jpeg\|FE6D0784-FD43-4558-8453-7A74CA172AA8.jpeg]]
+	- ![21CF27FB-F5E2-4E79-83DE-A802513A0ECE.jpeg](/img/user/Extras/Attachments/21CF27FB-F5E2-4E79-83DE-A802513A0ECE.jpeg)
+	- ![FE6D0784-FD43-4558-8453-7A74CA172AA8.jpeg](/img/user/Extras/Attachments/FE6D0784-FD43-4558-8453-7A74CA172AA8.jpeg)
 - [Wendaug - Manticore Machinegun](https://youtu.be/9gNl7ZcuO8g?si=1yDABhQH4z1s9rA8)
-	- ![[0C5CE2E4-3676-4084-AE43-82A315C6D732.jpeg\|0C5CE2E4-3676-4084-AE43-82A315C6D732.jpeg]]
-	- ![[DEEB4B45-31E3-4E82-8D2A-0FB15B3D08EF.jpeg\|DEEB4B45-31E3-4E82-8D2A-0FB15B3D08EF.jpeg]]
+	- ![0C5CE2E4-3676-4084-AE43-82A315C6D732.jpeg](/img/user/Extras/Attachments/0C5CE2E4-3676-4084-AE43-82A315C6D732.jpeg)
+	- ![DEEB4B45-31E3-4E82-8D2A-0FB15B3D08EF.jpeg](/img/user/Extras/Attachments/DEEB4B45-31E3-4E82-8D2A-0FB15B3D08EF.jpeg)
 - ⭐️ [Wendaug - Ranged duel wielder](https://youtu.be/-R9s12qkaOM?si=mlQ5vIg2io4hpSID)
-	- ![[B617D932-463A-4BCA-9BE4-5CE6028E4504.jpeg\|B617D932-463A-4BCA-9BE4-5CE6028E4504.jpeg]]
-	- ![[60DD527F-CCE4-40D2-92DD-B56DAC5CD646.jpeg\|60DD527F-CCE4-40D2-92DD-B56DAC5CD646.jpeg]]
+	- ![B617D932-463A-4BCA-9BE4-5CE6028E4504.jpeg](/img/user/Extras/Attachments/B617D932-463A-4BCA-9BE4-5CE6028E4504.jpeg)
+	- ![60DD527F-CCE4-40D2-92DD-B56DAC5CD646.jpeg](/img/user/Extras/Attachments/60DD527F-CCE4-40D2-92DD-B56DAC5CD646.jpeg)
 - ⭐️[Sosiel - Domain Lord](https://youtu.be/UCsFwBmh7PU?si=jlSaGT3lX48-ee6h)
-	- ![[EC730FD1-B20D-4241-9F43-ECB76D6D9B3A.jpeg\|EC730FD1-B20D-4241-9F43-ECB76D6D9B3A.jpeg]]
-	- ![[3A272C9B-44C3-4E92-8E34-557EA68C9C2C.jpeg\|3A272C9B-44C3-4E92-8E34-557EA68C9C2C.jpeg]]
+	- ![EC730FD1-B20D-4241-9F43-ECB76D6D9B3A.jpeg](/img/user/Extras/Attachments/EC730FD1-B20D-4241-9F43-ECB76D6D9B3A.jpeg)
+	- ![3A272C9B-44C3-4E92-8E34-557EA68C9C2C.jpeg](/img/user/Extras/Attachments/3A272C9B-44C3-4E92-8E34-557EA68C9C2C.jpeg)
 - ⭐️ [Arueshale - Sniper Queen](https://youtu.be/opDh62V_xbk?si=jVNwBmRlyoJ6IBph)
-	- ![[B9987987-F0F5-474C-A1BA-E0842B7D1FF6.jpeg\|B9987987-F0F5-474C-A1BA-E0842B7D1FF6.jpeg]]
-	- ![[02BE40ED-8E9A-4CB8-AF5C-510B739B660C.jpeg\|02BE40ED-8E9A-4CB8-AF5C-510B739B660C.jpeg]]
+	- ![B9987987-F0F5-474C-A1BA-E0842B7D1FF6.jpeg](/img/user/Extras/Attachments/B9987987-F0F5-474C-A1BA-E0842B7D1FF6.jpeg)
+	- ![02BE40ED-8E9A-4CB8-AF5C-510B739B660C.jpeg](/img/user/Extras/Attachments/02BE40ED-8E9A-4CB8-AF5C-510B739B660C.jpeg)
 - ⭐️ [Ember - Stigmatized Witch](https://youtu.be/ErpqRegmjCw?si=V27_KtM6sDTu-_qw)
-	- ![[177F8BD5-4A1A-489A-B076-452BADAA394E.jpeg\|177F8BD5-4A1A-489A-B076-452BADAA394E.jpeg]]
-	- ![[7182E14E-F091-4AED-8043-0A56844528A2.jpeg\|7182E14E-F091-4AED-8043-0A56844528A2.jpeg]]
+	- ![177F8BD5-4A1A-489A-B076-452BADAA394E.jpeg](/img/user/Extras/Attachments/177F8BD5-4A1A-489A-B076-452BADAA394E.jpeg)
+	- ![7182E14E-F091-4AED-8043-0A56844528A2.jpeg](/img/user/Extras/Attachments/7182E14E-F091-4AED-8043-0A56844528A2.jpeg)
 - ⭐️ [Nenio](https://youtu.be/ytmjt6kASqo?si=nad-t7atbcp85cRT)
 ### More ideas
 
-![[E86D7448-E314-48EC-8729-AFB071EC802C.jpeg\|E86D7448-E314-48EC-8729-AFB071EC802C.jpeg]]
-![[19884CE5-7F7C-4757-8CCE-C1D71838B5D8.jpeg\|19884CE5-7F7C-4757-8CCE-C1D71838B5D8.jpeg]]
+![E86D7448-E314-48EC-8729-AFB071EC802C.jpeg](/img/user/Extras/Attachments/E86D7448-E314-48EC-8729-AFB071EC802C.jpeg)
+![19884CE5-7F7C-4757-8CCE-C1D71838B5D8.jpeg](/img/user/Extras/Attachments/19884CE5-7F7C-4757-8CCE-C1D71838B5D8.jpeg)
 
 ## Items
 - [items](https://youtu.be/aKoaPQ0gJl0?si=VzcFayUQLqUY5cnr)

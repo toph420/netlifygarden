@@ -27,7 +27,7 @@ Class | Description |
 
 ### Examples
 Aside code is highlighted.
-![[Aside-Snippet.png\|Aside-Snippet.png]]
+![Aside-Snippet.png](/img/user/Extras/Attachments/SLRvb%20Images/Aside-Snippet.png)
 
 # Supported Markdown
 ###### Markdown Supported:

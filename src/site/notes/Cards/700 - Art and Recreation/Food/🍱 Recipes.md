@@ -21,7 +21,7 @@
 - [Creamy hassle back potatoe bake](https://www.tiktok.com/t/ZT86oFWgE/)
 
 
-![[01AA4E32-BCBA-4B8C-9A69-029892159AE3.jpeg\|01AA4E32-BCBA-4B8C-9A69-029892159AE3.jpeg]]
+![01AA4E32-BCBA-4B8C-9A69-029892159AE3.jpeg](/img/user/Extras/Attachments/01AA4E32-BCBA-4B8C-9A69-029892159AE3.jpeg)
 
 
 ## Sandwiches

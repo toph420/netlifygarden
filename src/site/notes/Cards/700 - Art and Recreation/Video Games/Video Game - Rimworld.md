@@ -50,7 +50,7 @@
 	- Seperate butchering tabel from cooking station
 	- simple meals are fine early
 	- assign them not to eat high quality food (fine or lavish meals)
-		- ![[Screenshot 2024-05-21 at 4.44.20 PM.png\|Screenshot 2024-05-21 at 4.44.20 PM.png]]
+		- ![Screenshot 2024-05-21 at 4.44.20 PM.png](/img/user/Extras/Attachments/Screenshot%202024-05-21%20at%204.44.20%20PM.png)
 	- space to eat together, a table with some seats
 - Prisoners
 	- build seperate room for a prison, make it nice as possible
@@ -79,7 +79,7 @@
 
 ## Drugs
 
-![[Video Game - Rimworld - drug 1.png\|Video Game - Rimworld - drug 1.png]]
+![Video Game - Rimworld - drug 1.png](/img/user/Extras/Attachments/Video%20Game%20-%20Rimworld%20-%20drug%201.png)
 
 
 > I have a drug policy I swear by.  
@@ -105,7 +105,7 @@
 - [ ] Add a zone and assign pawns to it when fighting
 - [ ] Setup 2 kill boxes to bounce between
 
-![[Screenshot 2024-06-01 at 10.43.19 PM.png\|Screenshot 2024-06-01 at 10.43.19 PM.png]]
+![Screenshot 2024-06-01 at 10.43.19 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2010.43.19%20PM.png)
 
 - 8 doors in a row
 - barricade at the end of each end of the row
@@ -119,12 +119,12 @@
 -  add two more doors above and below wall
 - add two chairs next to those doors
 - add walls
-![[Screenshot 2024-06-01 at 10.47.34 PM.png\|Screenshot 2024-06-01 at 10.47.34 PM.png]]
+![Screenshot 2024-06-01 at 10.47.34 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2010.47.34%20PM.png)
 - set all doors to be held open
 - add inlaid wall here: this is for emp tossers to shoot in here while being safe
-![[Screenshot 2024-06-01 at 10.48.42 PM.png\|Screenshot 2024-06-01 at 10.48.42 PM.png]]
+![Screenshot 2024-06-01 at 10.48.42 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2010.48.42%20PM.png)
 - Where to stand:
-![[Screenshot 2024-06-01 at 10.50.33 PM.png\|Screenshot 2024-06-01 at 10.50.33 PM.png]]
+![Screenshot 2024-06-01 at 10.50.33 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2010.50.33%20PM.png)
 - when enemeies get through run out to close the door behind you and have another backup killbox ready
 - best guns are close and medium range -- chain shotgun, smg, assault rifle. No miniguns or sniper or slow
 - use collission
@@ -145,15 +145,15 @@
 - **Collission**: Enemies cant stand on top of each other, outside of combat they can stand on top of each other.
 	- Stacked enemies that gain collission are bad and baloon out
 	- See the squirrel baiting the collission
-![[Screenshot 2024-06-01 at 11.08.46 PM.png\|Screenshot 2024-06-01 at 11.08.46 PM.png]]
+![Screenshot 2024-06-01 at 11.08.46 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2011.08.46%20PM.png)
 - Have this near entrance:
-![[Screenshot 2024-06-01 at 11.09.54 PM.png\|Screenshot 2024-06-01 at 11.09.54 PM.png]]
+![Screenshot 2024-06-01 at 11.09.54 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2011.09.54%20PM.png)
 - Or: **this is the way**
-![[Screenshot 2024-06-01 at 11.11.42 PM.png\|Screenshot 2024-06-01 at 11.11.42 PM.png]]
+![Screenshot 2024-06-01 at 11.11.42 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2011.11.42%20PM.png)
 
 ## More
 - clothes:
-![[IMG_0772.jpeg\|IMG_0772.jpeg]]![[IMG_0773.jpeg\|IMG_0773.jpeg]]
+![IMG_0772.jpeg](/img/user/Extras/Attachments/IMG_0772.jpeg)![IMG_0773.jpeg](/img/user/Extras/Attachments/IMG_0773.jpeg)
 ---
 up:: [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]
 

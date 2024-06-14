@@ -29,18 +29,18 @@
 - [All watched over by machines of loving grace - Adam Curtis](https://topdocumentaryfilms.com/all-watched-over-by-machines-of-loving-grace/)
 - [All Wars are Bankers Wars documentary](https://x.com/inversionism/status/1711161404772806973?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 
-![[F49EAFAE-7858-40C2-9A6D-B55EE953DF71.jpeg\|F49EAFAE-7858-40C2-9A6D-B55EE953DF71.jpeg]]
+![F49EAFAE-7858-40C2-9A6D-B55EE953DF71.jpeg](/img/user/Extras/Attachments/F49EAFAE-7858-40C2-9A6D-B55EE953DF71.jpeg)
 
 Epics:
-![[IMG_0072.jpeg\|IMG_0072.jpeg]]
+![IMG_0072.jpeg](/img/user/Extras/Attachments/IMG_0072.jpeg)
 
-![[IMG_0726.jpeg\|IMG_0726.jpeg]]
+![IMG_0726.jpeg](/img/user/Extras/Attachments/IMG_0726.jpeg)
 
-![[IMG_0725.png\|IMG_0725.png]]
+![IMG_0725.png](/img/user/Extras/Attachments/IMG_0725.png)
 
-![[IMG_0733.jpeg\|IMG_0733.jpeg]]
+![IMG_0733.jpeg](/img/user/Extras/Attachments/IMG_0733.jpeg)
 
-![[IMG_0754.jpeg\|IMG_0754.jpeg]]
+![IMG_0754.jpeg](/img/user/Extras/Attachments/IMG_0754.jpeg)
 
 
 ---

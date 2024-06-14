@@ -16,7 +16,7 @@
 
 > [!infobox]+ Collapsible Infobox
 > ## Infobox
-> ![[2022-12-27 - rainbow landscape.png\|cover hsmall]]
+> ![2022-12-27 - rainbow landscape.png|cover hsmall](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20landscape.png)
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
@@ -36,7 +36,7 @@
 caption:
 
 > [!caption] Title
-> ![[kratom-1.png\|hsmall sban cover]]
+> ![kratom-1.png|hsmall sban cover](/img/user/Extras/Attachments/kratom-1.png)
 > This is a really cool **caption**, how about that
 
 ---
@@ -44,10 +44,10 @@ caption:
 kanban:
 > [!kanban]+
 > - [[Link\|Lane 1 Title]]
-> 	- ![[kratom-1.png\|kratom-1.png]]
+> 	- ![kratom-1.png](/img/user/Extras/Attachments/kratom-1.png)
 > 	- [[Link\|Card]]
 > - [[Link\|Lane 2 Title]]
-> 	![[2022-12-27 - rainbow landscape.png\|2022-12-27 - rainbow landscape.png]]
+> 	![2022-12-27 - rainbow landscape.png](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20landscape.png)
 > 	- [[Link\|Card]]
 > - Text
 > 	- [ ] Text
@@ -60,10 +60,10 @@ cards:
 > ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
 > 
 > **[[Link\|Link]]**
-> ![[kratom-1.png\|sban htiny ctr]]
+> ![kratom-1.png|sban htiny ctr](/img/user/Extras/Attachments/kratom-1.png)
 > 
 > **[[Link\|Link]]**
-> ![[2022-12-27 - rainbow splatter.png\|sban htiny ctr]]
+> ![2022-12-27 - rainbow splatter.png|sban htiny ctr](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20splatter.png)
 
 more columns:
 > [!cards|4]
@@ -71,13 +71,13 @@ more columns:
 > ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
 > 
 > **Some Card Text**
-> ![[kratom-1.png\|sban htiny ctr]]
+> ![kratom-1.png|sban htiny ctr](/img/user/Extras/Attachments/kratom-1.png)
 > 
 > **[[Link\|Link]]**
-> ![[2022-12-27 - rainbow landscape.png\|sban htiny ctr]]
+> ![2022-12-27 - rainbow landscape.png|sban htiny ctr](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20landscape.png)
 > 
 > **[[Link\|Link]]**
-> ![[2022-12-27 - rainbow splatter.png\|sban htiny ctr]]
+> ![2022-12-27 - rainbow splatter.png|sban htiny ctr](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20splatter.png)
 
 dataview:
 > [!cards|dataview]
@@ -98,20 +98,20 @@ dataview:
 grid:
 
 > [!grid]
-> ![[Pasted image 20221219221757.png\|Pasted image 20221219221757.png]]
-> ![[Pasted image 20221219221546.png\|Pasted image 20221219221546.png]]
-> ![[2022-12-27 - rainbow landscape.png\|2022-12-27 - rainbow landscape.png]]
-> ![[kratom-1.png\|kratom-1.png]]
+> ![Pasted image 20221219221757.png](/img/user/Extras/Attachments/Pasted%20image%2020221219221757.png)
+> ![Pasted image 20221219221546.png](/img/user/Extras/Attachments/Pasted%20image%2020221219221546.png)
+> ![2022-12-27 - rainbow landscape.png](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20landscape.png)
+> ![kratom-1.png](/img/user/Extras/Attachments/kratom-1.png)
 
 masonry:
 
 > [!grid|masonry]
-> ![[kratom-1.png\|kratom-1.png]]
-> ![[2022-12-27 - rainbow landscape.png\|2022-12-27 - rainbow landscape.png]]
+> ![kratom-1.png](/img/user/Extras/Attachments/kratom-1.png)
+> ![2022-12-27 - rainbow landscape.png](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20landscape.png)
 > 
-> ![[2022-12-27 - rainbow splatter.png\|2022-12-27 - rainbow splatter.png]]
-> ![[kratom-1.png\|kratom-1.png]]
-> ![[Pasted image 20221219221719.png\|Pasted image 20221219221719.png]]
+> ![2022-12-27 - rainbow splatter.png](/img/user/Extras/Attachments/2022-12-27%20-%20rainbow%20splatter.png)
+> ![kratom-1.png](/img/user/Extras/Attachments/kratom-1.png)
+> ![Pasted image 20221219221719.png](/img/user/Extras/Attachments/Pasted%20image%2020221219221719.png)
 
 
 ---

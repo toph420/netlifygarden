@@ -14,7 +14,7 @@
 
 > The wheel of privilege, power vs marginalized communities
 
-![[E59DF114-5A4A-424F-BD92-0EC4F5759BC0.jpeg\|E59DF114-5A4A-424F-BD92-0EC4F5759BC0.jpeg]]
+![E59DF114-5A4A-424F-BD92-0EC4F5759BC0.jpeg](/img/user/Extras/Attachments/E59DF114-5A4A-424F-BD92-0EC4F5759BC0.jpeg)
 
 ---
 up:: [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]

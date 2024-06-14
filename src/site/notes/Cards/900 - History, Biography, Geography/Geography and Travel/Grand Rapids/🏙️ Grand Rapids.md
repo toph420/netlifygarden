@@ -46,7 +46,7 @@
 - [Meetings & Agendas | Downtown Grand Rapids Inc.](https://downtowngr.org/about/meeting-agendas/past-meetings)
 
 ## City Wards
-![[Pasted image 20221207152419.png\|400]]
+![Pasted image 20221207152419.png|400](/img/user/Extras/Attachments/Pasted%20image%2020221207152419.png)
 
 
 ---

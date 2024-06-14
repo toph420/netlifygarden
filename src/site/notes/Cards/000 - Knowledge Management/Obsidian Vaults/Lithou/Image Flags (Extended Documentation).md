@@ -26,7 +26,7 @@ While the normal flags can be used "out of the box" or with some minor setting c
 ## Rounded Corners 2: Electric Boogaloo
 
 
-![[testc.jpg\|+side -lg -right -border2 -bradiustl -bradiusbr]]![[testc.jpg\|+side -lg  -border2 -bradiustr -bradiusbl]]
+![testc.jpg|+side -lg -right -border2 -bradiustl -bradiusbr](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -lg  -border2 -bradiustr -bradiusbl](/img/user/Extras/Attachments/testc.jpg)
 
 I wanted to have a little extra fun with border radii. These will set a rounded corner on a single corner. These can be used individually or in pairs. As always feel free to modify the values to fit your needs.
 
@@ -73,12 +73,12 @@ There are several places where custom settings can be employed along with the st
 - One Custom modifier included for each type.
 - More can be made with copy/paste and increasing the number
 
-![[testc.jpg\|+hr-cwidth1 -divborder2 -cdivbradius1]]
+![testc.jpg|+hr-cwidth1 -divborder2 -cdivbradius1](/img/user/Extras/Attachments/testc.jpg)
 Here's an example of the standard "+hr" element with a standard modifier (-divborder2) and two custom modifiers (-cwidth1 and cdivbradius1) The custom width is set to 120% so that it extends out beyond the text and includes a negative 10% margin on the left so that the bar is centered. The custom border radius make a much more rounded end.
 
 
 ## Images side by side and other arrangments
-![[testc.jpg\|+side -med -right]]If you want two images side by side, you can place them one![[testc.jpg\|+side -sm -right]]after another on the same line. If they are sized so that their combined width is less than that of the page, they will display inline. The text will still flow around the images since they are floated to the side. 
+![testc.jpg|+side -med -right](/img/user/Extras/Attachments/testc.jpg)If you want two images side by side, you can place them one![testc.jpg|+side -sm -right](/img/user/Extras/Attachments/testc.jpg)after another on the same line. If they are sized so that their combined width is less than that of the page, they will display inline. The text will still flow around the images since they are floated to the side. 
 > if images are on the right hand side, the first image is the furthest right, while the last one will be furthest left. 
 
 ## Fixed and Abolute
@@ -89,24 +89,24 @@ Here's an example of the standard "+hr" element with a standard modifier (-divbo
 
 ## No Float Tag
 
-![[testc.jpg\|+side -med -border1]]![[testc.jpg\|+side -thumb -border1]]
+![testc.jpg|+side -med -border1](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb -border1](/img/user/Extras/Attachments/testc.jpg)
 
 You may want two (or more) images side by side of differing sizes then wish the text to not flow around one or more of them. You might want other elements not to flow around an image. 
 
 Enter the "-nofloat"  tag. The first image is floated right (larger image) allowing both the second image and the text to flow around it.  The second image (smaller image) is not floated causing the text to start on the next line.  
 
 ---
-![[testc.jpg\|+side -med -border1]]![[testc.jpg\|+side -sm -border1]]![[testc.jpg\|+side -med -border1 -nofloat]]
+![testc.jpg|+side -med -border1](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -sm -border1](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -med -border1 -nofloat](/img/user/Extras/Attachments/testc.jpg)
 
 You can use "-nofloat" on the last image in a line to end floating. Note that this will cause the last image to left align which can look odd depending on the size of image. (above is an example of this as it causes the middle image to appear too far to the right). If you had only two images, though, it would look OK) 
 
 ---
 
-![[testc.jpg\|+side -sm -border1]]
+![testc.jpg|+side -sm -border1](/img/user/Extras/Attachments/testc.jpg)
 
-![[testc.jpg\|+side -sm -border1]]
+![testc.jpg|+side -sm -border1](/img/user/Extras/Attachments/testc.jpg)
 
-![[testc.jpg\|+side -sm -border1]]
+![testc.jpg|+side -sm -border1](/img/user/Extras/Attachments/testc.jpg)
 
 <br>
 <br>
@@ -120,10 +120,10 @@ In many cases, it is better to use the "< br>" command to create line returns so
 
 
 # Grid View
-![[herald.png\|+side -glow -med]]When obsidian changed from having the images inside a block level element to a special 
+![herald.png|+side -glow -med](/img/user/Extras/Attachments/herald.png)When obsidian changed from having the images inside a block level element to a special 
 
 
-![[test.jpg\|+grid]]![[test.jpg\|+grid]]![[test.jpg\|+grid]]![[test.jpg\|+grid]]![[test.jpg\|+grid]]
+![test.jpg|+grid](/img/user/Extras/Attachments/test.jpg)![test.jpg|+grid](/img/user/Extras/Attachments/test.jpg)![test.jpg|+grid](/img/user/Extras/Attachments/test.jpg)![test.jpg|+grid](/img/user/Extras/Attachments/test.jpg)![test.jpg|+grid](/img/user/Extras/Attachments/test.jpg)
 
 
 

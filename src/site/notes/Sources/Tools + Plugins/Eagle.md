@@ -26,7 +26,7 @@ Eagle is a great tool for collecting inspiration and offers a wide variety of op
 - Use Espanso text expansion macro `: img` without the space and it expands to an image with the clipboard contents, which is the full path to the image from the "Copy Path" command from Eagle 
 	- <img src='app://local//Volumes/GoogleDrive/My Drive/My Eagle Library.library/images/KXHMKYCVBPLMA.info/IMG_9253.png'> [Permalink](eagle://item/KXHMKYCVBPLMA)
 - Another option is to drag the image into obsidian from eagle, but this creates duplicates because obsidian will copy the file to the attachments.
-	- ![[IMG_9285.jpg\|IMG_9285.jpg]][Permalink](eagle://item/KXHMKYCVPVZSA)
+	- ![IMG_9285.jpg](/img/user/Extras/Attachments/IMG_9285.jpg)[Permalink](eagle://item/KXHMKYCVPVZSA)
 
 ## Ideas
 

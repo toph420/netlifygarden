@@ -50,7 +50,7 @@
 > > sort by filename
 > > ```
 
-![[0391F590-5908-4935-B716-B51228C3EB05.jpeg\|0391F590-5908-4935-B716-B51228C3EB05.jpeg]]
+![0391F590-5908-4935-B716-B51228C3EB05.jpeg](/img/user/Extras/Attachments/0391F590-5908-4935-B716-B51228C3EB05.jpeg)
 
 ## Notes
 

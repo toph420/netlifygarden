@@ -15,7 +15,7 @@
 
 > {{VALUE:Summary}}
 
-![[IMG_2113.jpeg\|IMG_2113.jpeg]]
+![IMG_2113.jpeg](/img/user/Extras/Attachments/IMG_2113.jpeg)
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

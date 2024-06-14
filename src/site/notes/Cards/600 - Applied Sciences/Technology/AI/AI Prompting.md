@@ -34,7 +34,7 @@
 - [Awesome GPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [SnackPrompt - Discover Prompts](https://snackprompt.com/)
 
-![[5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg\|5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg]]
+![5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg](/img/user/Extras/Attachments/5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg)
 ## Artist Prompting
 
 [GitHub - kaikalii/stable-diffusion-artists: Curated list of artists for Stable Diffusion prompts](https://github.com/kaikalii/stable-diffusion-artists)

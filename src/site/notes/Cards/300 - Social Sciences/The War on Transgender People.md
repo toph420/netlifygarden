@@ -30,7 +30,7 @@
 
 
 > [!image] Nazi Shit
-> ![[F3F2187B-1DFF-440B-BAA6-56DBF4B927B8.png\|F3F2187B-1DFF-440B-BAA6-56DBF4B927B8.png]]
+> ![F3F2187B-1DFF-440B-BAA6-56DBF4B927B8.png](/img/user/Extras/Attachments/F3F2187B-1DFF-440B-BAA6-56DBF4B927B8.png)
 
 
 > [!Video] The Plot to Banish Trans In Gov

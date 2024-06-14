@@ -20,7 +20,7 @@
 > [!capacities-card|revert]
 > > [!capacities-index|revert]
 > > > [!capacities-prop-image|revert]
-> > > ![[Snippet - Capacities Sidebar - vault.png\|brightness-unset]]
+> > > ![Snippet - Capacities Sidebar - vault.png|brightness-unset|350](/img/user/Extras/Attachments/Snippet%20-%20Capacities%20Sidebar%20-%20vault.png)
 > > > The great wave off Kanagawa
 > > 
 > > ---

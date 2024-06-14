@@ -44,36 +44,36 @@
 - I make 400 standard arrows and go to the whispering banks and hunt sernuk for 30 minutes. I can usually get 8k from that. 
 - I mainly have potatoes and corn because they both sell for a lot.
 
-![[Screenshot 2024-03-19 at 9.27.40 PM.png\|Screenshot 2024-03-19 at 9.27.40 PM.png]]
-![[Screenshot 2024-03-19 at 9.28.42 PM.png\|Screenshot 2024-03-19 at 9.28.42 PM.png]]
-![[Screenshot 2024-03-19 at 9.29.43 PM.png\|Screenshot 2024-03-19 at 9.29.43 PM.png]]
-![[Screenshot 2024-03-19 at 9.30.53 PM.png\|Screenshot 2024-03-19 at 9.30.53 PM.png]]
-![[Screenshot 2024-03-19 at 9.33.51 PM.png\|Screenshot 2024-03-19 at 9.33.51 PM.png]]
-![[Screenshot 2024-03-19 at 9.36.45 PM.png\|Screenshot 2024-03-19 at 9.36.45 PM.png]]
-![[Screenshot 2024-03-19 at 9.37.32 PM.png\|Screenshot 2024-03-19 at 9.37.32 PM.png]]
+![Screenshot 2024-03-19 at 9.27.40 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.27.40%20PM.png)
+![Screenshot 2024-03-19 at 9.28.42 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.28.42%20PM.png)
+![Screenshot 2024-03-19 at 9.29.43 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.29.43%20PM.png)
+![Screenshot 2024-03-19 at 9.30.53 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.30.53%20PM.png)
+![Screenshot 2024-03-19 at 9.33.51 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.33.51%20PM.png)
+![Screenshot 2024-03-19 at 9.36.45 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.36.45%20PM.png)
+![Screenshot 2024-03-19 at 9.37.32 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.37.32%20PM.png)
 
 
 
 
-![[Palia - ii.png\|Palia - ii.png]]
+![Palia - ii.png](/img/user/Extras/Attachments/Palia%20-%20ii.png)
 
-![[IMG_0529.jpeg\|IMG_0529.jpeg]]
+![IMG_0529.jpeg](/img/user/Extras/Attachments/IMG_0529.jpeg)
 
-![[Palia - farmin.png\|Palia - farmin.png]]
+![Palia - farmin.png](/img/user/Extras/Attachments/Palia%20-%20farmin.png)
 
-![[Screenshot 2024-03-29 at 7.37.30 PM.png\|Screenshot 2024-03-29 at 7.37.30 PM.png]]
+![Screenshot 2024-03-29 at 7.37.30 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-29%20at%207.37.30%20PM.png)
 
-![[Palia - far.png\|Palia - far.png]]
-![[Palia - re.png\|Palia - re.png]]
+![Palia - far.png](/img/user/Extras/Attachments/Palia%20-%20far.png)
+![Palia - re.png](/img/user/Extras/Attachments/Palia%20-%20re.png)
 
 
 Most Profit
-![[Palia - proft.png\|Palia - proft.png]]
-![[Palia - bberry.png\|Palia - bberry.png]]
+![Palia - proft.png](/img/user/Extras/Attachments/Palia%20-%20proft.png)
+![Palia - bberry.png](/img/user/Extras/Attachments/Palia%20-%20bberry.png)
 
-![[Palia - berry2.png\|Palia - berry2.png]]
+![Palia - berry2.png](/img/user/Extras/Attachments/Palia%20-%20berry2.png)
 
-![[Palia - berrycooytn.png\|Palia - berrycooytn.png]]
+![Palia - berrycooytn.png](/img/user/Extras/Attachments/Palia%20-%20berrycooytn.png)
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

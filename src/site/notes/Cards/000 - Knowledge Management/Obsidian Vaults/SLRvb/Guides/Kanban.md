@@ -24,4 +24,4 @@ cssclass: kanban
 ---
 ```
 
-![[Kanban-Showcase.png\|Kanban-Showcase.png]]
+![Kanban-Showcase.png](/img/user/Extras/Attachments/SLRvb%20Images/Kanban-Showcase.png)

@@ -52,6 +52,6 @@
 - 
 
 ## Result
-- ![[Pasted image 20221205190554.png\|Pasted image 20221205190554.png]]
+- ![Pasted image 20221205190554.png](/img/user/Extras/Attachments/Pasted%20image%2020221205190554.png)
 ---
 up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
