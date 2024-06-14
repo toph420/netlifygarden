@@ -28,9 +28,13 @@ It wasn't half a second that I poked my head out of the door and Gunther shouted
 
 Harvey was diagnosed with Lyme disease in his late 20s. He was a decorated athlete in his early years but these days he couldn't do much. Doctors prescribed him  SSRIs and "meditation". He loved the movies and always wanted to be a stunt man. They don't make much money but he didn't care as long as he could hang around on set with the visionaries and blow shit up.
 
-These days Harvey delivers food for Door Dash. It was late, he couldn't sleep, so he clocked in to pass the time. Greasy fast food and pizza was the only option at this time of the night. The first delivery was an order of chicken nuggets and a medium Sprite for a pretty cat lady that wreaked of weed. The second order went to a group of sex-pest-looking drunk frat boys. He cracked a smile at their identical fluffy mushroom haircuts. "Bro I'm about to make 10 times what you make in a week filming a Five Guys Mukbang on Tik-Tok. I just hit 5k followers, fuck outta here groomer." He damn near snorted. None of those words are in the bible. 
+These days Harvey delivers food for Door Dash. It was late, he couldn't sleep, so he clocked in to pass the time. Greasy fast food and pizza was the only option at this time of the night. The first delivery was an order of chicken nuggets and a medium Sprite for a pretty cat lady that wreaked of weed. The second order went to a group of sex-pest-looking drunk frat boys. He cracked a smile at their identical fluffy mushroom haircuts as he handed over their food. 
 
-He walked back to his car and sat there, playing through the movie happening in his mind. The one where he takes one of those zoomers hostage to teach them all a lesson about fucking around and winds up in a ransom scenario. The kids dad turns out to be the CEO of some greedy conglomerate that runs the city. He was never around for his kids, and it shows. 
+Thing 1 squealed, "Bro I'm about to make 10 times what you make in a week filming a Five Guys Mukbang on Tik-Tok. I just hit 5k followers, fuck outta here groomer." 
+
+Harvey damn near snorted. None of those words are in the bible. 
+
+He walked back to his car and sat there playing through the movie happening in his mind. The one where he takes one of those zoomers hostage to teach them all a lesson about fucking around and winds up in a ransom scenario. The kids dad turns out to be the CEO of some greedy conglomerate that runs the city. He was never around for his kids, and it shows. 
 
 Harvey's phone dings. Another delivery. But this one had a note attached to it. "Don't waste my time and I won't waste yours." And a phone number to call. He didn't recognize the area code. 
 
