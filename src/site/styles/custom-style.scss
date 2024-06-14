@@ -80,6 +80,7 @@
     border: var(--border);
     padding: 2px;
     background: var(--background-secondary);
+    font-size: 1rem;
 }
 
 .markdown-rendered thead th {
@@ -134,6 +135,9 @@
     background-color: var(--background-primary);
 }
 
+.markdown-rendered tbody tr>td:nth-child(2n+2) {
+    background-color: none;
+}
 
 
 .markdown-rendered table thead>tr>*:first-child{
