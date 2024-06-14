@@ -71,7 +71,6 @@
 
 > [!attention]- Untagged Notes (`-#on`)
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Home - Publish\|Home - Publish]]
 > 
 { .block-language-dataview}
 

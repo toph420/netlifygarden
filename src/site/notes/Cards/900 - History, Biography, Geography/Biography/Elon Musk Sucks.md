@@ -32,7 +32,7 @@
 - [Elons Antisemitism](https://x.com/eladnehorai/status/1749587328740507737?s=46)
 - [Evan - Men would rather __ than go to therapy](https://x.com/esjesjesj/status/1763064972282568850?s=46)
 - Deposition about patriot front being feds https://www.scribd.com/document/721193667/Elon-Musk-Deposed-In-Lawsuit-For-Falsely-Linking-Jewish-Man-To-Neo-Nazi-Brawl
-
+- ⭐️[Elon Musk has unusual relationships with women at SpaceX, WSJ reports - The Verge](https://t.co/wFT4I5tEe6)
 
 ![Elon Musk Sucks - Elon owned.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elon%20owned.png)
 

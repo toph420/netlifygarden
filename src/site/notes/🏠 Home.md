@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","contentClasses":"mado-table-stripe","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","contentClasses":"mado-table-stripe mado-table","tags":["gardenEntry"]}
 ---
 
 
@@ -71,22 +71,22 @@ Where to go from here:
 > [!note]+ New Notes
 >  | Note                                                                                                                                                  | Status                               |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Star Trek\|Star Trek]]<br><span class='block'>12:20 PM - June 14, 2024</span>                                                       | <span class='center-block'>🌞</span> |
 > | [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]<br><span class='block'>8:31 PM - June 11, 2024</span>                      | <span class='center-block'>🌞</span> |
 > | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>12:26 PM - May 25, 2024</span>           | <span class='center-block'>\-</span> |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]<br><span class='block'>4:32 PM - May 21, 2024</span>   | <span class='center-block'>🌞</span> |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stellaris\|Video Game - Stellaris]]<br><span class='block'>7:05 PM - May 19, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - XCOM 2\|Video Games - XCOM 2]]<br><span class='block'>5:37 PM - May 18, 2024</span>      | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                                                                    | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/700 - Art and Recreation/Food/Food\|Food]]<br><span class='block'>9:52 AM - November 07, 2023</span>                                                                                         | <span class='center-block'>🌞</span> |
-> | [[Cards/Zettels/Transgender youth are far more suicidal than cisgender youth\|Transgender youth are far more suicidal than cisgender youth]]<br><span class='block'>12:13 AM - March 14, 2023</span> | <span class='center-block'>🌿</span> |
-> | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]<br><span class='block'>5:51 PM - March 13, 2023</span>                      | <span class='center-block'>🌿</span> |
-> | [[Cards/Zettels/Nanotechnology in the fight against cancer\|Nanotechnology in the fight against cancer]]<br><span class='block'>5:51 PM - March 13, 2023</span>                                      | <span class='center-block'>🌿</span> |
-> | [[Cards/Zettels/Nanotechnology cleans up oil spills\|Nanotechnology cleans up oil spills]]<br><span class='block'>5:51 PM - March 13, 2023</span>                                                    | <span class='center-block'>🌿</span> |
+>  | Note                                                                                                                                                                        | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]<br><span class='block'>5:00 PM - February 08, 2023</span>                                                 | <span class='center-block'>🌱</span> |
+> | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]]<br><span class='block'>12:06 AM - November 22, 2023</span> | <span class='center-block'>🌱</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/Donald Trump\|Donald Trump]]<br><span class='block'>8:21 PM - June 09, 2023</span>                                 | <span class='center-block'>\-</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/Henry Kissinger\|Henry Kissinger]]<br><span class='block'>12:09 PM - November 30, 2023</span>                      | <span class='center-block'>\-</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/Stanley Kubrick\|Stanley Kubrick]]<br><span class='block'>9:06 AM - December 15, 2023</span>                       | <span class='center-block'>\-</span> |
 > 
 { .block-language-dataview}
 
@@ -103,12 +103,12 @@ Where to go from here:
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                               | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-> | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]<br><span class='block'>12:57 AM - January 09, 2023</span> | <span class='center-block'>🟩</span> |
-> | [[Sources/Readwise/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]<br><span class='block'>4:37 PM - March 13, 2023</span>                                                                                | <span class='center-block'>🟩</span> |
-> | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]<br><span class='block'>2:42 PM - April 13, 2024</span>                                                                                            | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<br><span class='block'>2:40 PM - February 11, 2023</span>                                                                                                                              | <span class='center-block'>🟧</span> |
-> | [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]<br><span class='block'>8:31 AM - December 01, 2022</span>                                                                                                                          | <span class='center-block'>🟧</span> |
+>  | Source                                                                                                                                                                                  | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]]<br><span class='block'>7:48 PM - January 12, 2023</span>                                                      | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Raycast\|Raycast]]<br><span class='block'>12:45 PM - December 07, 2022</span>                                                                              | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<br><span class='block'>2:40 PM - February 11, 2023</span>                                                                                 | <span class='center-block'>🟧</span> |
+> | [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]<br><span class='block'>8:31 AM - December 01, 2022</span>                                                                             | <span class='center-block'>🟧</span> |
+> | [[Sources/🎙 Podcasts/10.1- The International Working Mens Association\|10.1- The International Working Mens Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

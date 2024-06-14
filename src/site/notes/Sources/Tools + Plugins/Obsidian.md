@@ -128,7 +128,6 @@
 > - [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
 > - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
 > - [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
-> - [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|2024-02-15-WJ - Things I Want to Write About]]
 > - [[Calendar/Journal/Daily/2022-10-23\|2022-10-23]]
 > 
 { .block-language-dataview}

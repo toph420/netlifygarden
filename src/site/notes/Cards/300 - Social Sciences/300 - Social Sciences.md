@@ -37,6 +37,7 @@
 > | [[Cards/300 - Social Sciences/Republicans\|Republicans]]                                         | Tracking the clown show of republicans                                                                                                                                             |
 > | [[Cards/300 - Social Sciences/Research about local activism\|Research about local activism]]     | Compiling notes and research about other local activist coalitions and strategies                                                                                                  |
 > | [[Cards/300 - Social Sciences/Socialism\|Socialism]]                                             | A political and economic theory advocating for the collective ownership and control of the means of production, distribution, and exchange of goods and services within a society. |
+> | [[+ Encounters/Star Trek\|Star Trek]]                                                            | Stuff about Star Trek, duh                                                                                                                                                         |
 > | [[Cards/300 - Social Sciences/Tankies\|Tankies]]                                                 | Nites and info related to 'tankies' (often used to describe Marxist-Leninists)                                                                                                     |
 > | [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]                   | Info and links related to the Middle East                                                                                                                                          |
 > | [[Cards/300 - Social Sciences/The War on Transgender People\|The War on Transgender People]]     |                                                                                                                                                                                    |
@@ -54,7 +55,6 @@
 
 > [!attention]- Unrequited Notes
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Home - Publish\|Home - Publish]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]

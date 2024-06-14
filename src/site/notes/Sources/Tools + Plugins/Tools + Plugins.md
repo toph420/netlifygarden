@@ -13,18 +13,18 @@
 > All notes and docs for the tools, plugins, and languages
 
 > [!example]- Latest Tools
->  | Tools                                                                                                                                                                                                                             |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Tools + Plugins/SudoWrite\|SudoWrite]]<span class='summary'>AI powered writing partner</span>                                                                                                                        |
-> | [[Sources/Tools + Plugins/SOL Decoder\|SOL Decoder]]<span class='summary'>Discord bot for Baby AGI and Auto GPT</span>                                                                                                         |
-> | [[Sources/Tools + Plugins/Runway ML\|Runway ML]]<span class='summary'>The company responsible for gen-1 and 2</span>                                                                                                           |
-> | [[Sources/Tools + Plugins/Zotero\|Zotero]]<span class='summary'>Desktop app for keeping track of sources such as papers and journals</span>                                                                                    |
-> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<span class='summary'>Mind blowing storytelling AI tool, wow. From the guide: Subtxt is not the application to write your story, it's an application to _develop_ your story.</span> |
-> | [[Sources/Tools + Plugins/Shortcuts App\|Shortcuts App]]<span class='summary'>Shortcuts for Mac and iOS</span>                                                                                                                 |
-> | [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]]<span class='summary'>Links, tools, and resources related to Stable Diffusion</span>                                                                             |
-> | [[Sources/Tools + Plugins/Pocket Casts\|Pocket Casts]]<span class='summary'>\-</span>                                                                                                                                          |
-> | [[Sources/Tools + Plugins/Readwise Reader\|Readwise Reader]]<span class='summary'>Just the coolest app on the internet</span>                                                                                                  |
-> | [[Sources/Tools + Plugins/Todoist\|Todoist]]<span class='summary'>My current task manager. [Open Todoist](todoist://)</span>                                                                                                   |
+>  | Tools                                                                                                                                                 |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/Tools + Plugins/SudoWrite\|SudoWrite]]<span class='summary'>AI powered writing partner</span>                                            |
+> | [[Sources/Tools + Plugins/SOL Decoder\|SOL Decoder]]<span class='summary'>Discord bot for Baby AGI and Auto GPT</span>                             |
+> | [[Sources/Tools + Plugins/Runway ML\|Runway ML]]<span class='summary'>The company responsible for gen-1 and 2</span>                               |
+> | [[Sources/Tools + Plugins/Zotero\|Zotero]]<span class='summary'>Desktop app for keeping track of sources such as papers and journals</span>        |
+> | [[Sources/Tools + Plugins/Shortcuts App\|Shortcuts App]]<span class='summary'>Shortcuts for Mac and iOS</span>                                     |
+> | [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]]<span class='summary'>Links, tools, and resources related to Stable Diffusion</span> |
+> | [[Sources/Tools + Plugins/Pocket Casts\|Pocket Casts]]<span class='summary'>\-</span>                                                              |
+> | [[Sources/Tools + Plugins/Readwise Reader\|Readwise Reader]]<span class='summary'>Just the coolest app on the internet</span>                      |
+> | [[Sources/Tools + Plugins/Todoist\|Todoist]]<span class='summary'>My current task manager. [Open Todoist](todoist://)</span>                       |
+> | [[Sources/Tools + Plugins/Obsidian\|Obsidian]]<span class='summary'>The Holy Grail of Second Brains</span>                                         |
 > 
 { .block-language-dataview}
 

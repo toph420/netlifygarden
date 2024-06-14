@@ -25,6 +25,7 @@
 ## Twitter Movie People
 - [Emir Han](https://x.com/realemirhan?s=21&t=ltXPd0UXMbjM40a6oiE7aQ) - great lists in his comments
 - [Taste of Cinema](https://x.com/davidcinema?s=21)
+- [Depressed Bergman](https://x.com/dannydrinkswine?s=21)
 ## To Watch
 - [All watched over by machines of loving grace - Adam Curtis](https://topdocumentaryfilms.com/all-watched-over-by-machines-of-loving-grace/)
 - [All Wars are Bankers Wars documentary](https://x.com/inversionism/status/1711161404772806973?s=61&t=gyRX2W0x81b80X8f34EMoQ)

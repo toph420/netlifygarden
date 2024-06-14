@@ -13,7 +13,9 @@
 
 # 🖋 Writing
 
-> [!Example]+ Jumpin[](AI%20Writing.md)Journal]]
+> [!Example]+ 
+> Jumping off points:
+> - [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]]
 > - [[My Poetry\|My Poetry]]
 > - [NaNoWriMo](https://nanowrimo.org/)
 > - **Prompts**
@@ -58,6 +60,7 @@
 >  | Note                                                                                                                                                                                                     |
 > | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[Cards/600 - Applied Sciences/Writing/Writing a Book is a 5 Step process\|Writing a Book is a 5 Step process]]<span class='summary'>\-</span><span class='block'>12:27 PM - December 01, 2022</span> |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]<span class='summary'>Can AI really be a tool in creative writing?</span><span class='block'>12:39 PM - November 30, 2022</span> |
 > 
 { .block-language-dataview}
 
@@ -73,9 +76,6 @@
 
 > [!links]+ Unrequited Notes (`-#on/writing`)
 >  - [[Sources/Readwise/📰 Articles/How I Plan and Write Fiction in Obsidian by Vanessa Glau\|How I Plan and Write Fiction in Obsidian by Vanessa Glau]]
-> - [[Extras/Templates/Template, Writing Journal\|Template, Writing Journal]]
-> - [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|2024-06-11-WJ - My First Writing Entry]]
-> - [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|2024-02-15-WJ - Things I Want to Write About]]
 > - [[Calendar/Ideas/Idea - Airbnb Lady\|Idea - Airbnb Lady]]
 > 
 { .block-language-dataview}

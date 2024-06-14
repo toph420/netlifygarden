@@ -3,9 +3,10 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Writing Journal\|Writing Journal]]
-> **type**:[](🖋%20Writing%20Journal.md)l.md)*topics**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
-> **tags**:[](🖋%20Writing%20Journal.md)I Want to Write About
+> **up**:: [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]]
+> **type**:: #log/writing 
+> **topics**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+> **tags**:: #on/writing
 
 Man I've got soooo many things I want to write about. Here's a quick list of a bunch of different stuff I want to share with you guys:
 

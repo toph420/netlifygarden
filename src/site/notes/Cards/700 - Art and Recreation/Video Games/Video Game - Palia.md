@@ -21,7 +21,7 @@
 - [Palia Interactive Map | palia.th.gl](https://palia.th.gl/en/Kilima%20Valley) - find any of the bugs, nodes, items on the map
 	- [Daily Rummage Pile](https://palia.th.gl/en/rummage-pile)
 
-[[+ Encounters/Stuff to do in Palia\|Stuff to do in Palia]]
+[[Cards/700 - Art and Recreation/Video Games/Stuff to do in Palia\|Stuff to do in Palia]]
 
 [Bundle Tracker - Palia Tracker](https://www.paliatracker.com/bundles)
 ## Beginner Tips

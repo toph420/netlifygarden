@@ -12,7 +12,8 @@
 >> **links**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[Writing Fiction with AI\|Writing Fiction with AI]], [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
 >
 >> [!metadata]- Info
->> **A[](AI%20Writing.md)btxt"
+>> **Author**: 
+>> **Title**: "Subtxt"
 >> **URL**: https://subtxt.app/
 
 # Subtxt

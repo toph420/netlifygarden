@@ -4,9 +4,10 @@
 
 
 > [!metadata]- Meta
-> **up**:: [[Writing Journal\|Writing Journal]]
-> **type**:[](🖋%20Writing%20Journal.md)l.md)*topics**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
-> **tags**:[](🖋%20Writing%20Journal.md)st Writing Entry
+> **up**:: [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]]
+> **type**:: #log/writing
+> **topics**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+> **tags**:: #on/writing
 
 ## Task 1: Why Write?
 

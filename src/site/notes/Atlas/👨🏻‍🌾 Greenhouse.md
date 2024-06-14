@@ -14,6 +14,7 @@
 > Give these babies some love
 >  | Maps                                                                                                                         | Summary                                                                                                                                                                                                        |
 > | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Star Trek\|Star Trek]]                                                                                     | Stuff about Star Trek, duh                                                                                                                                                                                     |
 > | [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]                                                   | Obsidian Publish info and tips                                                                                                                                                                                 |
 > | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]                                        | A collection of stuff related to Lovecraft                                                                                                                                                                     |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]                               | Tips and tricks for Rimworld                                                                                                                                                                                   |
@@ -31,7 +32,6 @@
 > | [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]]                                                  | Cool type sites and inspo                                                                                                                                                                                      |
 > | [[+ Encounters/Cybersyn Project\|Cybersyn Project]]                                                                       | Allende implemented this distribution decision support system to aid in management of the national economy                                                                                                     |
 > | [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]                                              | All things related to Marx and Marxism                                                                                                                                                                         |
-> | [[+ Encounters/Stuff to do in Palia\|Stuff to do in Palia]]                                                               | Todo list for Palia                                                                                                                                                                                            |
 > | [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]]                                    | {{VALUE:Summary}}                                                                                                                                                                                              |
 > | [[+ Encounters/Racism\|Racism]]                                                                                           | {{VALUE:Summary}}                                                                                                                                                                                              |
 > | [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]                                                                  | Stuff about bail reform                                                                                                                                                                                        |
@@ -43,11 +43,13 @@
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rune factory 4\|Video Game - Rune factory 4]]                   | Rune factory 4 guides, tips, and tricks                                                                                                                                                                        |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Video Assets\|Video Assets]]                                                    | Assets, textures, graphics, effects for video editing                                                                                                                                                          |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Divinity Original Sin 2\|Video Game - Divinity Original Sin 2]] | {{VALUE:Summary}}                                                                                                                                                                                              |
+> | [[Cards/900 - History, Biography, Geography/Biography/Stanley Kubrick\|Stanley Kubrick]]                                  | The legendary film director                                                                                                                                                                                    |
 > | [[Spaces/🦆 Ducks Apparel/Areas/Research/T-Shirt Design Inspiration\|T-Shirt Design Inspiration]]                         | Curation of dope designs and shops selling good shirts                                                                                                                                                         |
 > | [[Spaces/🦆 Ducks Apparel/Areas/Research/Building an Etsy Shop\|Building an Etsy Shop]]                                   | My research related to building an Etsy shop                                                                                                                                                                   |
 > | [[Cards/700 - Art and Recreation/Movies and TV/Watchlist\|Watchlist]]                                                     | This is more for random videos and shorts I need to watch                                                                                                                                                      |
 > | [[+ Encounters/Theory of Values\|Theory of Values]]                                                                       | {{VALUE:Summary}}                                                                                                                                                                                              |
 > | [[Cards/700 - Art and Recreation/Video Games/The Long Dark\|The Long Dark]]                                               | The Long Dark is a first-person survival game set in a post-apocalyptic frozen wilderness where players must navigate harsh weather conditions, scavenging for resources, and avoiding wildlife to stay alive. |
+> | [[Cards/900 - History, Biography, Geography/Biography/Henry Kissinger\|Henry Kissinger]]                                  | Villain of all villains                                                                                                                                                                                        |
 > | [[Cards/700 - Art and Recreation/Procreate/Procreate\|Procreate]]                                                         | THe ultimate drawing app for iPad                                                                                                                                                                              |
 > | [[Cards/600 - Applied Sciences/Technology/AI/Open AI\|Open AI]]                                                           | Open AI is an artificial intelligence research lab focused on creating safe and beneficial AI technology for the betterment of humanity.                                                                       |
 > | [[Cards/100 - Personal Management/💪 Health/Working Out\|Working Out]]                                                    | \-                                                                                                                                                                                                             |
@@ -62,8 +64,6 @@
 > | [[Cards/900 - History, Biography, Geography/Biography/Annie Altman \|Annie Altman ]]                                      | Sam Altmans sister, accusations of abuse                                                                                                                                                                       |
 > | [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]                                            | Info and links related to the Middle East                                                                                                                                                                      |
 > | [[Cards/500 - Natural Sciences/ACNES\|ACNES]]                                                                             | Anterior cutaneous nerve entrapment                                                                                                                                                                            |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/Vault - John Mavrick\|Vault - John Mavrick]]                           | John's vault is full of great templates for everyday use and interesting uses of different plugins                                                                                                             |
-> | [[Cards/900 - History, Biography, Geography/Geography and Travel/Travel\|Travel]]                                         | Curating all notes related to travel                                                                                                                                                                           |
 > 
 { .block-language-dataview}
 
@@ -73,16 +73,16 @@
 > 
 >  | Notes                                                                                                            |
 > | ---------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                |
+> | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]] |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                                               |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]                                   |
 > | [[Atlas/📥 Sources\|📥 Sources]]                                                                              |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Video Titles\|Video Titles]]                                        |
 > | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                                        |
 > | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]                      |
-> | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]] |
 > | [[Cards/100 - Personal Management/💪 Health/HIIT Workouts\|HIIT Workouts]]                                    |
 > | [[Cards/100 - Personal Management/💪 Health/🧘‍♂️ Yoga\|🧘‍♂️ Yoga]]                                          |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]                                         |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                                               |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]]                                                 |
 > 
 { .block-language-dataview}
 
@@ -90,6 +90,7 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                                           |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                                        |
 > | [[Cards/Zettels/Transgender youth are far more suicidal than cisgender youth\|Transgender youth are far more suicidal than cisgender youth]] |
 > | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]                     |
 > | [[Cards/Zettels/Nanotechnology in the fight against cancer\|Nanotechnology in the fight against cancer]]                                     |
@@ -99,7 +100,6 @@
 > | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]                                                              |
 > | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                                                   |
 > | [[Cards/Zettels/Computers are machines that do math and humans are not\|Computers are machines that do math and humans are not]]             |
-> | [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]                                                              |
 > 
 { .block-language-dataview}
 

@@ -55,7 +55,7 @@ LIMIT 1
 
 | Entries                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/Journal/Daily/2024-06-13\|2024-06-13]]<span class='summary'>\-</span><span class='block'>June 13, 2024</span> |
+| [[Calendar/Journal/Daily/2024-06-14\|2024-06-14]]<span class='summary'>\-</span><span class='block'>June 14, 2024</span> |
 
 { .block-language-dataview}
 

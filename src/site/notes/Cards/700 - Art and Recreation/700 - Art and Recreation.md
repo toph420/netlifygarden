@@ -60,6 +60,7 @@
 > [!NOTE]+ 📝 Notes (`#on/art or #on/recreation`)
 >  | Note                                                                                                                         |
 > | ---------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/700 - Art and Recreation/Video Games/Stuff to do in Palia\|Stuff to do in Palia]]                                 |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - XCOM 2\|Video Game - XCOM 2]]                                   |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Sun Haven\|Video Game - Sun Haven]]                             |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stellaris\|Video Game - Stellaris]]                             |
@@ -104,7 +105,6 @@
 
 > [!attention]+ Unrequited Notes (`-#on/art or #on/recreation`)
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Home - Publish\|Home - Publish]]
 > - [[Cards/700 - Art and Recreation/Food/Food\|Food]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > 

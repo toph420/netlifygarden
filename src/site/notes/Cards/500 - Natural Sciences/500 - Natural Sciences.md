@@ -60,7 +60,6 @@
 
 > [!attention]+ Unrequited Notes (`-#on/naturalsciences`)
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Home - Publish\|Home - Publish]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > 
 { .block-language-dataview}
