@@ -131,13 +131,15 @@
     background: none;
 }
 
+
+.markdown-rendered tbody tr>td:nth-child(2n+2) {
+    background-color: var(--background-fourth);
+}
+
 .markdown-rendered table tr:nth-child(2n) td {
     background-color: var(--background-primary);
 }
 
-.markdown-rendered tbody tr>td:nth-child(2n+2) {
-
-}
 
 
 .markdown-rendered table thead>tr>*:first-child{
@@ -156,7 +158,3 @@
 	border-radius:0 0 4px 0;
 }
 
-
-.markdown-rendered tbody tr>td:nth-child(2n+2) {
-    background-color: var(--background-fourth);
-}
