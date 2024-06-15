@@ -10,8 +10,6 @@
 > topics:: [[Greed\|Greed]], [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]
 > links::
 
----
-
 # DeVos Family Rumors
 
 - [Reddit Thread](https://www.reddit.com/r/grandrapids/comments/zc1z1o/what_rumors_have_you_heard_about_the_devos_family/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)

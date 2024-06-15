@@ -10,7 +10,6 @@
 > topics:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 > links::
 
----
 
 # Idea - Airbnb Lady
 
