@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
+> **up**:: [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  
@@ -13,12 +13,12 @@
 
 # Racism
 
-> {{VALUE:Summary}}
+> Notes related to or discussing racism
 
 ## “Race Science”
 - [Debunking race science graphs](https://x.com/kareem_carr/status/1771906172762607647?s=46)
 
 
 ---
-up:: [[🏠 Home\|🏠 Home]]
+up:: [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
 
