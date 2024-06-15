@@ -22,9 +22,9 @@
 > | [[Sources/Tools + Plugins/Shortcuts App\|Shortcuts App]]<span class='summary'>Shortcuts for Mac and iOS</span>                                     |
 > | [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]]<span class='summary'>Links, tools, and resources related to Stable Diffusion</span> |
 > | [[Sources/Tools + Plugins/Pocket Casts\|Pocket Casts]]<span class='summary'>\-</span>                                                              |
+> | [[Sources/Tools + Plugins/OBS\|OBS]]<span class='summary'>\-</span>                                                                                |
 > | [[Sources/Tools + Plugins/Readwise Reader\|Readwise Reader]]<span class='summary'>Just the coolest app on the internet</span>                      |
 > | [[Sources/Tools + Plugins/Todoist\|Todoist]]<span class='summary'>My current task manager. [Open Todoist](todoist://)</span>                       |
-> | [[Sources/Tools + Plugins/Obsidian\|Obsidian]]<span class='summary'>The Holy Grail of Second Brains</span>                                         |
 > 
 { .block-language-dataview}
 

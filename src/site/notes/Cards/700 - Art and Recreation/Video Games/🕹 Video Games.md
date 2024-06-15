@@ -81,6 +81,8 @@
 - **Dragon quest builders 2**
 - **[[Cards/700 - Art and Recreation/Video Games/Video Game - Rune factory 4\|Video Game - Rune factory 4]]**
 - Fae farm 
+- Little known galaxy - stardew in space
+- Echoes o
 
 ## Survival 
 - [Best Survival Games on Console in 2023](https://youtu.be/p-ZuyIwlXgk?si=s5Nfp2pFw7mg_ALs)

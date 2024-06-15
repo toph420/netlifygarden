@@ -73,24 +73,24 @@ Where to go from here:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                                  | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Star Trek\|Star Trek]]<br><span class='block'>12:20 PM - June 14, 2024</span>                                                       | <span class='center-block'>🌞</span> |
-> | [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]<br><span class='block'>8:31 PM - June 11, 2024</span>                      | <span class='center-block'>🌞</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>12:26 PM - May 25, 2024</span>           | <span class='center-block'>\-</span> |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]<br><span class='block'>4:32 PM - May 21, 2024</span>   | <span class='center-block'>🌞</span> |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stellaris\|Video Game - Stellaris]]<br><span class='block'>7:05 PM - May 19, 2024</span> | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                   | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+> | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|MAGA Planet]]<br><span class='block'>3:57 PM - June 15, 2024</span>                                   | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Characters\|Character Ideas]]<br><span class='block'>3:54 PM - June 15, 2024</span>                                | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|Scenes Ideas]]<br><span class='block'>3:52 PM - June 15, 2024</span>                                  | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Documentary Ideas\|Documentary Ideas]]<br><span class='block'>3:49 PM - June 15, 2024</span>                       | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Miscellaneous Online threads\|Miscellaneous Online Threads]]<br><span class='block'>3:47 PM - June 15, 2024</span> | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                            | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/700 - Art and Recreation/Videos\|🎥 Videos]]<br><span class='block'>11:44 PM - February 10, 2023</span>                                              | <span class='center-block'>🌱</span> |
-> | [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]<br><span class='block'>10:02 AM - November 23, 2022</span>                                 | <span class='center-block'>🌱</span> |
-> | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]<br><span class='block'>4:25 PM - January 23, 2023</span>                      | <span class='center-block'>🌿</span> |
-> | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]<br><span class='block'>5:52 PM - November 09, 2022</span> | <span class='center-block'>🌿</span> |
-> | [[Cards/700 - Art and Recreation/Funny/🤣 LOL\|LOL]]<br><span class='block'>12:42 AM - November 17, 2022</span>                                              | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                       | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]<br><span class='block'>7:27 PM - April 09, 2023</span>                    | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Aphantasia\|Aphantasia]]<br><span class='block'>10:04 AM - June 15, 2024</span>                                                          | <span class='center-block'>🌞</span> |
+> | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]<br><span class='block'>10:05 AM - March 10, 2023</span> | <span class='center-block'>🌞</span> |
+> | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]<br><span class='block'>4:18 PM - November 09, 2022</span>                             | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Videos\|🎥 Videos]]<br><span class='block'>11:44 PM - February 10, 2023</span>                                         | <span class='center-block'>🌱</span> |
 > 
 { .block-language-dataview}
 

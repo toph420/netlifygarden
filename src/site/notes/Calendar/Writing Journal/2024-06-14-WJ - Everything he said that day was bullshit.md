@@ -12,7 +12,7 @@
 
 ## Task 1: Stream of Consciousness
 
-*Write for 10mins without stopping prompted by these words: contest, goad, entreat, miniature, slimy, brooch, wind, club*
+> Write for 10mins without stopping prompted by these words: contest, goad, entreat, miniature, slimy, brooch, wind, club
 
 Every year the guy that lives in the apartment above me holds a hotdog eating contest in our backyard. This dude never leaves the house, but somehow holds the biggest neighborhood event of the year. He must spend all year, alone in that slimy miniature apartment planning this god awful soiree. On the same day, at the same time, every single year I get an obnoxious musical knock on my door. "Mr. Brian, I entreat you to join us this for the big day, we'll be handing out free Hotdog brooches!" Maybe if I appease this guys attempt to goad me into this asinine event he'll let me off the hook next year. Or maybe I should move. 
 

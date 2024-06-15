@@ -6,7 +6,7 @@
 > **up**:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
 > **type**:: #log/code 
 > **tags**:: #on/snippets 
-> **language**:: [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]], [[Sources/Tools + Plugins/TypeScript\|TypeScript]]
+> **language**:: [[Sources/Tools + Plugins/Plugin - Templater\|Templater]], [[Sources/Tools + Plugins/TypeScript\|TypeScript]]
 > **program**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 > **topics**:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
 

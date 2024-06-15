@@ -32,6 +32,7 @@
 - [Stephan Ango](https://stephanango.com/)
 - [John Mavricks](https://notes.johnmavrick.com/)
 - [Derek Sivers](https://sive.rs/)
+- [Javalent](https://plugins.javalent.com/leaflet/coordinates) - interesting garden of plugins and experiments
 
 ## Collections
 

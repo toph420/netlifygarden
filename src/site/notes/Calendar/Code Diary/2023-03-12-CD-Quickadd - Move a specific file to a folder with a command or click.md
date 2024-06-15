@@ -6,7 +6,7 @@
 > **up**:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
 > **type**:: #log/code 
 > **tags**:: #on/snippets 
-> **language**:: [[Quickadd\|Quickadd]]
+> **language**:: [[Sources/Tools + Plugins/Plugin - Quickadd\|Quickadd]]
 > **program**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 > **topics**:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
 

@@ -6,7 +6,7 @@
 > **up**:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
 > **type**:: #log/code 
 > **tags**:: #on/snippets 
-> **language**:: [[Dataview\|Dataview]]
+> **language**:: [[Sources/Tools + Plugins/Plugin - Dataview\|Dataview]]
 > **program**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 > **topics**:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
 
