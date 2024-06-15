@@ -35,9 +35,9 @@
 | [[Calendar/Ideas/2024-06-15-IJ - Documentary Ideas\|2024-06-15-IJ - Documentary Ideas]]<span class='summary'>Running list of documentary ideas</span>                                                                                                           |
 | [[Calendar/Ideas/2024-06-15-IJ - Miscellaneous Online threads\|2024-06-15-IJ - Miscellaneous Online threads]]<span class='summary'>A collection of story ideas from various online conversations, twitter threads, reddit threads</span>                        |
 | [[Calendar/Ideas/2024-06-15-IJ - Hasans Chat\|2024-06-15-IJ - Hasans Chat]]<span class='summary'>Make a short based on Hasans live stream chat box. Record and transcribe it </span>                                                                            |
-| [[Calendar/Ideas/2024-06-15-IJ - Ideas Based on Podcasts\|2024-06-15-IJ - Ideas Based on Podcasts]]<span class='summary'>A running list of podcasts/episodes for story inspiration</span>                                                                       |
+| [[Calendar/Ideas/2024-06-15-IJ - Ideas Based on Podcasts\|2024-06-15-IJ - Ideas Based on Podcasts]]<span class='summary'>A running list of podcasts/episodes for story and character inspiration</span>                                                         |
 | [[Calendar/Ideas/2024-06-15-IJ - Black Eyes album film\|2024-06-15-IJ - Black Eyes album film]]<span class='summary'>Make a movie inspired by the Black Eyes album</span>                                                                                       |
-| [[Calendar/Ideas/2024-06-15-IJ - Blue Whale Horror\|2024-06-15-IJ - Blue Whale Horror]]<span class='summary'>Disturbing online 'game' that tells people to kill themselves</span>                                                                               |
+| [[Calendar/Ideas/2024-06-15-IJ - Blue Whale Challenge\|2024-06-15-IJ - Blue Whale Challenge]]<span class='summary'>Disturbing online 'game' that encourages people to do messed up stuff</span>                                                                 |
 | [[Calendar/Ideas/2024-06-15-IJ - The House Knows\|2024-06-15-IJ - The House Knows]]<span class='summary'>A house that knows the people inside are moving away</span>                                                                                            |
 
 { .block-language-dataview}

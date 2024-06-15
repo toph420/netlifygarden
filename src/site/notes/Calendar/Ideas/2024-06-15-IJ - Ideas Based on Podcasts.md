@@ -12,7 +12,7 @@
 
 # Ideas Based on Podcasts
 
-> A running list of podcasts/episodes for story inspiration
+> A running list of podcasts/episodes for story and character inspiration
 
 - Michael Barbaro from The Daily biopic
 
