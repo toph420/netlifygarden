@@ -28,11 +28,10 @@
 
 //MULTICOLUMN FIXES
 
-div[data-callout=multi-column].callout .callout-content > p:first-child {
+div[data-callout=multi-column].callout > .callout-content > p:first-child {
     display: none;
 }
-  
-  
+
   /* Custom Table fields */
   
   .markdown-rendered .client,
