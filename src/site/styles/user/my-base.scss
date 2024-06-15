@@ -234,6 +234,11 @@ ul.task-list {
     .backlink {
         margin-left: 5px;
     }
+    
+    svg.lucide.lucide-link.svg-icon {
+        position: relative;
+        top: 4px;
+    }
 }
 
 .no-backlinks-message {
