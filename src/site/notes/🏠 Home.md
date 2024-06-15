@@ -84,35 +84,35 @@ Where to go from here:
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                                        | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]<br><span class='block'>5:00 PM - February 08, 2023</span>                                                 | <span class='center-block'>🌱</span> |
-> | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]]<br><span class='block'>12:06 AM - November 22, 2023</span> | <span class='center-block'>🌱</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/Donald Trump\|Donald Trump]]<br><span class='block'>8:21 PM - June 09, 2023</span>                                 | <span class='center-block'>\-</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/Henry Kissinger\|Henry Kissinger]]<br><span class='block'>12:09 PM - November 30, 2023</span>                      | <span class='center-block'>\-</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/Stanley Kubrick\|Stanley Kubrick]]<br><span class='block'>9:06 AM - December 15, 2023</span>                       | <span class='center-block'>\-</span> |
+>  | Note                                                                                                                                                            | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Videos\|🎥 Videos]]<br><span class='block'>11:44 PM - February 10, 2023</span>                                              | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]<br><span class='block'>10:02 AM - November 23, 2022</span>                                 | <span class='center-block'>🌱</span> |
+> | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]<br><span class='block'>4:25 PM - January 23, 2023</span>                      | <span class='center-block'>🌿</span> |
+> | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]<br><span class='block'>5:52 PM - November 09, 2022</span> | <span class='center-block'>🌿</span> |
+> | [[Cards/700 - Art and Recreation/Funny/🤣 LOL\|LOL]]<br><span class='block'>12:42 AM - November 17, 2022</span>                                              | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                   | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]<br><span class='block'>2:42 PM - April 13, 2024</span>                                                | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]<br><span class='block'>12:06 AM - March 27, 2024</span>                                     | <span class='center-block'>🟧</span> |
-> | [[Sources/🎙 Podcasts/10.1- The International Working Mens Association\|10.1- The International Working Men's Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/ComfyUI\|ComfyUI]]<br><span class='block'>5:07 PM - October 24, 2023</span>                                                                                 | <span class='center-block'>🟧</span> |
-> | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>11:43 PM - September 01, 2023</span>                                                                                   | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                       | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]<br><span class='block'>2:42 PM - April 13, 2024</span>                                    | <span class='center-block'>🟥</span> |
+> | [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]<br><span class='block'>12:06 AM - March 27, 2024</span>                         | <span class='center-block'>🟧</span> |
+> | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Men's Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/ComfyUI\|ComfyUI]]<br><span class='block'>5:07 PM - October 24, 2023</span>                                                                     | <span class='center-block'>🟧</span> |
+> | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>11:43 PM - September 01, 2023</span>                                                                       | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                  | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]]<br><span class='block'>7:48 PM - January 12, 2023</span>                                                      | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Raycast\|Raycast]]<br><span class='block'>12:45 PM - December 07, 2022</span>                                                                              | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<br><span class='block'>2:40 PM - February 11, 2023</span>                                                                                 | <span class='center-block'>🟧</span> |
-> | [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]<br><span class='block'>8:31 AM - December 01, 2022</span>                                                                             | <span class='center-block'>🟧</span> |
-> | [[Sources/🎙 Podcasts/10.1- The International Working Mens Association\|10.1- The International Working Mens Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                      | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Mens Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]]<br><span class='block'>7:48 PM - January 12, 2023</span>                                          | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Raycast\|Raycast]]<br><span class='block'>12:45 PM - December 07, 2022</span>                                                                  | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<br><span class='block'>2:40 PM - February 11, 2023</span>                                                                     | <span class='center-block'>🟧</span> |
+> | [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]<br><span class='block'>8:31 AM - December 01, 2022</span>                                                                 | <span class='center-block'>🟧</span> |
 > 
 { .block-language-dataview}

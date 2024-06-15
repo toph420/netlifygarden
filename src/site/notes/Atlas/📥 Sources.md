@@ -47,7 +47,7 @@
 > ## 🎙 Podcasts
 >  | File                                                                                                                                                                    |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/🎙 Podcasts/10.1- The International Working Mens Association\|10.1- The International Working Mens Association]]                                           |
+> | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Mens Association]]                                                       |
 > | [[Sources/🎙 Podcasts/Cristobal Valenzuela - The Next Generation of Content Creation and AI\|Cristobal Valenzuela - The Next Generation of Content Creation and AI]] |
 > | [[Sources/🎙 Podcasts/Robotic Dexterity and Collaboration With Monroe Kennedy III - 619\|Robotic Dexterity and Collaboration With Monroe Kennedy III - 619]]         |
 > | [[Sources/🎙 Podcasts/Elon Musks Appetite for Destruction\|Elon Musks Appetite for Destruction]]                                                                     |

@@ -7,11 +7,9 @@
 > **type**:: #📝 
 > **status**:: #📝/🌿 
 > **tags**::  #on/music
-> **topics**:: [[Cards/600 - Applied Sciences/Music\|Music]], [[Spaces/🦆 Ducks Films/🦆 Ducks Films\|🦆 Ducks Films]]
+> **topics**:: [[Music\|Music]], [[Spaces/🦆 Ducks Films/🦆 Ducks Films\|🦆 Ducks Films]]
 
-# Music for Videos
-
-> All the dope music I come across that might be good to use in a video
+# Music for [](Music.md) All the dope music I come across that might be good to use in a video
 
 
 ## Links

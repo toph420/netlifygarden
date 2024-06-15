@@ -7,8 +7,8 @@
 > type:: #📝 
 > status:: #📝/🌱 
 > tags::  #on/music
-> topics:: [[Cards/600 - Applied Sciences/Music\|Music]]
-> links:: [[Keaton\|Keaton]]
+> topics:: [[Music\|Music]]
+> links:: [[](Music.md)
 
 # 🎧 My Music
 
@@ -20,6 +20,7 @@
 ### Recommendations
 -  #genre/RnB[Zack Fox](https://www.youtube.com/watch?v=khIOh7EzIl4)
 - Lil Yachty new album 2023
+- [Girl with Fish - Album by feeble little horse | Spotify](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT?si=qZ1OULHWTnizhHXNYw1Mxw)
 
 ---
 

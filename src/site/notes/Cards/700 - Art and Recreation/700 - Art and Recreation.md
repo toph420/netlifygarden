@@ -85,6 +85,8 @@
 > | [[Cards/700 - Art and Recreation/Internet Cretors/H3 Podcast\|H3 Podcast]]                                                |
 > | [[Cards/700 - Art and Recreation/Food/Food\|Food]]                                                                        |
 > | [[Cards/700 - Art and Recreation/Digital Drawing\|Digital Drawing]]                                                       |
+> | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]                        |
+> | [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]                                                    |
 > | [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]]                                                  |
 > | [[Cards/700 - Art and Recreation/Art and Design/The Origins of Art\|The Origins of Art]]                                  |
 > | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                            |
@@ -105,7 +107,10 @@
 
 > [!attention]+ Unrequited Notes (`-#on/art or #on/recreation`)
 >  - [[🏠 Home\|🏠 Home]]
+> - [[Cards/700 - Art and Recreation/Funny/🤣 LOL\|🤣 LOL]]
 > - [[Cards/700 - Art and Recreation/Food/Food\|Food]]
+> - [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]
+> - [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > 
 { .block-language-dataview}

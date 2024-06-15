@@ -73,16 +73,16 @@
 > 
 >  | Notes                                                                                                            |
 > | ---------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/700 - Art and Recreation/Videos\|Videos]]                                                             |
+> | [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]                                             |
+> | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]            |
+> | [[Cards/600 - Applied Sciences/Filmmaking/Sound Effects\|Sound Effects]]                                      |
 > | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                |
 > | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]] |
 > | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                                               |
 > | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]                                   |
 > | [[Atlas/📥 Sources\|📥 Sources]]                                                                              |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Video Titles\|Video Titles]]                                        |
-> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                                        |
-> | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]                      |
-> | [[Cards/100 - Personal Management/💪 Health/HIIT Workouts\|HIIT Workouts]]                                    |
-> | [[Cards/100 - Personal Management/💪 Health/🧘‍♂️ Yoga\|🧘‍♂️ Yoga]]                                          |
 > 
 { .block-language-dataview}
 
@@ -90,6 +90,8 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                                           |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]                                                               |
+> | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]                                           |
 > | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                                        |
 > | [[Cards/Zettels/Transgender youth are far more suicidal than cisgender youth\|Transgender youth are far more suicidal than cisgender youth]] |
 > | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]                     |
@@ -98,8 +100,6 @@
 > | [[Cards/100 - Personal Management/👯 CRM\|👯 CRM]]                                                                                           |
 > | [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]                                                                                             |
 > | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]                                                              |
-> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                                                   |
-> | [[Cards/Zettels/Computers are machines that do math and humans are not\|Computers are machines that do math and humans are not]]             |
 > 
 { .block-language-dataview}
 

@@ -4,7 +4,7 @@
 
 
 > [!metadata]- Meta
-> up:: [[🏠 Home\|🏠 Home]]
+> up:: [[Cards/700 - Art and Recreation/700 - Art and Recreation\|700 - Art and Recreation]]
 > type:: #🗺 
 > status:: #📝/🌞
 > tags::  #on/lol 
@@ -26,4 +26,4 @@ See my [LOL Raindrop collection](https://raindrop.io/tophg/lol-35164069) for mor
 
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/tophg/lol-35164069/embed/sort=-created&theme=dark"></iframe>
 ---
-up:: [[🏠 Home\|🏠 Home]]
+up:: [[Cards/700 - Art and Recreation/700 - Art and Recreation\|700 - Art and Recreation]]
