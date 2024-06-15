@@ -63,6 +63,7 @@
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
 > - [[Atlas/📚 Library\|📚 Library]]
+> - [[+ Encounters/Racism\|Racism]]
 > - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
 > 
 { .block-language-dataview}

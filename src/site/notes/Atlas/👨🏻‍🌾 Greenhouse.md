@@ -57,7 +57,7 @@
 > | [[+ Encounters/Cybersyn Project\|Cybersyn Project]]                                                                   | Allende implemented this distribution decision support system to aid in management of the national economy                                                                                                                                                                                                  |
 > | [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]                                          | All things related to Marx and Marxism                                                                                                                                                                                                                                                                      |
 > | [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]]                                | {{VALUE:Summary}}                                                                                                                                                                                                                                                                                           |
-> | [[+ Encounters/Racism\|Racism]]                                                                                       | {{VALUE:Summary}}                                                                                                                                                                                                                                                                                           |
+> | [[+ Encounters/Racism\|Racism]]                                                                                       | Notes related to or discussing racism                                                                                                                                                                                                                                                                       |
 > | [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]                                                              | Stuff about bail reform                                                                                                                                                                                                                                                                                     |
 > | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]                                  | Speaks for itself, it’s almost too late!                                                                                                                                                                                                                                                                    |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Palia\|Video Game - Palia]]                                 | {{VALUE:Summary}}                                                                                                                                                                                                                                                                                           |
@@ -73,6 +73,8 @@
 > 
 >  | Notes                                                                                                            |
 > | ---------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]                      |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                              |
 > | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                                        |
 > | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]                                             |
 > | [[Cards/700 - Art and Recreation/Videos\|Videos]]                                                             |
@@ -81,8 +83,6 @@
 > | [[Cards/600 - Applied Sciences/Filmmaking/Sound Effects\|Sound Effects]]                                      |
 > | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                |
 > | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]] |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                                               |
-> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]                                   |
 > 
 { .block-language-dataview}
 
@@ -90,6 +90,9 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                                           |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]                                             |
+> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]                                                              |
+> | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                                                                 |
 > | [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]                                                                                             |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]                                                               |
 > | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]                                           |
@@ -97,9 +100,6 @@
 > | [[Cards/Zettels/Transgender youth are far more suicidal than cisgender youth\|Transgender youth are far more suicidal than cisgender youth]] |
 > | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]                     |
 > | [[Cards/Zettels/Nanotechnology in the fight against cancer\|Nanotechnology in the fight against cancer]]                                     |
-> | [[Cards/Zettels/Nanotechnology cleans up oil spills\|Nanotechnology cleans up oil spills]]                                                   |
-> | [[Cards/100 - Personal Management/👯 CRM\|👯 CRM]]                                                                                           |
-> | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]                                                              |
 > 
 { .block-language-dataview}
 

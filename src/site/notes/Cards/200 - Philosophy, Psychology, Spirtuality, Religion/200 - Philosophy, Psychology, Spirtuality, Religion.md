@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/200-philosophy-psychology-spirtuality-religion/200-philosophy-psychology-spirtuality-religion/","title":"200 - Philosophy, Psychology, Spirituality, Religion"}
+{"dg-publish":true,"permalink":"/cards/200-philosophy-psychology-spirtuality-religion/200-philosophy-psychology-spirtuality-religion/","title":"Philosophy, Psychology, Spirituality, Religion"}
 ---
 
 > [!metadata]- Meta

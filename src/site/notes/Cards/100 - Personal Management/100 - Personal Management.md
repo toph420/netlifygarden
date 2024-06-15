@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/100-personal-management/100-personal-management/","title":"100 - Personal Management"}
+{"dg-publish":true,"permalink":"/cards/100-personal-management/100-personal-management/","title":"Personal Management"}
 ---
 
 > [!metadata]- Meta
