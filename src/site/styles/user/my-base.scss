@@ -461,7 +461,7 @@ ul.task-list {
     max-width: 80%;
     width: 900px;
     border-radius: 15px;
-    padding: 10px;
+    padding: 20px;
     height: fit-content;
 }
 
@@ -470,7 +470,7 @@ ul.task-list {
     padding: 10px;
     border: none;
     border-radius: 5px;
-    font-size: 2rem;
+    font-size: 1rem;
     background-color: var(--background-primary);
     color: var(--text-primary);
 }
@@ -492,9 +492,9 @@ ul.task-list {
     margin-bottom: 15px;
     list-style: none;
     background-color: var(--background-secondary);
-    padding: 10px;
+    padding: 20px;
     border-radius: 10px;
-    font-size: 1.2rem;
+    font-size: 1rem;
     cursor: pointer;
 
     &.active {
