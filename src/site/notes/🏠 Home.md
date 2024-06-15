@@ -77,7 +77,7 @@ Where to go from here:
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
 > | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|MAGA Planet]]<br><span class='block'>3:57 PM - June 15, 2024</span>                                   | <span class='center-block'>🌞</span> |
 > | [[Calendar/Ideas/2024-06-15-IJ - Characters\|Character Ideas]]<br><span class='block'>3:54 PM - June 15, 2024</span>                                | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|Scenes Ideas]]<br><span class='block'>3:52 PM - June 15, 2024</span>                                  | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|Scene Ideas]]<br><span class='block'>3:52 PM - June 15, 2024</span>                                   | <span class='center-block'>🌞</span> |
 > | [[Calendar/Ideas/2024-06-15-IJ - Documentary Ideas\|Documentary Ideas]]<br><span class='block'>3:49 PM - June 15, 2024</span>                       | <span class='center-block'>🌞</span> |
 > | [[Calendar/Ideas/2024-06-15-IJ - Miscellaneous Online threads\|Miscellaneous Online Threads]]<br><span class='block'>3:47 PM - June 15, 2024</span> | <span class='center-block'>🌞</span> |
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/ideas/2024-06-15-ij-scene-ideas/","title":"Scenes Ideas"}
+{"dg-publish":true,"permalink":"/calendar/ideas/2024-06-15-ij-scene-ideas/","title":"Scene Ideas"}
 ---
 
 > [!metadata]- Meta
