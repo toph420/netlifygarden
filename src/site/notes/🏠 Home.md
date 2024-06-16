@@ -59,7 +59,7 @@ Where to go from here:
 > > - [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
 > > - [[Calendar/+ MOCs/🎲 Prompt Journal\|🎲 Prompt Journal]]
 > > - [[Calendar/+ MOCs/🌜 Dream Journal\|🌜 Dream Journal]]
-> > - [[Writing Journal\|🖋 Writing Journal]]
+> > - [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]]
 
 > [!example]+ Cards
 > - [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]
@@ -98,21 +98,21 @@ Where to go from here:
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                       | Status                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:10 AM - June 16, 2024</span>                                                     | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]<br><span class='block'>2:42 PM - April 13, 2024</span>                                    | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]<br><span class='block'>12:06 AM - March 27, 2024</span>                         | <span class='center-block'>🟧</span> |
 > | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Men's Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
 > | [[Sources/Tools + Plugins/ComfyUI\|ComfyUI]]<br><span class='block'>5:07 PM - October 24, 2023</span>                                                                     | <span class='center-block'>🟧</span> |
-> | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>11:43 PM - September 01, 2023</span>                                                                       | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                      | Status                               |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:10 AM - June 16, 2024</span>                                                    | <span class='center-block'>🟥</span> |
 > | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Mens Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
 > | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]]<br><span class='block'>7:48 PM - January 12, 2023</span>                                          | <span class='center-block'>🟥</span> |
 > | [[Sources/Tools + Plugins/Raycast\|Raycast]]<br><span class='block'>12:45 PM - December 07, 2022</span>                                                                  | <span class='center-block'>🟥</span> |
 > | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<br><span class='block'>2:40 PM - February 11, 2023</span>                                                                     | <span class='center-block'>🟧</span> |
-> | [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]<br><span class='block'>8:31 AM - December 01, 2022</span>                                                                 | <span class='center-block'>🟧</span> |
 > 
 { .block-language-dataview}
