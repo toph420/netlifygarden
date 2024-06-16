@@ -14,8 +14,6 @@
 
 > My research into Leftist politics and economics
 > 
-> - See [Leftist Raindrop collection](https://raindrop.io/tophg/leftism-38020480) for bookmarks
-> 
 > - See [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]] for more links and resources related to [[Cards/300 - Social Sciences/Activism\|Activism]]
 
 

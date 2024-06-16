@@ -16,6 +16,7 @@
 > A dump of ideas for solutions, things to do
 
 - [Social Justice Organizations](https://www.startguide.org/orgs/orgs06.html) - Massive list of orgs
+- [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 - [[Cards/300 - Social Sciences/Research about local activism\|Research about local activism]]
 - [[Calendar/Meetings/2024-03-07-M-CCOS - Peoples Hearing 3 - Action\|2024-03-07-M-CCOS - Peoples Hearing 3 - Action]] - notes from peoples hearing, solutions from the community and other interesting info
 

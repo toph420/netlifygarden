@@ -84,13 +84,13 @@ Where to go from here:
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                                                                                       | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]<br><span class='block'>12:09 AM - March 14, 2023</span>                                                                | <span class='center-block'>🌿</span> |
-> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|Applied Sciences]]<br><span class='block'>12:14 PM - May 30, 2023</span>                                                                                         | <span class='center-block'>🌿</span> |
-> | [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]<br><span class='block'>7:22 PM - May 26, 2023</span>                                                                                             | <span class='center-block'>🌿</span> |
-> | [[Cards/100 - Personal Management/100 - Personal Management\|Personal Management]]<br><span class='block'>11:22 AM - May 30, 2023</span>                                                                                | <span class='center-block'>🌱</span> |
-> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/200 - Philosophy, Psychology, Spirtuality, Religion\|Philosophy, Psychology, Spirituality, Religion]]<br><span class='block'>11:55 AM - May 30, 2023</span> | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                        | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/300 - Social Sciences/Activism\|Activism]]<br><span class='block'>6:45 PM - March 07, 2024</span>                                                | <span class='center-block'>🌞</span> |
+> | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]<br><span class='block'>5:29 PM - March 21, 2024</span>              | <span class='center-block'>🌞</span> |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftist Political and Economic Theory]]<br><span class='block'>7:15 PM - April 08, 2023</span>                    | <span class='center-block'>🌱</span> |
+> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]<br><span class='block'>12:09 AM - March 14, 2023</span> | <span class='center-block'>🌿</span> |
+> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|Applied Sciences]]<br><span class='block'>12:14 PM - May 30, 2023</span>                          | <span class='center-block'>🌿</span> |
 > 
 { .block-language-dataview}
 
