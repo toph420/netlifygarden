@@ -14,6 +14,7 @@
 > Give these babies some love
 >  | Maps                                                                                                                     | Summary                                                                                                                                                                                                                                                                                                     |
 > | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]                                                                         | Eastern style of storytelling                                                                                                                                                                                                                                                                               |
 > | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|2024-06-15-IJ - MAGA Planet]]                                           | Movie about aliens that come to earth. They are super right wing and take people to a world thats right wing. It’s not what the MAGA crowd had in mind.                                                                                                                                                     |
 > | [[Calendar/Ideas/2024-06-15-IJ - Characters\|2024-06-15-IJ - Characters]]                                             | Running list of character ideas                                                                                                                                                                                                                                                                             |
 > | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|2024-06-15-IJ - Scene Ideas]]                                           | Running list of scene ideas                                                                                                                                                                                                                                                                                 |
@@ -63,7 +64,6 @@
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Palia\|Video Game - Palia]]                                 | {{VALUE:Summary}}                                                                                                                                                                                                                                                                                           |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Sun Haven\|Video Game - Sun Haven]]                         | Sun Haven tips and tricks                                                                                                                                                                                                                                                                                   |
 > | [[Cards/700 - Art and Recreation/Digital Drawing\|Digital Drawing]]                                                   | Digital drawing resources and tips                                                                                                                                                                                                                                                                          |
-> | [[Cards/300 - Social Sciences/Activism\|Activism]]                                                                    | A dump of ideas for solutions, things to do                                                                                                                                                                                                                                                                 |
 > 
 { .block-language-dataview}
 
@@ -71,18 +71,18 @@
 > [!example]- 🌱 Sprouts
 > These bad boys have made some progress, but need lots more love.
 > 
->  | Notes                                                                                                            |
-> | ---------------------------------------------------------------------------------------------------------------- |
-> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                              |
-> | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]                      |
-> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                                        |
-> | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]                                             |
-> | [[Cards/700 - Art and Recreation/Videos\|Videos]]                                                             |
-> | [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]                                             |
-> | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]            |
-> | [[Cards/600 - Applied Sciences/Filmmaking/Sound Effects\|Sound Effects]]                                      |
-> | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                |
-> | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]] |
+>  | Notes                                                                                                 |
+> | ----------------------------------------------------------------------------------------------------- |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                                    |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]                        |
+> | [[Atlas/🏹 Action\|🏹 Action]]                                                                     |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                   |
+> | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]           |
+> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                             |
+> | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]                                  |
+> | [[Cards/700 - Art and Recreation/Videos\|Videos]]                                                  |
+> | [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]                                  |
+> | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]] |
 > 
 { .block-language-dataview}
 

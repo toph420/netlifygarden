@@ -23,6 +23,7 @@
 - [[Cards/700 - Art and Recreation/Video Games/Video Game - Palia\|Video Game - Palia]]
 - [[Cards/700 - Art and Recreation/Video Games/Video Game - Manor Lords\|Video Game - Manor Lords]]
 - [[Video  Game - Against the Storm\|Video  Game - Against the Storm]]
+- [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]
 
 ## Online
 - phantasy star online ngs 2
@@ -54,8 +55,10 @@
 	- Enshrouded
 - [Top 10 CRPG 2021: The Best Classic RPG Games to play on PC, Consoles, Mobile Switch (not Android) - YouTube](https://www.youtube.com/watch?v=ub0gk1s4KnA)
 - hollow night - platform
-- **Avowed** - fantasy rpg based on pillars 
+- ⭐️ **Avowed** - fantasy rpg based on pillars 
 - Haunted Chocolatier - made by starred guy
+- Warhammer: total war 3
+- ⭐️ Factorio
 
 ## Strategy
 [What are your favorite strategy games? : r/gamingsuggestions](https://www.reddit.com/r/gamingsuggestions/comments/18c32l7/what_are_your_favorite_strategy_games/)
@@ -82,7 +85,7 @@
 - **[[Cards/700 - Art and Recreation/Video Games/Video Game - Rune factory 4\|Video Game - Rune factory 4]]**
 - Fae farm 
 - Little known galaxy - stardew in space
-- Echoes o
+- Echoes of the plum grove 
 
 ## Survival 
 - [Best Survival Games on Console in 2023](https://youtu.be/p-ZuyIwlXgk?si=s5Nfp2pFw7mg_ALs)
@@ -150,6 +153,14 @@
 - Last of us
 - Death stranding
 - Plague tale
+
+
+## New games
+- crpg- swordhaven 
+- Crpg - esoteric ebb (interesting art
+- Turn based - guild saga - varnished worlds
+- Path of exile 2
+- [New RPGs 2024](https://youtu.be/XII1FwI17Xc?si=dOjJtkGKj77tuVdh)
 ---
 up:: [[🏠 Home\|🏠 Home]]
 

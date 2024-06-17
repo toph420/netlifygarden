@@ -5,7 +5,7 @@
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
 > type:: #💡  
-> tags::  
+> tags::  #on/writing
 > status:: #📝/🌞 
 > topics:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 > links::

@@ -73,24 +73,24 @@ Where to go from here:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                                   | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-> | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|MAGA Planet]]<br><span class='block'>3:57 PM - June 15, 2024</span>                                   | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Characters\|Character Ideas]]<br><span class='block'>3:54 PM - June 15, 2024</span>                                | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|Scene Ideas]]<br><span class='block'>3:52 PM - June 15, 2024</span>                                   | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Documentary Ideas\|Documentary Ideas]]<br><span class='block'>3:49 PM - June 15, 2024</span>                       | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Miscellaneous Online threads\|Miscellaneous Online Threads]]<br><span class='block'>3:47 PM - June 15, 2024</span> | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                             | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]<br><span class='block'>12:23 PM - June 16, 2024</span>                          | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|MAGA Planet]]<br><span class='block'>3:57 PM - June 15, 2024</span>             | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Characters\|Character Ideas]]<br><span class='block'>3:54 PM - June 15, 2024</span>          | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|Scene Ideas]]<br><span class='block'>3:52 PM - June 15, 2024</span>             | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Documentary Ideas\|Documentary Ideas]]<br><span class='block'>3:49 PM - June 15, 2024</span> | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                        | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/300 - Social Sciences/Activism\|Activism]]<br><span class='block'>6:45 PM - March 07, 2024</span>                                                | <span class='center-block'>🌞</span> |
-> | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]<br><span class='block'>5:29 PM - March 21, 2024</span>              | <span class='center-block'>🌞</span> |
-> | [[Cards/300 - Social Sciences/Leftism\|Leftist Political and Economic Theory]]<br><span class='block'>7:15 PM - April 08, 2023</span>                    | <span class='center-block'>🌱</span> |
-> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]<br><span class='block'>12:09 AM - March 14, 2023</span> | <span class='center-block'>🌿</span> |
-> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|Applied Sciences]]<br><span class='block'>12:14 PM - May 30, 2023</span>                          | <span class='center-block'>🌿</span> |
+>  | Note                                                                                                                                    | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>7:39 AM - March 20, 2023</span>               | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|My Movies]]<br><span class='block'>4:00 PM - December 23, 2022</span>   | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]<br><span class='block'>7:27 PM - April 09, 2023</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]<br><span class='block'>12:23 PM - June 16, 2024</span>                                 | <span class='center-block'>🌞</span> |
+> | [[Atlas/🏹 Action\|🏹 Action]]<br><span class='block'>9:10 AM - October 24, 2022</span>                                              | <span class='center-block'>🌱</span> |
 > 
 { .block-language-dataview}
 

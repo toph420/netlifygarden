@@ -29,6 +29,7 @@
 ## Latest Logs
 | Idea                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Calendar/Journal/Daily/2024-06-16\|2024-06-16]]<span class='summary'>\-</span>                                                                                                                                                                                |
 | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|2024-06-15-IJ - MAGA Planet]]<span class='summary'>Movie about aliens that come to earth. They are super right wing and take people to a world thats right wing. It’s not what the MAGA crowd had in mind.</span> |
 | [[Calendar/Ideas/2024-06-15-IJ - Characters\|2024-06-15-IJ - Characters]]<span class='summary'>Running list of character ideas</span>                                                                                                                           |
 | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|2024-06-15-IJ - Scene Ideas]]<span class='summary'>Running list of scene ideas</span>                                                                                                                             |
@@ -38,7 +39,6 @@
 | [[Calendar/Ideas/2024-06-15-IJ - Ideas Based on Podcasts\|2024-06-15-IJ - Ideas Based on Podcasts]]<span class='summary'>A running list of podcasts/episodes for story and character inspiration</span>                                                         |
 | [[Calendar/Ideas/2024-06-15-IJ - Black Eyes album film\|2024-06-15-IJ - Black Eyes album film]]<span class='summary'>Make a movie inspired by the Black Eyes album</span>                                                                                       |
 | [[Calendar/Ideas/2024-06-15-IJ - Blue Whale Challenge\|2024-06-15-IJ - Blue Whale Challenge]]<span class='summary'>Disturbing online 'game' that encourages people to do messed up stuff</span>                                                                 |
-| [[Calendar/Ideas/2024-06-15-IJ - The House Knows\|2024-06-15-IJ - The House Knows]]<span class='summary'>A house that knows the people inside are moving away</span>                                                                                            |
 
 { .block-language-dataview}
 

@@ -21,6 +21,7 @@
 - [Big list of Anarchist docs](https://reddit.com/r/Anarchy101/s/26xkiWtP1Y)
 - [WTF Movies](https://x.com/thecinesthetic/status/1712201287184548325?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [Agnes Vardas top 100](https://x.com/dannydrinkswine/status/1775600347353862192?s=46)
+- [Funny Movie twitter thread](https://x.com/emmatolkin/status/1802551728434499921?s=46)
 
 ## Twitter Movie People
 - [Emir Han](https://x.com/realemirhan?s=21&t=ltXPd0UXMbjM40a6oiE7aQ) - great lists in his comments

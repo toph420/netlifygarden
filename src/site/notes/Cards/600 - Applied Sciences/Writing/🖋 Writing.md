@@ -24,6 +24,12 @@
 > 	- [Poets & Writers - Fiction Prompts](https://www.pw.org/writing-prompts-exercises?genre=32)
 > 	- [Prompts and motivation to create something out of nothing](https://www.reddit.com/r/WritingPrompts/)
 > 	- [1800+ Creative Writing Prompts To Inspire You Right Now](https://blog.reedsy.com/creative-writing-prompts/)
+> 	- [What are some of your favourite writing exercises? : r/writing](https://www.reddit.com/r/writing/comments/15dkgdm/what_are_some_of_your_favourite_writing_exercises/)
+> 	- [Favourite Writing Exercise (15 Mins or Less) : r/writing](https://www.reddit.com/r/writing/comments/ttupl9/favourite_writing_exercise_15_mins_or_less/)
+> - **Story Structure**
+> 	- [[+ Encounters/Kishotenketsu\|Kishotenketsu]]
+> - **Tools and Inspo**
+> 	- [Typetrigger](https://typetrigger.com/) - "Four times a day, we help you get the words out. Write in any genre in 300 words or less. Hit publish. Read. Be Read. Write. Now."
 
 ## From the Logs
 
@@ -52,15 +58,15 @@
 > > sort by filename
 > > ```
 
-![0391F590-5908-4935-B716-B51228C3EB05.jpeg](/img/user/Extras/Attachments/0391F590-5908-4935-B716-B51228C3EB05.jpeg)
 
 ## Notes
 
 > [!NOTE]+ 📝 Notes (`#on/writing`)
->  | Note                                                                                                                                                                                                     |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Cards/600 - Applied Sciences/Writing/Writing a Book is a 5 Step process\|Writing a Book is a 5 Step process]]<span class='summary'>\-</span><span class='block'>12:27 PM - December 01, 2022</span> |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]<span class='summary'>Can AI really be a tool in creative writing?</span><span class='block'>12:39 PM - November 30, 2022</span> |
+>  | Note                                                                                                                                                                                                                                  |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/600 - Applied Sciences/Writing/Writing a Book is a 5 Step process\|Writing a Book is a 5 Step process]]<span class='summary'>\-</span><span class='block'>12:27 PM - December 01, 2022</span>                              |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]<span class='summary'>Can AI really be a tool in creative writing?</span><span class='block'>12:39 PM - November 30, 2022</span>                              |
+> | [[Calendar/Ideas/Idea - Airbnb Lady\|Idea - Airbnb Lady]]<span class='summary'>A story about lady in a bad relationship, she seeks help through renters of her AirBnb</span><span class='block'>4:49 PM - November 30, 2022</span> |
 > 
 { .block-language-dataview}
 
@@ -76,12 +82,17 @@
 
 > [!links]+ Unrequited Notes (`-#on/writing`)
 >  - [[Sources/Readwise/📰 Articles/How I Plan and Write Fiction in Obsidian by Vanessa Glau\|How I Plan and Write Fiction in Obsidian by Vanessa Glau]]
-> - [[Calendar/Ideas/Idea - Airbnb Lady\|Idea - Airbnb Lady]]
 > 
 { .block-language-dataview}
 
 > [!Links]+ 💧 Raindrop Bookmarks on AI
 > <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/tophg/writing-39167058"></iframe>
+
+
+## Other Stuff
+
+![0391F590-5908-4935-B716-B51228C3EB05.jpeg|300](/img/user/Extras/Attachments/0391F590-5908-4935-B716-B51228C3EB05.jpeg)
+
 
 ---
 up:: [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]

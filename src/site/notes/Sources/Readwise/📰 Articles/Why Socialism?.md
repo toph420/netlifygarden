@@ -14,7 +14,7 @@
 >> **Author**:: [[Albert Einstein\|Albert Einstein]]
 >> **Title**:: Why Socialism?
 >> **URL**:: "https://monthlyreview.org/2009/05/01/why-socialism/"
->> **Reviewed Date**:: [[2024-06-16\|2024-06-16]]
+>> **Reviewed Date**:: [[Calendar/Journal/Daily/2024-06-16\|2024-06-16]]
 >> **Finished Year**:: [[2024\|2024]]
 
 # Why Socialism?
