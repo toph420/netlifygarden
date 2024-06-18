@@ -73,24 +73,24 @@ Where to go from here:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                             | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]<br><span class='block'>12:23 PM - June 16, 2024</span>                          | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|MAGA Planet]]<br><span class='block'>3:57 PM - June 15, 2024</span>             | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Characters\|Character Ideas]]<br><span class='block'>3:54 PM - June 15, 2024</span>          | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|Scene Ideas]]<br><span class='block'>3:52 PM - June 15, 2024</span>             | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - Documentary Ideas\|Documentary Ideas]]<br><span class='block'>3:49 PM - June 15, 2024</span> | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                    | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Video Game - Factorio\|Video Game - Factorio]]<br><span class='block'>4:08 PM - June 17, 2024</span>  | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]<br><span class='block'>12:23 PM - June 16, 2024</span>                 | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|MAGA Planet]]<br><span class='block'>3:57 PM - June 15, 2024</span>    | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Characters\|Character Ideas]]<br><span class='block'>3:54 PM - June 15, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-15-IJ - Scene Ideas\|Scene Ideas]]<br><span class='block'>3:52 PM - June 15, 2024</span>    | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                    | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>7:39 AM - March 20, 2023</span>               | <span class='center-block'>🌱</span> |
-> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|My Movies]]<br><span class='block'>4:00 PM - December 23, 2022</span>   | <span class='center-block'>🌱</span> |
-> | [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]<br><span class='block'>7:27 PM - April 09, 2023</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]<br><span class='block'>12:23 PM - June 16, 2024</span>                                 | <span class='center-block'>🌞</span> |
-> | [[Atlas/🏹 Action\|🏹 Action]]<br><span class='block'>9:10 AM - October 24, 2022</span>                                              | <span class='center-block'>🌱</span> |
+>  | Note                                                                                                                                                 | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]<br><span class='block'>6:18 PM - June 17, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Video Game - Factorio\|Video Game - Factorio]]<br><span class='block'>4:09 PM - June 17, 2024</span>                               | <span class='center-block'>🌞</span> |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>8:51 AM - June 17, 2024</span>                             | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|My Movies]]<br><span class='block'>12:32 AM - June 17, 2024</span>                   | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]<br><span class='block'>11:21 PM - June 16, 2024</span>              | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
@@ -107,12 +107,12 @@ Where to go from here:
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                      | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:10 AM - June 16, 2024</span>                                                    | <span class='center-block'>🟥</span> |
-> | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Mens Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]]<br><span class='block'>7:48 PM - January 12, 2023</span>                                          | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Raycast\|Raycast]]<br><span class='block'>12:45 PM - December 07, 2022</span>                                                                  | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<br><span class='block'>2:40 PM - February 11, 2023</span>                                                                     | <span class='center-block'>🟧</span> |
+>  | Source                                                                                                                                                                  | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:17 AM - June 16, 2024</span>                                                | <span class='center-block'>🟥</span> |
+> | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Mens Association]]<br><span class='block'>7:05 PM - June 14, 2024</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]]<br><span class='block'>4:48 PM - June 14, 2024</span>                                         | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Raycast\|Raycast]]<br><span class='block'>4:47 PM - June 14, 2024</span>                                                                   | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<br><span class='block'>4:47 PM - June 14, 2024</span>                                                                     | <span class='center-block'>🟧</span> |
 > 
 { .block-language-dataview}

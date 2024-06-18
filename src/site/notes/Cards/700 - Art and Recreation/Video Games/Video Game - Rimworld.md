@@ -154,6 +154,35 @@
 ## More
 - clothes:
 ![IMG_0772.jpeg](/img/user/Extras/Attachments/IMG_0772.jpeg)![IMG_0773.jpeg](/img/user/Extras/Attachments/IMG_0773.jpeg)
+
+
+## Late Game
+- Armor up!
+		- Shield cores allow for shooting out of bubbles
+		- Shield belts for melee
+- use manhunter packs against raiders, let them simmer outside the base
+- guns
+	- assault rifles as standard, a few chain shotguns for melee enemies, snipers for slow moving like centipedes
+	- charge rifles for breaking mech armor 
+	- SMGs are good too, MASTERWORKS are better than excellent Charge Rifle
+	- Dont build LMGs
+	- miniguns are great but expensive
+	- charge rifles are good, but also expensive and take long to make
+- limit kitchen access/movement to avoid food poisoning
+- medical optimized room
+- secret weapons against mechs
+	- smoke launcher, while smoke lasts turrets get down to business 
+	- emp grenades (launcher is ok too)
+- Killbixes
+	- Dont floor killboxes
+	- Setup a weapons cache by your killbox
+	- and excellent dining area
+	- add firefoam poppers 
+	- keep some drugs nearby
+- 
+
+![Screenshot 2024-06-17 at 6.12.41 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-17%20at%206.12.41%20PM.png)
+
 ---
 up:: [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]
 
