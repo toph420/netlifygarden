@@ -6,7 +6,7 @@
 
 # Welcome to Topher's notes
 
-I use [Obsidian](https://obsidian.md/) to manage pretty much everything in my life. This here website is my own little [digital garden](https://maggieappleton.com/garden-history), a collection of notes from my Obsidian vault that I've made public. I’m inspired by many others who talk about the benefits of [learning in public](https://notes.nicolevanderhoeven.com/Learning+in+public). It may be messy, but feel free to click around!
+I use [Obsidian](https://obsidian.md/) to manage everything from projects, people, journaling, and general note taking. This here website is my own little [digital garden](https://maggieappleton.com/garden-history), a collection of notes from my Obsidian vault that I've made public. I’m inspired by many others who talk about the benefits of [learning in public](https://notes.nicolevanderhoeven.com/Learning+in+public). My brain is all over the place so it goes without saying this may be messy, but feel free to click around!
 
 Due to the nature of some of these notes not every link will be reachable, but I'll do my best to continue to share what I can! 
 
