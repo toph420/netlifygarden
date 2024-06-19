@@ -8,7 +8,7 @@
 >> **type**:: #📥/📰 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/articles
->> **topics**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]], [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Marxism]], [[Communism\|Communism]], [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]
+>> **topics**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]], [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Marxism]], [[+ Encounters/Communism\|Communism]], [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]
 >
 >> [!metadata]- Article Info
 >> **Author**:: [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]

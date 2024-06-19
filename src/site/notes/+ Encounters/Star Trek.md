@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/tv #on/socialsciences #on/communism 
-> **topics**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]] [[Communism\|Communism]] [[Cards/300 - Social Sciences/Socialism\|Socialism]]
+> **topics**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]] [[+ Encounters/Communism\|Communism]] [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 > **links**::
 
 

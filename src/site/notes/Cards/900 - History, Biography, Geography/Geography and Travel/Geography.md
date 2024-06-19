@@ -15,6 +15,9 @@
 
 > Research and notes about world geography 
 
+![Geography - geographyterms.png](/img/user/Extras/Attachments/Geography%20-%20geographyterms.png)
+
+
 > [!tweet]+ The World Map is Weird
 > [The World Map is Skewed|embed](https://twitter.com/tomaspueyo/status/1647026136298209281?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 > 

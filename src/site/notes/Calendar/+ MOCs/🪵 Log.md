@@ -29,6 +29,8 @@
 ## Latest Logs
 | Idea                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Calendar/Journal/Daily/2024-06-19\|2024-06-19]]<span class='summary'>\-</span>                                                                                                                                                                                |
+| [[Calendar/Journal/Daily/2024-06-18\|2024-06-18]]<span class='summary'>Interesting day, feeling low. Missed my meds for like 55hrs a couple days ago and giving me some bad anxiety and body issues. Hopefully tomorrow is better.</span>                       |
 | [[Calendar/Journal/Daily/2024-06-16\|2024-06-16]]<span class='summary'>\-</span>                                                                                                                                                                                |
 | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|2024-06-15-IJ - MAGA Planet]]<span class='summary'>Movie about aliens that come to earth. They are super right wing and take people to a world thats right wing. It’s not what the MAGA crowd had in mind.</span> |
 | [[Calendar/Ideas/2024-06-15-IJ - Characters\|2024-06-15-IJ - Characters]]<span class='summary'>Running list of character ideas</span>                                                                                                                           |
@@ -37,8 +39,6 @@
 | [[Calendar/Ideas/2024-06-15-IJ - Miscellaneous Online threads\|2024-06-15-IJ - Miscellaneous Online threads]]<span class='summary'>A collection of story ideas from various online conversations, twitter threads, reddit threads</span>                        |
 | [[Calendar/Ideas/2024-06-15-IJ - Hasans Chat\|2024-06-15-IJ - Hasans Chat]]<span class='summary'>Make a short based on Hasans live stream chat box. Record and transcribe it </span>                                                                            |
 | [[Calendar/Ideas/2024-06-15-IJ - Ideas Based on Podcasts\|2024-06-15-IJ - Ideas Based on Podcasts]]<span class='summary'>A running list of podcasts/episodes for story and character inspiration</span>                                                         |
-| [[Calendar/Ideas/2024-06-15-IJ - Black Eyes album film\|2024-06-15-IJ - Black Eyes album film]]<span class='summary'>Make a movie inspired by the Black Eyes album</span>                                                                                       |
-| [[Calendar/Ideas/2024-06-15-IJ - Blue Whale Challenge\|2024-06-15-IJ - Blue Whale Challenge]]<span class='summary'>Disturbing online 'game' that encourages people to do messed up stuff</span>                                                                 |
 
 { .block-language-dataview}
 

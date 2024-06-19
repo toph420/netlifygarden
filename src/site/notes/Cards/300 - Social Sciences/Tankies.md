@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/leftism #on/communism #on/marxistleninism #on/politics 
-> **topics**:: [[Communism\|Communism]], [[Cards/300 - Social Sciences/Leftism\|Leftism]], [[Cards/300 - Social Sciences/Socialism\|Socialism]], [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]
+> **topics**:: [[+ Encounters/Communism\|Communism]], [[Cards/300 - Social Sciences/Leftism\|Leftism]], [[Cards/300 - Social Sciences/Socialism\|Socialism]], [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]
 
 
 # Tankies

@@ -9,7 +9,7 @@
 >> **type**:: #📥/📰 
 >> **status**:: #📥/🟧 
 >> **tags**:: #on/articles
->> **topics**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]], [[Communism\|Communism]], [[Marxism\|Marxism]], [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
+>> **topics**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]], [[+ Encounters/Communism\|Communism]], [[Marxism\|Marxism]], [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 >
 >> [!metadata]- Article Info
 >> **Author**:: [[Frederick Engels\|Frederick Engels]]

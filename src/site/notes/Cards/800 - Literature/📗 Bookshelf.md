@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[🏠 Home\|🏠 Home]]
+> up:: [[Cards/800 - Literature/800 - Literature\|800 - Literature]]
 > type:: #🗺 
 > status:: #📝/🌱 
 
@@ -13,7 +13,7 @@
 
 ## Currently Reading (`#📥/📚/reading`)
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span data-tag-name="p" class="el-p">Cover</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Name</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Author</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Genre</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Rating</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span data-is-embed="true" data-embed-type="image" class="el-embed-image el-p" data-tag-name="p"><img src="https://m.media-amazon.com/images/I/71jbNTe5-TL._SY160.jpg" referrerpolicy="no-referrer"></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Sources/📚 Books/Quicksand House.md" data-href="Sources/📚 Books/Quicksand House.md" href="Sources/📚 Books/Quicksand House.md" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#📥/📚/reading #📥/🟧 #on/books #on/prompts" data-link-path="Sources/📚 Books/Quicksand House.md" data-link-type="#📥/📚/reading" style="--data-link-tags: #📥/📚/reading #📥/🟧 #on/books #on/prompts; --data-link-path: Sources/📚 Books/Quicksand House.md; --data-link-type: #📥/📚/reading;">Quicksand House</a></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Carlton Mellick III" data-href="Carlton Mellick III" href="Carlton Mellick III" class="internal-link" target="_blank" rel="noopener">Carlton Mellick III</a></span></td><td><span data-tag-name="p" class="el-p">Bizarro</span></td><td><span data-tag-name="p" class="el-p">-</span></td></tr><tr><td><span data-is-embed="true" data-embed-type="image" class="el-embed-image el-p" data-tag-name="p"><img src="https://m.media-amazon.com/images/I/91ghy9Loz2L._SY160.jpg" referrerpolicy="no-referrer"></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Sources/📚 Books/Cobalt Red.md" data-href="Sources/📚 Books/Cobalt Red.md" href="Sources/📚 Books/Cobalt Red.md" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#📥/📚/reading #📥/🟥 #on/books" data-link-path="Sources/📚 Books/Cobalt Red.md" data-link-type="#📥/📚/reading" style="--data-link-tags: #📥/📚/reading #📥/🟥 #on/books; --data-link-path: Sources/📚 Books/Cobalt Red.md; --data-link-type: #📥/📚/reading;">Cobalt Red</a></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Siddharth Kara" data-href="Siddharth Kara" href="Siddharth Kara" class="internal-link" target="_blank" rel="noopener">Siddharth Kara</a></span></td><td><span data-tag-name="p" class="el-p">-</span></td><td><span data-tag-name="p" class="el-p">-</span></td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span data-tag-name="p" class="el-p">Cover</span><span class="dataview small-text">3</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Name</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Author</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Genre</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Rating</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span data-is-embed="true" data-embed-type="image" class="el-embed-image el-p" data-tag-name="p"><img src="https://m.media-amazon.com/images/I/71jbNTe5-TL._SY160.jpg" referrerpolicy="no-referrer"></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Sources/📚 Books/Quicksand House.md" data-href="Sources/📚 Books/Quicksand House.md" href="Sources/📚 Books/Quicksand House.md" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#📥/📚/reading #📥/🟧 #on/books #on/prompts" data-link-path="Sources/📚 Books/Quicksand House.md" data-link-type="#📥/📚/reading" style="--data-link-tags: #📥/📚/reading #📥/🟧 #on/books #on/prompts; --data-link-path: Sources/📚 Books/Quicksand House.md; --data-link-type: #📥/📚/reading;">Quicksand House</a></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Carlton Mellick III" data-href="Carlton Mellick III" href="Carlton Mellick III" class="internal-link" target="_blank" rel="noopener">Carlton Mellick III</a></span></td><td><span data-tag-name="p" class="el-p">Bizarro</span></td><td><span data-tag-name="p" class="el-p">-</span></td></tr><tr><td><span data-is-embed="true" data-embed-type="image" class="el-embed-image el-p" data-tag-name="p"><img src="https://m.media-amazon.com/images/I/91ghy9Loz2L._SY160.jpg" referrerpolicy="no-referrer"></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Sources/📚 Books/Cobalt Red.md" data-href="Sources/📚 Books/Cobalt Red.md" href="Sources/📚 Books/Cobalt Red.md" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#📥/📚/reading #📥/🟥 #on/books" data-link-path="Sources/📚 Books/Cobalt Red.md" data-link-type="#📥/📚/reading" style="--data-link-tags: #📥/📚/reading #📥/🟥 #on/books; --data-link-path: Sources/📚 Books/Cobalt Red.md; --data-link-type: #📥/📚/reading;">Cobalt Red</a></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Siddharth Kara" data-href="Siddharth Kara" href="Siddharth Kara" class="internal-link" target="_blank" rel="noopener">Siddharth Kara</a></span></td><td><span data-tag-name="p" class="el-p">-</span></td><td><span data-tag-name="p" class="el-p">-</span></td></tr><tr><td><span data-is-embed="true" data-embed-type="image" class="el-embed-image el-p" data-tag-name="p"><p dir="auto"><img src="https://images-na.ssl-images-amazon.com/images/I/51QsKqrGFpL._SL200_.jpg" referrerpolicy="no-referrer"></p></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Sources/Readwise/📚 Books/The Dispossessed.md" data-href="Sources/Readwise/📚 Books/The Dispossessed.md" href="Sources/Readwise/📚 Books/The Dispossessed.md" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#📥/📚/reading #📥/🟥 #on/books #on/scifi #❓ #on/quotes" data-link-path="Sources/Readwise/📚 Books/The Dispossessed.md" data-link-type="#📥/📚/reading" style="--data-link-tags: #📥/📚/reading #📥/🟥 #on/books #on/scifi #❓ #on/quotes; --data-link-path: Sources/Readwise/📚 Books/The Dispossessed.md; --data-link-type: #📥/📚/reading;">The Dispossessed</a></span></td><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="Ursula K. Le Guin" data-href="Ursula K. Le Guin" href="Ursula K. Le Guin" class="internal-link" target="_blank" rel="noopener">Ursula K. Le Guin</a></span></td><td><span data-tag-name="p" class="el-p">-</span></td><td><span data-tag-name="p" class="el-p">-</span></td></tr></tbody></table></div>
 
 ## Books Completed (`#📥/📚/completed`)
 
@@ -25,12 +25,13 @@
 { .block-language-dataview}
 
 ## All Books
-| Title                                                    | Author                                                                                    | Rating |
-| -------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------ |
-| [[Sources/📚 Books/Ubik\|Ubik]]                       | [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]] | 4.8    |
-| [[Sources/📚 Books/Quicksand House\|Quicksand House]] | [[Carlton Mellick III\|Carlton Mellick III]]                                              | \-     |
-| [[Sources/📚 Books/Neverday\|Neverday]]               | [[Carlton Mellick III\|Carlton Mellick III]]                                              | 3.9    |
-| [[Sources/📚 Books/Cobalt Red\|Cobalt Red]]           | [[Siddharth Kara\|Siddharth Kara]]                                                        | \-     |
+| Title                                                               | Author                                                                                    | Rating |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------ |
+| [[Sources/📚 Books/Ubik\|Ubik]]                                  | [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]] | 4.8    |
+| [[Sources/📚 Books/Quicksand House\|Quicksand House]]            | [[Carlton Mellick III\|Carlton Mellick III]]                                              | \-     |
+| [[Sources/📚 Books/Neverday\|Neverday]]                          | [[Carlton Mellick III\|Carlton Mellick III]]                                              | 3.9    |
+| [[Sources/📚 Books/Cobalt Red\|Cobalt Red]]                      | [[Siddharth Kara\|Siddharth Kara]]                                                        | \-     |
+| [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]] | [[Ursula K. Le Guin\|Ursula K. Le Guin]]                                                  | \-     |
 
 { .block-language-dataview}
 
@@ -39,7 +40,7 @@
 - [ ] Natural General Intelligence: How understanding the brain can help us build AI by Christopher Summerfield
 - [ ] [Truevine: Two Brothers, a Kidnapping, and a Mother's Quest: A True Story of the Jim Crow South: Macy, Beth: 9780316337540: Amazon.com: Books](https://www.amazon.com/Truevine-Brothers-Kidnapping-Mothers-Quest/dp/0316337544/ref=nodl_?dplnkId=a080edcb-5a4b-41de-aa1f-1e4e15f20fc9#customerReviews)
 
-![IMG_0719.jpeg](/img/user/Extras/Attachments/IMG_0719.jpeg)
+![IMG_0719.jpeg|300](/img/user/Extras/Attachments/IMG_0719.jpeg)
 
 ### Logged `#to/read`
 > [!Todo]- To Read
@@ -62,17 +63,14 @@
 - [Matt Lech asks what books people are reading](https://x.com/mattlech/status/1784051318576869804?s=46) - some good reccs from lefties
 - [Lolo asks for Cuban History reccs](https://x.com/loloverruled/status/1784677881878290616?s=46)
 
-![A72C28C0-4EA0-46C8-B2EA-3D42693435A8.jpeg|320 +grid](/img/user/Extras/Attachments/A72C28C0-4EA0-46C8-B2EA-3D42693435A8.jpeg)
-![Bookshelf - tiago fortes 2023 reading list.png|+grid](/img/user/Extras/Attachments/Bookshelf%20-%20tiago%20fortes%202023%20reading%20list.png)
+![A72C28C0-4EA0-46C8-B2EA-3D42693435A8.jpeg|320](/img/user/Extras/Attachments/A72C28C0-4EA0-46C8-B2EA-3D42693435A8.jpeg)
+![Bookshelf - tiago fortes 2023 reading list.png|300](/img/user/Extras/Attachments/Bookshelf%20-%20tiago%20fortes%202023%20reading%20list.png)
 
-![9EF8E99B-EFAE-4212-AB98-2A305533C2E6.jpeg|+grid](/img/user/Extras/Attachments/9EF8E99B-EFAE-4212-AB98-2A305533C2E6.jpeg)
-![Bookshelf - ai books.png](/img/user/Extras/Attachments/Bookshelf%20-%20ai%20books.png)
+![9EF8E99B-EFAE-4212-AB98-2A305533C2E6.jpeg|300](/img/user/Extras/Attachments/9EF8E99B-EFAE-4212-AB98-2A305533C2E6.jpeg)
+![Bookshelf - ai books.png|300](/img/user/Extras/Attachments/Bookshelf%20-%20ai%20books.png)
 
-![Bookshelf - olayemi.png](/img/user/Extras/Attachments/Bookshelf%20-%20olayemi.png)
-
-## My Book Reviews
-*Write reviews after reading a book*
+![Bookshelf - olayemi.png|300](/img/user/Extras/Attachments/Bookshelf%20-%20olayemi.png)
 
 
 ---
-up:: [[🏠 Home\|🏠 Home]]
+up:: [[Cards/800 - Literature/800 - Literature\|800 - Literature]]

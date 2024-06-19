@@ -35,6 +35,7 @@
 - [Ezra Klein - Why Peace fell apart](https://pca.st/episode/fb2355ff-d585-4606-9a1e-36984b28097b)
 - [Israeli atrocities revealed during ceasefire](https://x.com/muhammadshehad2/status/1728047954735301109?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [Israel Lies thread](https://x.com/muhammadshehad2/status/1782737187982721039?s=46)
+- [Bearing Witness to the Israel-Gaza War](https://x.com/leemordechai/status/1803052066652205400?s=61&t=gyRX2W0x81b80X8f34EMoQ) - document written by Israeli historian
 
 ![IMG_0635.jpeg](/img/user/Extras/Attachments/IMG_0635.jpeg)
 

@@ -5,7 +5,7 @@
 > [!metadata]- Meta
 > **up**:: [[🤴🏼Prominent People\|🤴🏼Prominent People]]
 > **type**::  #📝/🌞 
-> **tags**:: #on/movies #on/filmmaking #on/film
+> **tags**:: #on/movies #on/filmmaking #on/film #on/directors 
 > **topics**:: [[Cards/600 - Applied Sciences/Filmmaking/Filmmaking\|Filmmaking]], [[Film\|Film]]
 > **links**:: [[Cards/600 - Applied Sciences/Filmmaking/My Favorite Directors\|My Favorite Directors]]
 

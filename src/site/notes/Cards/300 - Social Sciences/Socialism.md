@@ -8,7 +8,7 @@
 > **status**:: #📝/🌱 
 > **tags**::  #on/politics #on/leftism 
 > **topics**:: [[Sociology\|Sociology]], [[Cards/300 - Social Sciences/Economics\|Economics]], [[Government\|Government]], [[Cards/300 - Social Sciences/Politics\|Politics]], [[Cards/300 - Social Sciences/Leftism\|Leftism]]
-> **links**:: [[Cards/300 - Social Sciences/Capitalism\|Capitalism]], [[Communism\|Communism]], [[Marxism\|Marxism]]
+> **links**:: [[Cards/300 - Social Sciences/Capitalism\|Capitalism]], [[+ Encounters/Communism\|Communism]], [[Marxism\|Marxism]]
 
 
 # Socialism

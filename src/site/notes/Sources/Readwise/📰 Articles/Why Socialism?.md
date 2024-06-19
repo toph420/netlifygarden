@@ -8,7 +8,7 @@
 >> **type**:: #📥/📰 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/articles
->> **topics**:: [[Communism\|Communism]], [[Cards/300 - Social Sciences/Socialism\|Socialism]]
+>> **topics**:: [[+ Encounters/Communism\|Communism]], [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 >
 >> [!metadata]- Article Info
 >> **Author**:: [[Albert Einstein\|Albert Einstein]]

@@ -36,9 +36,10 @@
 
 ![Elon Musk Sucks - Elon owned.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elon%20owned.png)
 
-![Elon Musk Sucks - spike lee.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20spike%20lee.png)
+![Elon Musk Sucks - Elonneuralink.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elonneuralink.png)
 
-![Elon Musk Sucks - spikelee2.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20spikelee2.png)
+
+
 
 
 ---

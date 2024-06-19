@@ -34,12 +34,12 @@ The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowled
 - [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]] | [[Atlas/🧊 Icebox\|🧊 Icebox]]
 - [[Calendar/+ MOCs/🪵 Log\|🪵 Log]] | [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]] | [[Atlas/🏹 Action\|🏹 Action]]
 - [[Atlas/🗺 Maps\|🗺 Maps]] 
-- [[Sources/Tools + Plugins/Obsidian\|Obsidian]] | [[Obsidian Vaults\|Obsidian Vaults]] | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
+- [[Sources/Tools + Plugins/Obsidian\|Obsidian]] | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
 
 ## 100 - Personal Management
 
 - [[Calendar/+ MOCs/📊 Habits\|📊 Habits]]
-- [[Cards/100 - Personal Management/💪 Health/💪 Health\|💪 Health]] | [[Cards/100 - Personal Management/💪 Health/🧘‍♂️ Yoga\|🧘‍♂️ Yoga]]
+- [[Cards/100 - Personal Management/💪 Health/💪 Health\|💪 Health]] | [[Cards/100 - Personal Management/💪 Health/🧘‍♂️ Yoga\|🧘‍♂️ Yoga]] | [[Cards/100 - Personal Management/💪 Health/Working Out\|Working Out]]
 - [[Cards/100 - Personal Management/👽 People/👽 People\|👽 People]] | [[Cards/100 - Personal Management/👯 CRM\|👯 CRM]]
 
 ## 200 - Philosophy, Psychology ; Spirituality, Religion
@@ -55,19 +55,21 @@ The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowled
 
 - [[Cards/400 - Communications, Language, Linguistics/400 - Communications, Language, Linguistics\|400 - Communications, Language, Linguistics]]
 
-## 500 - Physical Sciences
+## 500 - Natural Sciences
 
-
-See also: [[Cards/600 - Applied Sciences/Technology/Space\|Space]] | [[Black Holes\|Black Holes]] | [[Plants\|Plants]] | [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]
+- [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]
+- [[Cards/600 - Applied Sciences/Technology/Space\|Space]] | [[Black Holes\|Black Holes]] | [[Plants\|Plants]] | [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]
 
 ## 600 - Applied Sciences
 
-- [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]] - [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]] | [[Cards/600 - Applied Sciences/Filmmaking/Filmmaking\|Filmmaking]]
+- [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]
+- [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]] | [[Cards/600 - Applied Sciences/Filmmaking/Filmmaking\|Filmmaking]]
 
 See also: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] | [[Medical\|Medical]] | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]] | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
 
 ## 700 - Art & Recreation
 
+- [[Cards/700 - Art and Recreation/700 - Art and Recreation\|700 - Art and Recreation]]
 - [[Art\|Art]] | [[Design\|Design]] | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
 - [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]] |  [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]
 - [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]
@@ -80,6 +82,7 @@ Check out the [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]] for book
 ## 900 - History & Biography & Geography
 
 - [[Cards/900 - History, Biography, Geography/History/History of Africa\|History of Africa]] | [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]
+- [[Cards/900 - History, Biography, Geography/Geography and Travel/Geography\|Geography]]
 
 > [!metadata]- Meta
 > **type**:: #🗺 

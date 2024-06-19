@@ -13,10 +13,9 @@
 
 > a log of podcasts i listen to and want to listen to
 
-Check out my [Profile on Podchaser](https://www.podchaser.com/users/me92363) and [A guys spreadsheet of podcasts and huge list of resources](https://docs.google.com/spreadsheets/d/e/2PACX-1vTn9PbJWlKQrFSxAL2MLpydNrevQehpAGbxh1_h6i90gZRRr8OMEMFiWuIvozM_Me_HRHkduRofYmI4/pubhtml#)
-
-
-[Audio Fiction Search Database](https://audiofiction.co.uk/search2.php?language=English&format=Audio+Drama&continuity=Serial&inex1=Include&genre1=Horror&order=newest&form_submit=Search)
+- [r/audiodrama](https://www.reddit.com/r/audiodrama/s/g2vZ4FHZSz)
+- Check out my [Profile on Podchaser](https://www.podchaser.com/users/me92363) and [A guys spreadsheet of podcasts and huge list of resources](https://docs.google.com/spreadsheets/d/e/2PACX-1vTn9PbJWlKQrFSxAL2MLpydNrevQehpAGbxh1_h6i90gZRRr8OMEMFiWuIvozM_Me_HRHkduRofYmI4/pubhtml#)
+- [Audio Fiction Search Database](https://audiofiction.co.uk/search2.php?language=English&format=Audio+Drama&continuity=Serial&inex1=Include&genre1=Horror&order=newest&form_submit=Search)
 ## Pods I Listen To
 - [[Darknet Diaries\|Darknet Diaries]]
 - [[Rabbits\|Rabbits]]

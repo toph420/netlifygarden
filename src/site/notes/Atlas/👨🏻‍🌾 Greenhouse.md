@@ -14,6 +14,8 @@
 > Give these babies some love
 >  | Maps                                                                                                                     | Summary                                                                                                                                                                                                                                                                                                     |
 > | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]                                                                     | The French new wave cinema legend                                                                                                                                                                                                                                                                           |
+> | [[+ Encounters/Communism\|Communism]]                                                                                 | Yep                                                                                                                                                                                                                                                                                                         |
 > | [[+ Encounters/Video Game - Factorio\|Video Game - Factorio]]                                                         | Should I really jump into this rabbit hole                                                                                                                                                                                                                                                                  |
 > | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]                                                                         | Eastern style of storytelling                                                                                                                                                                                                                                                                               |
 > | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|2024-06-15-IJ - MAGA Planet]]                                           | Movie about aliens that come to earth. They are super right wing and take people to a world thats right wing. It’s not what the MAGA crowd had in mind.                                                                                                                                                     |
@@ -62,8 +64,6 @@
 > | [[+ Encounters/Racism\|Racism]]                                                                                       | Notes related to or discussing racism                                                                                                                                                                                                                                                                       |
 > | [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]                                                              | Stuff about bail reform                                                                                                                                                                                                                                                                                     |
 > | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]                                  | The time is now!                                                                                                                                                                                                                                                                                            |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Palia\|Video Game - Palia]]                                 | {{VALUE:Summary}}                                                                                                                                                                                                                                                                                           |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Sun Haven\|Video Game - Sun Haven]]                         | Sun Haven tips and tricks                                                                                                                                                                                                                                                                                   |
 > 
 { .block-language-dataview}
 
@@ -71,18 +71,18 @@
 > [!example]- 🌱 Sprouts
 > These bad boys have made some progress, but need lots more love.
 > 
->  | Notes                                                                                                 |
-> | ----------------------------------------------------------------------------------------------------- |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                                    |
-> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]                        |
-> | [[Atlas/🏹 Action\|🏹 Action]]                                                                     |
-> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                   |
-> | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]]           |
-> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                             |
-> | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]                                  |
-> | [[Cards/700 - Art and Recreation/Videos\|Videos]]                                                  |
-> | [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]                                  |
-> | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]] |
+>  | Notes                                                                                       |
+> | ------------------------------------------------------------------------------------------- |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                    |
+> | [[Atlas/📥 Sources\|📥 Sources]]                                                         |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]              |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                          |
+> | [[Atlas/🏹 Action\|🏹 Action]]                                                           |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                         |
+> | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]] |
+> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                   |
+> | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]                        |
+> | [[Cards/700 - Art and Recreation/Videos\|Videos]]                                        |
 > 
 { .block-language-dataview}
 
@@ -90,16 +90,16 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                                           |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                                                                 |
+> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                                                   |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]                                             |
 > | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]                                                              |
-> | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                                                                 |
 > | [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]                                                                                             |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]                                                               |
 > | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]                                           |
 > | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                                        |
 > | [[Cards/Zettels/Transgender youth are far more suicidal than cisgender youth\|Transgender youth are far more suicidal than cisgender youth]] |
 > | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]                     |
-> | [[Cards/Zettels/Nanotechnology in the fight against cancer\|Nanotechnology in the fight against cancer]]                                     |
 > 
 { .block-language-dataview}
 
