@@ -17,7 +17,7 @@
 > First line: "The beauty of the land and the well-being of its people remained a perpetual marvel to him."
 > Last Line: "There was a wall. It did not look important. It was built of uncut rocks roughly mortared."
 > 
-> From [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]
+> From [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 
 *The beauty of the land and the well-being of its people remained a perpetual marvel to him.* He crashlanded in the desert just three days prior, with nothing to his name, on a planet familiar to his own in physicality, but unrecognizable in terms of society. 
 

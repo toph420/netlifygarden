@@ -36,6 +36,7 @@ Elsewhere:
 
 { .block-language-dataview}
 
+
 ## Where to?
 
 > [!multi-column]
@@ -104,7 +105,7 @@ Elsewhere:
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                       | Status                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:34 PM - June 19, 2024</span>                                                    | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:34 PM - June 19, 2024</span>                                                             | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:10 AM - June 16, 2024</span>                                                     | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]<br><span class='block'>2:42 PM - April 13, 2024</span>                                    | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]<br><span class='block'>12:06 AM - March 27, 2024</span>                         | <span class='center-block'>🟧</span> |
@@ -115,10 +116,10 @@ Elsewhere:
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                  | Status                               |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:38 PM - June 19, 2024</span>                                               | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Midjourney\|Midjourney]]<br><span class='block'>7:01 PM - June 19, 2024</span>                                                             | <span class='center-block'>🟩</span> |
+> | [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:38 PM - June 19, 2024</span>                                                        | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>2:38 PM - June 19, 2024</span>                                                          | <span class='center-block'>🟧</span> |
 > | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:17 AM - June 16, 2024</span>                                                | <span class='center-block'>🟥</span> |
 > | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Mens Association]]<br><span class='block'>7:05 PM - June 14, 2024</span> | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]]<br><span class='block'>4:48 PM - June 14, 2024</span>                                         | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

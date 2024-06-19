@@ -40,7 +40,7 @@
 >  - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
 > - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
-> - [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]
+> - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > 
 { .block-language-dataview}
 
@@ -52,7 +52,7 @@
 > - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
 > - [[+ Encounters/Star Trek\|Star Trek]]
-> - [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]
+> - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > 
 { .block-language-dataview}
 

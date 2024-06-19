@@ -14,7 +14,6 @@
 > 
 >  | Source                                                                                                                           |
 > | -------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]                                                              |
 > | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]                                                               |
 > | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]                                               |
 > | [[Sources/Readwise/📰 Articles/The Artificial Intelligence Revolution Part 2\|The Artificial Intelligence Revolution Part 2]] |

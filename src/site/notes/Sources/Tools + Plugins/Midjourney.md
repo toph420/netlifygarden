@@ -18,7 +18,6 @@
 - [Prompting FAQ](https://discord.com/channels/662267976984297473/1017917091606712430)
 - [Midjourney Commands](https://www.followchain.org/midjourney-commands/)
 - [Imagine Parameters](https://midjourney.gitbook.io/docs/imagine-parameters)
-- [[Campaign Codex\|Campaign Codex]] - How to prompt for gameplay maps
 - [Midjourney Examples | Prompts for AI Portraits](https://www.betchashesews.com/midjourney-examples/)
 - [Using Prefer](https://midjourney.gitbook.io/docs/user-manual#prompt-preferences-and-settings)
 - [Midjourney Cheat Codes by Matt Wolfe](https://youtu.be/1AxrikEd9r0)
@@ -57,9 +56,6 @@
 > > [!tweet]- Fashion Styling and Color ![Midjourney - fashion tips.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20fashion%20tips.png)
 > > [Fashion Styling and Color|embed](https://twitter.com/nickfloats/status/1641880576646078465?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 >
-> > [!Tweet]- Styling Prompts
-> > [Media styles|embed](https://twitter.com/realchasecurtis/status/1637597913562988545?s=61&t=gyRX2W0x81b80X8f34EMoQ)
->
 >> [!tweet]- Vector Illustrations
 >> [Vector Illustrations|embed](https://twitter.com/icreatelife/status/1642383796652724224?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 >
@@ -77,9 +73,6 @@
 >
 > > [!tweet]- Illustrations of Cities  ![Screenshot 2023-03-20 at 4.58.33 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-03-20%20at%204.58.33%20PM.png)
 > > [Illustration Cities|embed](https://twitter.com/kaseyklimes/status/1636339563525275657?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
->
-> > [!tweet]- Using ChatGPT to Generate Prompts ![Midjourney - living room.png|thumb](/img/user/Extras/Attachments/Midjourney%20-%20living%20room.png)
-> > [Using ChatGPT to Generate Prompts|embed](https://twitter.com/nickfloats/status/1635116672054079488?s=20)
 > 
 > > [!tweet]- Using Prompt Templates ![Screenshot 2023-03-20 at 5.04.01 PM.png|thumb](/img/user/Extras/Attachments/Screenshot%202023-03-20%20at%205.04.01%20PM.png)
 > > [Midjourney Prompt Template Usage|embed](https://twitter.com/followmarcos/status/1631420664140660736?s=20)

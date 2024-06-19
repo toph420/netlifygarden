@@ -40,7 +40,7 @@
 { .block-language-dataview}
 
 > [!links]+ Untagged and Not Listed (`-#on/politics`)
->  - [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]
+>  - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
 > - [[Cards/300 - Social Sciences/Activism\|Activism]]
