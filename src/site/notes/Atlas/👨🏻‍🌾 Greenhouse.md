@@ -73,8 +73,8 @@
 > 
 >  | Notes                                                                                       |
 > | ------------------------------------------------------------------------------------------- |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                    |
 > | [[Atlas/📥 Sources\|📥 Sources]]                                                         |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                    |
 > | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]              |
 > | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                          |
 > | [[Atlas/🏹 Action\|🏹 Action]]                                                           |

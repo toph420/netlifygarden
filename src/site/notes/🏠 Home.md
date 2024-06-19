@@ -91,9 +91,9 @@ Elsewhere:
 > [!note]+ Modifed Notes
 >  | Note                                                                                                                                 | Status                               |
 > | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+> | [[Atlas/📥 Sources\|📥 Sources]]<br><span class='block'>2:47 PM - June 19, 2024</span>                                            | <span class='center-block'>🌱</span> |
 > | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>2:33 PM - June 19, 2024</span>                       | <span class='center-block'>🌱</span> |
 > | [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]<br><span class='block'>2:31 PM - June 19, 2024</span>      | <span class='center-block'>🌿</span> |
-> | [[Atlas/📥 Sources\|📥 Sources]]<br><span class='block'>2:27 PM - June 19, 2024</span>                                            | <span class='center-block'>🌱</span> |
 > | [[Spaces/🦆 Ducks Films/Areas/📹 My Gear\|📹 My Gear]]<br><span class='block'>12:10 AM - June 19, 2024</span>                     | <span class='center-block'>🌞</span> |
 > | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]<br><span class='block'>10:03 PM - June 18, 2024</span> | <span class='center-block'>🌿</span> |
 > 

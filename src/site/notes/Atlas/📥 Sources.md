@@ -32,7 +32,7 @@
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
-> ## 🟨 Synthesizing (Readwise) 
+> ## 🟨 Synthesizing 
 >  | File |
 > | ---- |
 > 
@@ -86,7 +86,7 @@
 
 
 > [!NOTE|no-t clean]
-> ## 🟩 Synthesized (Readwise) 
+> ## 🟩 Synthesized 
 >  | File                                                                                                                                                                                                                         |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[Sources/Readwise/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]                                                                                                                               |
