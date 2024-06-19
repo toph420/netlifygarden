@@ -21,7 +21,7 @@
 > 	- [[Sources/Tools + Plugins/Deforum\|Deforum]] 
 > 	- [[Sources/Tools + Plugins/Invoke AI\|Invoke AI]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]
-> 	- [[+ Encounters/Prompt Playground\|Prompt Playground]]
+> 	- [[Prompt Playground\|Prompt Playground]]
 > 	- [[Calendar/+ MOCs/🎲 Prompt Journal\|🎲 Prompt Journal]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]]
 > 	- [[Cards/600 - Applied Sciences/Technology/AI/AI Art Debate\|AI Art Debate]]

@@ -13,7 +13,7 @@
 # AI Prompting
 
 > `= this.summary[](Midjourney.md)t Journal]]
-- [[+ Encounters/Prompt Playground\|Prompt Playground]]
+- [[Prompt Playground\|Prompt Playground]]
 - [[Sources/Tools + Plugins/Midjourney\|Midjourney]]
 
 ## AI Art Prompting

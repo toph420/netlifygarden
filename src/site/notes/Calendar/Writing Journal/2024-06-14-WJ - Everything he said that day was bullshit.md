@@ -41,7 +41,7 @@ Harvey's phone dings. Another delivery. But this one had a note attached to it. 
 
 ---
 
-Alright, that's enough for now. The prompt made me a think about a guy that's sort of lost in life, lying to himself about his abilities and happiness. He then gets a opportunity to potentially go do something outside of his comfort zone. Is he going to continue lying to himself, playing it safe, or could this be his big break.
+Alright, that's enough for now. The prompt made me a think about a guy that's sort of lost in life, lying to himself about his abilities and happiness. He then gets a opportunity to potentially go do something outside of his comfort zone. Is he going to continue lying to himself, playing it safe, or could this be his big break?
 
 
 

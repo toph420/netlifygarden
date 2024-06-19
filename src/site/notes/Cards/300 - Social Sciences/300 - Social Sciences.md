@@ -35,6 +35,7 @@
 > | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]             | The time is now!                                                                                                                                                                   |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                 | My research into Leftist politics and economics                                                                                                                                    |
 > | [[Cards/300 - Social Sciences/Politics\|Politics]]                                               | Map of all things politics                                                                                                                                                         |
+> | [[Cards/300 - Social Sciences/Racism\|Racism]]                                                   | Notes related to or discussing racism                                                                                                                                              |
 > | [[Cards/300 - Social Sciences/Republicans\|Republicans]]                                         | Tracking the clown show of republicans                                                                                                                                             |
 > | [[Cards/300 - Social Sciences/Research about local activism\|Research about local activism]]     | Compiling notes and research about other local activist coalitions and strategies                                                                                                  |
 > | [[Cards/300 - Social Sciences/Socialism\|Socialism]]                                             | A political and economic theory advocating for the collective ownership and control of the means of production, distribution, and exchange of goods and services within a society. |
@@ -57,6 +58,7 @@
 > [!attention]- Unrequited Notes
 >  - [[🏠 Home\|🏠 Home]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
+> - [[Cards/300 - Social Sciences/Racism\|Racism]]
 > - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
@@ -64,7 +66,6 @@
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
 > - [[Atlas/📚 Library\|📚 Library]]
-> - [[+ Encounters/Racism\|Racism]]
 > - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
 > 
 { .block-language-dataview}

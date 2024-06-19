@@ -61,7 +61,7 @@
 > | [[+ Encounters/Cybersyn Project\|Cybersyn Project]]                                                                   | Allende implemented this distribution decision support system to aid in management of the national economy                                                                                                                                                                                                  |
 > | [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]                                          | All things related to Marx and Marxism                                                                                                                                                                                                                                                                      |
 > | [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]]                                | {{VALUE:Summary}}                                                                                                                                                                                                                                                                                           |
-> | [[+ Encounters/Racism\|Racism]]                                                                                       | Notes related to or discussing racism                                                                                                                                                                                                                                                                       |
+> | [[Cards/300 - Social Sciences/Racism\|Racism]]                                                                        | Notes related to or discussing racism                                                                                                                                                                                                                                                                       |
 > | [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]                                                              | Stuff about bail reform                                                                                                                                                                                                                                                                                     |
 > | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]                                  | The time is now!                                                                                                                                                                                                                                                                                            |
 > 
@@ -73,6 +73,7 @@
 > 
 >  | Notes                                                                                       |
 > | ------------------------------------------------------------------------------------------- |
+> | [[Atlas/💌 Outbox\|💌 Outbox]]                                                           |
 > | [[Atlas/📥 Sources\|📥 Sources]]                                                         |
 > | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                    |
 > | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]              |
@@ -82,7 +83,6 @@
 > | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]] |
 > | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                   |
 > | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]                        |
-> | [[Cards/700 - Art and Recreation/Videos\|Videos]]                                        |
 > 
 { .block-language-dataview}
 
@@ -107,13 +107,12 @@
 > Grown ass notes.
 >  | Notes                                                                                              |
 > | -------------------------------------------------------------------------------------------------- |
+> | [[Atlas/🧊 Icebox\|🧊 Icebox]]                                                                  |
 > | [[Cards/700 - Art and Recreation/Learn to Draw Infographic\|Learn to Draw Infographic]]         |
 > | [[Cards/300 - Social Sciences/The Wheel of Privilege\|The Wheel of Privilege]]                  |
 > | [[Cards/000 - Knowledge Management/The Konik Method\|The Konik Method]]                         |
 > | [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]] |
 > | [[Cards/000 - Knowledge Management/Workflows/My Zotero Workflow\|My Zotero Workflow]]           |
-> | [[+ Encounters/Prompt Playground\|Prompt Playground]]                                           |
-> | [[Atlas/🧊 Icebox\|🧊 Icebox]]                                                                  |
 > | [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/Byrne Electrical/Byrne Electrical\|Byrne Electrical]]  |
 > | [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/The Oddest/The Oddest\|The Oddest]]                    |
 > 
