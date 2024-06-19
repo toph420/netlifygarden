@@ -135,7 +135,8 @@ columns:
 >> Column 2
 
 > [!column|dataview 3] 3 Columns for Dataview List
->  - [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]]
+>  - [[Calendar/Writing Journal/2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante\|2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante]]
+> - [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]]
 > - [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|2024-06-11-WJ - My First Writing Entry]]
 > - [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|2024-02-15-WJ - Things I Want to Write About]]
 > - [[Calendar/Prompt Journal/2022-12-30-PJ - More Ducks Logos\|2022-12-30-PJ - More Ducks Logos]]
@@ -154,7 +155,6 @@ columns:
 > - [[Calendar/Meetings/2024-04-08-M-WMHCC - Briefing for Gala Videos\|2024-04-08-M-WMHCC - Briefing for Gala Videos]]
 > - [[Calendar/Meetings/2024-04-04-M-Well Design - Brainstorming with the well team\|2024-04-04-M-Well Design - Brainstorming with the well team]]
 > - [[Calendar/Meetings/2024-04-02-M-UCC - UCC New Campaign Intro\|2024-04-02-M-UCC - UCC New Campaign Intro]]
-> - [[Calendar/Meetings/2024-04-02-M-COSC - GR Organizers Round Table\|2024-04-02-M-COSC - GR Organizers Round Table]]
 > 
 { .block-language-dataview}
 

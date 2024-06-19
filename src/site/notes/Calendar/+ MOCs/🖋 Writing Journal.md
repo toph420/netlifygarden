@@ -18,11 +18,12 @@ See [My Medium Posts](https://medium.com/@tophergroenink)
 
 ## Latest Writing Entries
 
-| Entries                                                                                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|Everything he said that day was bullshit]]<span class='summary'>A writing prompt inspired by a conversation with my dad</span> |
-| [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|My First Writing Entry]]<span class='summary'>Getting started on a writing journey, let's see how it goes.</span>                                |
-| [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|Things I Want to Write About]]<span class='summary'></span>                                                                                |
+| Entries                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Calendar/Writing Journal/2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante\|Continuing Harvey, Aspiring Stuntman Doordash Vigilante]]<span class='summary'>A writing entry continuing a bit of Harveys story from [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]] and exercises</span> |
+| [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|Everything he said that day was bullshit]]<span class='summary'>A writing prompt inspired by a conversation with my dad</span>                                                                                                         |
+| [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|My First Writing Entry]]<span class='summary'>Getting started on a writing journey, let's see how it goes.</span>                                                                                                                                        |
+| [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|Things I Want to Write About]]<span class='summary'></span>                                                                                                                                                                                        |
 
 { .block-language-dataview}
 
