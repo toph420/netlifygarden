@@ -19,7 +19,7 @@
 > 
 > From [[Sources/Readwise/📚 Books/The Dispossessed\|The Dispossessed]]
 
-The beauty of the land and the well-being of its people remained a perpetual marvel to him. He crashlanded in the desert just three days prior, with nothing to his name, on a planet familiar to his own in physicality, but unrecognizable in terms of society. 
+*The beauty of the land and the well-being of its people remained a perpetual marvel to him.* He crashlanded in the desert just three days prior, with nothing to his name, on a planet familiar to his own in physicality, but unrecognizable in terms of society. 
 
 When he first emerged from the fiery rubble of his makeshift capsule a group of tiny identical shimmering machines appeared from the sky to encircle the wreckage. Upon landing they seemed to scan the area with cute little beeps and peaceful green lights. They ascertained the subject's qualifications; an English speaking lad from the North America, Earth, IQ of 118, name Howie Hanson, mission unknown. 
 
@@ -35,7 +35,7 @@ The modular being conjured a beautiful chromatic chalice and handed it to Howie.
 
 Parched, Howie didn't ask questions and chugged the mystery liquid. Immediately Howie's burns and bruises diminished as if nothing had happened. Now he was freaked out. 
 
-He peered past the being, across the vast expanse of the jungle drenched cityscape. The air was crisp and clear, he could see for miles. There was a wall. It did not look important. It was built of uncut rocks roughly mortared.
+He peered past the being, across the vast expanse of the jungle drenched cityscape. The air was crisp and clear, he could see for miles. *There was a wall. It did not look important. It was built of uncut rocks roughly mortared.*
 
 
 > Hell yea, that turned out pretty cool. I enjoy world building, and clearly I love my sci-fi. I'd love to expand upon this one in the future
