@@ -73,6 +73,7 @@
 > 
 >  | Notes                                                                                       |
 > | ------------------------------------------------------------------------------------------- |
+> | [[Cards/300 - Social Sciences/Politics\|Politics]]                                       |
 > | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]                        |
 > | [[Atlas/💌 Outbox\|💌 Outbox]]                                                           |
 > | [[Atlas/📥 Sources\|📥 Sources]]                                                         |
@@ -82,7 +83,6 @@
 > | [[Atlas/🏹 Action\|🏹 Action]]                                                           |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                         |
 > | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]] |
-> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                                   |
 > 
 { .block-language-dataview}
 
