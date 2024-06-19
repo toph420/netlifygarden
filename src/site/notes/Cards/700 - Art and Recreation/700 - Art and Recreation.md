@@ -107,6 +107,7 @@
 
 > [!attention]+ Unrequited Notes (`-#on/art or #on/recreation`)
 >  - [[🏠 Home\|🏠 Home]]
+> - [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
 > - [[Cards/700 - Art and Recreation/Funny/🤣 LOL\|🤣 LOL]]
 > - [[Cards/700 - Art and Recreation/Food/Food\|Food]]
 > - [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]
