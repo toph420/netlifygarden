@@ -82,22 +82,22 @@ Elsewhere:
 > [!note]+ New Notes
 >  | Note                                                                                                                   | Status                               |
 > | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<br><span class='block'>10:51 PM - June 19, 2024</span>            | <span class='center-block'>🌿</span> |
 > | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]<br><span class='block'>5:10 PM - June 18, 2024</span>             | <span class='center-block'>🌞</span> |
 > | [[+ Encounters/Communism\|Communism]]<br><span class='block'>3:04 PM - June 18, 2024</span>                         | <span class='center-block'>🌞</span> |
 > | [[+ Encounters/Video Game - Factorio\|Video Game - Factorio]]<br><span class='block'>4:08 PM - June 17, 2024</span> | <span class='center-block'>🌞</span> |
 > | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]<br><span class='block'>12:23 PM - June 16, 2024</span>                | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-15-IJ - MAGA Planet\|MAGA Planet]]<br><span class='block'>3:57 PM - June 15, 2024</span>   | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
 >  | Note                                                                                                                                  | Status                               |
 > | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<br><span class='block'>10:55 PM - June 19, 2024</span>                           | <span class='center-block'>🌿</span> |
 > | [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]<br><span class='block'>10:49 PM - June 19, 2024</span> | <span class='center-block'>🌞</span> |
 > | [[Cards/300 - Social Sciences/Economics\|💰 Economics]]<br><span class='block'>6:55 PM - June 19, 2024</span>                      | <span class='center-block'>🌞</span> |
 > | [[Cards/300 - Social Sciences/Politics\|🏛️ Politics]]<br><span class='block'>6:55 PM - June 19, 2024</span>                       | <span class='center-block'>🌱</span> |
 > | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]<br><span class='block'>5:41 PM - June 19, 2024</span>                            | <span class='center-block'>🌞</span> |
-> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]<br><span class='block'>3:18 PM - June 19, 2024</span>            | <span class='center-block'>🌱</span> |
 > 
 { .block-language-dataview}
 
@@ -114,12 +114,12 @@ Elsewhere:
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                  | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Tools + Plugins/Midjourney\|Midjourney]]<br><span class='block'>7:01 PM - June 19, 2024</span>                                                             | <span class='center-block'>🟩</span> |
-> | [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:38 PM - June 19, 2024</span>                                                        | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>2:38 PM - June 19, 2024</span>                                                          | <span class='center-block'>🟧</span> |
-> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:17 AM - June 16, 2024</span>                                                | <span class='center-block'>🟥</span> |
-> | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Mens Association]]<br><span class='block'>7:05 PM - June 14, 2024</span> | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                     | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]<br><span class='block'>10:53 PM - June 19, 2024</span> | <span class='center-block'>🟧</span> |
+> | [[Sources/Tools + Plugins/Midjourney\|Midjourney]]<br><span class='block'>7:01 PM - June 19, 2024</span>                | <span class='center-block'>🟩</span> |
+> | [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:38 PM - June 19, 2024</span>           | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>2:38 PM - June 19, 2024</span>             | <span class='center-block'>🟧</span> |
+> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:17 AM - June 16, 2024</span>   | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

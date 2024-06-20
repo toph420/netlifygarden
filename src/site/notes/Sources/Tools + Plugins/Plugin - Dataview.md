@@ -14,6 +14,7 @@
 # Dataview
 
 - [Dataview Docs](https://blacksmithgu.github.io/obsidian-dataview/)
+- [Dataview Example Vault](https://s-blu.github.io/obsidian_dataview_example_vault/)
 - [[Dataview Queries Overview\|Dataview Queries Overview]] - all sorts of queries right here in this vault
 
 ## Resources 

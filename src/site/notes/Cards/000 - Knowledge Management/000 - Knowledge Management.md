@@ -24,8 +24,9 @@
 
 ## Notes
 > [!NOTE]- 📝 Encounters (`#on/pkm`)
->  | Note |
-> | ---- |
+>  | Note                                                                                                                                       |
+> | ------------------------------------------------------------------------------------------------------------------------------------------ |
+> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<span class='summary'>Examples of vaults, ideas for notes, customizing Obsidian</span> |
 > 
 { .block-language-dataview}
 

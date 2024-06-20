@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/obsidian #on/vaults #on/pkm 
-> **topics**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]] [[Obsidian Vaults\|Obsidian Vaults]]
+> **topics**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]] [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]
 
 
 # Vault - John Mavrick

@@ -90,6 +90,7 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                                           |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]                                                                                            |
 > | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                                                                 |
 > | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                                                   |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]                                             |
@@ -99,7 +100,6 @@
 > | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]                                           |
 > | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                                        |
 > | [[Cards/Zettels/Transgender youth are far more suicidal than cisgender youth\|Transgender youth are far more suicidal than cisgender youth]] |
-> | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]                     |
 > 
 { .block-language-dataview}
 

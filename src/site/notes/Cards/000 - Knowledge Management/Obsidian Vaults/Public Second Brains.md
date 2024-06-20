@@ -8,7 +8,7 @@
 > **status**:: #📝/🌞
 > **tags**::  #on/pkm , #on/vaults , #on/obsidian , #on/secondbrain
 > **topics**:: [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
-> **links**:: [[Obsidian Vaults\|Obsidian Vaults]]
+> **links**:: [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]
 
 
 # Public Second Brains
