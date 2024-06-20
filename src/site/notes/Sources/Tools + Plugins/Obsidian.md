@@ -43,6 +43,7 @@
 > | [[Atlas/🧠 Sid\|🧠 Sid]]<span class='summary'>The operation station of this here vault, formally known as Sid</span>                                                                                                           |
 > | [[Cards/900 - History, Biography, Geography/Biography/Aidan Helfant\|Aidan Helfant]]<span class='summary'>\-</span>                                                                                                            |
 > | [[Cards/000 - Knowledge Management/Callouts in Obsidian\|Callouts in Obsidian]]<span class='summary'>Examples of callouts in Obsidian</span>                                                                                   |
+> | [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]<span class='summary'>Tracking all the custom styled elements in this vault</span>                                                                  |
 > | [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]<span class='summary'>Obsidian Publish info and tips</span>                                                                                             |
 > | [[Cards/000 - Knowledge Management/Obsidian Themes\|Obsidian Themes]]<span class='summary'>Index of some of my favorite Obsidian themes</span>                                                                                 |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]<span class='summary'>A running list of digital gardens and second brains that are published to the web</span>                  |
@@ -125,7 +126,6 @@
 > - [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]]
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Thoughts\|SLRvb Thoughts]]
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
-> - [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]
 > - [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
 > - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
 > - [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
