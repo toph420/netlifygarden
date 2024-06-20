@@ -14,7 +14,7 @@
 > Technology is the application of scientific knowledge for practical purposes, especially in industry.
 
 ## Notes
-> [!NOTE]- 📝 Notes (`#on/technology`) or in `Cards/600 - Applied Sciences/Technology`
+> [!NOTE]+ 📝 Notes (`#on/technology`) or in `Cards/600 - Applied Sciences/Technology`
 >  | Note                                                                                                                                   | Summary                                                                                                                                                                                                            |
 > | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 > | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                               | Artificial Intelligence MOC                                                                                                                                                                                        |
