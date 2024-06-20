@@ -139,14 +139,8 @@ columns:
 > - [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]]
 > - [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|2024-06-11-WJ - My First Writing Entry]]
 > - [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|2024-02-15-WJ - Things I Want to Write About]]
-> - [[Calendar/Prompt Journal/2022-12-30-PJ - More Ducks Logos\|2022-12-30-PJ - More Ducks Logos]]
-> - [[Calendar/Prompt Journal/2022-12-29-PJ - Ducks Films Logo\|2022-12-29-PJ - Ducks Films Logo]]
-> - [[Calendar/Prompt Journal/2022-12-29-PJ - Ducks Films Website UI\|2022-12-29-PJ - Ducks Films Website UI]]
-> - [[Calendar/Prompt Journal/2022-12-27-PJ - Hello from the Magic Tavern - The Main Stays\|2022-12-27-PJ - Hello from the Magic Tavern - The Main Stays]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Dream Journal Ideas\|2022-12-23-PJ - Dream Journal Ideas]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Ancient Scroll Diagram\|2022-12-23-PJ - Ancient Scroll Diagram]]
-> - [[Calendar/Prompt Journal/2022-12-22-PJ - Playing Board Games in an Igloo\|2022-12-22-PJ - Playing Board Games in an Igloo]]
-> - [[Calendar/Prompt Journal/2022-12-22-PJ - Charlie in Wonderland\|2022-12-22-PJ - Charlie in Wonderland]]
 > - [[Calendar/Meetings/2024-05-30-M-UCC - Everyday People Videos coordinating\|2024-05-30-M-UCC - Everyday People Videos coordinating]]
 > - [[Calendar/Meetings/2024-05-30-M-GRCF - Video opportunities for GRCF\|2024-05-30-M-GRCF - Video opportunities for GRCF]]
 > - [[Calendar/Meetings/2024-04-24-M-Lisa McNeily - Talking about WYCE writing and podcast\|2024-04-24-M-Lisa McNeily - Talking about WYCE writing and podcast]]
@@ -155,6 +149,12 @@ columns:
 > - [[Calendar/Meetings/2024-04-08-M-WMHCC - Briefing for Gala Videos\|2024-04-08-M-WMHCC - Briefing for Gala Videos]]
 > - [[Calendar/Meetings/2024-04-04-M-Well Design - Brainstorming with the well team\|2024-04-04-M-Well Design - Brainstorming with the well team]]
 > - [[Calendar/Meetings/2024-04-02-M-UCC - UCC New Campaign Intro\|2024-04-02-M-UCC - UCC New Campaign Intro]]
+> - [[Calendar/Meetings/2024-04-02-M-COSC - GR Organizers Round Table\|2024-04-02-M-COSC - GR Organizers Round Table]]
+> - [[Calendar/Meetings/2024-03-07-M-CCOS - Peoples Hearing 3 - Action\|2024-03-07-M-CCOS - Peoples Hearing 3 - Action]]
+> - [[Calendar/Meetings/2024-03-06-M-CCOS - Strategy for Peoples Hearing 3 video\|2024-03-06-M-CCOS - Strategy for Peoples Hearing 3 video]]
+> - [[Calendar/Meetings/2024-02-06-M-CCOS - Policing Meeting Video briefing\|2024-02-06-M-CCOS - Policing Meeting Video briefing]]
+> - [[Calendar/Meetings/2024-02-05-M-Silva - Silva Podcast introduction\|2024-02-05-M-Silva - Silva Podcast introduction]]
+> - [[Calendar/Meetings/2024-01-24-M-Art of Mind - Video follow up\|2024-01-24-M-Art of Mind - Video follow up]]
 > 
 { .block-language-dataview}
 

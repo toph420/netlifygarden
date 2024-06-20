@@ -89,7 +89,6 @@
 >  - [[🏠 Home\|🏠 Home]]
 > - [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 > - [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]
-> - [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
 > - [[Cards/600 - Applied Sciences/Photography/Photography\|Photography]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > 

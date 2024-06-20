@@ -91,13 +91,13 @@ Elsewhere:
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                  | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<br><span class='block'>10:55 PM - June 19, 2024</span>                           | <span class='center-block'>🌿</span> |
-> | [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]<br><span class='block'>10:49 PM - June 19, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[Cards/300 - Social Sciences/Economics\|💰 Economics]]<br><span class='block'>6:55 PM - June 19, 2024</span>                      | <span class='center-block'>🌞</span> |
-> | [[Cards/300 - Social Sciences/Politics\|🏛️ Politics]]<br><span class='block'>6:55 PM - June 19, 2024</span>                       | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]<br><span class='block'>5:41 PM - June 19, 2024</span>                            | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                            | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]<br><span class='block'>11:00 PM - June 19, 2024</span>                             | <span class='center-block'>🌿</span> |
+> | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]<br><span class='block'>10:57 PM - June 19, 2024</span> | <span class='center-block'>🌿</span> |
+> | [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]<br><span class='block'>10:56 PM - June 19, 2024</span>                                    | <span class='center-block'>🌱</span> |
+> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<br><span class='block'>10:55 PM - June 19, 2024</span>                                                     | <span class='center-block'>🌿</span> |
+> | [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]<br><span class='block'>10:49 PM - June 19, 2024</span>                           | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 

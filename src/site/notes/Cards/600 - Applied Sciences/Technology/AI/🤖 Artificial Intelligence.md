@@ -5,7 +5,7 @@
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]], [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]
 > type:: #🗺 
-> tags:: #on/ai 
+> tags:: #on/ai #on/appliedsciences 
 > status:: #📝/🌿
 
 # Artificial Intelligence

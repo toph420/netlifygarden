@@ -12,7 +12,8 @@
 
 # AI Prompting
 
-> `= this.summary[](Midjourney.md)t Journal]]
+> Guides and tips for writing prompts for AI models
+
 - [[Prompt Playground\|Prompt Playground]]
 - [[Sources/Tools + Plugins/Midjourney\|Midjourney]]
 
@@ -35,23 +36,12 @@
 - [SnackPrompt - Discover Prompts](https://snackprompt.com/)
 
 ![5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg](/img/user/Extras/Attachments/5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg)
-## Artist Prompting
-
-[GitHub - kaikalii/stable-diffusion-artists: Curated list of artists for Stable Diffusion prompts](https://github.com/kaikalii/stable-diffusion-artists)
 
 ## From the web
 
 > [!tip]+ Tips for GPT
 > - Use [Convert Web Pages to Plain Text | Great for ChatGPT + SEO Use](https://totheweb.com/learning_center/tools-convert-html-text-to-plain-text-for-content-review/) to submit a plain text version of a website to [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]
 >
-> > [!tweet]- Writing with AI
-> > [Wriying with AI|embed](https://twitter.com/itsadityabansal/status/1628389661730283525?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
-
-> [!tweet]+ Mega Prompting
-> [Mega Prompting|embed](https://twitter.com/thatroblennon/status/1637497374372425734?s=61&t=gyRX2W0x81b80X8f34EMoQ)
-
-> [!tweet]+ Jailbreaking
-> [Jailbreaking GPT|embed](https://twitter.com/alexalbert__/status/1637145220256264192?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
 
 
 ## Other Resources

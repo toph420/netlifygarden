@@ -71,35 +71,35 @@
 > [!example]- 🌱 Sprouts
 > These bad boys have made some progress, but need lots more love.
 > 
->  | Notes                                                                                       |
-> | ------------------------------------------------------------------------------------------- |
-> | [[Cards/300 - Social Sciences/Politics\|Politics]]                                       |
-> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]                        |
-> | [[Atlas/💌 Outbox\|💌 Outbox]]                                                           |
-> | [[Atlas/📥 Sources\|📥 Sources]]                                                         |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                    |
-> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]              |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                          |
-> | [[Atlas/🏹 Action\|🏹 Action]]                                                           |
-> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                         |
-> | [[Cards/100 - Personal Management/100 - Personal Management\|100 - Personal Management]] |
+>  | Notes                                                                          |
+> | ------------------------------------------------------------------------------ |
+> | [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]          |
+> | [[Cards/300 - Social Sciences/Politics\|Politics]]                          |
+> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]           |
+> | [[Atlas/💌 Outbox\|💌 Outbox]]                                              |
+> | [[Atlas/📥 Sources\|📥 Sources]]                                            |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                       |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]] |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]             |
+> | [[Atlas/🏹 Action\|🏹 Action]]                                              |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                            |
 > 
 { .block-language-dataview}
 
 > [!example]- 🌿 Saplings 
 > These are close to living on their own, grow young sapling!
->  | Notes                                                                                                                                           |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]                                                                                            |
-> | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                                                                 |
-> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                                                   |
-> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]                                             |
-> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]                                                              |
-> | [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]                                                                                             |
-> | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]                                                               |
-> | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]                                           |
-> | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                                        |
-> | [[Cards/Zettels/Transgender youth are far more suicidal than cisgender youth\|Transgender youth are far more suicidal than cisgender youth]] |
+>  | Notes                                                                                                    |
+> | -------------------------------------------------------------------------------------------------------- |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]                             |
+> | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]] |
+> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]                                                     |
+> | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                          |
+> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                            |
+> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]      |
+> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]                       |
+> | [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]                                                      |
+> | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]                        |
+> | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]]    |
 > 
 { .block-language-dataview}
 
