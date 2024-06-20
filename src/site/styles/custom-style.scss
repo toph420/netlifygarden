@@ -30,6 +30,12 @@
     margin-bottom: 20px !important;
 }
 
+//FIX FOR EMBEDDED NOTES
+
+.markdown-embed-title #clean {
+    display: none;
+}
+
 // SOURCES PAGE FIX
 
 .sources .callout.callout.callout[data-callout-metadata~=clean] .callout-content {
