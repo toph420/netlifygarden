@@ -35,7 +35,7 @@
 | File                                                                                               | Modified  | Language |
 | -------------------------------------------------------------------------------------------------- | --------- | -------- |
 | [[Sources/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]                          | 2024-6-13 | \-       |
-| [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]] | 2024-6-13 | \-       |
+| [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]] | 2024-6-18 | \-       |
 | [[Calendar/Journal/Daily/2023-04-04\|2023-04-04]]                                               | 2023-4-5  | \-       |
 
 { .block-language-dataview}

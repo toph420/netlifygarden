@@ -3,9 +3,9 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
+> **up**:: [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]
 > **type**:: #📝 
-> **status**:: #📝/🌞
+> **status**:: #📝/🌱 
 > **tags**::  #on/activism 
 > **topics**:: [[Cards/300 - Social Sciences/Politics\|Politics]], [[Affordable Housing\|Affordable Housing]], [[Cards/900 - History, Biography, Geography/Geography and Travel/Grand Rapids/Grand Rapids Police Department\|Grand Rapids Police Department]], [[Policing\|Policing]]
 > **links**::  [[Cards/900 - History, Biography, Geography/Geography and Travel/Grand Rapids/🏙️ Grand Rapids\|🏙️ Grand Rapids]], [[Cards/300 - Social Sciences/Leftism\|Leftism]]
@@ -34,6 +34,10 @@
 
 ## Solutions
 - [Turning old malls into town centers and living](https://x.com/the_transit_guy/status/1787202077501915621?s=46)
+
+
+## Protests
+- I find it hilarious that people get so butthurt about the protesters that spray cornflour water soluble “paint” on famous artificers, ie the Mona Lisa or Stonehenge… even going as far to call for them to be put to death [Matt Walsh](https://x.com/mattwalshblog/status/1803422389776109614?s=46). Here’s a thread from an apolitical guy discussing how benign the the paint is at Stonehenge and how it has been used many times in the past as a protest place: [Stephen Fisher on Stonehenge Protest](https://x.com/seaspitfires/status/1803557459543400831?s=46)
 ---
-up:: [[🏠 Home\|🏠 Home]]
+up:: [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]
 

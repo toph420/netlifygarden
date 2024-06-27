@@ -13,18 +13,18 @@
 > All notes and docs for the tools, plugins, and languages
 
 > [!example]- Latest Tools
->  | Tools                                                                                                                                                 |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Tools + Plugins/SudoWrite\|SudoWrite]]<span class='summary'>AI powered writing partner</span>                                            |
-> | [[Sources/Tools + Plugins/SOL Decoder\|SOL Decoder]]<span class='summary'>Discord bot for Baby AGI and Auto GPT</span>                             |
-> | [[Sources/Tools + Plugins/Runway ML\|Runway ML]]<span class='summary'>The company responsible for gen-1 and 2</span>                               |
-> | [[Sources/Tools + Plugins/Zotero\|Zotero]]<span class='summary'>Desktop app for keeping track of sources such as papers and journals</span>        |
-> | [[Sources/Tools + Plugins/Shortcuts App\|Shortcuts App]]<span class='summary'>Shortcuts for Mac and iOS</span>                                     |
-> | [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]]<span class='summary'>Links, tools, and resources related to Stable Diffusion</span> |
-> | [[Sources/Tools + Plugins/Pocket Casts\|Pocket Casts]]<span class='summary'>\-</span>                                                              |
-> | [[Sources/Tools + Plugins/OBS\|OBS]]<span class='summary'>\-</span>                                                                                |
-> | [[Sources/Tools + Plugins/Readwise Reader\|Readwise Reader]]<span class='summary'>Just the coolest app on the internet</span>                      |
-> | [[Sources/Tools + Plugins/Todoist\|Todoist]]<span class='summary'>My current task manager. [Open Todoist](todoist://)</span>                       |
+>  | Tools                                                                                                                                                                                                                                                                                                                                                |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/Tools + Plugins/ComfyUI\|ComfyUI]]<span class='summary'>{{VALUE:Summary}}</span>                                                                                                                                                                                                                                                        |
+> | [[Sources/Tools + Plugins/Descript\|Descript]]<span class='summary'>Awesome video editing using text</span>                                                                                                                                                                                                                                       |
+> | [[Sources/Tools + Plugins/Arxiv\|Arxiv]]<span class='summary'>arXiv is a free distribution service and an open-access archive for 2,219,424 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.</span> |
+> | [[Sources/Tools + Plugins/Automatic 1111\|Automatic 1111]]<span class='summary'>Guides and resources related to Stable Diffusion web GUI Automatic 1111</span>                                                                                                                                                                                    |
+> | [[Sources/Tools + Plugins/Deforum\|Deforum]]<span class='summary'>AI video generator using [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]]</span>                                                                                                                                                                                                                            |
+> | [[Sources/Tools + Plugins/Discord\|Discord]]<span class='summary'>Only the coolest chat app</span>                                                                                                                                                                                                                                                |
+> | [[Sources/Tools + Plugins/Espanso\|Espanso]]<span class='summary'>A sick text expander</span>                                                                                                                                                                                                                                                     |
+> | [[Sources/Tools + Plugins/Arc Browser\|Arc Browser]]<span class='summary'>A new type of browser built on chromium</span>                                                                                                                                                                                                                          |
+> | [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]<span class='summary'>Open AI Text Chat</span>                                                                                                                                                                                                                                                      |
+> | [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]]<span class='summary'>\-</span>                                                                                                                                                                                                                                                       |
 > 
 { .block-language-dataview}
 

@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
+> **up**:: [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
 > **type**:: #🗺️ 
 > **status**:: #📝/🌞
 > **tags**::  #on/economics
@@ -13,7 +13,7 @@
 
 # 💰 Economics
 
-> MOC of everything related to economics. 
+> Top level map of everything related to economics. 
 
 > [!Example]+ Jumping off points
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
@@ -22,10 +22,10 @@
 > [!NOTE]+ 📝 Notes (`#on/economics`)
 >  | Note                                                          | Summary                                                     |
 > | ------------------------------------------------------------- | ----------------------------------------------------------- |
-> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]           | My research into Leftist politics and economics             |
+> | [[+ Encounters/Communism\|Communism]]                      | Yep                                                         |
 > | [[Cards/300 - Social Sciences/Conservatism\|Conservatism]] | Research and outline of conservative politics and economics |
 > | [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]     | The Antichrist                                              |
-> | [[+ Encounters/Communism\|Communism]]                      | Yep                                                         |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]           | My research into Leftist politics and economics             |
 > 
 { .block-language-dataview}
 
@@ -36,9 +36,9 @@
 { .block-language-dataview}
 
 > [!links]+ Unrequited Notes (`-#on/economics`)
->  - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
+>  - [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
-> - [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
+> - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 > 
 { .block-language-dataview}
 

@@ -22,6 +22,7 @@
 ## Videos
 - [Debunied - Socialism has never worked](https://youtu.be/k79wCaFgU40?si=ZW5xPyonaH7GrkQR)
 
+![Socialism - why.png](/img/user/Extras/Attachments/Socialism%20-%20why.png)
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

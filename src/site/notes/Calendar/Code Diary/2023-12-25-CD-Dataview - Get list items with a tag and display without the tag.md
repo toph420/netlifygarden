@@ -35,8 +35,9 @@ I use this snippet to list lines tagged with ‘#exam’ in my folder "3_semeste
 
 ## Result
 
-| class | 🔥 |
-| ----- | -- |
+| class                                                                  | 🔥                                                                                  |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]] | <ul><li><ul><li> hell yea!</li><li> Love this, beautifully said</li></ul></li></ul> |
 
 { .block-language-dataview}
 

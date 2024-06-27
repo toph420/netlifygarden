@@ -3,10 +3,10 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> **up**:: [[Cards/600 - Applied Sciences/Technology/Space\|Space]]
 > **type**:: #📝 
-> **status**:: #📝/🌱 
-> **tags**:: #on/ai 
+> **status**:: #📝/🌞 
+> **tags**:: #on/ai #on/space
 > **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Super Intelligence (ASI)\|ASI]], [[Cards/600 - Applied Sciences/Technology/AI/Artificial General Intelligence (AGI)\|AGI]]
 > **links**:: 
 
@@ -21,5 +21,5 @@
 > [The Fermi Paradox, a Thread|embed](https://twitter.com/javilopen/status/1609595334799560706?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
 
 ---
-up:: [[🏠 Home\|🏠 Home]]
+up:: [[Cards/600 - Applied Sciences/Technology/Space\|Space]]
 

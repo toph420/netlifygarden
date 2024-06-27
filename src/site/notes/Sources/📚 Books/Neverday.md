@@ -11,7 +11,7 @@
 >> **tags**:: #on/books
 >
 >> [!metadata]- Book Info
->> **Author**:: [[Carlton Mellick III\|Carlton Mellick III]]
+>> **Author**:: [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]
 >> **Title**:: Neverday
 >> **URL**::
 >> **Reviewed Date**:: [[2023-09-01 \|2023-09-01 ]]

@@ -38,8 +38,8 @@ See [My Drawing YouTube Playlist](https://www.youtube.com/playlist?list=PLy-dDGN
 ## Notes (`#on/drawing`)
 | File                                                                                       | summary                                                           |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| [[Cards/700 - Art and Recreation/Procreate/Procreate\|Procreate]]                       | THe ultimate drawing app for iPad                                 |
 | [[Cards/700 - Art and Recreation/Learn to Draw Infographic\|Learn to Draw Infographic]] | Huge infographic of resources and curriculum to learn how to draw |
+| [[Cards/700 - Art and Recreation/Procreate/Procreate\|Procreate]]                       | THe ultimate drawing app for iPad                                 |
 
 { .block-language-dataview}
 

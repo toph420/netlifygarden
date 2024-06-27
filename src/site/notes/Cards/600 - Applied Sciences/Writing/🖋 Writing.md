@@ -64,19 +64,23 @@
 > [!NOTE]+ 📝 Notes (`#on/writing`)
 >  | Note                                                                                                                                                                                                                                  |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Storytelling\|Storytelling]]<span class='summary'>Notes and guides about telling stories </span><span class='block'>12:49 PM - June 21, 2024</span>                                                                 |
+> | [[+ Encounters/Short Stories\|Short Stories]]<span class='summary'>Recommendations and stuff related to short stories</span><span class='block'>4:40 PM - June 24, 2024</span>                                                     |
+> | [[+ Encounters/Save the Cat\|Save the Cat]]<span class='summary'>A storytelling structure, 15 beats </span><span class='block'>1:02 PM - June 21, 2024</span>                                                                      |
+> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<span class='summary'>The greatest bizzaro fiction writer of all time </span><span class='block'>9:43 PM - June 25, 2024</span>                                           |
+> | [[Calendar/Ideas/Idea - Airbnb Lady\|Idea - Airbnb Lady]]<span class='summary'>A story about lady in a bad relationship, she seeks help through renters of her AirBnb</span><span class='block'>4:49 PM - November 30, 2022</span> |
 > | [[Cards/600 - Applied Sciences/Writing/Writing a Book is a 5 Step process\|Writing a Book is a 5 Step process]]<span class='summary'>\-</span><span class='block'>12:27 PM - December 01, 2022</span>                              |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]<span class='summary'>Can AI really be a tool in creative writing?</span><span class='block'>12:39 PM - November 30, 2022</span>                              |
-> | [[Calendar/Ideas/Idea - Airbnb Lady\|Idea - Airbnb Lady]]<span class='summary'>A story about lady in a bad relationship, she seeks help through renters of her AirBnb</span><span class='block'>4:49 PM - November 30, 2022</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ 📥 Sources (`#on/writing`)
 >  | Note                                                                                                                                                                                                                                                                                    |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/Readwise/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]<span class='summary'>PD Workman's process for writing inside Obsidian</span><span class='block'>12:56 AM - January 09, 2023</span>                                                         |
+> | [[Sources/Readwise/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]<span class='summary'></span><span class='block'>4:37 PM - March 13, 2023</span>                                                                                                          |
 > | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<span class='summary'>Mind blowing storytelling AI tool, wow. From the guide: Subtxt is not the application to write your story, it's an application to _develop_ your story.</span><span class='block'>2:40 PM - February 11, 2023</span> |
 > | [[Sources/Reddit Thread about Writing in Obsidian\|Reddit Thread about Writing in Obsidian]]<span class='summary'>A great thread and conversation about writing a story, developing characters in Obsidian</span><span class='block'>8:35 PM - December 08, 2022</span>              |
-> | [[Sources/Readwise/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]<span class='summary'></span><span class='block'>4:37 PM - March 13, 2023</span>                                                                                                          |
-> | [[Sources/Readwise/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]<span class='summary'>PD Workman's process for writing inside Obsidian</span><span class='block'>5:22 PM - March 13, 2023</span>                                                            |
 > 
 { .block-language-dataview}
 

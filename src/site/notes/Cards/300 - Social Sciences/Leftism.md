@@ -28,30 +28,30 @@
 
 
 > [!NOTE]+ 📝 Notes (`#on/leftism`)
->  - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
+>  - [[+ Encounters/Communism\|Communism]]
+> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[+ Encounters/Communism\|Communism]]
 > 
 { .block-language-dataview}
 
 > [!note]+ Sources
->  - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
-> - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
+>  - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+> - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
 > - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > 
 { .block-language-dataview}
 
 > [!links]+ Untagged Notes (`-#on/leftism`)
 >  - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
+> - [[+ Encounters/Star Trek\|Star Trek]]
 > - [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
 > - [[Cards/300 - Social Sciences/Activism\|Activism]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
 > - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
-> - [[+ Encounters/Star Trek\|Star Trek]]
 > - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > 
 { .block-language-dataview}

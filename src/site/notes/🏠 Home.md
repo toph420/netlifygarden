@@ -80,46 +80,46 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                   | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<br><span class='block'>10:51 PM - June 19, 2024</span>            | <span class='center-block'>🌿</span> |
-> | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]<br><span class='block'>5:10 PM - June 18, 2024</span>             | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Communism\|Communism]]<br><span class='block'>3:04 PM - June 18, 2024</span>                         | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Video Game - Factorio\|Video Game - Factorio]]<br><span class='block'>4:08 PM - June 17, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Kishotenketsu\|Kishotenketsu]]<br><span class='block'>12:23 PM - June 16, 2024</span>                | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                                                      | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Calendar/Ideas/2024-06-26-IJ - Prisoner AI\|Prisoner AI]]<br><span class='block'>5:23 PM - June 26, 2024</span>                                                                      | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<br><span class='block'>9:43 PM - June 25, 2024</span>                                                                        | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-25-IJ - Write about the arson fire of my grandparents\|Write about the arson fire of my grandparents]]<br><span class='block'>11:36 AM - June 25, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Short Stories\|Short Stories]]<br><span class='block'>4:40 PM - June 24, 2024</span>                                                                                    | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Chicago\|Chicago]]<br><span class='block'>1:45 AM - June 24, 2024</span>                                                                                                | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                            | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]<br><span class='block'>11:00 PM - June 19, 2024</span>                             | <span class='center-block'>🌿</span> |
-> | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]<br><span class='block'>10:57 PM - June 19, 2024</span> | <span class='center-block'>🌿</span> |
-> | [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]<br><span class='block'>10:56 PM - June 19, 2024</span>                                    | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<br><span class='block'>10:55 PM - June 19, 2024</span>                                                     | <span class='center-block'>🌿</span> |
-> | [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]<br><span class='block'>10:49 PM - June 19, 2024</span>                           | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                        | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<br><span class='block'>9:44 PM - June 25, 2024</span>                          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Short Stories\|Short Stories]]<br><span class='block'>9:23 PM - June 25, 2024</span>                                      | <span class='center-block'>🌞</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>9:23 PM - June 25, 2024</span> | <span class='center-block'>\-</span> |
+> | [[+ Encounters/Chicago\|Chicago]]<br><span class='block'>7:19 PM - June 24, 2024</span>                                                  | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Save the Cat\|Save the Cat]]<br><span class='block'>6:51 PM - June 24, 2024</span>                                        | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                       | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:34 PM - June 19, 2024</span>                                                             | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:10 AM - June 16, 2024</span>                                                     | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]<br><span class='block'>2:42 PM - April 13, 2024</span>                                    | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]<br><span class='block'>12:06 AM - March 27, 2024</span>                         | <span class='center-block'>🟧</span> |
-> | [[Sources/🎙 Podcasts/The International Working Mens Association\|The International Working Men's Association]]<br><span class='block'>9:34 PM - December 07, 2023</span> | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                                                                                  | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>10:32 PM - June 26, 2024</span>                                                                                                                           | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>10:31 PM - June 26, 2024</span>                                                                                                   | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>10:27 PM - June 26, 2024</span>                                                                                                                                         | <span class='center-block'>🟨</span> |
+> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>10:24 PM - June 26, 2024</span>                                                                                               | <span class='center-block'>🟥</span> |
+> | [[Sources/Omnivore/2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines\|2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines]]<br><span class='block'>11:46 PM - June 20, 2024</span> | <span class='center-block'>\-</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                     | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]<br><span class='block'>10:53 PM - June 19, 2024</span> | <span class='center-block'>🟧</span> |
-> | [[Sources/Tools + Plugins/Midjourney\|Midjourney]]<br><span class='block'>7:01 PM - June 19, 2024</span>                | <span class='center-block'>🟩</span> |
-> | [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]<br><span class='block'>2:38 PM - June 19, 2024</span>           | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>2:38 PM - June 19, 2024</span>             | <span class='center-block'>🟧</span> |
-> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]<br><span class='block'>1:17 AM - June 16, 2024</span>   | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                                                                                 | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>10:33 PM - June 26, 2024</span>                                                                                              | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>10:32 PM - June 26, 2024</span>                                                                                                                          | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>10:31 PM - June 26, 2024</span>                                                                                                  | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>10:29 PM - June 26, 2024</span>                                                                                                                                        | <span class='center-block'>🟨</span> |
+> | [[Sources/Omnivore/2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines\|2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines]]<br><span class='block'>6:51 PM - June 24, 2024</span> | <span class='center-block'>\-</span> |
 > 
 { .block-language-dataview}

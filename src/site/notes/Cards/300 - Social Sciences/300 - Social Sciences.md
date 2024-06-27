@@ -18,6 +18,7 @@
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
 > 	- [[Cards/300 - Social Sciences/Leftism\|Leftism]]
 
+![Politics - me.png](/img/user/Extras/Attachments/Politics%20-%20me.png)
 ## Other Notes
 > [!NOTE]- 📝 Notes
 >  | Note                                                                                                | Summary                                                                                                                                                                            |
@@ -28,7 +29,7 @@
 > | [[Cards/300 - Social Sciences/Child Labor\|Child Labor]]                                         | My research into the rampant child labor in the US and across the world                                                                                                            |
 > | [[+ Encounters/Communism\|Communism]]                                                            | Yep                                                                                                                                                                                |
 > | [[Cards/300 - Social Sciences/Conservatism\|Conservatism]]                                       | Research and outline of conservative politics and economics                                                                                                                        |
-> | [[Cards/300 - Social Sciences/Economics\|Economics]]                                             | MOC of everything related to economics.                                                                                                                                            |
+> | [[Cards/300 - Social Sciences/Economics\|Economics]]                                             | Top level map of everything related to economics.                                                                                                                                  |
 > | [[Cards/300 - Social Sciences/Effective Altruism\|Effective Altruism]]                           | \-                                                                                                                                                                                 |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]] | Gender dysphoria is a condition where someone feels distress because their gender does not match the gender they were assigned at birth                                            |
 > | [[Cards/300 - Social Sciences/Gun Violence in America\|Gun Violence in America]]                 | Research about gun violence in the USA                                                                                                                                             |
@@ -57,16 +58,18 @@
 
 > [!attention]- Unrequited Notes
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[Cards/300 - Social Sciences/Racism\|Racism]]
-> - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
-> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
-> - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
-> - [[Cards/300 - Social Sciences/Politics\|Politics]]
-> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
-> - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
+> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
+> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
+> - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
+> - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
+> - [[Cards/300 - Social Sciences/Activism\|Activism]]
+> - [[Cards/300 - Social Sciences/Racism\|Racism]]
+> - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
+> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
+> - [[Cards/300 - Social Sciences/Politics\|Politics]]
+> - [[Cards/300 - Social Sciences/Economics\|Economics]]
 > 
 { .block-language-dataview}
 
