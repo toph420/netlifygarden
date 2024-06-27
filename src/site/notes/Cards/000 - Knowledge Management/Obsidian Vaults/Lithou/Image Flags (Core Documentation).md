@@ -59,7 +59,7 @@ Each of these core flags will call a flavour of decoration and some default valu
 ---
 ## Side
 
-![testc.jpg|+side](/img/user/Extras/Attachments/testc.jpg)
+![[testc.jpg|+side]]
 
 This flag will set the object to float so that the text in the following elements will flow around it.  
 
@@ -71,7 +71,7 @@ This is the most basic core flag and other modifiers are highly encouraged to be
 
 ## Tape
 
-![test.jpg|+tape -med](/img/user/Extras/Attachments/test.jpg)
+![[test.jpg|+tape -med]]
 This flag will tilt the image and apply an effect so that the image appears to be attached to the background by a piece of scotch tape. 
 
 By Default it is floated to the right and has a width of 60% of the page. 
@@ -81,7 +81,7 @@ Size Modifiers will also change the size of the piece of tape so that it scales 
 ---
 ## Push Pin
 
-![testc.jpg|+pin](/img/user/Extras/Attachments/testc.jpg)This flag is similar to the tape flag, but will apply an effect that looks like the image is instead held too the background by a push pin. 
+![[testc.jpg|+pin]]This flag is similar to the tape flag, but will apply an effect that looks like the image is instead held too the background by a push pin. 
 
 By Default it is floated to the right and has a width of 60% of the page. 
 
@@ -100,7 +100,7 @@ The elliptical cutout works best for images that are taller than they are wide. 
 ---
 ## Landscape
 
-![testc.jpg|+landscape](/img/user/Extras/Attachments/testc.jpg)The landscape flag is similar to the portrait flag in that it will create an oval cutout around the image. 
+![[testc.jpg|+landscape]]The landscape flag is similar to the portrait flag in that it will create an oval cutout around the image. 
 
 The difference is the oval is shaped to match a landscape image and is thus wider than it is tall. 
 
@@ -142,29 +142,29 @@ The size flags will resize an image while keeping any other attributes it has.  
 ### Thumbnail
 "-thumb"  will create a thumbnail size (1/8th of the page)
 
-![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)
+![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -thumb](/img/user/Extras/Attachments/testc.jpg)![[testc.jpg|+side -thumb]]![[testc.jpg|+side -thumb]]![[testc.jpg|+side -thumb]]![[testc.jpg|+side -thumb]]![[testc.jpg|+side -thumb]]![[testc.jpg|+side -thumb]]
 
 
 ---
 ### Small:
 "-sm"  will call the small size (1/4th of the page)
-![testc.jpg|+side -sm](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -sm](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -sm](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -sm](/img/user/Extras/Attachments/testc.jpg)
+![[testc.jpg|+side -sm]]![[testc.jpg|+side -sm]]![[testc.jpg|+side -sm]]![[testc.jpg|+side -sm]]
 
 ---
 ### Medium:
 "-med" will call the medium size (1/3rd of the page)
-![testc.jpg|+side -med](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -med](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side -med](/img/user/Extras/Attachments/testc.jpg)
+![[testc.jpg|+side -med]]![[testc.jpg|+side -med]]![[testc.jpg|+side -med]]
 
 ---
 ### Large: 
 "-lg" will call the large size (half of the page)
-![testc.jpg|+side-lg](/img/user/Extras/Attachments/testc.jpg)![testc.jpg|+side-lg](/img/user/Extras/Attachments/testc.jpg)
+![[testc.jpg|+side-lg]]![[testc.jpg|+side-lg]]
 
 ---
 
 ### Huge: 
 "-huge" will call the huge size (2/3rd of the page)
-![testc.jpg|-huge](/img/user/Extras/Attachments/testc.jpg)
+![[testc.jpg|-huge]]
 
 ---
 
@@ -179,14 +179,14 @@ The size flags will resize an image while keeping any other attributes it has.  
 
 ## Borders
 ### Border1 and Border2
-![testc.jpg|+side -border1-lg](/img/user/Extras/Attachments/testc.jpg)
+![[testc.jpg|+side -border1-lg]]
 the "-border1" and the "-border2" flags will add a border to the image. 
 
 "-border1" by default, will be a solid line that is two pixel wide. It is also by default black in color
 
 "-border2" by default is the same as "-border1" but is white instead of black. 
 
-![testc.jpg|+side-border2-lg](/img/user/Extras/Attachments/testc.jpg)
+![[testc.jpg|+side-border2-lg]]
 The border will go around the image as opposed to the container (the Div) and will thus go underneath other effects like the tape effect as pictured. 
 
 These borders can be customized to default to other colors and sizes. They can also be further modified as detailed in the [[Cards/000 - Knowledge Management/Obsidian Vaults/Lithou/Image Flags (Extended Documentation)\|Extended Docmentation]]

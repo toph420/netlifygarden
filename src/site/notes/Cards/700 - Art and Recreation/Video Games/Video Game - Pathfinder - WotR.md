@@ -253,12 +253,12 @@ to switch it up:
 	- ![02BE40ED-8E9A-4CB8-AF5C-510B739B660C.jpeg](/img/user/Extras/Attachments/02BE40ED-8E9A-4CB8-AF5C-510B739B660C.jpeg)
 - ⭐️ [Ember - Stigmatized Witch](https://youtu.be/ErpqRegmjCw?si=V27_KtM6sDTu-_qw)
 	- ![177F8BD5-4A1A-489A-B076-452BADAA394E.jpeg](/img/user/Extras/Attachments/177F8BD5-4A1A-489A-B076-452BADAA394E.jpeg)
-	- ![7182E14E-F091-4AED-8043-0A56844528A2.jpeg](/img/user/Extras/Attachments/7182E14E-F091-4AED-8043-0A56844528A2.jpeg)
+	- ![[7182E14E-F091-4AED-8043-0A56844528A2.jpeg]]
 - ⭐️ [Nenio](https://youtu.be/ytmjt6kASqo?si=nad-t7atbcp85cRT)
 ### More ideas
 
-![E86D7448-E314-48EC-8729-AFB071EC802C.jpeg](/img/user/Extras/Attachments/E86D7448-E314-48EC-8729-AFB071EC802C.jpeg)
-![19884CE5-7F7C-4757-8CCE-C1D71838B5D8.jpeg](/img/user/Extras/Attachments/19884CE5-7F7C-4757-8CCE-C1D71838B5D8.jpeg)
+![[E86D7448-E314-48EC-8729-AFB071EC802C.jpeg]]
+![[19884CE5-7F7C-4757-8CCE-C1D71838B5D8.jpeg]]
 
 ## Items
 - [items](https://youtu.be/aKoaPQ0gJl0?si=VzcFayUQLqUY5cnr)

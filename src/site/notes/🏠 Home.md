@@ -13,6 +13,7 @@ Due to the nature of some of these notes not every link will be reachable, but I
 Below are some jumping off points:
 
 - Be sure to check out the [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]] to keep up with my writing journey. 
+- See what books I'm reading at the [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 - Learn some more about this [[Sources/Tools + Plugins/Obsidian\|Obsidian]] vault of notes, I call it [[Atlas/🧠 Sid\|🧠 Sid]] (homage to Sid from [The Incredible Toon Machine](https://www.youtube.com/watch?v=w6RD2s4TQAQ))
 - Use [[Atlas/🗺 Maps\|🗺 Maps]], [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]], [[Atlas/📚 Library\|📚 Library]], [[Atlas/📥 Sources\|📥 Sources]] to explore 
 - Use the backlinks on each page to navigate to related notes

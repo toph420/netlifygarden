@@ -46,22 +46,22 @@
 
 ![Screenshot 2024-03-19 at 9.27.40 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.27.40%20PM.png)
 ![Screenshot 2024-03-19 at 9.28.42 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.28.42%20PM.png)
-![Screenshot 2024-03-19 at 9.29.43 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.29.43%20PM.png)
-![Screenshot 2024-03-19 at 9.30.53 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.30.53%20PM.png)
-![Screenshot 2024-03-19 at 9.33.51 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.33.51%20PM.png)
-![Screenshot 2024-03-19 at 9.36.45 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.36.45%20PM.png)
-![Screenshot 2024-03-19 at 9.37.32 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-19%20at%209.37.32%20PM.png)
+![[Screenshot 2024-03-19 at 9.29.43 PM.png]]
+![[Screenshot 2024-03-19 at 9.30.53 PM.png]]
+![[Screenshot 2024-03-19 at 9.33.51 PM.png]]
+![[Screenshot 2024-03-19 at 9.36.45 PM.png]]
+![[Screenshot 2024-03-19 at 9.37.32 PM.png]]
 
 
 
 
-![Palia - ii.png](/img/user/Extras/Attachments/Palia%20-%20ii.png)
+![[Palia - ii.png]]
 
-![IMG_0529.jpeg](/img/user/Extras/Attachments/IMG_0529.jpeg)
+![[IMG_0529.jpeg]]
 
-![Palia - farmin.png](/img/user/Extras/Attachments/Palia%20-%20farmin.png)
+![[Palia - farmin.png]]
 
-![Screenshot 2024-03-29 at 7.37.30 PM.png](/img/user/Extras/Attachments/Screenshot%202024-03-29%20at%207.37.30%20PM.png)
+![[Screenshot 2024-03-29 at 7.37.30 PM.png]]
 
 ![Palia - far.png](/img/user/Extras/Attachments/Palia%20-%20far.png)
 ![Palia - re.png](/img/user/Extras/Attachments/Palia%20-%20re.png)
