@@ -13,7 +13,7 @@
 
 # Elon Musk Sucks
 
-![[Pasted image 20240425223714.png]]
+![Pasted image 20240425223714.png](/img/user/Extras/Attachments/Pasted%20image%2020240425223714.png)
 
 - The Twitter thread that explains why [[Elon Musk\|Elon Musk]] is a lying asshole
 	- [https://twitter.com/capitolhunters/status/1593307541932474368?s=20&t=BEtytdo-mC14mSF1pYrzDA](https://twitter.com/capitolhunters/status/1593307541932474368?s=20&t=BEtytdo-mC14mSF1pYrzDA)
@@ -34,7 +34,7 @@
 - Deposition about patriot front being feds https://www.scribd.com/document/721193667/Elon-Musk-Deposed-In-Lawsuit-For-Falsely-Linking-Jewish-Man-To-Neo-Nazi-Brawl
 - ⭐️[Elon Musk has unusual relationships with women at SpaceX, WSJ reports - The Verge](https://t.co/wFT4I5tEe6)
 
-![[Elon Musk Sucks - Elon owned.png]]
+![Elon Musk Sucks - Elon owned.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elon%20owned.png)
 
 ![Elon Musk Sucks - Elonneuralink.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elonneuralink.png)
 

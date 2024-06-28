@@ -3,10 +3,10 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+> **up**:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
-> **tags**:: #on/writing #on/storytelling #on/storystructure
+> **tags**:: #on/storytelling #on/storystructure #on/story #on/writing
 > **topics**:: 
 > **links**::
 
@@ -20,5 +20,5 @@
 
 
 ---
-up:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+up:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[+ Encounters/Storytelling\|Storytelling]]
 

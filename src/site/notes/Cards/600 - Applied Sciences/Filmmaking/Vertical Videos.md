@@ -33,19 +33,19 @@
 > > [Vapormax IG Stringout on Vimeo](https://vimeo.com/208927157)
 >
 > > [!video]+
-> > ![[mytreal.gif]]
+> > ![mytreal.gif](/img/user/Extras/Attachments/mytreal.gif)
 > > [MYT | Break The Standard [Video] in 2023 | Fashion videos, Creative fashion photography, Photoshoot video](https://pin.it/6zxuxAy)
 > 
 > > [!video]+
-> > ![[adidas01.gif]]
+> > ![adidas01.gif](/img/user/Extras/Attachments/adidas01.gif)
 > > [ADIDAS Originals | Instagram Brand Film on Vimeo](https://vimeo.com/267501805)
 >
 > > [!video]+
-> > ![[lousvuitton1.gif]]
+> > ![lousvuitton1.gif](/img/user/Extras/Attachments/lousvuitton1.gif)
 > > [# Campaign Highlights from`#LVFW20`](https://www.pinterest.com/pin/749216088021205212/sent/?invite_code=8a9ad35450554859abcbd447e5699d40&sender=192388352740163755&sfo=1)
 > 
 > > [!video]+
-> > ![[dolcegabana01.gif]]
+> > ![dolcegabana01.gif](/img/user/Extras/Attachments/dolcegabana01.gif)
 > > [DG Magnificent Ad](https://www.pinterest.com/pin/245586985921784784/)
 ---
 up:: [[Cards/700 - Art and Recreation/Videos\|Videos]]

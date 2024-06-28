@@ -22,10 +22,10 @@
 > [!NOTE]+ 📝 Notes (`#on/economics`)
 >  | Note                                                          | Summary                                                     |
 > | ------------------------------------------------------------- | ----------------------------------------------------------- |
-> | [[+ Encounters/Communism\|Communism]]                      | Yep                                                         |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]           | My research into Leftist politics and economics             |
 > | [[Cards/300 - Social Sciences/Conservatism\|Conservatism]] | Research and outline of conservative politics and economics |
 > | [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]     | The Antichrist                                              |
-> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]           | My research into Leftist politics and economics             |
+> | [[+ Encounters/Communism\|Communism]]                      | Yep                                                         |
 > 
 { .block-language-dataview}
 
@@ -36,9 +36,9 @@
 { .block-language-dataview}
 
 > [!links]+ Unrequited Notes (`-#on/economics`)
->  - [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
+>  - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
-> - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
+> - [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
 > 
 { .block-language-dataview}
 

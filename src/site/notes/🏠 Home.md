@@ -83,22 +83,22 @@ Elsewhere:
 > [!note]+ New Notes
 >  | Note                                                                                                                                                                                      | Status                               |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]<br><span class='block'>12:45 PM - June 28, 2024</span>                                                             | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]<br><span class='block'>12:11 PM - June 28, 2024</span>                                                                 | <span class='center-block'>🌞</span> |
 > | [[Calendar/Ideas/2024-06-26-IJ - Prisoner AI\|Prisoner AI]]<br><span class='block'>5:23 PM - June 26, 2024</span>                                                                      | <span class='center-block'>🌞</span> |
 > | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<br><span class='block'>9:43 PM - June 25, 2024</span>                                                                        | <span class='center-block'>🌞</span> |
 > | [[Calendar/Ideas/2024-06-25-IJ - Write about the arson fire of my grandparents\|Write about the arson fire of my grandparents]]<br><span class='block'>11:36 AM - June 25, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Short Stories\|Short Stories]]<br><span class='block'>4:40 PM - June 24, 2024</span>                                                                                    | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Chicago\|Chicago]]<br><span class='block'>1:45 AM - June 24, 2024</span>                                                                                                | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                        | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<br><span class='block'>9:44 PM - June 25, 2024</span>                          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Short Stories\|Short Stories]]<br><span class='block'>9:23 PM - June 25, 2024</span>                                      | <span class='center-block'>🌞</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>9:23 PM - June 25, 2024</span> | <span class='center-block'>\-</span> |
-> | [[+ Encounters/Chicago\|Chicago]]<br><span class='block'>7:19 PM - June 24, 2024</span>                                                  | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Save the Cat\|Save the Cat]]<br><span class='block'>6:51 PM - June 24, 2024</span>                                        | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                          | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>1:08 PM - June 28, 2024</span>      | <span class='center-block'>🌱</span> |
+> | [[+ Encounters/Storytelling\|Storytelling]]<br><span class='block'>1:04 PM - June 28, 2024</span>                          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]<br><span class='block'>1:02 PM - June 28, 2024</span>      | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]<br><span class='block'>12:59 PM - June 28, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Save the Cat\|Save the Cat]]<br><span class='block'>12:51 PM - June 28, 2024</span>                         | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
@@ -106,21 +106,21 @@ Elsewhere:
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                                                                                                  | Status                               |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>11:43 PM - June 27, 2024</span>                                                                                           | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>10:32 PM - June 26, 2024</span>                                                                                                                           | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>10:31 PM - June 26, 2024</span>                                                                                                   | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>10:27 PM - June 26, 2024</span>                                                                                                                                         | <span class='center-block'>🟨</span> |
 > | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>10:24 PM - June 26, 2024</span>                                                                                               | <span class='center-block'>🟥</span> |
 > | [[Sources/Omnivore/2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines\|2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines]]<br><span class='block'>11:46 PM - June 20, 2024</span> | <span class='center-block'>\-</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                                 | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>10:33 PM - June 26, 2024</span>                                                                                              | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>10:32 PM - June 26, 2024</span>                                                                                                                          | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>10:31 PM - June 26, 2024</span>                                                                                                  | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>10:29 PM - June 26, 2024</span>                                                                                                                                        | <span class='center-block'>🟨</span> |
-> | [[Sources/Omnivore/2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines\|2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines]]<br><span class='block'>6:51 PM - June 24, 2024</span> | <span class='center-block'>\-</span> |
+>  | Source                                                                                                                                                        | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>11:54 PM - June 27, 2024</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>12:46 AM - June 27, 2024</span>                                                             | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>12:44 AM - June 27, 2024</span>                                 | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>12:43 AM - June 27, 2024</span>                                               | <span class='center-block'>🟨</span> |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>12:42 AM - June 27, 2024</span>         | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

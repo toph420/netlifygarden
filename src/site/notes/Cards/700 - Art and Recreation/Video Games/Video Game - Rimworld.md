@@ -50,7 +50,7 @@
 	- Seperate butchering tabel from cooking station
 	- simple meals are fine early
 	- assign them not to eat high quality food (fine or lavish meals)
-		- ![[Screenshot 2024-05-21 at 4.44.20 PM.png]]
+		- ![Screenshot 2024-05-21 at 4.44.20 PM.png](/img/user/Extras/Attachments/Screenshot%202024-05-21%20at%204.44.20%20PM.png)
 	- space to eat together, a table with some seats
 - Prisoners
 	- build seperate room for a prison, make it nice as possible
@@ -105,7 +105,7 @@
 - [ ] Add a zone and assign pawns to it when fighting
 - [ ] Setup 2 kill boxes to bounce between
 
-![[Screenshot 2024-06-01 at 10.43.19 PM.png]]
+![Screenshot 2024-06-01 at 10.43.19 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-01%20at%2010.43.19%20PM.png)
 
 - 8 doors in a row
 - barricade at the end of each end of the row

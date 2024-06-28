@@ -21,9 +21,11 @@
 # Neverday
 
 ## Thoughts
+## Outline 
+- [[Time is cool\|Time is cool]]
 
 ## Highlights
-### id561609737 Check on zettel
+### id561609476
 
 > The time loop has completely changed how our society works. We now live exclusively by our memories. You will still need to go to work in order to earn money because your bank account will change by the time you wake up tomorrow. There are people who have your financial information memorized when they go to sleep each night and update your bank account before you wake up in the morning. This was done so that everyone would still have a reason to work. Otherwise, society would shut down. No stores or restaurants would be open. Nobody would be running the city. It would be like the post-apocalypse each and every day. And, believe me, it’s not a world you want to live in.
 

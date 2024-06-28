@@ -87,10 +87,10 @@
 
 > [!attention]- Unrequited Notes
 >  - [[🏠 Home\|🏠 Home]]
+> - [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+> - [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]
+> - [[Cards/600 - Applied Sciences/Photography/Photography\|Photography]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[+ Encounters/Storytelling\|Storytelling]]
-> - [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
-> - [[Cards/600 - Applied Sciences/Photography/Photography\|Photography]]
-> - [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]
 > 
 { .block-language-dataview}

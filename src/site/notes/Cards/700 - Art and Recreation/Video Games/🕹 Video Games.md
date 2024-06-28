@@ -113,9 +113,9 @@
 - Dragon Age Origins
 - Cyberpunk 2077
 
-![[2373056A-280B-418B-A6A9-1A4CE64EF610.jpeg]]
+![2373056A-280B-418B-A6A9-1A4CE64EF610.jpeg](/img/user/Extras/Attachments/2373056A-280B-418B-A6A9-1A4CE64EF610.jpeg)
 
-![[AE023A72-B69C-4F90-8536-AD4A125FE0C3.jpeg]]
+![AE023A72-B69C-4F90-8536-AD4A125FE0C3.jpeg](/img/user/Extras/Attachments/AE023A72-B69C-4F90-8536-AD4A125FE0C3.jpeg)
 ## PS5 
 - [New Stardew Valley-Like Game Coming to PS5 and Xbox Series X Soon](https://gamerant.com/no-place-like-home-farming-sim-ps5-xbox-series-x-date/)
 - [The best PS5 games in 2023 | Tom's Guide](https://www.tomsguide.com/best-picks/the-best-ps5-games)

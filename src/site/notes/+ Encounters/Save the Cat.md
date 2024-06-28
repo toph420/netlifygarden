@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[+ Encounters/Storytelling\|Storytelling]]
+> **up**:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**:: #on/storytelling #on/storystructure #on/story #on/writing
@@ -16,8 +16,9 @@
 > A storytelling structure, 15 beats 
 
 
-> [!NOTE]+ Cheat Sheet
-> ## The 15 steps of Save the Cat
+> [!ava]+ Cheat Sheet
+> 
+> The name comes from the idea that the hero should do something likeable early on - like saving a cat - to make the audience root for them.
 > 
 > Since Snyder’s sheet was originally created for screenwriting, the bracketed number by each beat is the page or pages that it would take up of a standard 110-page screenplay. The beats are as follows:
 > 
@@ -40,7 +41,32 @@
 > The writer should be able to describe each beat with just one or two sentences.
 
 
+## Example Outlines
+
+
+> [!ava]- PKD (hypothetical)
+> Title: "The Memory Merchant"
+> 
+> 1. Opening Image: A man wakes up in a sterile room, unsure of his identity.
+> 2. Theme Stated: A nurse tells him, "Memories make us who we are."
+> 3. Set-Up: We learn the protagonist is in a facility where memories are bought and sold.
+> 4. Catalyst: He discovers he's sold most of his own memories.
+> 5. Debate: Should he try to recover his past or start anew?
+> 6. Break into Two: He decides to leave the facility to search for his lost memories.
+> 7. B Story: He meets a woman who claims to know him from his past.
+> 8. Fun and Games: He navigates a world where reality shifts based on memory transactions.
+> 9. Midpoint: He recovers a crucial memory that suggests he was once someone important.
+> 10. Bad Guys Close In: The memory facility sends agents to bring him back.
+> 11. All Is Lost: He's captured and about to have his remaining memories wiped.
+> 12. Dark Night of the Soul: He questions if his quest for identity is worth the pain.
+> 13. Break into Three: He realizes his true self exists in the present, not just in memories.
+> 14. Finale: He escapes, exposing the facility's unethical practices.
+> 15. Final Image: He stands at a crossroads, ready to create new memories.
+> 
+> This outline incorporates themes and elements common in Philip K. Dick's work, such as questioning reality and identity, without directly copying any specific story. It demonstrates how the Save the Cat structure can be applied to a science fiction narrative exploring philosophical questions about the nature of self and memory.
+
+
 
 ---
-up:: [[+ Encounters/Storytelling\|Storytelling]]
+up:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 
