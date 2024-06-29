@@ -81,24 +81,24 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                                                                      | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]<br><span class='block'>12:45 PM - June 28, 2024</span>                                                             | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]<br><span class='block'>12:11 PM - June 28, 2024</span>                                                                 | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-26-IJ - Prisoner AI\|Prisoner AI]]<br><span class='block'>5:23 PM - June 26, 2024</span>                                                                      | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<br><span class='block'>9:43 PM - June 25, 2024</span>                                                                        | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-25-IJ - Write about the arson fire of my grandparents\|Write about the arson fire of my grandparents]]<br><span class='block'>11:36 AM - June 25, 2024</span> | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                   | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Calendar/Ideas/2024-06-28-IJ - Criminal Elections\|Criminal Elections]]<br><span class='block'>5:31 PM - June 28, 2024</span>     | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-06-28-IJ - The Kids are Alright\|The Kids are Alright]]<br><span class='block'>5:27 PM - June 28, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Biology\|Biology]]<br><span class='block'>4:28 PM - June 28, 2024</span>                                             | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]<br><span class='block'>12:45 PM - June 28, 2024</span>          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]<br><span class='block'>12:11 PM - June 28, 2024</span>              | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                          | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>1:08 PM - June 28, 2024</span>      | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Storytelling\|Storytelling]]<br><span class='block'>1:04 PM - June 28, 2024</span>                          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]<br><span class='block'>1:02 PM - June 28, 2024</span>      | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]<br><span class='block'>12:59 PM - June 28, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Save the Cat\|Save the Cat]]<br><span class='block'>12:51 PM - June 28, 2024</span>                         | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                                              | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/500 - Natural Sciences/Climate/Climate Change\|☀️ Climate Change]]<br><span class='block'>4:56 PM - June 28, 2024</span>                                               | <span class='center-block'>🌞</span> |
+> | [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]<br><span class='block'>4:56 PM - June 28, 2024</span>                                          | <span class='center-block'>🌿</span> |
+> | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]<br><span class='block'>4:56 PM - June 28, 2024</span> | <span class='center-block'>🌿</span> |
+> | [[+ Encounters/Biology\|Biology]]<br><span class='block'>4:56 PM - June 28, 2024</span>                                                                                        | <span class='center-block'>🌞</span> |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>3:00 PM - June 28, 2024</span>                                                          | <span class='center-block'>🌱</span> |
 > 
 { .block-language-dataview}
 
@@ -115,12 +115,12 @@ Elsewhere:
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                        | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>11:54 PM - June 27, 2024</span> | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>12:46 AM - June 27, 2024</span>                                                             | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>12:44 AM - June 27, 2024</span>                                 | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>12:43 AM - June 27, 2024</span>                                               | <span class='center-block'>🟨</span> |
-> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>12:42 AM - June 27, 2024</span>         | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                                                           | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]<br><span class='block'>4:56 PM - June 28, 2024</span> | <span class='center-block'>🟩</span> |
+> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>11:54 PM - June 27, 2024</span>                                                                    | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>12:46 AM - June 27, 2024</span>                                                                                                                                | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>12:44 AM - June 27, 2024</span>                                                                                                    | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>12:43 AM - June 27, 2024</span>                                                                                                                  | <span class='center-block'>🟨</span> |
 > 
 { .block-language-dataview}

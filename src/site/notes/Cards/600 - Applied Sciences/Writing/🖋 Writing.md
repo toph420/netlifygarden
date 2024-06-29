@@ -7,7 +7,7 @@
 > **type**:: #🗺️ 
 > **status**:: #📝/🌱 
 > **tags**::  #on/writing
-> **topics**:: 
+> **topics**:: [[+ Encounters/Storytelling\|Storytelling]], [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]
 > **links**:: [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]], [[Writing Fiction with AI\|Writing Fiction with AI]], [[Cards/600 - Applied Sciences/Writing/Writing Prompts\|Writing Prompts]]
 
 
@@ -21,15 +21,15 @@
 > - **Prompts**
 > 	- [Reddit - Simple Prompts](https://www.reddit.com/r/SimplePrompts/s/EH2X7hj7py)
 > 	- [Creative Writing Exercises and Prompts](https://writingexercises.co.uk/index.php)
+> - **Story Structure**
+> 	- [[+ Encounters/Kishotenketsu\|Kishotenketsu]]
+> 	- [[+ Encounters/Save the Cat\|Save the Cat]]
+> 	- [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]
 > 	- [Poets & Writers - Fiction Prompts](https://www.pw.org/writing-prompts-exercises?genre=32)
 > 	- [Prompts and motivation to create something out of nothing](https://www.reddit.com/r/WritingPrompts/)
 > 	- [1800+ Creative Writing Prompts To Inspire You Right Now](https://blog.reedsy.com/creative-writing-prompts/)
 > 	- [What are some of your favourite writing exercises? : r/writing](https://www.reddit.com/r/writing/comments/15dkgdm/what_are_some_of_your_favourite_writing_exercises/)
 > 	- [Favourite Writing Exercise (15 Mins or Less) : r/writing](https://www.reddit.com/r/writing/comments/ttupl9/favourite_writing_exercise_15_mins_or_less/)
-> - **Story Structure**
-> 	- [[+ Encounters/Kishotenketsu\|Kishotenketsu]]
-> 	- [[+ Encounters/Save the Cat\|Save the Cat]]
-> 	- [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]
 > - **Tools and Inspo**
 > 	- [Typetrigger](https://typetrigger.com/) - "Four times a day, we help you get the words out. Write in any genre in 300 words or less. Hit publish. Read. Be Read. Write. Now."
 > 	- [NaNoWriMo](https://nanowrimo.org/)

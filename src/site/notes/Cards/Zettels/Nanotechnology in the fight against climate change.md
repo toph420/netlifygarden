@@ -48,7 +48,7 @@
 </div></div>
 
 
-- [N] Good info on [[Cards/500 - Natural Sciences/Climate/☀️ Climate Change\|☀️ Climate Change]] and [[Cards/600 - Applied Sciences/Technology/Nanotechnology\|Nanotechnology]]
+- [N] Good info on [[Cards/500 - Natural Sciences/Climate/Climate Change\|Climate Change]] and [[Cards/600 - Applied Sciences/Technology/Nanotechnology\|Nanotechnology]]
 ---
 
 up::[[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]

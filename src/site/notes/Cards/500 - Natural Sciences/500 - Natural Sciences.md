@@ -15,8 +15,9 @@
 
 > [!Example]+ Jumping off points
 > - [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]
+> - [[+ Encounters/Biology\|Biology]]
+> - [[Cards/500 - Natural Sciences/Climate/Climate Change\|Climate Change]]
 > - [[Drugs\|Drugs]]
-> - [[Cards/500 - Natural Sciences/Climate/☀️ Climate Change\|☀️ Climate Change]]
 
 
 > [!ava]+ Ava's 500 - Natural Sciences Summary
@@ -41,7 +42,7 @@
 > | [[Cards/500 - Natural Sciences/The Fermi Paradox\|The Fermi Paradox]]                 |
 > | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]                                 |
 > | [[Cards/500 - Natural Sciences/Decoding the human genome\|Decoding the human genome]] |
-> | [[Cards/500 - Natural Sciences/Climate/☀️ Climate Change\|☀️ Climate Change]]         |
+> | [[Cards/500 - Natural Sciences/Climate/Climate Change\|Climate Change]]               |
 > | [[Cards/500 - Natural Sciences/Animals/🦖 Dinosaurs\|🦖 Dinosaurs]]                   |
 > | [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]                             |
 > | [[Cards/500 - Natural Sciences/ACNES\|ACNES]]                                         |
@@ -61,6 +62,7 @@
 > [!attention]+ Unrequited Notes (`-#on/naturalsciences`)
 >  - [[🏠 Home\|🏠 Home]]
 > - [[Atlas/📚 Library\|📚 Library]]
+> - [[+ Encounters/Biology\|Biology]]
 > 
 { .block-language-dataview}
 

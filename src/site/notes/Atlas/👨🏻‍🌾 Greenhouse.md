@@ -14,6 +14,9 @@
 > Give these babies some love
 >  | Maps                                                                                                                                               | Summary                                                                                                                                                                                                                                                                                                     |
 > | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Calendar/Ideas/2024-06-28-IJ - Criminal Elections\|2024-06-28-IJ - Criminal Elections]]                                                       | A story about a world where criminals are also elected to maintain balance among the elite and the working class, a Robin Hood type scenario. But the elites try to infiltrate the criminal world, perhaps realizing the elite are actually the real criminals. Potential consumerism, capitalist satire.   |
+> | [[Calendar/Ideas/2024-06-28-IJ - The Kids are Alright\|2024-06-28-IJ - The Kids are Alright]]                                                   | A story about a world where kids teach the adults. At a certain age the adults begin school with kids teaching the adults. Whether it's a class to learn new tech, or English class to learn slang, or how to date, use the internet, how to make money, politics, etc.                                     |
+> | [[+ Encounters/Biology\|Biology]]                                                                                                               | The scientific study of life                                                                                                                                                                                                                                                                                |
 > | [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]                                                                             | A simplified version of the hero's journey                                                                                                                                                                                                                                                                  |
 > | [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]                                                                                 | A brain dump of exercises to level up my writing                                                                                                                                                                                                                                                            |
 > | [[Calendar/Ideas/2024-06-26-IJ - Prisoner AI\|2024-06-26-IJ - Prisoner AI]]                                                                     | This is one of the most fucked up pieces of technology I've heard of. Simulating a prison sentence or traumatic experiences for criminals, yikes.                                                                                                                                                           |
@@ -61,9 +64,6 @@
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Against the Storm\|Video Game - Against the Storm]]                                   | Against the Storm tips and guides                                                                                                                                                                                                                                                                           |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Descript Workflow - Audio Podcast\|Descript Workflow - Audio Podcast]]                                | Steps to get up and running with editing an audio podcast in Descript                                                                                                                                                                                                                                       |
 > | [[Cards/700 - Art and Recreation/Video Games/Video Game - Manor Lords\|Video Game - Manor Lords]]                                               | Manor Lords tips tricks and guides                                                                                                                                                                                                                                                                          |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Minecraft\|Video Game - Minecraft]]                                                   | Notes and resources related to Minecraft                                                                                                                                                                                                                                                                    |
-> | [[+ Encounters/How to Dress Well\|How to Dress Well]]                                                                                           | Notes and links about how to wear clothes and dressing well                                                                                                                                                                                                                                                 |
-> | [[Cards/700 - Art and Recreation/Art and Design/Design Assets\|Design Assets]]                                                                  | Keeping track of all the cool sites to find good design assets                                                                                                                                                                                                                                              |
 > 
 { .block-language-dataview}
 
@@ -88,18 +88,18 @@
 
 > [!example]- 🌿 Saplings 
 > These are close to living on their own, grow young sapling!
->  | Notes                                                                                                    |
-> | -------------------------------------------------------------------------------------------------------- |
-> | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]] |
-> | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                          |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Tools\|AI Tools]]                                     |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]                             |
-> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]                                                     |
-> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                            |
-> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]      |
-> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]                       |
-> | [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]                                                      |
-> | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]                        |
+>  | Notes                                                                                                                       |
+> | --------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]                                          |
+> | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]] |
+> | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                    |
+> | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                                             |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Tools\|AI Tools]]                                                        |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]                                                |
+> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]                                                                        |
+> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                               |
+> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]                         |
+> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]                                          |
 > 
 { .block-language-dataview}
 

@@ -9,10 +9,10 @@
 >> **type**:: #📥/📰 
 >> **status**:: #📥/🟩 
 >> **tags**:: #on/articles, #on/nanotechnology , #on/climate 
->> **topics**:: [[Cards/600 - Applied Sciences/Technology/Nanotechnology\|Nanotechnology]], [[Cards/500 - Natural Sciences/Climate/☀️ Climate Change\|☀️ Climate Change]], [[Cancer Treatments\|Cancer Treatments]]
+>> **topics**:: [[Cards/600 - Applied Sciences/Technology/Nanotechnology\|Nanotechnology]], [[☀️ Climate Change\|☀️ Climate Change]], [[Cancer Treatments\|Cancer Treatments]]
 >
 >> [!metadata]- Article Info
->> **Author**:: [[Cassidy Ward\|Cassidy Ward]]
+>> [](Climate%20Change.md)y Ward]]
 >> **Title**:: The Surprising Ways Nanotechnology Is Changing the World Around Us
 >> **URL**:: "https://www.slashgear.com/1002519/the-surprising-ways-nanotechnology-is-changing-the-world-around-us/"
 >> **Reviewed Date**:: [[Calendar/Journal/Daily/2023-03-13\|2023-03-13]]
