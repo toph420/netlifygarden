@@ -17,8 +17,7 @@
 - [[Only Murders in the Building\|Only Murders in the Building]]
 - The Consultant 
 - Silo
-- One Piece (anime)- One Piece (anime) (Netflix)
- (Netflix)
+- One Piece (anime
 
 ## Watched
 - [[Kindred\|Kindred]]
@@ -48,7 +47,17 @@
 - poker Face 
 - Castle rock 
 - based on a true story (peacock june 10)
-- Scavengers Reign (animated) - Netflix
+- **Lovecraftian**
+	- ⭐️ Terror
+	- From
+	- Archive 81
+	- Scooby Doo - Mystery Incorporated
+- **Sci-fi**
+	- Babylon 5
+	- Farscape
+	- Space: Above and Beyond
+	- Station Eleven
+	- Scavengers Reign (animated) - Netflix
 
 ## Lists
 - [What is the most underrated tv series that barely anyone knows?](https://x.com/TheCinesthetic/status/1724131513120493867?s=20)

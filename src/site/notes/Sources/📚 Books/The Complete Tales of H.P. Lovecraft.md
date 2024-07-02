@@ -8,14 +8,14 @@
 >> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 >> **type**:: #📥/📚/reading 
 >> **status**:: #📥/🟥 
->> **tags**:: #on/books #on/cosmichorror #on/genre/horror #on/horror
->> **topics**:: [[Horror\|Horror]]
+>> **tags**:: #on/books
+>> **topics**:: [[Cosmic Horror\|Cosmic Horror]]
 >
 >> [!metadata]- Book Info
->> **Author**:: [[H. P. Lovecraft\|H. P. Lovecraft]]
+>> **Author**:: [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]
 >> **Title**:: The Complete Tales of H.P. Lovecraft
 >> **URL**::
->> **Reviewed Date**:: [[2024-06-26 \|2024-06-26 ]]
+>> **Reviewed Date**:: [[2024-06-29 \|2024-06-29 ]]
 >> **Finished Year**:: [[2024\|2024]]
 
 # The Complete Tales of H.P. Lovecraft

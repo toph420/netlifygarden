@@ -14,8 +14,11 @@
 
 > A collection of stuff related to Lovecraft 
 
-See [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]] for some related pods, and [[+ Encounters/Short Stories\|Short Stories]] for a list of recommendations.
+See [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]], [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]], [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]] for some related media, and [[+ Encounters/Short Stories\|Short Stories]] for a list of recommendations.
 
+- [Awesome companion to Lovecrafts stories](https://pca.st/podcast/56fbf810-09c1-013a-d565-0acc26574db2)
+- [Lovecraftian Horror - Wiki](https://en.wikipedia.org/wiki/Lovecraftian_horror)
+## Videos
 - [HBomberguy - Outsiders: How to Adapt Lovecraft in the 21st century](https://youtu.be/l8u8wZ0WvxI?si=pe15UmBbzfn6DVIz) - awesome video essay about what cosmic horror really is and how lovecraft stories are more about how a person feels and experiences than the monsters. The unimportance of mankind. And also Lovecrafts racism, sexism, antisemitism, homophobia…
 
 
@@ -23,6 +26,9 @@ See [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts
 - **Pickman's Model** - A story about an artist that painted demonic beings into regular life. He offers a tour to a friend and explains how he uses a camera to capture backgrounds for his paintings in order to use as references. The friend takes a photo from an unfinished canvas and discovers that it's a real life photo of a monster in Pickman's cellar. The imagery in this story is scary as hell, the description of the paintings and Pickman's cellar are spooky as hell. 
 - **Dagon** - A man escapes prison and drifts at sea. He wakes up in a black slime infested land, a monolith appears, ancient language of sea monsters, and the giant scaly sea monster itself reveals itself. He wakes up in the hospital wondering if it happened, but he knows it did. 
 - **The Rats in the Walls** - A man inherits some land and decides to fix it up, he discovers an ancient "twilit grotto" below the priory. Unspeakable horrors and eldritch evils, hoards of hungry rats, endless piles of bones. He loses it. They find him eating his friend and lock him away, never speaking of the priory again. 
+- **The Beast in the Cave** - a pretty mediocre short story about a guy that gets lost in a dark cave, gets tracked by a being, stones the being, gets found by the guide and goes back to see what the being is. Turns out it was a human, or WAS a human. Overall it sets the atmosphere of dread pretty well and offers some interesting descriptions, particularly of the "beast" (reminded me of the beings in The Descent), but just nothing special. Also, Lovecrafts use of language, it's almost funny how he has the cadence of Yoda at times, over utilizes difficult words, verbose. 
+- **The Alchemist** - this one gripped me much more than the beast in the cave. Ultimately the story was a bit shallow, but the atmosphere, setting, and mechanics worked for me. It's a story about a guy who's family has been cursed for 600 years. Each ancestor dies by the age of 32 as a source of revenge. The final scene in which the main guy thinks he's free of the curse after using a little bit of his own alchemy to toss a torch and burn up the cloaked eternal evil guy, is great, very descriptive, and I like the supernatural/magic involved.
+- **The Tomb** - A creepy story about a kid, Jervas, that's obsessed with a tomb in the hillside. He waits until he's 21 to enter the tomb, often sleeping in one of the coffins. Long ago there was a mansion that had burned down after it was struck by lightning. This scene plays out in his head as if it were real, but it turns out he had never been in the tomb and the townspeople were all aware of his obsession and found him often sleeping just outside the tomb. Was he crazy? Couldn't be, his servant had confirmed his story upon entering the tomb, where he finds a coffin with Jervas' name. I really liked this one, gave the feeling of being a kid and full of wonderment and imagination. A kid that isn't like the other kids. Being misunderstood, finding solace in weird fascinations. I would have liked more description of the tomb itself, more backstory of the family. Very creepy and leaves you wanting to know more. 
 ---
 up:: [[Cards/800 - Literature/800 - Literature\|800 - Literature]]
 

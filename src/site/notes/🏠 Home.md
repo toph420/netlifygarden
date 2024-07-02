@@ -81,24 +81,24 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                   | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Calendar/Ideas/2024-06-28-IJ - Criminal Elections\|Criminal Elections]]<br><span class='block'>5:31 PM - June 28, 2024</span>     | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-06-28-IJ - The Kids are Alright\|The Kids are Alright]]<br><span class='block'>5:27 PM - June 28, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Biology\|Biology]]<br><span class='block'>4:28 PM - June 28, 2024</span>                                             | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]<br><span class='block'>12:45 PM - June 28, 2024</span>          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]<br><span class='block'>12:11 PM - June 28, 2024</span>              | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                            | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Calendar/Ideas/2024-07-01-IJ - The Chiropractor\|The Chiropractor ]]<br><span class='block'>2:13 PM - July 01, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-07-01-IJ - Agoraphobia\|Agoraphobia]]<br><span class='block'>1:01 PM - July 01, 2024</span>            | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Walkable Cities\|Walkable Cities]]<br><span class='block'>8:58 PM - June 29, 2024</span>                      | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Personality Tests\|Personality Tests]]<br><span class='block'>12:24 PM - June 29, 2024</span>                 | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Swords\|Swords]]<br><span class='block'>5:59 AM - June 29, 2024</span>                                        | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                                              | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/500 - Natural Sciences/Climate/Climate Change\|☀️ Climate Change]]<br><span class='block'>4:56 PM - June 28, 2024</span>                                               | <span class='center-block'>🌞</span> |
-> | [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]<br><span class='block'>4:56 PM - June 28, 2024</span>                                          | <span class='center-block'>🌿</span> |
-> | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]<br><span class='block'>4:56 PM - June 28, 2024</span> | <span class='center-block'>🌿</span> |
-> | [[+ Encounters/Biology\|Biology]]<br><span class='block'>4:56 PM - June 28, 2024</span>                                                                                        | <span class='center-block'>🌞</span> |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>3:00 PM - June 28, 2024</span>                                                          | <span class='center-block'>🌱</span> |
+>  | Note                                                                                                                                        | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]<br><span class='block'>8:49 PM - July 01, 2024</span>    | <span class='center-block'>🌿</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>8:48 PM - July 01, 2024</span> | <span class='center-block'>\-</span> |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|My Movies]]<br><span class='block'>8:48 PM - July 01, 2024</span>           | <span class='center-block'>🌱</span> |
+> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<br><span class='block'>10:42 PM - June 29, 2024</span>                         | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/How to Dress Well\|How to Dress Well]]<br><span class='block'>10:13 PM - June 29, 2024</span>                             | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
@@ -117,10 +117,10 @@ Elsewhere:
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                                                                           | Status                               |
 > | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>1:22 AM - June 30, 2024</span>                                                                         | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>2:21 AM - June 29, 2024</span>                                                                             | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>2:21 AM - June 29, 2024</span>                                                                     | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]<br><span class='block'>4:56 PM - June 28, 2024</span> | <span class='center-block'>🟩</span> |
-> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>11:54 PM - June 27, 2024</span>                                                                    | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>12:46 AM - June 27, 2024</span>                                                                                                                                | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>12:44 AM - June 27, 2024</span>                                                                                                    | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Quicksand House\|Quicksand House]]<br><span class='block'>12:43 AM - June 27, 2024</span>                                                                                                                  | <span class='center-block'>🟨</span> |
 > 
 { .block-language-dataview}

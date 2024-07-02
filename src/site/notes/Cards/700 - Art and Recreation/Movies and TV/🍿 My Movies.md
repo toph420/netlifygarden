@@ -30,6 +30,25 @@
 ## To Watch
 - [All watched over by machines of loving grace - Adam Curtis](https://topdocumentaryfilms.com/all-watched-over-by-machines-of-loving-grace/)
 - [All Wars are Bankers Wars documentary](https://x.com/inversionism/status/1711161404772806973?s=61&t=gyRX2W0x81b80X8f34EMoQ)
+- **Lovecraftian**
+	- Prince of darkness
+	- Dagon
+	- Mouth of madness
+	- the void
+	- The mist
+	- from beyond
+	- Call of Cthulhu 2005
+	- Glorious
+	- Altered states
+	- The empty man
+	- cute for wellness
+	- Endless
+	- Resolution
+	- Spring 2014
+	- Whisperer in darkness
+	- ![IMG_0882.jpeg](/img/user/Extras/Attachments/IMG_0882.jpeg)
+
+
 
 ![F49EAFAE-7858-40C2-9A6D-B55EE953DF71.jpeg](/img/user/Extras/Attachments/F49EAFAE-7858-40C2-9A6D-B55EE953DF71.jpeg)
 

@@ -95,6 +95,8 @@
 > Although I may have to loosen the regulations where mood is concerned, since I recently implemented a "biphasic" sleeping schedule in my colony so that colonists generally stay above 60% mood anyway.  
 >   
 > Also it only occurred to me this most recent playthrough that I should be producing and selling yayo for easy money, so I've been doing that and it's been great.
+
+
 ## Kill Boxes
 
 ### The Singularity
@@ -182,6 +184,11 @@
 - 
 
 ![Screenshot 2024-06-17 at 6.12.41 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-17%20at%206.12.41%20PM.png)
+
+
+## Hydroponics
+
+![Screenshot 2024-06-28 at 9.02.33 PM.png](/img/user/Extras/Attachments/Screenshot%202024-06-28%20at%209.02.33%20PM.png)
 
 ---
 up:: [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]

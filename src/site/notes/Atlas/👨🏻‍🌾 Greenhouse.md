@@ -14,6 +14,12 @@
 > Give these babies some love
 >  | Maps                                                                                                                                               | Summary                                                                                                                                                                                                                                                                                                     |
 > | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Calendar/Ideas/2024-07-01-IJ - The Chiropractor\|2024-07-01-IJ - The Chiropractor]]                                                           | A story about a chiropractor appointment gone wrong. The guy is sprung into a pagan ritual, unable to escape, when he comes out his back pain is gone, but new trauma exists                                                                                                                                |
+> | [[Calendar/Ideas/2024-07-01-IJ - Agoraphobia\|2024-07-01-IJ - Agoraphobia]]                                                                     | A story about a guy who can't leave the house because outside the house the world is a horro, covered in impassable obstacles and monsters hunting him                                                                                                                                                      |
+> | [[+ Encounters/Walkable Cities\|Walkable Cities]]                                                                                               | Notes related to implementing and examples of walkable cities                                                                                                                                                                                                                                               |
+> | [[+ Encounters/Personality Tests\|Personality Tests]]                                                                                           | A note of links to tests and results of tests I've taken                                                                                                                                                                                                                                                    |
+> | [[+ Encounters/Swords\|Swords]]                                                                                                                 | Chop chop slash, haha now your head is gone                                                                                                                                                                                                                                                                 |
+> | [[+ Encounters/The Brain\|The Brain]]                                                                                                           | All things related to the brain                                                                                                                                                                                                                                                                             |
 > | [[Calendar/Ideas/2024-06-28-IJ - Criminal Elections\|2024-06-28-IJ - Criminal Elections]]                                                       | A story about a world where criminals are also elected to maintain balance among the elite and the working class, a Robin Hood type scenario. But the elites try to infiltrate the criminal world, perhaps realizing the elite are actually the real criminals. Potential consumerism, capitalist satire.   |
 > | [[Calendar/Ideas/2024-06-28-IJ - The Kids are Alright\|2024-06-28-IJ - The Kids are Alright]]                                                   | A story about a world where kids teach the adults. At a certain age the adults begin school with kids teaching the adults. Whether it's a class to learn new tech, or English class to learn slang, or how to date, use the internet, how to make money, politics, etc.                                     |
 > | [[+ Encounters/Biology\|Biology]]                                                                                                               | The scientific study of life                                                                                                                                                                                                                                                                                |
@@ -58,12 +64,6 @@
 > | [[+ Encounters/Star Trek\|Star Trek]]                                                                                                           | Stuff about Star Trek, duh                                                                                                                                                                                                                                                                                  |
 > | [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]                                                                         | Obsidian Publish info and tips                                                                                                                                                                                                                                                                              |
 > | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]                                                              | A collection of stuff related to Lovecraft                                                                                                                                                                                                                                                                  |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]                                                     | Tips and tricks for Rimworld                                                                                                                                                                                                                                                                                |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stellaris\|Video Game - Stellaris]]                                                   | Sci-fi Grand Strategy                                                                                                                                                                                                                                                                                       |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - XCOM 2\|Video Game - XCOM 2]]                                                         | Award winning strategy combat game. Tips and guides.                                                                                                                                                                                                                                                        |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Against the Storm\|Video Game - Against the Storm]]                                   | Against the Storm tips and guides                                                                                                                                                                                                                                                                           |
-> | [[Cards/600 - Applied Sciences/Filmmaking/Descript Workflow - Audio Podcast\|Descript Workflow - Audio Podcast]]                                | Steps to get up and running with editing an audio podcast in Descript                                                                                                                                                                                                                                       |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Manor Lords\|Video Game - Manor Lords]]                                               | Manor Lords tips tricks and guides                                                                                                                                                                                                                                                                          |
 > 
 { .block-language-dataview}
 
@@ -71,18 +71,18 @@
 > [!example]- 🌱 Sprouts
 > These bad boys have made some progress, but need lots more love.
 > 
->  | Notes                                                                 |
-> | --------------------------------------------------------------------- |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]    |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]              |
-> | [[Cards/300 - Social Sciences/Politics\|Politics]]                 |
-> | [[Cards/300 - Social Sciences/Socialism\|Socialism]]               |
-> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                             |
-> | [[Cards/300 - Social Sciences/Activism\|Activism]]                 |
-> | [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] |
-> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]  |
-> | [[Atlas/💌 Outbox\|💌 Outbox]]                                     |
-> | [[Atlas/📥 Sources\|📥 Sources]]                                   |
+>  | Notes                                                                          |
+> | ------------------------------------------------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]] |
+> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]                       |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]             |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                       |
+> | [[Cards/300 - Social Sciences/Politics\|Politics]]                          |
+> | [[Cards/300 - Social Sciences/Socialism\|Socialism]]                        |
+> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                      |
+> | [[Cards/300 - Social Sciences/Activism\|Activism]]                          |
+> | [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]          |
+> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]           |
 > 
 { .block-language-dataview}
 
@@ -90,6 +90,9 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                       |
 > | --------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]                                          |
+> | [[Calendar/+ MOCs/📊 Habits\|📊 Habits]]                                                                                 |
+> | [[Calendar/+ MOCs/📓 Journal\|📓 Journal]]                                                                               |
 > | [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]                                          |
 > | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]] |
 > | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                    |
@@ -97,9 +100,6 @@
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Tools\|AI Tools]]                                                        |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]                                                |
 > | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]                                                                        |
-> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                               |
-> | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]                         |
-> | [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]                                          |
 > 
 { .block-language-dataview}
 

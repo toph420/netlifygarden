@@ -18,13 +18,13 @@
 > - [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]]
 > - [[+ Encounters/Storytelling\|Storytelling]]
 > 	- [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]
-> - **Prompts**
-> 	- [Reddit - Simple Prompts](https://www.reddit.com/r/SimplePrompts/s/EH2X7hj7py)
-> 	- [Creative Writing Exercises and Prompts](https://writingexercises.co.uk/index.php)
 > - **Story Structure**
 > 	- [[+ Encounters/Kishotenketsu\|Kishotenketsu]]
 > 	- [[+ Encounters/Save the Cat\|Save the Cat]]
 > 	- [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]]
+> - **Prompts**
+> 	- [Reddit - Simple Prompts](https://www.reddit.com/r/SimplePrompts/s/EH2X7hj7py)
+> 	- [Creative Writing Exercises and Prompts](https://writingexercises.co.uk/index.php)
 > 	- [Poets & Writers - Fiction Prompts](https://www.pw.org/writing-prompts-exercises?genre=32)
 > 	- [Prompts and motivation to create something out of nothing](https://www.reddit.com/r/WritingPrompts/)
 > 	- [1800+ Creative Writing Prompts To Inspire You Right Now](https://blog.reedsy.com/creative-writing-prompts/)
@@ -78,6 +78,7 @@
 > [!note]+ 📥 Sources (`#on/writing`)
 >  | Note                                                                                                                                                                                                                                                                                    |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<span class='summary'></span><span class='block'>10:31 PM - June 26, 2024</span>                                                                                                          |
 > | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<span class='summary'>Mind blowing storytelling AI tool, wow. From the guide: Subtxt is not the application to write your story, it's an application to _develop_ your story.</span><span class='block'>2:40 PM - February 11, 2023</span> |
 > | [[Sources/Reddit Thread about Writing in Obsidian\|Reddit Thread about Writing in Obsidian]]<span class='summary'>A great thread and conversation about writing a story, developing characters in Obsidian</span><span class='block'>8:35 PM - December 08, 2022</span>              |
 > | [[Sources/Readwise/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]<span class='summary'>PD Workman's process for writing inside Obsidian</span><span class='block'>5:22 PM - March 13, 2023</span>                                                            |

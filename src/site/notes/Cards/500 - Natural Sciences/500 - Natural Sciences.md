@@ -46,6 +46,7 @@
 > | [[Cards/500 - Natural Sciences/Animals/🦖 Dinosaurs\|🦖 Dinosaurs]]                   |
 > | [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]                             |
 > | [[Cards/500 - Natural Sciences/ACNES\|ACNES]]                                         |
+> | [[+ Encounters/The Brain\|The Brain]]                                                 |
 > 
 { .block-language-dataview}
 
