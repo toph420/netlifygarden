@@ -71,18 +71,18 @@
 > [!example]- 🌱 Sprouts
 > These bad boys have made some progress, but need lots more love.
 > 
->  | Notes                                                                          |
-> | ------------------------------------------------------------------------------ |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                       |
-> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]                       |
-> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                            |
-> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]] |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]             |
-> | [[Cards/300 - Social Sciences/Politics\|Politics]]                          |
-> | [[Cards/300 - Social Sciences/Socialism\|Socialism]]                        |
-> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                      |
-> | [[Cards/300 - Social Sciences/Activism\|Activism]]                          |
-> | [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]          |
+>  | Notes                                                                                 |
+> | ------------------------------------------------------------------------------------- |
+> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]] |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                              |
+> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]                              |
+> | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                   |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]        |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                    |
+> | [[Cards/300 - Social Sciences/Politics\|Politics]]                                 |
+> | [[Cards/300 - Social Sciences/Socialism\|Socialism]]                               |
+> | [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]                                             |
+> | [[Cards/300 - Social Sciences/Activism\|Activism]]                                 |
 > 
 { .block-language-dataview}
 

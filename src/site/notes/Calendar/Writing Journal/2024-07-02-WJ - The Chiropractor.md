@@ -43,6 +43,8 @@ Interesting exercise, probably made that more difficult on myself than I needed,
 
 ## The Chiropractor
 
+[[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]
+
 Andy worked a desk job at a print shop. It's not what he wanted to do with his life, but it paid well and he worked alone. He preferred it that way, but his back was killing him.
 
 He tried it all, the standing desk, yoga, strength training, muscle relaxers, nothing worked. His ex-girlfriend, a yoga teacher with a crystal addiction, gave him the number of Dr. Palmer, Chiropractor. When he was a kid, a growing boy, his mom would drag him to get his spine "realigned." Dad made his quips about those "quacks," but mom swore by their witchcraft.

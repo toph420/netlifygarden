@@ -93,13 +93,13 @@ Elsewhere:
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                            | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/700 - Art and Recreation/Food/🍱 Recipes\|🍱 Recipes]]<br><span class='block'>7:44 PM - July 07, 2024</span>                         | <span class='center-block'>🌞</span> |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>12:35 AM - July 07, 2024</span>                                 | <span class='center-block'>🌱</span> |
-> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]<br><span class='block'>10:10 PM - July 06, 2024</span>                                 | <span class='center-block'>🌱</span> |
-> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]<br><span class='block'>8:30 PM - July 05, 2024</span>             | <span class='center-block'>🌿</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]]<br><span class='block'>8:30 PM - July 05, 2024</span> | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                         | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>10:17 PM - July 07, 2024</span> | <span class='center-block'>\-</span> |
+> | [[Cards/700 - Art and Recreation/Food/🍱 Recipes\|🍱 Recipes]]<br><span class='block'>7:44 PM - July 07, 2024</span>                      | <span class='center-block'>🌞</span> |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>12:35 AM - July 07, 2024</span>                              | <span class='center-block'>🌱</span> |
+> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]<br><span class='block'>10:10 PM - July 06, 2024</span>                              | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]<br><span class='block'>8:30 PM - July 05, 2024</span>          | <span class='center-block'>🌿</span> |
 > 
 { .block-language-dataview}
 
