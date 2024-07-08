@@ -95,11 +95,11 @@ Elsewhere:
 > [!note]+ Modifed Notes
 >  | Note                                                                                                                                         | Status                               |
 > | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Babylon 5\|Babylon 5]]<br><span class='block'>10:38 PM - July 07, 2024</span>                                              | <span class='center-block'>🌞</span> |
+> | [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]]<br><span class='block'>10:28 PM - July 07, 2024</span>                                   | <span class='center-block'>🌱</span> |
 > | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>10:17 PM - July 07, 2024</span> | <span class='center-block'>\-</span> |
 > | [[Cards/700 - Art and Recreation/Food/🍱 Recipes\|🍱 Recipes]]<br><span class='block'>7:44 PM - July 07, 2024</span>                      | <span class='center-block'>🌞</span> |
 > | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>12:35 AM - July 07, 2024</span>                              | <span class='center-block'>🌱</span> |
-> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]<br><span class='block'>10:10 PM - July 06, 2024</span>                              | <span class='center-block'>🌱</span> |
-> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]<br><span class='block'>8:30 PM - July 05, 2024</span>          | <span class='center-block'>🌿</span> |
 > 
 { .block-language-dataview}
 
@@ -118,8 +118,8 @@ Elsewhere:
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                                                                                                            | Status                               |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]<br><span class='block'>10:30 PM - July 07, 2024</span> | <span class='center-block'>🟩</span> |
 > | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>11:18 PM - July 02, 2024</span>                                                                                                             | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]<br><span class='block'>10:26 PM - July 02, 2024</span> | <span class='center-block'>🟩</span> |
 > | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>1:19 AM - June 30, 2024</span>                                                                                                          | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>12:56 AM - June 29, 2024</span>                                                                                                     | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]<br><span class='block'>5:25 PM - June 28, 2024</span>                                  | <span class='center-block'>🟩</span> |

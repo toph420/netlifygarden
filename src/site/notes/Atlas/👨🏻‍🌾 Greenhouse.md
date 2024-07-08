@@ -73,9 +73,9 @@
 > 
 >  | Notes                                                                                 |
 > | ------------------------------------------------------------------------------------- |
+> | [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]]                                   |
 > | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]] |
 > | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                              |
-> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]                              |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                   |
 > | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]        |
 > | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]                    |
