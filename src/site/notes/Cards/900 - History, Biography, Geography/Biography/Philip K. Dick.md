@@ -15,6 +15,12 @@
 
 > The legendary Sci-fi author that has inspired countless movies and created entire genres
 
+## To Read
+- Do Androids Dream of Electric Sheep?
+- Man in the High Castle (restrained)
+- [[Sources/📚 Books/Ubik\|Ubik]] - *so good, crazy this was my first PKD*
+- The Three Stigmata of Palmer Eldritch - also a mindfuck
+- Dr. Bloodmoney - underrated 
 ## Stories Read
 
 See [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]

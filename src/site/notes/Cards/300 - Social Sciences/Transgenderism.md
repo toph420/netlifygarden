@@ -25,6 +25,9 @@
 - [What We Know | What does the scholarly research say about the effect of gender transition on transgender well-being? | What We Know](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/) - huge list of individual studies
 - [Doctors Agree: Gender-Affirming Care is Life-Saving Care | ACLU](https://www.aclu.org/news/lgbtq-rights/doctors-agree-gender-affirming-care-is-life-saving-care)
 
+## Transphobia
+- [JK Rowling getting cooked with examples of her transphobia](https://x.com/jk_rowling/status/1807551235701997839?s=61&t=gyRX2W0x81b80X8f34EMoQ) - very satisfying public embarrassment 
+
 > [!ava]+ Further Questions
 > - [?] What is gender dysphoria and how does it affect transgender individuals?
 > - [?] In what ways can society and healthcare systems better support transgender youth and reduce their rates of suicidal ideation? 

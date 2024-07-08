@@ -17,7 +17,7 @@
 - Smart watch: [Amazon.com: Amazfit GTR 4 Smart Watch with GPS, Sleep Quality Monitoring, Step Tracking, Heart Rate & SpO2 Sensor, Alexa Built-In, Bluetooth Calls & Text, 14-Day Battery Life, AI Fitness App & Sports Coach(Black) : Cell Phones & Accessories](https://a.co/d/0WR0IGB)
 - Daylight tablet - no color, paper like https://daylightcomputer.com/
 - [Practical Magic & Innovation (@pmi\_gear)](https://www.instagram.com/pmi_gear?igsh=aDE3Z2JqNDE0eWhu) - dope handheld hazer
-
+- random stuff under $100 thread - [Cool things under $100](https://x.com/gregoryhansell/status/1808344587225743431?s=46)
 ---
 up:: [[Spaces/🤘 My Life/🤘 My Life\|🤘 My Life]]
 

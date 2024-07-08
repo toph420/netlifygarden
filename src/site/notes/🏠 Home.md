@@ -30,6 +30,7 @@ Elsewhere:
 
 | Entries                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/Writing Journal/2024-07-02-WJ - The Chiropractor\|The Chiropractor]]<span class=summary>Updates on my reading progress and an experiment in Bizarro fiction storytelling</span>                                                                                                                                |
 | [[Calendar/Writing Journal/2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante\|Continuing Harvey, Aspiring Stuntman Doordash Vigilante]]<span class=summary>A writing entry continuing a bit of Harveys story from [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]] and exercises</span> |
 | [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|Everything he said that day was bullshit]]<span class=summary>A writing prompt inspired by a conversation with my dad</span>                                                                                                         |
 | [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|My First Writing Entry]]<span class=summary>Getting started on a writing journey, let's see how it goes.</span>                                                                                                                                        |
@@ -81,46 +82,46 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                            | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Calendar/Ideas/2024-07-01-IJ - The Chiropractor\|The Chiropractor ]]<br><span class='block'>2:13 PM - July 01, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-07-01-IJ - Agoraphobia\|Agoraphobia]]<br><span class='block'>1:01 PM - July 01, 2024</span>            | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Walkable Cities\|Walkable Cities]]<br><span class='block'>8:58 PM - June 29, 2024</span>                      | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Personality Tests\|Personality Tests]]<br><span class='block'>12:24 PM - June 29, 2024</span>                 | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Swords\|Swords]]<br><span class='block'>5:59 AM - June 29, 2024</span>                                        | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                                    | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Calendar/Ideas/2024-07-05-IJ - Exploring is what humans do best\|Exploring is what humans do best]]<br><span class='block'>3:19 PM - July 05, 2024</span>          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Babylon 5\|Babylon 5]]<br><span class='block'>8:49 PM - July 04, 2024</span>                                                                          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Liberalism\|Liberalism]]<br><span class='block'>12:23 AM - July 02, 2024</span>                                                                       | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-07-02-IJ - Self Help Guru Goes off the Deep End\|Self Help Guru Goes off the Deep End]]<br><span class='block'>12:02 AM - July 02, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-07-01-IJ - The Chiropractor\|The Chiropractor ]]<br><span class='block'>2:13 PM - July 01, 2024</span>                                         | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                        | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]<br><span class='block'>8:49 PM - July 01, 2024</span>    | <span class='center-block'>🌿</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>8:48 PM - July 01, 2024</span> | <span class='center-block'>\-</span> |
-> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|My Movies]]<br><span class='block'>8:48 PM - July 01, 2024</span>           | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<br><span class='block'>10:42 PM - June 29, 2024</span>                         | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/How to Dress Well\|How to Dress Well]]<br><span class='block'>10:13 PM - June 29, 2024</span>                             | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                            | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Food/🍱 Recipes\|🍱 Recipes]]<br><span class='block'>7:44 PM - July 07, 2024</span>                         | <span class='center-block'>🌞</span> |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>12:35 AM - July 07, 2024</span>                                 | <span class='center-block'>🌱</span> |
+> | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]<br><span class='block'>10:10 PM - July 06, 2024</span>                                 | <span class='center-block'>🌱</span> |
+> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]<br><span class='block'>8:30 PM - July 05, 2024</span>             | <span class='center-block'>🌿</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]]<br><span class='block'>8:30 PM - July 05, 2024</span> | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                                  | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>11:43 PM - June 27, 2024</span>                                                                                           | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>10:32 PM - June 26, 2024</span>                                                                                                                           | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>10:31 PM - June 26, 2024</span>                                                                                                   | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>10:24 PM - June 26, 2024</span>                                                                                               | <span class='center-block'>🟥</span> |
-> | [[Sources/Omnivore/2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines\|2024-06-15 - Pentagon ran secret anti-vax campaign to incite fear of China vaccines]]<br><span class='block'>11:46 PM - June 20, 2024</span> | <span class='center-block'>\-</span> |
+>  | Source                                                                                                                                                                                                                                                           | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]<br><span class='block'>4:54 PM - July 02, 2024</span> | <span class='center-block'>🟩</span> |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>12:59 AM - June 29, 2024</span>                                                                                                            | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>12:57 AM - June 29, 2024</span>                                                                                                        | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>12:55 AM - June 29, 2024</span>                                                                                                    | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>10:32 PM - June 26, 2024</span>                                                                                                                                    | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                           | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>1:22 AM - June 30, 2024</span>                                                                         | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>2:21 AM - June 29, 2024</span>                                                                             | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>2:21 AM - June 29, 2024</span>                                                                     | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]<br><span class='block'>4:56 PM - June 28, 2024</span> | <span class='center-block'>🟩</span> |
-> | [[Sources/📚 Books/Neverday\|Neverday]]<br><span class='block'>12:46 AM - June 27, 2024</span>                                                                                                                                | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                                                                                            | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>11:18 PM - July 02, 2024</span>                                                                                                             | <span class='center-block'>🟥</span> |
+> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]<br><span class='block'>10:26 PM - July 02, 2024</span> | <span class='center-block'>🟩</span> |
+> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>1:19 AM - June 30, 2024</span>                                                                                                          | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>12:56 AM - June 29, 2024</span>                                                                                                     | <span class='center-block'>🟥</span> |
+> | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]<br><span class='block'>5:25 PM - June 28, 2024</span>                                  | <span class='center-block'>🟩</span> |
 > 
 { .block-language-dataview}

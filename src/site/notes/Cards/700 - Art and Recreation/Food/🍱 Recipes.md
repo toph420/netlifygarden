@@ -19,7 +19,7 @@
 - [Quick & Easy Vegetarian Curry {15 minutes} - Family Food on the Table](https://www.familyfoodonthetable.com/quick-easy-vegetarian-curry-15-minutes/)
 - [Best Ever Guacamole (Fresh, Easy & Authentic) | Downshiftology](https://downshiftology.com/recipes/best-ever-guacamole/)
 - [Creamy hassle back potatoe bake](https://www.tiktok.com/t/ZT86oFWgE/)
-
+- [Portuguese chorizo potatoe soup](https://x.com/aiiegoricai/status/1809718430498480332?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 
 ![01AA4E32-BCBA-4B8C-9A69-029892159AE3.jpeg](/img/user/Extras/Attachments/01AA4E32-BCBA-4B8C-9A69-029892159AE3.jpeg)
 

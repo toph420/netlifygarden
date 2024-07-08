@@ -16,7 +16,7 @@
 
 Story about a guy who goes to the chiropractor and they conduct a voodoo ritual on him, his dad warned him about those quacks but his mom forced him to get cracked even as a growing child. He walks out of there, pain free, but cursed
 
-[Chiropractic treatment, a $15-billion industry, has its roots in a ghost story - Los Angeles Times](https://www.latimes.com/business/lazarus/la-fi-lazarus-chiropractic-quackery-20170630-story.html)
+[[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]
 
 ---
 up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]

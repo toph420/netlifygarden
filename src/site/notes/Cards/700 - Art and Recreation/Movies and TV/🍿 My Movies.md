@@ -42,10 +42,12 @@
 	- Altered states
 	- The empty man
 	- cute for wellness
-	- Endless
+	- Moorhouse and Benson
+		- the Endless
 	- Resolution
 	- Spring 2014
 	- Whisperer in darkness
+	- Cast a deadly spell 
 	- ![IMG_0882.jpeg](/img/user/Extras/Attachments/IMG_0882.jpeg)
 
 

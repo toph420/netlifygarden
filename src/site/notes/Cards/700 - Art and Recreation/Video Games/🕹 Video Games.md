@@ -36,7 +36,7 @@
 - 
 ## Want to Play
 
-- **the beginners guide**
+- ⭐️ **Bloodborne**
 - Pillars of Eternity: Deadfire
 	- Mayaruha and Tahiku companions 
 - **[[Cards/700 - Art and Recreation/Video Games/Video Game - Divinity Original Sin 2\|Video Game - Divinity Original Sin 2]]**
@@ -59,6 +59,7 @@
 - Haunted Chocolatier - made by starred guy
 - Warhammer: total war 3
 - ⭐️ Factorio
+- Darkest Dungeon (Lovecraftian)
 
 ## Strategy
 [What are your favorite strategy games? : r/gamingsuggestions](https://www.reddit.com/r/gamingsuggestions/comments/18c32l7/what_are_your_favorite_strategy_games/)
@@ -101,7 +102,8 @@
 - No Man's Sky
 - Rust
 - Dayz 
-
+- ⭐️ **Enshrouded**
+- Valium
 
 ## Similar to BG3 
 - Plane Scape : Torment

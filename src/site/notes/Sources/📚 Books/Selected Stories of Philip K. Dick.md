@@ -45,6 +45,10 @@
 
 - [N] I feel like I've had this conversation so many times with Devon. At the end of the day nothing really matters, nothing exists, and it's funny, all you can do is find the humor and get some giggles out of this life.
 
+### id739803696
+
+> PAYCHECK
+
 ### id739803442
 
 > The SP would work him over. It would be a long time before they’d believe him, and by that time— He glanced quickly around. Was there any escape? In a second they would be back. He touched the door. Locked, the triple-ring magnetic locks. He had worked on magnetic locks many times. He had even designed part of a trigger core. There was no way to open the doors without the right code key. No way, unless by some chance he could short out the lock. But with what?
@@ -94,3 +98,11 @@
 > “Someday, Jennings, we’re going to break out. You see, conditions like this can’t go on. People can’t live this way, tossed back and forth by political and economic powers. Masses of people shoved this way and that according to the needs of this government or that cartel. There’s going to be resistance, someday. A strong, desperate resistance. Not by big people, powerful people, but by little people. Bus drivers. Grocers. Vidscreen operators. Waiters. And that’s where the Company comes in. “We’re going to provide them with the help they’ll need, the tools, weapons, the knowledge. We’re going to ‘sell’ them our services. They’ll be able to hire us. And they’ll need someone they can hire. They’ll have a lot lined up against them. A lot of wealth and power.”
 
 - [N] Lol, selling the workers the revolution. Capitalizing off of the need to revolt against corporations, 🤦‍♂️
+
+### id741251069
+
+> SECOND VARIETY
+
+### id741251091
+
+> He picked up his rifle and stepped carefully up to the mouth of the bunker, making his way between blocks of concrete and steel prongs, twisted and bent. The air was cold at the top. He crossed over the ground toward the remains of the soldier, striding across the soft ash. A wind blew around him, swirling gray particles up in his face. He squinted and pushed on.

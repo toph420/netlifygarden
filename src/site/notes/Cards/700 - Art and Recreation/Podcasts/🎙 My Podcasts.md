@@ -100,6 +100,7 @@
 - https://docs.google.com/spreadsheets/d/e/2PACX-1vTn9PbJWlKQrFSxAL2MLpydNrevQehpAGbxh1_h6i90gZRRr8OMEMFiWuIvozM_Me_HRHkduRofYmI4/pubhtml#
 - - [Pods similar to Lovecraft](https://www.reddit.com/r/audiodrama/comments/zg0c59/suggestions_for_fiction_cult_podcasts_just/izexzj1/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1&context=3)
 - [The Complete Fiction of H.P. Lovecraft Audiobook – The HPLHS Store](https://store.hplhs.org/products/the-complete-fiction-of-h-p-lovecraft-an-audiobook)
+- ⭐️ [Great Taste - Big List](https://www.theend.fyi/recommended-audio-fiction)
 
 ---
 up:: [[Atlas/📥 Sources\|📥 Sources]]

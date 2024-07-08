@@ -88,6 +88,7 @@
 > ## 🟩 Synthesized 
 >  | File                                                                                                                                                                                                                         |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]                   |
 > | [[Sources/Readwise/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]                                                                                                                               |
 > | [[Sources/Readwise/📰 Articles/Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content\|Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content]] |
 > | [[Sources/Readwise/📰 Articles/Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn\|Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn]]                                                   |

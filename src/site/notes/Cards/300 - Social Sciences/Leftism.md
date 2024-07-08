@@ -16,7 +16,10 @@
 > 
 > - See [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]] for more links and resources related to [[Cards/300 - Social Sciences/Activism\|Activism]]
 
-
+- [[+ Encounters/Liberalism\|Liberalism]]
+- [[+ Encounters/Communism\|Communism]]
+- [[Cards/300 - Social Sciences/Socialism\|Socialism]]
+- [[Anarchism\|Anarchism]]
 ## Reading
 - Huge folder of resources — [Revolutionary Readings - Google Drive](https://drive.google.com/drive/mobile/folders/1tDJ_KiNWS_MPrbeZPZUj0yaof9RPYYtX?pli=1)
 - [Hakims Reading Reccs](https://youtube.com/playlist?list=PLX80nwePTowtKU2w6LsstSESwfkiS0Zta&si=7J10mzyYQ3K6y8dC)
@@ -28,19 +31,20 @@
 
 
 > [!NOTE]+ 📝 Notes (`#on/leftism`)
->  - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
+>  - [[+ Encounters/Communism\|Communism]]
+> - [[+ Encounters/Liberalism\|Liberalism]]
+> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
-> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
-> - [[+ Encounters/Communism\|Communism]]
+> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > 
 { .block-language-dataview}
 
 > [!note]+ Sources
->  - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
+>  - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
-> - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
+> - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > 
 { .block-language-dataview}
 

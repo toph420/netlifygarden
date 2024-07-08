@@ -18,6 +18,7 @@
 - The Consultant 
 - Silo
 - One Piece (anime
+- [[+ Encounters/Babylon 5\|Babylon 5]]
 
 ## Watched
 - [[Kindred\|Kindred]]
@@ -53,11 +54,12 @@
 	- Archive 81
 	- Scooby Doo - Mystery Incorporated
 - **Sci-fi**
-	- Babylon 5
+	- [[+ Encounters/Babylon 5\|Babylon 5]]
 	- Farscape
 	- Space: Above and Beyond
 	- Station Eleven
 	- Scavengers Reign (animated) - Netflix
+	- eureka 
 
 ## Lists
 - [What is the most underrated tv series that barely anyone knows?](https://x.com/TheCinesthetic/status/1724131513120493867?s=20)

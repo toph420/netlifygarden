@@ -28,10 +28,10 @@
 > [!NOTE]+ 📝 Notes (`#on/filmmaking`)
 >  | Note                                                                                                                                                                                                      |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]<span class='summary'>The French new wave cinema legend </span><span class='block'>5:10 PM - June 18, 2024</span>                                     |
 > | [[Cards/900 - History, Biography, Geography/Biography/Stanley Kubrick\|Stanley Kubrick]]<span class='summary'>The legendary film director</span><span class='block'>9:06 AM - December 15, 2023</span> |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]<span class='summary'>My research and notes about video editing</span><span class='block'>9:43 PM - October 26, 2022</span>    |
 > | [[Cards/600 - Applied Sciences/Filmmaking/My Favorite Directors\|My Favorite Directors]]<span class='summary'>My top movie directors </span><span class='block'>7:40 PM - March 17, 2023</span>        |
-> | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]<span class='summary'>The French new wave cinema legend </span><span class='block'>5:10 PM - June 18, 2024</span>                                     |
 > 
 { .block-language-dataview}
 
@@ -42,9 +42,9 @@
 { .block-language-dataview}
 
 > [!links]+ Unrequited Notes (`-#on/filmmaking`)
->  - [[Spaces/🤘 My Life/Areas/My Home Studio\|My Home Studio]]
+>  - [[Atlas/📚 Library\|📚 Library]]
+> - [[Spaces/🤘 My Life/Areas/My Home Studio\|My Home Studio]]
 > - [[Cards/600 - Applied Sciences/Filmmaking/Video Assets\|Video Assets]]
-> - [[Atlas/📚 Library\|📚 Library]]
 > 
 { .block-language-dataview}
 
