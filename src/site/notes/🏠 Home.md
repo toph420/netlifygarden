@@ -13,7 +13,7 @@ Due to the nature of some of these notes not every link will be reachable, but I
 Below are some jumping off points:
 
 - Be sure to check out the [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]] to keep up with my writing journey. 
-- See what books I'm reading at the [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+- See what books I'm reading on my [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 - Learn some more about this [[Sources/Tools + Plugins/Obsidian\|Obsidian]] vault of notes, I call it [[Atlas/🧠 Sid\|🧠 Sid]] (homage to Sid from [The Incredible Toon Machine](https://www.youtube.com/watch?v=w6RD2s4TQAQ))
 - Use [[Atlas/🗺 Maps\|🗺 Maps]], [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]], [[Atlas/📚 Library\|📚 Library]], [[Atlas/📥 Sources\|📥 Sources]] to explore 
 - Use the backlinks on each page to navigate to related notes
@@ -82,46 +82,46 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                                                    | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Calendar/Ideas/2024-07-05-IJ - Exploring is what humans do best\|Exploring is what humans do best]]<br><span class='block'>3:19 PM - July 05, 2024</span>          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Babylon 5\|Babylon 5]]<br><span class='block'>8:49 PM - July 04, 2024</span>                                                                          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Liberalism\|Liberalism]]<br><span class='block'>12:23 AM - July 02, 2024</span>                                                                       | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-07-02-IJ - Self Help Guru Goes off the Deep End\|Self Help Guru Goes off the Deep End]]<br><span class='block'>12:02 AM - July 02, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-07-01-IJ - The Chiropractor\|The Chiropractor ]]<br><span class='block'>2:13 PM - July 01, 2024</span>                                         | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                                      | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Antimemetics Division Hub\|Antimemetics Division Hub]]<br><span class='block'>2:30 PM - July 15, 2024</span>                                            | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-07-15-IJ - Stories about how people fell in love\|Stories about how people fell in love]]<br><span class='block'>12:21 PM - July 15, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/We Live in a Simulation\|We Live in a Simulation]]<br><span class='block'>10:33 AM - July 15, 2024</span>                                               | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/William Gibson\|William Gibson]]<br><span class='block'>10:55 PM - July 14, 2024</span>                                                                 | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/2024 Election\|2024 Election]]<br><span class='block'>12:13 PM - July 14, 2024</span>                                                                   | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                         | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Babylon 5\|Babylon 5]]<br><span class='block'>10:38 PM - July 07, 2024</span>                                              | <span class='center-block'>🌞</span> |
-> | [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]]<br><span class='block'>10:28 PM - July 07, 2024</span>                                   | <span class='center-block'>🌱</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>10:17 PM - July 07, 2024</span> | <span class='center-block'>\-</span> |
-> | [[Cards/700 - Art and Recreation/Food/🍱 Recipes\|🍱 Recipes]]<br><span class='block'>7:44 PM - July 07, 2024</span>                      | <span class='center-block'>🌞</span> |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>12:35 AM - July 07, 2024</span>                              | <span class='center-block'>🌱</span> |
+>  | Note                                                                                                                                           | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>12:10 AM - July 17, 2024</span>                                | <span class='center-block'>🌱</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>11:12 PM - July 16, 2024</span>   | <span class='center-block'>\-</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|Philip K Dick]]<br><span class='block'>12:01 AM - July 16, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Antimemetics Division Hub\|Antimemetics Division Hub]]<br><span class='block'>5:14 PM - July 15, 2024</span>                 | <span class='center-block'>🌞</span> |
+> | [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]<br><span class='block'>5:14 PM - July 15, 2024</span>         | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                                           | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]<br><span class='block'>4:54 PM - July 02, 2024</span> | <span class='center-block'>🟩</span> |
-> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>12:59 AM - June 29, 2024</span>                                                                                                            | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>12:57 AM - June 29, 2024</span>                                                                                                        | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>12:55 AM - June 29, 2024</span>                                                                                                    | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]]<br><span class='block'>10:32 PM - June 26, 2024</span>                                                                                                                                    | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                                                                                  | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/Something Wicked This Way Comes\|Something Wicked This Way Comes]]<br><span class='block'>12:37 AM - July 17, 2024</span>                                                                                                         | <span class='center-block'>🟥</span> |
+> | [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]<br><span class='block'>1:32 PM - July 14, 2024</span>                                                                                                                  | <span class='center-block'>🟥</span> |
+> | [[Sources/Readwise/📰 Articles/WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind\|WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind]]<br><span class='block'>12:27 AM - July 14, 2024</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Burning Chrome\|Burning Chrome]]<br><span class='block'>5:46 PM - July 13, 2024</span>                                                                                                                                            | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/A Fire Upon the Deep\|A Fire Upon the Deep]]<br><span class='block'>11:16 PM - July 11, 2024</span>                                                                                                                               | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                                            | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]<br><span class='block'>10:30 PM - July 07, 2024</span> | <span class='center-block'>🟩</span> |
-> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>11:18 PM - July 02, 2024</span>                                                                                                             | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Complete Tales of H.P. Lovecraft\|The Complete Tales of H.P. Lovecraft]]<br><span class='block'>1:19 AM - June 30, 2024</span>                                                                                                          | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Best Bizarro Fiction of the Decade\|The Best Bizarro Fiction of the Decade]]<br><span class='block'>12:56 AM - June 29, 2024</span>                                                                                                     | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]<br><span class='block'>5:25 PM - June 28, 2024</span>                                  | <span class='center-block'>🟩</span> |
+>  | Source                                                                                                                                          | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/Something Wicked This Way Comes\|Something Wicked This Way Comes]]<br><span class='block'>12:39 AM - July 17, 2024</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Deforum\|Deforum]]<br><span class='block'>1:42 PM - July 16, 2024</span>                                           | <span class='center-block'>🟧</span> |
+> | [[Sources/📚 Books/Burning Chrome\|Burning Chrome]]<br><span class='block'>10:55 PM - July 14, 2024</span>                                   | <span class='center-block'>🟥</span> |
+> | [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]<br><span class='block'>6:03 PM - July 14, 2024</span>          | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Blindsight\|Blindsight]]<br><span class='block'>6:03 PM - July 14, 2024</span>                                            | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

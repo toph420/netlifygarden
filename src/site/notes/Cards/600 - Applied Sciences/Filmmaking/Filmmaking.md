@@ -42,7 +42,8 @@
 { .block-language-dataview}
 
 > [!links]+ Unrequited Notes (`-#on/filmmaking`)
->  - [[Atlas/📚 Library\|📚 Library]]
+>  - [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]
+> - [[Atlas/📚 Library\|📚 Library]]
 > - [[Spaces/🤘 My Life/Areas/My Home Studio\|My Home Studio]]
 > - [[Cards/600 - Applied Sciences/Filmmaking/Video Assets\|Video Assets]]
 > 

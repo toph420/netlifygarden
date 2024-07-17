@@ -22,6 +22,12 @@
 
 - [Story Structure: 7 Types All Writers Should Know](https://blog.reedsy.com/guide/story-structure/)
 
+
+
+> [!Image]- Story Structure Diagram
+> ![Storytelling - structure.png](/img/user/Extras/Attachments/Storytelling%20-%20structure.png)
+
+
 > [!ava]+ Some Story Structures
 > Here are some of the most common and influential story structures, followed by suggestions for interactive exercises to help you learn them:
 > 
@@ -78,7 +84,7 @@
 > 	- Fast-paced, often with short chapters
 > 	- Blend of horror, humor, and absurdism Example tone: "The woman's skin turned to bubble wrap as she popped herself across the room."
 > 
-> 2. [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]] Style: Philosophical science fiction Characteristics:
+> 2. [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|Philip K Dick]] Style: Philosophical science fiction Characteristics:
 > 	- Paranoid, reality-bending narratives
 > 	- Exploration of consciousness and perception
 > 	- Clear, direct prose with sudden surreal turns

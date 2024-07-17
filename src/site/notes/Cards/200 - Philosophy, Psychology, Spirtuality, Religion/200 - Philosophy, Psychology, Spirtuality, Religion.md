@@ -47,6 +47,7 @@
 > [!NOTE]- 📝 Encounters
 >  | Note                                                     | Summary                                                   |
 > | -------------------------------------------------------- | --------------------------------------------------------- |
+> | [[+ Encounters/Depression\|Depression]]               | The dark cloud                                            |
 > | [[+ Encounters/Personality Tests\|Personality Tests]] | A note of links to tests and results of tests I've taken  |
 > 
 { .block-language-dataview}
@@ -54,6 +55,7 @@
 > [!NOTE]- 📝 Cards
 >  | Note                                                                                                    | Summary                                                                                                                                 |
 > | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Depression\|Depression]]                                                              | The dark cloud                                                                                                                          |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Divergent Thinking\|Divergent Thinking]] | The creative process of developing multiple unique ideas/concepts from a single idea or concept.                                        |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]     | Gender dysphoria is a condition where someone feels distress because their gender does not match the gender they were assigned at birth |
 > | [[+ Encounters/Personality Tests\|Personality Tests]]                                                | A note of links to tests and results of tests I've taken                                                                                |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/300-social-sciences/politics/","title":"🏛️ Politics"}
+{"dg-publish":true,"permalink":"/cards/300-social-sciences/politics/","title":"Politics"}
 ---
 
 > [!metadata]- Meta
@@ -29,9 +29,12 @@
 > [!NOTE]+ 📝 Notes (`#on/politics`)
 >  | Note                                                                                    | Summary                                                                                                                                                                            |
 > | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Project 2025\|Project 2025]]                                          | Notes related to the godawful Project 2025 agenda                                                                                                                                  |
 > | [[+ Encounters/Communism\|Communism]]                                                | Yep                                                                                                                                                                                |
+> | [[+ Encounters/2024 Election\|2024 Election]]                                        | Notes about the disastrous 2024 election cycle                                                                                                                                     |
 > | [[+ Encounters/Liberalism\|Liberalism]]                                              | Notes about liberalism, democrats                                                                                                                                                  |
 > | [[+ Encounters/Cybersyn Project\|Cybersyn Project]]                                  | Allende implemented this distribution decision support system to aid in management of the national economy                                                                         |
+> | [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]         | All things related to Marx and Marxism                                                                                                                                             |
 > | [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]       | Info and links related to the Middle East                                                                                                                                          |
 > | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]] | The time is now!                                                                                                                                                                   |
 > | [[Cards/300 - Social Sciences/Conservatism\|Conservatism]]                           | Research and outline of conservative politics and economics                                                                                                                        |
@@ -47,7 +50,6 @@
 >  - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[Calendar/Ideas/2024-06-15-IJ - Q Anon\|2024-06-15-IJ - Q Anon]]
-> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
 > - [[Cards/300 - Social Sciences/Activism\|Activism]]
 > 

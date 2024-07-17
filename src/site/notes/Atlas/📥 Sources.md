@@ -12,11 +12,13 @@
 > [!NOTE|no-t clean]
 > ## 🟥 Not Processed
 > 
->  | Source                                                                                                                           |
-> | -------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]                                                               |
-> | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]                                               |
-> | [[Sources/Readwise/📰 Articles/The Artificial Intelligence Revolution Part 2\|The Artificial Intelligence Revolution Part 2]] |
+>  | Source                                                                                                                                                                                           |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+> | [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]                                                                                                                 |
+> | [[Sources/Readwise/📰 Articles/WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind\|WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind]] |
+> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]                                                                                                                               |
+> | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]                                                                                                               |
+> | [[Sources/Readwise/📰 Articles/The Artificial Intelligence Revolution Part 2\|The Artificial Intelligence Revolution Part 2]]                                                                 |
 > 
 { .block-language-dataview}
 

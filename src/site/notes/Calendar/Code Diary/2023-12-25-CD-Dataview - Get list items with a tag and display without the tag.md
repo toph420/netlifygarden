@@ -35,9 +35,10 @@ I use this snippet to list lines tagged with ‘#exam’ in my folder "3_semeste
 
 ## Result
 
-| class                                                                  | 🔥                                                                                  |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]] | <ul><li><ul><li> hell yea!</li><li> Love this, beautifully said</li></ul></li></ul> |
+| class                                                                  | 🔥                                                                                                                                                                                |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/📚 Books/Blindsight\|Blindsight]]                         | <ul><li><ul><li>Awesome passage on [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] </li><li>This seems like the thesis to the entire book here, a lot of ideas baked into this passage, damn! </li></ul></li></ul> |
+| [[Sources/📚 Books/The Dawn of Everything\|The Dawn of Everything]] | <ul><li><ul><li> hell yea!</li><li> Love this, beautifully said</li></ul></li></ul>                                                                                               |
 
 { .block-language-dataview}
 

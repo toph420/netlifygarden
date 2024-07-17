@@ -12,10 +12,8 @@
 >> **topics**:: scifi
 >
 >> [!metadata]- Book Info
->> **Author**:: [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]]
->> **Title**:: Ubik
->> **URL**::
->> **Reviewed Date**:: [[2023-09-01 \|2023-09-01 ]]
+>> **Author**:: [[Philip K. Dick\|Philip K. Dick]]
+>> **Title**:: U[](Philip%20K%20Dick.md)> **Reviewed Date**:: [[2023-09-01 \|2023-09-01 ]]
 >> **Finished Year**:: [[2023\|2023]]
 >> **Genre**:: [[Science Fiction\|Science Fiction]]
 

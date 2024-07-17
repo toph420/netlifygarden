@@ -12,7 +12,7 @@
 >> **topics**:: [[Science Fiction\|Science Fiction]]
 >
 >> [!metadata]- Book Info
->> **Author**:: [[Philip K. Dick and Jonathan Lethem\|Philip K. Dick and Jonathan Lethem]]
+>> **Author**:: [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|Philip K Dick]]
 >> **Title**:: Selected Stories of Philip K. Dick
 >> **URL**::
 >> **Reviewed Date**:: [[2024-06-29 \|2024-06-29 ]]

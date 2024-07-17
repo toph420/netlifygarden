@@ -33,18 +33,18 @@
 > [!NOTE]+ 📝 Notes (`#on/leftism`)
 >  - [[+ Encounters/Communism\|Communism]]
 > - [[+ Encounters/Liberalism\|Liberalism]]
+> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
-> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > 
 { .block-language-dataview}
 
 > [!note]+ Sources
->  - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
-> - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+>  - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
-> - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
+> - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+> - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > 
 { .block-language-dataview}
 

@@ -18,6 +18,7 @@
 - [GitHub - deforum-art/deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion)
 - [Deforum Google Colab](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)
 - [Using Parseq with Deforum](https://www.youtube.com/watch?v=n4zj1lrbIEM) sick tutorial using Parseq to create camera movement in videos 
+- Great video examples of motion types - [S4f3ty_Marc preset examples](https://youtu.be/vmKePs6iHs4?si=n7snYxNFC_jGGl_D)
 ---
 up:: [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
 

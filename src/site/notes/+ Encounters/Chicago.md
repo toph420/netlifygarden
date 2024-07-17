@@ -17,6 +17,10 @@
 
 [A night in Chicago as a 28yr old](https://x.com/snotwurst420/status/1564319665169567749?s=46)
 
+## Food
+
+![Chicago - foodspots.png](/img/user/Extras/Attachments/Chicago%20-%20foodspots.png)
+
 ---
 up:: [[Cards/900 - History, Biography, Geography/Geography and Travel/Geography\|Geography]]
 

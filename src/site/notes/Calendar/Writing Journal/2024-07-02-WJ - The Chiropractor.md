@@ -14,7 +14,7 @@
 
 Developing a writing habit is hard. Being a filmmaker I know all too well the feeling of staring at a blank page and not knowing where to begin. I start reading up on [[+ Encounters/Storytelling\|Storytelling]] and doubting my abilities, well aware that if I just begin, if I write for five minutes every day I'll slowly but surely become a better writer.
 
-Anyway, I've been reading a lot. [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]], [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|PKD]], [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]. These dudes are genius, each with their own very unique and distinct writing style.Today I want to do an exercise in writing something a bit more along the lines of [[Bizarro Fiction\|Bizarro Fiction]]. I recently finished a book called [[Sources/📚 Books/Quicksand House\|Quicksand House]] and I love the oftentimes grotesque, outlandish, over the top imagery and mechanics of the world and characters. 
+Anyway, I've been reading a lot. [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]], [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|PKD]], [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]. These dudes are genius, each with their own very unique and distinct writing style.Today I want to do an exercise in writing something a bit more along the lines of [[Bizarro Fiction\|Bizarro Fiction]]. I recently finished a book called [[Sources/📚 Books/Quicksand House\|Quicksand House]] and I love the oftentimes grotesque, outlandish, over the top imagery and mechanics of the world and characters. 
 
 But first, a warm up...
 

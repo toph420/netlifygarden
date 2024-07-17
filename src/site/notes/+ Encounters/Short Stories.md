@@ -25,7 +25,7 @@
 - La Niche Boca Arriba by Julio Cortazar
 - [[Kurt Vonnegut\|Kurt Vonnegut]]
 	- Welcome to the Monkey House
-- [[Cards/900 - History, Biography, Geography/Biography/Philip K. Dick\|Philip K. Dick]]
+- [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|Philip K Dick]]
 	- Selected Stories of PKD
 - The Science Fiction Hall of Fame - https://www.goodreads.com/book/show/141860
 - [[David Foster Wallace\|David Foster Wallace]]

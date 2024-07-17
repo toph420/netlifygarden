@@ -60,6 +60,7 @@
 - Warhammer: total war 3
 - ⭐️ Factorio
 - Darkest Dungeon (Lovecraftian)
+- Dyson Sphere Program - [DSP Gameplay](https://youtu.be/YgmG0rlI1tA?si=fl3xTMc453WVEKyd)
 
 ## Strategy
 [What are your favorite strategy games? : r/gamingsuggestions](https://www.reddit.com/r/gamingsuggestions/comments/18c32l7/what_are_your_favorite_strategy_games/)
@@ -104,6 +105,7 @@
 - Dayz 
 - ⭐️ **Enshrouded**
 - Valium
+- Kenshi - Open world survival games 
 
 ## Similar to BG3 
 - Plane Scape : Torment
