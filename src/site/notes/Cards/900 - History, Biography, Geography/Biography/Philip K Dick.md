@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/authors 
-> **topics**:: [[Science Fiction\|Science Fiction]]
+> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]
 > **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
 
@@ -32,6 +32,8 @@ See [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of
 - **The Second Variety** - Loved this one! Soldiers are fighting, there are robots among them. A lone soldier goes out to the Russians to potentially end the war but discovers there are robots imitating certain soldiers, and there are multiple varieties. Although this one becomes a bit predictable toward the end the action is awesome and the twist still hits. The last line is too good, "they were already beginning to design weapons to use against each other." Meaning that even though the Second variety escaped in his rocket back to the moon base they would eventually destroy themselves, ironic vengeance. 
 - **The Imposter** - A great little story about a robot that infiltrates and impersonates an unknowing human victim, Olham. He's convinced he's not the robot with the bomb that can be triggered with a phrase and goes to great lengths to try to prove it, and almost does so. At the last second he accidentally, as if inevitable, utters the phrase that triggers the bomb. A perfect plan by the aliens. Super fun, super quick, great twist, albeit predictable (had me for a few at the last second).
 - **The King of the Elves** - a cute, fun story about an old man that owns a gas station in the middle of nowhere. One day he helps out some elves, and they make him their elf king. His friends think he's crazy. The elves need help defeating the trolls, and it turns out his good friend Phineas is the troll god! In a glorious battle he helps defeat the trolls and accepts his reign as king. I loved this, not sure the subtext of it but it's a damn fun and entertaining story.
+- **The Adjustment Team** - This is freaking awesome. Ed unknowingly bares witness to an adjustment, a necessary process that takes place in order to shape the outcome of reality. In his case he was not summoned in time and ended up in the middle of the adjustment, witnessing reality fall apart before his eyes. Upon meeting with the adjustment team he vows to never tell a soul and convinces his wife it was just a mental break. When his wife almost pries it out of him a salesman rings the doorbell and saves the day. 
+	- There's been a movie made from this idea called [The Adjustment Bureau](https://youtu.be/fSeWHl1PaKs?si=220FtYQMEaYSC0R8) with Matt Damon. This story could definitely be a novel, and I'm sure has inspired a lot of other stories out there. I wanted more, but the bite size story is very satisfying and fun, even a bit terrifying.
 
 
 ## About his Style

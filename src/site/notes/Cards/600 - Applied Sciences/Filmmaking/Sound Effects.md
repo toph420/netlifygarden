@@ -19,6 +19,7 @@ I use [[Soundly\|Soundly]], it's awesome! Also, generate your own sfx with [Elev
 
 - [Zapsplat - Whooshes](https://www.zapsplat.com/sound-effect-category/whoosh/)
 - [AI music and sfx](https://x.com/zumersultana/status/1733464611901555060?s=61&t=gyRX2W0x81b80X8f34EMoQ)
+- 🔥 [Jihad Konda | Timeline sfx breakdown](https://www.instagram.com/reel/C9djIKPyT73/?igsh=YWYwZXgxYjY0NTF5) - great breakdown of sfx names and layering 
 
 ## SFX Packs
 - [The Ultimate Sound FX Bundle (ALL-IN-ONE) - 5000+](https://ocularsounds.com/products/the-ultimate-sound-fx-bundle)

@@ -33,6 +33,13 @@
 > - **Tools and Inspo**
 > 	- [Typetrigger](https://typetrigger.com/) - "Four times a day, we help you get the words out. Write in any genre in 300 words or less. Hit publish. Read. Be Read. Write. Now."
 > 	- [NaNoWriMo](https://nanowrimo.org/)
+> 	- [Writing a Book in Obsidian](https://pdworkman.com/write-book-with-obsidian/)
+> - **Places to find story ideas**
+> 	- [Reddit - Am I the Asshole?](https://www.reddit.com/r/AmItheAsshole/s/qndonGl9vm)
+> 	- [Reddit - Conspiracy](https://www.reddit.com/r/conspiracy/s/kdLdAmy9G8)
+> 	- [Reddit - Pointless Stories](https://www.reddit.com/r/PointlessStories/s/xADnZwQNNz)
+> 	- [Reddit - Stalker Stories](https://www.reddit.com/r/StalkerStories/s/uu7yYlGZNi)
+> 	- [Reddit - True Creepy Stories](https://www.reddit.com/r/TrueCreepyStories/s/yCgX4ztN0w)
 
 ## From the Logs
 
@@ -88,6 +95,7 @@
 
 > [!links]+ Unrequited Notes (`-#on/writing`)
 >  - [[Sources/Readwise/📰 Articles/How I Plan and Write Fiction in Obsidian by Vanessa Glau\|How I Plan and Write Fiction in Obsidian by Vanessa Glau]]
+> - [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
 > 
 { .block-language-dataview}
 

@@ -9,7 +9,7 @@
 >> **type**:: #📥/📚/completed 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books #on/scifi #on/genre/scifi
->> **topics**:: [[Science Fiction\|Science Fiction]]
+>> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]
 >
 >> [!metadata]- Book Info
 >> **Author**:: [[Peter Watts\|Peter Watts]]

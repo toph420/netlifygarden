@@ -15,7 +15,8 @@
 
 > Notes related to or discussing racism
 
-## "Race Science"
+- [A beautiful thread of racists getting their ass beat](https://x.com/_ezeokolorie/status/1814728132630331442?s=46)
+## "Race Science" is Stupid
 - [Debunking race science graphs](https://x.com/kareem_carr/status/1771906172762607647?s=46)
 
 

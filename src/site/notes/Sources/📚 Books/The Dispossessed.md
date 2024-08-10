@@ -9,7 +9,7 @@
 >> **type**:: #📥/📚/reading 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books #on/scifi 
->> **topics**:: [[Science Fiction\|Science Fiction]] [[Cards/300 - Social Sciences/Politics\|Politics]] [[Cards/300 - Social Sciences/Leftism\|Leftism]] [[Anarchy\|Anarchy]]
+>> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]] [[Cards/300 - Social Sciences/Politics\|Politics]] [[Cards/300 - Social Sciences/Leftism\|Leftism]] [[Anarchy\|Anarchy]]
 >
 >> [!metadata]- Book Info
 >> **Author**:: [[Ursula K. Le Guin\|Ursula K. Le Guin]]

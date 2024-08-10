@@ -20,7 +20,8 @@ The air wreaked of manufactured meat chunks and shitty perfume wafting in the wi
 
 It wasn't half a second that I poked my head out of the door and Gunther shouted, "Brian, so glad you could make it! Here, I printed a custom bib for you this year". He handed me a bejeweled bib with my name on it.
 
-
+Just saw this ([[Calendar/Journal/Daily/2024-07-17\|2024-07-17]]):
+![2024-06-14-WJ - Everything he said that day was bullshit - contest.png](/img/user/Extras/Attachments/2024-06-14-WJ%20-%20Everything%20he%20said%20that%20day%20was%20bullshit%20-%20contest.png)
 
 ## Task 2: Prompt
 

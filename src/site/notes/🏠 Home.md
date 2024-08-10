@@ -82,24 +82,24 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                                                      | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Antimemetics Division Hub\|Antimemetics Division Hub]]<br><span class='block'>2:30 PM - July 15, 2024</span>                                            | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-07-15-IJ - Stories about how people fell in love\|Stories about how people fell in love]]<br><span class='block'>12:21 PM - July 15, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/We Live in a Simulation\|We Live in a Simulation]]<br><span class='block'>10:33 AM - July 15, 2024</span>                                               | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/William Gibson\|William Gibson]]<br><span class='block'>10:55 PM - July 14, 2024</span>                                                                 | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/2024 Election\|2024 Election]]<br><span class='block'>12:13 PM - July 14, 2024</span>                                                                   | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                                                   | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Calendar/Ideas/2024-08-10-IJ - Short Term Memory\|Short Term Memory]]<br><span class='block'>11:25 AM - August 10, 2024</span>                                                    | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>10:43 PM - August 07, 2024</span>                                                                          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Science Fiction\|Science Fiction]]<br><span class='block'>5:57 PM - August 05, 2024</span>                                                                           | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-08-01-IJ - Pretending to feel guilty to save marriage \|Pretending to feel guilty to save marriage ]]<br><span class='block'>5:59 PM - August 01, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-07-28-IJ - Dating Apps meet Capitalism\|Dating Apps meet Capitalism]]<br><span class='block'>8:39 PM - July 28, 2024</span>                                   | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                           | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>12:10 AM - July 17, 2024</span>                                | <span class='center-block'>🌱</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>11:12 PM - July 16, 2024</span>   | <span class='center-block'>\-</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|Philip K Dick]]<br><span class='block'>12:01 AM - July 16, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Antimemetics Division Hub\|Antimemetics Division Hub]]<br><span class='block'>5:14 PM - July 15, 2024</span>                 | <span class='center-block'>🌞</span> |
-> | [[Cards/700 - Art and Recreation/Video Games/🕹 Video Games\|🕹 Video Games]]<br><span class='block'>5:14 PM - July 15, 2024</span>         | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                          | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>11:09 PM - August 08, 2024</span>             | <span class='center-block'>🌱</span> |
+> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>10:44 PM - August 07, 2024</span>                 | <span class='center-block'>🌞</span> |
+> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]<br><span class='block'>10:42 PM - August 07, 2024</span> | <span class='center-block'>🌱</span> |
+> | [[+ Encounters/Science Fiction\|Science Fiction]]<br><span class='block'>5:57 PM - August 05, 2024</span>                  | <span class='center-block'>🌞</span> |
+> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>8:38 PM - August 01, 2024</span>    | <span class='center-block'>🌱</span> |
 > 
 { .block-language-dataview}
 
@@ -118,10 +118,10 @@ Elsewhere:
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                          | Status                               |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/A Fire Upon the Deep\|A Fire Upon the Deep]]<br><span class='block'>3:45 PM - July 28, 2024</span>                        | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Something Wicked This Way Comes\|Something Wicked This Way Comes]]<br><span class='block'>12:39 AM - July 17, 2024</span> | <span class='center-block'>🟥</span> |
 > | [[Sources/Tools + Plugins/Deforum\|Deforum]]<br><span class='block'>1:42 PM - July 16, 2024</span>                                           | <span class='center-block'>🟧</span> |
 > | [[Sources/📚 Books/Burning Chrome\|Burning Chrome]]<br><span class='block'>10:55 PM - July 14, 2024</span>                                   | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]<br><span class='block'>6:03 PM - July 14, 2024</span>          | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Blindsight\|Blindsight]]<br><span class='block'>6:03 PM - July 14, 2024</span>                                            | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

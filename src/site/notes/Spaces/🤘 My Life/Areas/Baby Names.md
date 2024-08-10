@@ -41,6 +41,7 @@
 	- Love (You)
 	- Claire
 	- Lotus (love on the spectrum)
+	- Mina (redhead from nopixel)
 - ## Boys:
 	- Harvey
 	- Bernie

@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/200 - Philosophy, Psychology, Spirtuality, Religion\|Philosophy, Psychology, Spirituality, Religion]]
+> **up**:: [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/200 - Philosophy, Psychology, Spirtuality, Religion\|Philosophy, Psychology, Spirituality, Religion]], [[+ Encounters/Mental Health\|Mental Health]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**:: #on/psychology #on/mentalhealth
@@ -15,9 +15,9 @@
 
 > The dark cloud
 
-![Depression - thishaallpass.png](/img/user/Extras/Attachments/Depression%20-%20thishaallpass.png)
+![IMG_0995.png](/img/user/Extras/Attachments/IMG_0995.png)
 
 
 ---
-up:: [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/200 - Philosophy, Psychology, Spirtuality, Religion\|Philosophy, Psychology, Spirituality, Religion]]
+up:: [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/200 - Philosophy, Psychology, Spirtuality, Religion\|Philosophy, Psychology, Spirituality, Religion]], [[+ Encounters/Mental Health\|Mental Health]]
 

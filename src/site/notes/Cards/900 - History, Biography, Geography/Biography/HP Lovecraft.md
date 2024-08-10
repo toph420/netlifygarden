@@ -37,6 +37,11 @@ See [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts
 	- It's wild how big and vast just a few paragraphs can be. This definitely changed how I think about stories and writing in a weird way, very impressive.
 - **Old Bugs** - a decent little story about a disgraced derelict, an academic in a previous life, now working at a speakeasy in Chicago. One day he sees a fresh, innocent face come in to "experience life", but he recognizes that it's his own son. He loses it, scaring the kid out of ever wanting to indulge again. The son finds the picture Old Bugs was carrying, it was his own mother. 
 	- The descriptions of Old Bugs crazed rants did a good job of painting the picture of his descending into madness, along with the contrast of the good kid ripe for corruption. Overall it's a mediocre, predictable from early on, story.
+- **The Transition of Juan Romero** - A miner and his new friend, Juan, venture out into the night to investigate an abyss in the mountain caused by a blast intended to uncover more gold. The miners ring that he received in India glows eerily and the abyss seemingly devours Juan. Later it's rumored that the miner and Juan never ventured out that night, and the miners ring goes missing.
+	- A pretty good story and creepy atmosphere, although a bit racist. Imagery of the abyss in the mountain is fantastic, particularly the description of the sounds from beneath the earth. Lots of unanswered questions about the ring and Juan's passing.
+-  **The White Ship** - A poetic little story about a lighthouse worker that sails the seas on a mystic white ship, eventually taking him to the land of Sona-Nyl where everything is perfect. But he wants to venture further and go to Cathuria, against the advice of the captain. Upon reaching what they thought was Cathuria they discover the rough oceans ending in a vast waterfall and they're destroyed by gods. He wakes to find himself back at the lighthouse and never sees the white ship again.
+	- The descriptions of the various utopian palatial lands are beautiful and the subtext seems to lean towards not taking what you have for granted, not to be greedy, to heed warning and temptation. Overall easy quick read, liked it
+- 
 
 
 

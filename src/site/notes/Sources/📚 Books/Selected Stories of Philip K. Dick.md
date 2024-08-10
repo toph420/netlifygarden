@@ -9,7 +9,7 @@
 >> **type**:: #📥/📚/reading 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books
->> **topics**:: [[Science Fiction\|Science Fiction]]
+>> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]
 >
 >> [!metadata]- Book Info
 >> **Author**:: [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|Philip K Dick]]

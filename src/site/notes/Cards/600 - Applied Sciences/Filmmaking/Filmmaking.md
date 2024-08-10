@@ -45,6 +45,7 @@
 >  - [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[Spaces/🤘 My Life/Areas/My Home Studio\|My Home Studio]]
+> - [[+ Encounters/Ericks Makeup Studio\|Ericks Makeup Studio]]
 > - [[Cards/600 - Applied Sciences/Filmmaking/Video Assets\|Video Assets]]
 > 
 { .block-language-dataview}

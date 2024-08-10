@@ -61,7 +61,7 @@ asyncFunctionResume@[native code]
 @
 asyncFunctionResume@[native code]
 onload@
-@capacitor://localhost/app.js:1:1171666
+@capacitor://localhost/app.js:1:1182902
 @
 asyncFunctionResume@[native code]
 @

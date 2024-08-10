@@ -24,6 +24,8 @@
 
 ![Socialism - why.png](/img/user/Extras/Attachments/Socialism%20-%20why.png)
 
+![Socialism - peter.png](/img/user/Extras/Attachments/Socialism%20-%20peter.png)
+
 ---
 up:: [[🏠 Home\|🏠 Home]]
 

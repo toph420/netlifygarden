@@ -90,6 +90,7 @@
 >  - [[🏠 Home\|🏠 Home]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[+ Encounters/Storytelling\|Storytelling]]
+> - [[+ Encounters/Measurements\|Measurements]]
 > - [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 > - [[Cards/600 - Applied Sciences/Photography/Photography\|Photography]]
 > - [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]

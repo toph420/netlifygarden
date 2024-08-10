@@ -22,6 +22,7 @@
 
 ## Websites
 - [Henry From Online](https://henry.codes/)
+- Deck of Brilliance
 - Video Inspiration
 	- [Flim | The search engine for creative people](https://flim.ai/)
 	- [FILMGRAB](https://film-grab.com/)
@@ -29,6 +30,8 @@
 	- [Frame Set - Helping Filmmakers Find Inspiration](https://frameset.app/stills)
 	- [SHOT.CAFE - The searchable movie stills database for research, decks and inspiration.](https://shot.cafe/)
 
+## From IG Reels
+- [Jason Murray | 🧰 Do you already know these ones?](https://www.instagram.com/reel/C-AfcGbRjUk/?igsh=MWl3NnV5eHc1dGwyZA==) 
 
 
 

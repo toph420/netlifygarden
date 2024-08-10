@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**:: 
-> **topics**:: [[Science Fiction\|Science Fiction]]
+> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]
 > **links**::
 
 

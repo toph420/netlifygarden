@@ -142,6 +142,7 @@ columns:
 > - [[Calendar/Meetings/2024-01-17-M-CCOS - Peoples Hearing 1 Video Debrief\|2024-01-17-M-CCOS - Peoples Hearing 1 Video Debrief]]
 > - [[Calendar/Meetings/2023-02-07-M-Reinvest in GR - Live stream videos to upload\|2023-02-07-M-Reinvest in GR - Live stream videos to upload]]
 > - [[Calendar/Meetings/2022-12-08 Meeting with Eric and Isaac about live Stream and extra footage\|2022-12-08 Meeting with Eric and Isaac about live Stream and extra footage]]
+> - [[Calendar/Meetings/2024-07-26-M- UCC - Climate Ad briefing with Nancy and Erica\|2024-07-26-M- UCC - Climate Ad briefing with Nancy and Erica]]
 > - [[Calendar/Meetings/2023-10-23-M-Waypost Brewing - Discussing social media videos\|2023-10-23-M-Waypost Brewing - Discussing social media videos]]
 > - [[Calendar/Meetings/2023-06-06-M-WMHCC - Discussing WMHCC Video needs and contract\|2023-06-06-M-WMHCC - Discussing WMHCC Video needs and contract]]
 > - [[Calendar/Meetings/2023-09-29-M-WMHCC - Capital Campaign video Feedback \|2023-09-29-M-WMHCC - Capital Campaign video Feedback ]]
@@ -154,7 +155,6 @@ columns:
 > - [[Calendar/Meetings/2024-01-09-M-CCOS - Peoples Hearing Video Strategy for January Meeting\|2024-01-09-M-CCOS - Peoples Hearing Video Strategy for January Meeting]]
 > - [[Calendar/Meetings/2024-05-30-M-GRCF - Video opportunities for GRCF\|2024-05-30-M-GRCF - Video opportunities for GRCF]]
 > - [[Calendar/Meetings/2023-06-09-M-Katia - Meeting with Katia De La Cruz about Photo Video\|2023-06-09-M-Katia - Meeting with Katia De La Cruz about Photo Video]]
-> - [[Calendar/Meetings/2024-04-02-M-UCC - UCC New Campaign Intro\|2024-04-02-M-UCC - UCC New Campaign Intro]]
 > 
 { .block-language-dataview}
 
