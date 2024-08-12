@@ -82,24 +82,24 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                                                                   | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Calendar/Ideas/2024-08-10-IJ - Short Term Memory\|Short Term Memory]]<br><span class='block'>11:25 AM - August 10, 2024</span>                                                    | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>10:43 PM - August 07, 2024</span>                                                                          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Science Fiction\|Science Fiction]]<br><span class='block'>5:57 PM - August 05, 2024</span>                                                                           | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-08-01-IJ - Pretending to feel guilty to save marriage \|Pretending to feel guilty to save marriage ]]<br><span class='block'>5:59 PM - August 01, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-07-28-IJ - Dating Apps meet Capitalism\|Dating Apps meet Capitalism]]<br><span class='block'>8:39 PM - July 28, 2024</span>                                   | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                      | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Christopher Nolan\|Christopher Nolan]]<br><span class='block'>11:52 AM - August 10, 2024</span>                                         | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]<br><span class='block'>11:47 AM - August 10, 2024</span>                               | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-08-10-IJ - Tampons in the Mens Restroom\|Tampons in the Mens Restroom]]<br><span class='block'>11:30 AM - August 10, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-08-10-IJ - Short Term Memory\|Short Term Memory]]<br><span class='block'>11:25 AM - August 10, 2024</span>                       | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>10:43 PM - August 07, 2024</span>                                             | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                          | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>11:09 PM - August 08, 2024</span>             | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>10:44 PM - August 07, 2024</span>                 | <span class='center-block'>🌞</span> |
-> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]<br><span class='block'>10:42 PM - August 07, 2024</span> | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Science Fiction\|Science Fiction]]<br><span class='block'>5:57 PM - August 05, 2024</span>                  | <span class='center-block'>🌞</span> |
-> | [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]<br><span class='block'>8:38 PM - August 01, 2024</span>    | <span class='center-block'>🌱</span> |
+>  | Note                                                                                                                        | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>11:52 PM - August 11, 2024</span>               | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Christopher Nolan\|Christopher Nolan]]<br><span class='block'>11:53 AM - August 10, 2024</span>           | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Storytelling\|Storytelling]]<br><span class='block'>11:51 AM - August 10, 2024</span>                     | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]<br><span class='block'>11:49 AM - August 10, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>11:09 PM - August 08, 2024</span>           | <span class='center-block'>🌱</span> |
 > 
 { .block-language-dataview}
 

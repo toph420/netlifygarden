@@ -41,6 +41,8 @@
 > 8. Nonlinear Narrative Events portrayed out of chronological order
 > 9. [[+ Encounters/Kishotenketsu\|Kishotenketsu]] Four-act structure from East Asian narratives: Introduction, Development, Twist, Conclusion
 > 10. [[+ Encounters/Dan Harmons Story Circle\|Dan Harmons Story Circle]] is a simplified version of Joseph Campbell's Hero's Journey. It's designed to be applicable to a wide range of stories, from feature-length films to individual episodes of TV shows.
+> 11. [[Kurt Vonnegut\|Kurt Vonnegut]] - [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]
+> 12. See [[+ Encounters/Christopher Nolan\|Christopher Nolan]] for some good notes related to story structure
 > 
 > Remember, these structures are guidelines, not rigid rules. As you practice with these exercises, you'll develop an intuitive sense of story flow and pacing. You may even find yourself creating your own unique structural approaches. The key is to understand these structures well enough to use them as tools, bending and adapting them to serve your story's needs.
 
