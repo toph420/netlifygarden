@@ -60,38 +60,38 @@
 > [!NOTE]+ 📝 Notes (`#on/art or #on/recreation`)
 >  | Note                                                                                                                         |
 > | ---------------------------------------------------------------------------------------------------------------------------- |
-> | [[Cards/700 - Art and Recreation/Learn to Draw Infographic\|Learn to Draw Infographic]]                                   |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Pathfinder - WotR\|Video Game - Pathfinder - WotR]]             |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]                               |
-> | [[Cards/700 - Art and Recreation/Video Games/Stuff to do in Palia\|Stuff to do in Palia]]                                 |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rune factory 4\|Video Game - Rune factory 4]]                   |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - XCOM 2\|Video Game - XCOM 2]]                                   |
-> | [[Cards/700 - Art and Recreation/Video Games/The Long Dark\|The Long Dark]]                                               |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stellaris\|Video Game - Stellaris]]                             |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Sun Haven\|Video Game - Sun Haven]]                             |
-> | [[Cards/700 - Art and Recreation/Video Games/BG3 Builds\|BG3 Builds]]                                                     |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Manor Lords\|Video Game - Manor Lords]]                         |
-> | [[Cards/700 - Art and Recreation/Video Games/The Sims\|The Sims]]                                                         |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Against the Storm\|Video Game - Against the Storm]]             |
-> | [[Cards/700 - Art and Recreation/Video Games/Baldur's Gate 3\|Baldur's Gate 3]]                                           |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Palia\|Video Game - Palia]]                                     |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stardew Valley\|Video Game - Stardew Valley]]                   |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Divinity Original Sin 2\|Video Game - Divinity Original Sin 2]] |
-> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Minecraft\|Video Game - Minecraft]]                             |
 > | [[Cards/700 - Art and Recreation/Digital Drawing\|Digital Drawing]]                                                       |
-> | [[Cards/700 - Art and Recreation/Food/Food\|Food]]                                                                        |
-> | [[Cards/700 - Art and Recreation/Movies and TV/Watchlist\|Watchlist]]                                                     |
 > | [[Cards/700 - Art and Recreation/Procreate/Procreate\|Procreate]]                                                         |
-> | [[Cards/700 - Art and Recreation/Art and Design/Design Assets\|Design Assets]]                                            |
-> | [[Cards/700 - Art and Recreation/Art and Design/Drawing\|Drawing]]                                                        |
-> | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]                        |
-> | [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]]                                                  |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Sun Haven\|Video Game - Sun Haven]]                             |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - XCOM 2\|Video Game - XCOM 2]]                                   |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stardew Valley\|Video Game - Stardew Valley]]                   |
+> | [[Cards/700 - Art and Recreation/Video Games/The Long Dark\|The Long Dark]]                                               |
+> | [[Cards/700 - Art and Recreation/Video Games/The Sims\|The Sims]]                                                         |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Stellaris\|Video Game - Stellaris]]                             |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Minecraft\|Video Game - Minecraft]]                             |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rune factory 4\|Video Game - Rune factory 4]]                   |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Rimworld\|Video Game - Rimworld]]                               |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Pathfinder - WotR\|Video Game - Pathfinder - WotR]]             |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Palia\|Video Game - Palia]]                                     |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Manor Lords\|Video Game - Manor Lords]]                         |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Against the Storm\|Video Game - Against the Storm]]             |
+> | [[Cards/700 - Art and Recreation/Video Games/Video Game - Divinity Original Sin 2\|Video Game - Divinity Original Sin 2]] |
+> | [[Cards/700 - Art and Recreation/Video Games/Baldur's Gate 3\|Baldur's Gate 3]]                                           |
+> | [[Cards/700 - Art and Recreation/Video Games/Stuff to do in Palia\|Stuff to do in Palia]]                                 |
+> | [[Cards/700 - Art and Recreation/Video Games/BG3 Builds\|BG3 Builds]]                                                     |
+> | [[Cards/700 - Art and Recreation/Learn to Draw Infographic\|Learn to Draw Infographic]]                                   |
+> | [[Cards/700 - Art and Recreation/Podcasts/The Penumbra Podcast\|The Penumbra Podcast]]                                    |
+> | [[Cards/700 - Art and Recreation/Movies and TV/Watchlist\|Watchlist]]                                                     |
+> | [[Cards/700 - Art and Recreation/Internet Cretors/The Downfall of Channel 5 \|The Downfall of Channel 5 ]]                |
+> | [[Cards/700 - Art and Recreation/Internet Cretors/H3 Podcast\|H3 Podcast]]                                                |
+> | [[Cards/700 - Art and Recreation/Food/Food\|Food]]                                                                        |
 > | [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]                                                    |
 > | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                            |
+> | [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]]                                                  |
+> | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]                        |
+> | [[Cards/700 - Art and Recreation/Art and Design/Drawing\|Drawing]]                                                        |
 > | [[Cards/700 - Art and Recreation/Art and Design/The Origins of Art\|The Origins of Art]]                                  |
-> | [[Cards/700 - Art and Recreation/Internet Cretors/H3 Podcast\|H3 Podcast]]                                                |
-> | [[Cards/700 - Art and Recreation/Internet Cretors/The Downfall of Channel 5 \|The Downfall of Channel 5 ]]                |
-> | [[Cards/700 - Art and Recreation/Podcasts/The Penumbra Podcast\|The Penumbra Podcast]]                                    |
+> | [[Cards/700 - Art and Recreation/Art and Design/Design Assets\|Design Assets]]                                            |
 > 
 { .block-language-dataview}
 
@@ -109,10 +109,10 @@
 >  - [[🏠 Home\|🏠 Home]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
-> - [[Cards/700 - Art and Recreation/Food/Food\|Food]]
-> - [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]
-> - [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]
 > - [[Cards/700 - Art and Recreation/Funny/🤣 LOL\|🤣 LOL]]
+> - [[Cards/700 - Art and Recreation/Food/Food\|Food]]
+> - [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]
+> - [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]
 > 
 { .block-language-dataview}
 

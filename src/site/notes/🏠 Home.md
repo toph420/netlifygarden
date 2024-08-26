@@ -82,24 +82,24 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                                      | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Christopher Nolan\|Christopher Nolan]]<br><span class='block'>11:52 AM - August 10, 2024</span>                                         | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]<br><span class='block'>11:47 AM - August 10, 2024</span>                               | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-08-10-IJ - Tampons in the Mens Restroom\|Tampons in the Mens Restroom]]<br><span class='block'>11:30 AM - August 10, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[Calendar/Ideas/2024-08-10-IJ - Short Term Memory\|Short Term Memory]]<br><span class='block'>11:25 AM - August 10, 2024</span>                       | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>10:43 PM - August 07, 2024</span>                                             | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                                                  | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Calendar/Ideas/2024-08-23-IJ - Existential Nihilism Reddit Thread\|Existential Nihilism Reddit Thread]]<br><span class='block'>12:21 AM - August 23, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Video Editing Tutorials\|Video Editing Tutorials]]<br><span class='block'>10:31 PM - August 18, 2024</span>                                         | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Christopher Nolan\|Christopher Nolan]]<br><span class='block'>11:52 AM - August 10, 2024</span>                                                     | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]<br><span class='block'>11:47 AM - August 10, 2024</span>                                           | <span class='center-block'>🌞</span> |
+> | [[Calendar/Ideas/2024-08-10-IJ - Tampons in the Mens Restroom\|Tampons in the Mens Restroom]]<br><span class='block'>11:30 AM - August 10, 2024</span>             | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                        | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>11:52 PM - August 11, 2024</span>               | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Christopher Nolan\|Christopher Nolan]]<br><span class='block'>11:53 AM - August 10, 2024</span>           | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Storytelling\|Storytelling]]<br><span class='block'>11:51 AM - August 10, 2024</span>                     | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]<br><span class='block'>11:49 AM - August 10, 2024</span> | <span class='center-block'>🌞</span> |
-> | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]<br><span class='block'>11:09 PM - August 08, 2024</span>           | <span class='center-block'>🌱</span> |
+>  | Note                                                                                                                                    | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]<br><span class='block'>12:46 AM - August 26, 2024</span>  | <span class='center-block'>🌿</span> |
+> | [[+ Encounters/Storytelling\|Storytelling]]<br><span class='block'>12:17 AM - August 20, 2024</span>                                 | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Video Editing Tutorials\|Video Editing Tutorials]]<br><span class='block'>11:31 PM - August 18, 2024</span>           | <span class='center-block'>🌞</span> |
+> | [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|🎞 Video Editing]]<br><span class='block'>11:31 PM - August 18, 2024</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Container Homes\|Container Homes]]<br><span class='block'>12:17 PM - August 10, 2024</span>                           | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
@@ -107,21 +107,21 @@ Elsewhere:
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                                                                                                                  | Status                               |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/The Brothers Karamazov\|The Brothers Karamazov]]<br><span class='block'>12:45 AM - August 26, 2024</span>                                                                                                                         | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Something Wicked This Way Comes\|Something Wicked This Way Comes]]<br><span class='block'>12:37 AM - July 17, 2024</span>                                                                                                         | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]<br><span class='block'>1:32 PM - July 14, 2024</span>                                                                                                                  | <span class='center-block'>🟥</span> |
 > | [[Sources/Readwise/📰 Articles/WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind\|WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind]]<br><span class='block'>12:27 AM - July 14, 2024</span> | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Burning Chrome\|Burning Chrome]]<br><span class='block'>5:46 PM - July 13, 2024</span>                                                                                                                                            | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/A Fire Upon the Deep\|A Fire Upon the Deep]]<br><span class='block'>11:16 PM - July 11, 2024</span>                                                                                                                               | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                          | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/A Fire Upon the Deep\|A Fire Upon the Deep]]<br><span class='block'>3:45 PM - July 28, 2024</span>                        | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Something Wicked This Way Comes\|Something Wicked This Way Comes]]<br><span class='block'>12:39 AM - July 17, 2024</span> | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Deforum\|Deforum]]<br><span class='block'>1:42 PM - July 16, 2024</span>                                           | <span class='center-block'>🟧</span> |
-> | [[Sources/📚 Books/Burning Chrome\|Burning Chrome]]<br><span class='block'>10:55 PM - July 14, 2024</span>                                   | <span class='center-block'>🟥</span> |
-> | [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]<br><span class='block'>6:03 PM - July 14, 2024</span>          | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                         | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/The Brothers Karamazov\|The Brothers Karamazov]]<br><span class='block'>12:45 AM - August 26, 2024</span>                | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/A Fire Upon the Deep\|A Fire Upon the Deep]]<br><span class='block'>3:46 PM - July 28, 2024</span>                       | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Something Wicked This Way Comes\|Something Wicked This Way Comes]]<br><span class='block'>3:38 PM - July 20, 2024</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Deforum\|Deforum]]<br><span class='block'>3:38 PM - July 20, 2024</span>                                          | <span class='center-block'>🟧</span> |
+> | [[Sources/📚 Books/Burning Chrome\|Burning Chrome]]<br><span class='block'>1:18 PM - July 15, 2024</span>                                   | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

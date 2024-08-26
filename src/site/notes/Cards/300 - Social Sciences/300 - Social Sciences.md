@@ -61,15 +61,15 @@
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
-> - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
+> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
-> - [[Cards/300 - Social Sciences/Activism\|Activism]]
 > - [[Cards/300 - Social Sciences/Racism\|Racism]]
 > - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
-> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
 > - [[Cards/300 - Social Sciences/Economics\|Economics]]
+> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
+> - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
+> - [[Cards/300 - Social Sciences/Activism\|Activism]]
 > 
 { .block-language-dataview}
 

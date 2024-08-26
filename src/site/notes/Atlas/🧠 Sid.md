@@ -38,10 +38,10 @@
  
 - [[Sources/🎥 Videos/Aidan Helfant - Understand the Zettelkasten Method in Obsidian\|Aidan Helfant - Understand the Zettelkasten Method in Obsidian]]
 - [[Sources/Tools + Plugins/Obsidian Scrapers\|Obsidian Scrapers]]
-- [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
-- [[Cards/000 - Knowledge Management/What I want to do with Obsidian\|What I want to do with Obsidian]]
-- [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs TODO Tag\|TIMs TODO Tag]]
 - [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]
+- [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs TODO Tag\|TIMs TODO Tag]]
+- [[Cards/000 - Knowledge Management/What I want to do with Obsidian\|What I want to do with Obsidian]]
+- [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
 
 { .block-language-dataview}
 

@@ -21,7 +21,7 @@
 ## Story Structure
 
 - [Story Structure: 7 Types All Writers Should Know](https://blog.reedsy.com/guide/story-structure/)
-
+- [Nelsons Short Story Method](https://youtu.be/4PqGPZtyFtw?si=9TLgV1gFLTF3p2Zc) - need to check this out! 
 
 
 > [!Image]- Story Structure Diagram
@@ -51,7 +51,7 @@
 ## Tropes
 
 
-> [!ava]+ Bizarro/Surreal, Horror/Lovecratian, Sci-Fi Tropes 
+> [!ava]- Bizarro/Surreal, Horror/Lovecratian, Sci-Fi Tropes 
 > Bizarro and Surreal Tropes:
 > 
 > 1. Body transformation/mutation Description: Characters undergo bizarre physical changes. Example: A man's fingers turn into miniature versions of himself. Subtext: Identity crisis, body dysmorphia, societal pressure to conform.

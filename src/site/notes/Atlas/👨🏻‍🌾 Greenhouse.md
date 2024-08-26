@@ -14,6 +14,8 @@
 > Give these babies some love
 >  | Maps                                                                                                                                                                                                                               | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Calendar/Ideas/2024-08-23-IJ - Existential Nihilism Reddit Thread\|2024-08-23-IJ - Existential Nihilism Reddit Thread]]                                                                                                       | Interesting Reddit thread about philosophy, great discussion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+> | [[+ Encounters/Video Editing Tutorials\|Video Editing Tutorials]]                                                                                                                                                               | Links to tutorials about video editing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 > | [[+ Encounters/Christopher Nolan\|Christopher Nolan]]                                                                                                                                                                           | Notes about the legendary film director of epics such as Inception and Interstellar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 > | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]                                                                                                                                                                 | Kurt Vonneguts story shapes, graphs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 > | [[Calendar/Ideas/2024-08-10-IJ - Tampons in the Mens Restroom\|2024-08-10-IJ - Tampons in the Mens Restroom]]                                                                                                                   | A satire about the freaks that lose their minds about tampons in men's restrooms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -62,8 +64,6 @@
 > | [[+ Encounters/Storytelling\|Storytelling]]                                                                                                                                                                                     | Notes and guides about telling stories                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 > | [[+ Encounters/Vitamins and Supplements\|Vitamins and Supplements]]                                                                                                                                                             | Notes about vitamins and supplements for a healthy body and mind                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 > | [[+ Encounters/Jean-Luc Godard\|Jean-Luc Godard]]                                                                                                                                                                               | The French new wave cinema legend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-> | [[+ Encounters/Communism\|Communism]]                                                                                                                                                                                           | Yep                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-> | [[+ Encounters/Video Game - Factorio\|Video Game - Factorio]]                                                                                                                                                                   | Should I really jump into this rabbit hole                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 > 
 { .block-language-dataview}
 
@@ -90,16 +90,16 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                       |
 > | --------------------------------------------------------------------------------------------------------------------------- |
-> | [[Calendar/+ MOCs/🌜 Dream Journal\|🌜 Dream Journal]]                                                                   |
 > | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                               |
 > | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]                                          |
 > | [[Calendar/+ MOCs/📊 Habits\|📊 Habits]]                                                                                 |
 > | [[Calendar/+ MOCs/📓 Journal\|📓 Journal]]                                                                               |
 > | [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]                                          |
 > | [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]] |
-> | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]                                                                        |
 > | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]                    |
 > | [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]                                             |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Tools\|AI Tools]]                                                        |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]                                                |
 > 
 { .block-language-dataview}
 
@@ -108,11 +108,11 @@
 >  | Notes                                                                                              |
 > | -------------------------------------------------------------------------------------------------- |
 > | [[Atlas/🧊 Icebox\|🧊 Icebox]]                                                                  |
-> | [[Cards/000 - Knowledge Management/The Konik Method\|The Konik Method]]                         |
-> | [[Cards/000 - Knowledge Management/Workflows/My Zotero Workflow\|My Zotero Workflow]]           |
-> | [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]] |
 > | [[Cards/700 - Art and Recreation/Learn to Draw Infographic\|Learn to Draw Infographic]]         |
 > | [[Cards/300 - Social Sciences/The Wheel of Privilege\|The Wheel of Privilege]]                  |
+> | [[Cards/000 - Knowledge Management/The Konik Method\|The Konik Method]]                         |
+> | [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]] |
+> | [[Cards/000 - Knowledge Management/Workflows/My Zotero Workflow\|My Zotero Workflow]]           |
 > | [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/Byrne Electrical/Byrne Electrical\|Byrne Electrical]]  |
 > | [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/The Oddest/The Oddest\|The Oddest]]                    |
 > 
@@ -123,15 +123,15 @@
 
 > [!attention]- Untagged
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Spaces/🦆 Ducks Apparel/Areas/Ordering from Supacolor\|Ordering from Supacolor]]
+> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Marketing\|T-Shirt Marketing]]
+> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Business Plan\|T-Shirt Business Plan]]
 > - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Market Research\|T-Shirt Market Research]]
 > - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Action Plan\|T-Shirt Action Plan]]
 > - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Design Ideas\|T-Shirt Design Ideas]]
-> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Marketing\|T-Shirt Marketing]]
-> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Business Plan\|T-Shirt Business Plan]]
-> - [[Spaces/🦆 Ducks Films/Ducks Legal\|Ducks Legal]]
+> - [[Spaces/🦆 Ducks Apparel/Areas/Ordering from Supacolor\|Ordering from Supacolor]]
 > - [[Spaces/🦆 Ducks Films/🌈 Project Board\|🌈 Project Board]]
-> - [[Spaces/🦆 Ducks Films/Areas/Current Footage\|Current Footage]]
+> - [[Spaces/🦆 Ducks Films/Ducks Legal\|Ducks Legal]]
+> - [[Spaces/🦆 Ducks Films/Areas/👤 Ducks Accounts\|👤 Ducks Accounts]]
 > 
 { .block-language-dataview}
 
