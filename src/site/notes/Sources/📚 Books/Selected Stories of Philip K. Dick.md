@@ -105,4 +105,67 @@
 
 ### id741251091
 
+### id746383070
+
+> As the Tassos reached for him, a last ironic thought drifted through Hendricks’s mind. He felt a little better, thinking about it. The bomb. Made by the Second Variety to destroy the other varieties. Made for that end alone. They were already beginning to design weapons to use against each other.
+
+### id746383071
+
+> Imposter
+
+### id746383072
+
+> “Like the Sword of Damocles. Always hanging over us. I’m getting tired. All I want to do is take a long rest. But I guess everybody feels that way.”
+
+### id746383073
+
+> “It’ll be good when we get the Project into final stage. Maybe it’s just the propaganda from the news-machines, but in the last month I’ve gotten weary of all this. Everything seems so grim and serious, no color to life.”
+
+### id746383074
+
+> Perhaps at some other time, when there was no war, men might not act this way, hurrying an individual to his death because they were afraid. Everyone was frightened, everyone was willing to sacrifice the individual because of the group fear.
+
+### id746383075
+
+> He ran, throwing himself into the bushes. A security officer shoved Mary out of the way, firing past her. The bushes burst apart. Olham wriggled around the side of the house. He leaped up and ran, racing frantically into the darkness. A searchlight snapped on, a beam of light circling past him. He crossed the road and squeezed over a fence. He jumped down and made his way across a backyard. Behind him men were coming, security officers, shouting to each other as they came. Olham gasped for breath, his chest rising and falling.
+
+- [N] Love the simple prose he uses
+
+### id746383076
+
+> He did not complete the sentence, only the first phrase. The blast was visible all the way to Alpha Centauri.
+
+### id748415740
+
+> The King of the Elves
+
+### id748415741
+
+> “He trusted you,” the Elf said. “You brought him inside your house, out of the rain. He knew that you expected nothing for it, that there was nothing you wanted. He had known few who gave and asked nothing back.”
+
+### id748415742
+
+> Something was completely wrong. And he had never noticed it, not in all the years they had been friends. All around Phineas Judd was an odor, a faint, pungent stench of rot, of decaying flesh, damp and moldy.
+
+### id748415743
+
+> The Trolls swarmed forward, a growing wave of gnashing teeth and nails, pushing furiously toward the Elf columns. The Elves broke formation and joined battle, shouting with wild joy in their shrill, piping voices. The tide of Trolls rushed against them, Troll against Elf, shovel nails against golden sword, biting jaw against dagger. “Kill the Elves!” “Death to the Trolls!”
+
+### id748415744
+
+> Adjustment Team
+
+### id748415745
+
+> a jagged cavity yawned—an
+
+- [N] Second time today (Lovecraft in Juan Romeros) that someone used "yawn" to describe a huge opening
+
+### id748415746
+
+> The seller’s arm came loose. It fell to the lobby floor, disintegrating into fragments. Bits of gray fiber. Like dust. Ed’s senses reeled.
+
+### id748415747
+
+> The phone booth passed through the ceiling of the building and out into the bright sunlight. It gained speed. The ground fell away below. Buildings and streets were getting smaller each moment. Tiny specks hurried along, far below, cars and people, dwindling rapidly.
 > He picked up his rifle and stepped carefully up to the mouth of the bunker, making his way between blocks of concrete and steel prongs, twisted and bent. The air was cold at the top. He crossed over the ground toward the remains of the soldier, striding across the soft ash. A wind blew around him, swirling gray particles up in his face. He squinted and pushed on.

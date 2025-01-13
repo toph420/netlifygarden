@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> **up**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > **type**:: #📝 
 > **status**:: #📝/🌱 
 > **tags**::  #on/ai 
@@ -31,4 +31,4 @@
 
 
 ---
-up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]

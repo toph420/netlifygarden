@@ -8,17 +8,13 @@
 > **status**:: #📝/🌲 
 > **tags**:: #on/pkm, #on/obsidian 
 > **topics**::  [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
-> **links**:: [[Sources/Readwise/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]
+> **links**:: [[Sources/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]
 
 
-# The Konik Method
-
-> Tips from the legend herself, Eleanor Konik
-
-- Source:: [[Sources/Readwise/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]
+# The Konik Method for Making Useful Notes
 - [Eleanor's Readwise Settings · GitHub](https://gist.github.com/eleanorkonik/1f0586fe13d98f1dbf18ec72b00bf37d)
 
-![](https://www.obsidianroundup.org/content/images/2022/10/image-14.png)
+
 - Start with a **why**
 	- Pleasure reading
 	- I have a question, problem solving
@@ -72,7 +68,7 @@ SORT file.size ASC
 		- To quickly get the section, copy the id and start typing `![[##id12345`
 		- *This helps because you don't need to search down through all the `nomad` headings*
 	3. Move annotations to a new note and add connections. Creating these claims removes the obfuscation of the highlight, bringing it into the index of search. No more digging through sources to find the highlight/annotation.
-		- Using the [[Sources/Tools + Plugins/Plugin - Quickadd\|Plugin - Quickadd]] Zettelizer script you can quickly turn these highlights and annotations into new notes! ![Zettelizer](https://www.eleanorkonik.com/content/images/2022/10/zettelize.gif)
+		- Using the [[Sources/Tools + Plugins/Plugin - Quickadd\|Plugin - Quickadd]] Zettelizer script you can quickly turn these highlights and annotations into new notes! 
 		- After processing the pending source it's moved to the References folder and marked as synthesized.
 - Use the notes!
 

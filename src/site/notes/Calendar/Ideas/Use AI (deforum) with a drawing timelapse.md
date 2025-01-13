@@ -6,7 +6,7 @@
 > up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
 > type:: #💡
 > tags::  #on/ai 
-> topics:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 > links:: [[Sources/Tools + Plugins/Deforum\|Deforum]]
 
 # Use AI (deforum) with a drawing timelapse

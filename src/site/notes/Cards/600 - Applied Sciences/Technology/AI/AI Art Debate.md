@@ -3,11 +3,11 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > type:: #📝 
 > status:: #📝/🌿 
 > tags::  #on/ai #on/aiart 
-> topics:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 
 # AI Art Debate
 
@@ -19,7 +19,7 @@
 > 
 > “I don’t think it’s about damages and it’s not about stopping the distribution of this technology, I think there are ways of building generative models that respect intellectual property. I equate this to Napster and Spotify. Spotify negotiated with intellectual property rights holders — labels and artists — to create a service."
 > 
-> [[Sources/Readwise/📰 Articles/Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content\|Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content]]
+> [[Sources/📰 Articles/Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content\|Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content]]
 ## Tweets
 - [Art, AI, and Capitalism](https://twitter.com/Shadpaintings/status/1602699761110454272?s=20&t=mA72eWmnLl9ZqHajvWWhdg)
 - [AI Copyright](https://public-inspection.federalregister.gov/2023-05321.pdf)
@@ -40,13 +40,13 @@
 
 | File                                                                 |
 | -------------------------------------------------------------------- |
-| [[Sources/Tools + Plugins/Midjourney\|Midjourney]]                |
 | [[Cards/600 - Applied Sciences/Technology/AI/AI is BS\|AI is BS]] |
+| [[Sources/Tools + Plugins/Midjourney\|Midjourney]]                |
 
 { .block-language-dataview}
 
 
 
 ---
-up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 

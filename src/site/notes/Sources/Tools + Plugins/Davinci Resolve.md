@@ -12,6 +12,7 @@
 # Davinci Resolve
 - [[Cards/000 - Knowledge Management/Workflows/My Davinci Resolve Process\|My Davinci Resolve Process]]
 - [[Cards/600 - Applied Sciences/Filmmaking/Davinci Hotkeys\|Davinci Hotkeys]]
+- great list of Davinci channels and resources: ![IMG_1717.jpeg](/img/user/Extras/Attachments/IMG_1717.jpeg)
 
 ## Guides
 - [DaVinci Resolve 18 – Training | Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve/training#books)

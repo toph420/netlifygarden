@@ -56,7 +56,7 @@
 > [!note]- 📥 Sources (`#on/obsidian`)
 >  | Note                                                                                                                                                                                                                                                                                                                                           |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Readwise/📰 Articles/How I Plan and Write Fiction in Obsidian by Vanessa Glau\|How I Plan and Write Fiction in Obsidian by Vanessa Glau]]<span class='summary'>\-</span>                                                                                                                                                          |
+> | [[Sources/📰 Articles/How I Plan and Write Fiction in Obsidian by Vanessa Glau\|How I Plan and Write Fiction in Obsidian by Vanessa Glau]]<span class='summary'>\-</span>                                                                                                                                                                   |
 > | [[Sources/🎥 Videos/How to Learn Stuff You have no Business Learning in Obsidian by Nicole van der Hoeven\|How to Learn Stuff You have no Business Learning in Obsidian by Nicole van der Hoeven]]<span class='summary'>Nicole talks about how to be more productive by learning in public, making it stressful, and keeping it fun.</span> |
 > | [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]<span class='summary'>A plugin to display data from your notes, anywhere.</span>                                                                                                                                                                                            |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Callout Examples\|SLRvb Callout Examples]]<span class='summary'>Examples of the various callouts offered by SLRvb</span>                                                                                                                                                     |
@@ -103,8 +103,6 @@
 
 > [!attention]- Unrequited (`-#on/obsidian`)
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Sources/🎥 Videos/Aidan Helfant - Understand the Zettelkasten Method in Obsidian\|Aidan Helfant - Understand the Zettelkasten Method in Obsidian]]
-> - [[Sources/How to Use Templater JS Scripts\|How to Use Templater JS Scripts]]
 > - [[Sources/Tools + Plugins/Obsidian Scrapers\|Obsidian Scrapers]]
 > - [[Sources/Tools + Plugins/Plugin - Text Generator\|Plugin - Text Generator]]
 > - [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]]
@@ -115,19 +113,21 @@
 > - [[Sources/Tools + Plugins/Modular CSS Layout for Obsidian\|Modular CSS Layout for Obsidian]]
 > - [[Sources/Tools + Plugins/Hookmark\|Hookmark]]
 > - [[Sources/Tools + Plugins/Excalidraw\|Excalidraw]]
+> - [[Sources/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]
+> - [[Sources/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]
+> - [[Sources/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]
+> - [[Sources/🎥 Videos/Aidan Helfant - Understand the Zettelkasten Method in Obsidian\|Aidan Helfant - Understand the Zettelkasten Method in Obsidian]]
 > - [[Sources/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]
 > - [[Sources/Reddit Thread about Writing in Obsidian\|Reddit Thread about Writing in Obsidian]]
-> - [[Sources/Readwise/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]
-> - [[Sources/Readwise/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]
-> - [[Sources/Readwise/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]
 > - [[Sources/Nick Milos Hotkey Essentials\|Nick Milos Hotkey Essentials]]
+> - [[Sources/How to Use Templater JS Scripts\|How to Use Templater JS Scripts]]
+> - [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]]
+> - [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]]
+> - [[Cards/000 - Knowledge Management/Workflows/My Zotero Workflow\|My Zotero Workflow]]
+> - [[Cards/000 - Knowledge Management/What I want to do with Obsidian\|What I want to do with Obsidian]]
+> - [[Cards/000 - Knowledge Management/Tags\|Tags]]
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Thoughts\|SLRvb Thoughts]]
-> - [[Cards/000 - Knowledge Management/What I want to do with Obsidian\|What I want to do with Obsidian]]
-> - [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]]
-> - [[Cards/000 - Knowledge Management/Workflows/My Zotero Workflow\|My Zotero Workflow]]
-> - [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]]
-> - [[Cards/000 - Knowledge Management/Tags\|Tags]]
 > - [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
 > - [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]

@@ -3,11 +3,11 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 > type:: #📥/🛠 
 > status:: #📥/🟧 
 > tags::  #on/ai , #on/tools 
-> topics:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 > links:: [[Cards/600 - Applied Sciences/Technology/AI/Generative AI\|Generative AI]], [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]]
 
 # ComfyUI

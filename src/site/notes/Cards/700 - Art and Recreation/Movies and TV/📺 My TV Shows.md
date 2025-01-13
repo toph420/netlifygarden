@@ -27,6 +27,7 @@
 - Tell me Lies
 
 ## Want to Watch
+- Rectify
 - Griselda - Netflix - recc by [[Vuhlandes\|Vuhlandes]]
 - Banshee
 - [[Osmosis\|Osmosis]] - [Watch Osmosis | Netflix Official Site](https://www.netflix.com/watch/80189898?source=35) #genre/sci-fi
@@ -63,6 +64,7 @@
 
 ## Lists
 - [What is the most underrated tv series that barely anyone knows?](https://x.com/TheCinesthetic/status/1724131513120493867?s=20)
+- [underrated tv shows](https://x.com/thecinesthetic/status/1849881110286614775?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 ---
 up:: [[🏠 Home\|🏠 Home]]
 

@@ -19,7 +19,7 @@
 - [[+ Encounters/Liberalism\|Liberalism]]
 - [[+ Encounters/Communism\|Communism]]
 - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
-- [[Anarchism\|Anarchism]]
+- [[+ Encounters/Anarchism\|Anarchism]]
 ## Reading
 - Huge folder of resources — [Revolutionary Readings - Google Drive](https://drive.google.com/drive/mobile/folders/1tDJ_KiNWS_MPrbeZPZUj0yaof9RPYYtX?pli=1)
 - [Hakims Reading Reccs](https://youtube.com/playlist?list=PLX80nwePTowtKU2w6LsstSESwfkiS0Zta&si=7J10mzyYQ3K6y8dC)
@@ -31,20 +31,27 @@
 
 
 > [!NOTE]+ 📝 Notes (`#on/leftism`)
->  - [[+ Encounters/Liberalism\|Liberalism]]
-> - [[+ Encounters/Communism\|Communism]]
-> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
+>  - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
+> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
+> - [[+ Encounters/Noam Chomsky\|Noam Chomsky]]
+> - [[+ Encounters/Mikhail Bakunin\|Mikhail Bakunin]]
+> - [[+ Encounters/Liberalism\|Liberalism]]
+> - [[+ Encounters/Communism\|Communism]]
+> - [[+ Encounters/Anarchism\|Anarchism]]
 > 
 { .block-language-dataview}
 
 > [!note]+ Sources
->  - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
-> - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
-> - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+>  - [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]
+> - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+> - [[Sources/📰 Articles/Life Without Law\|Life Without Law]]
+> - [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]]
+> - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
 > - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
+> - [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]
+> - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin old\|Dialectical and Historical Materialism by Joseph Stalin old]]
 > 
 { .block-language-dataview}
 
@@ -54,9 +61,11 @@
 > - [[Cards/300 - Social Sciences/300 - Social Sciences\|300 - Social Sciences]]
 > - [[Cards/300 - Social Sciences/Activism\|Activism]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
-> - [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]
-> - [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
 > - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
+> - [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]]
+> - [[Sources/📰 Articles/Life Without Law\|Life Without Law]]
+> - [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]
+> - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
 > 
 { .block-language-dataview}
 
@@ -65,6 +74,8 @@
 > - [Second Thought - YouTube](https://www.youtube.com/@SecondThought)
 > - [Hakim - YouTube](https://www.youtube.com/@YaBoiHakim)
 > - [1Dime - YouTube](https://youtube.com/@1Dimee?si=E4iBGFgmPODb57EA)
+> - [JohntheDuncan](https://youtube.com/@johntheduncan?si=3YsKUcoHNqezg3Et)
+> - [Revolution and Ideology](https://youtube.com/@revolutionandideology?si=XmMF39qsZiavO_wd) - criminally underrated channel
 
 > [!ava]- Curriculum
 > *See Zotero for PDFs*

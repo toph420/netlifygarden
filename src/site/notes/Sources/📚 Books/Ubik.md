@@ -8,11 +8,11 @@
 >> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 >> **type**:: #📥/📚/completed
 >> **status**:: #📥/🟨 
->> **tags**:: #on/books/
+>> **tags**:: #on/books
 >> **topics**:: scifi
 >
 >> [!metadata]- Book Info
->> **Author**:: [[Philip K. Dick\|Philip K. Dick]]
+>> **Author**:: [[Cards/900 - History, Biography, Geography/Biography/Philip K Dick\|Philip K Dick]]
 >> **Title**:: U[](Philip%20K%20Dick.md)> **Reviewed Date**:: [[2023-09-01 \|2023-09-01 ]]
 >> **Finished Year**:: [[2023\|2023]]
 >> **Genre**:: [[+ Encounters/Science Fiction\|Science Fiction]]

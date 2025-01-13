@@ -50,6 +50,7 @@
 - [Vegan Coconut Curry | No Effort, Full Taste](https://hurrythefoodup.com/vegan-coconut-curry/)
 - [Creamy and Delicious! Vegan Coconut Chickpea Curry](https://hurrythefoodup.com/vegan-chickpea-curry-ready/)
 - [Potato Curry Recipe | Aloo Curry - Swasthi's Recipes](https://www.indianhealthyrecipes.com/potato-curry-aloo-sabzi/) - Easy and Bomb
+- [Butter chicken](https://youtu.be/a03U45jFxOI?si=Mchif07yOs19UZWN) - try this easy!
 ---
 
 up:: [[🏠 Home\|🏠 Home]]

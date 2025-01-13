@@ -17,8 +17,12 @@
 >> **URL**::
 >> **Reviewed Date**:: [[{{DATE:gggg-MM-DD }}\|{{DATE:gggg-MM-DD }}]]
 >> **Finished Year**:: [[{{DATE:gggg}}\|{{DATE:gggg}}]]
+>> **Rating**::
 
 # {{VALUE:title}}
+
+> [!summary]+
+> **summary**:: 
 
 ## Thoughts
 

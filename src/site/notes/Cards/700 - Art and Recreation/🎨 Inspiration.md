@@ -33,6 +33,9 @@
 ## From IG Reels
 - [Jason Murray | 🧰 Do you already know these ones?](https://www.instagram.com/reel/C-AfcGbRjUk/?igsh=MWl3NnV5eHc1dGwyZA==) 
 
+## Quotes
+- #on/quotes 
+- [Harmony Korine - Life has no plots, I like scenes and characters](https://www.instagram.com/reel/DB4K_yqumwz/?igsh=YmN4Mzh0ZmhpMnIw)
 
 
 ---

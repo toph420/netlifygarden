@@ -23,7 +23,7 @@
 - [Arxiv Docs]()
 
 ## Notes
-- This is great for feeding data to [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+- This is great for feeding data to [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 
 ## Links 
 - [b] #on/ai Embeddings of Arxiv papers [Arxiv Embeddings (thread)](https://twitter.com/willdepue/status/1661781360619696128?s=61&t=gyRX2W0x81b80X8f34EMoQ)

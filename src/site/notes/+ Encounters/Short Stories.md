@@ -16,6 +16,7 @@
 > Recommendations and stuff related to short stories
 
 ## Reading List
+- [Reddit List of Shorts](https://www.reddit.com/r/printSF/s/seDi3xG2WY) - big list of lesser known stories 
 - [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]
 	- ⭐️ The Rats in the Walls
 	- ⭐️ Pickmans Model
@@ -39,6 +40,9 @@
 		3.	⁠Girl With Curious Hair
 
 
+## Completed
+- [[Sources/📚 Books/I Have No Mouth and I Must Scream\|I Have No Mouth and I Must Scream]]
+	- This is a terrifying, torturous revenge story. A story about an AI that was invented by humans to fight world war 3 but became more powerful and exacted revenge on humans for making it not quite sentient. The computer takes 5 humans prisoner, as his play toys and tortures them, but keeps them alive until one of them kills the others, leaving him alone, immortal, but a hero for saving the others through death. This shit is vivid and nightmarish, sheesh!
 ---
 up:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 

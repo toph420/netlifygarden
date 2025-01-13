@@ -13,7 +13,7 @@
 
 # The Middle East
 
-> Info and links related to the Middle East 
+> Info and links related to the Middle East, and the conflict in the Middle East (Israel, Palestine, Lebanon, Iran)
 
 ## Israel & Palestine
 - [Destiny on Hamas attacks](https://x.com/theomniliberal/status/1711029835626381762?s=61&t=gyRX2W0x81b80X8f34EMoQ)
@@ -36,6 +36,7 @@
 - [Israeli atrocities revealed during ceasefire](https://x.com/muhammadshehad2/status/1728047954735301109?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [Israel Lies thread](https://x.com/muhammadshehad2/status/1782737187982721039?s=46)
 - [Bearing Witness to the Israel-Gaza War](https://x.com/leemordechai/status/1803052066652205400?s=61&t=gyRX2W0x81b80X8f34EMoQ) - document written by Israeli historian
+- [Ta-Nehisi Coates on Israel: ‘I Felt Lied To.’ - The Ezra Klein Show](https://pca.st/episode/8483b9b3-a0d6-4f7d-836f-c09e2b189088) 
 
 ![IMG_0635.jpeg](/img/user/Extras/Attachments/IMG_0635.jpeg)
 
@@ -49,6 +50,14 @@
 
 ![The Middle East - ispal.png](/img/user/Extras/Attachments/The%20Middle%20East%20-%20ispal.png)
 ![The Middle East - numbers.png](/img/user/Extras/Attachments/The%20Middle%20East%20-%20numbers.png)
+
+
+## Iran
+
+Iran posted this on twitter after launching a missile attack on Israel on [[2024-10-01\|2024-10-01]], "we can keep this up for a millennium or two"
+
+![The Middle East - iranmissiles.png](/img/user/Extras/Attachments/The%20Middle%20East%20-%20iranmissiles.png)
+
 
 
 ---

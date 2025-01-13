@@ -15,11 +15,18 @@
 > Keeping track of all the dope movie title screens 
 > See [Art of the Title](https://www.artofthetitle.com/) and [[Cards/600 - Applied Sciences/Filmmaking/Video Edits\|Video Edits]] for more!
 
+## Miscellaneous
+- Man on the Inside - Netflix - Ted Danson detective show, has great transition titles
+
 ## Tools
 - [Typeface Animator](https://www.typefaceanimator.com/)
+
+
 ## Collections
 - [Eagle Collection](eagle://smart-folder/KWDKGCU93KHO4)
 - [Video Titles - Pinterest Board](https://pin.it/7qOugY3)
+
+
 ## Movies
 
 > [!multi-column]

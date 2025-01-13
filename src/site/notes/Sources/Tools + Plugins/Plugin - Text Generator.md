@@ -8,7 +8,7 @@
 > **status**:: #📥/🟧 
 > **tags**::  #on/plugins, #on/ai 
 > **topics**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
-> **links**:: [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> **links**:: [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 
 # Plugin - Text Generator
 

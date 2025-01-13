@@ -91,8 +91,10 @@
 	- storage papers 
 	- the hidden people
 
-## Investigative
+## Investigative/Mystery
 - [Reddit - Investigative Suggestions](https://www.reddit.com/r/audiodrama/s/xig8z2W8Ag)
+- [Limelight - Aldrich Kemp and The Rose of Pamir - Introducing Aldrich Kemp and The Rose of Pamir - BBC Sounds](https://www.bbc.co.uk/sounds/play/p0k2slqp)
+- [Great Mystery Listfrom theend.fyi](https://www.theend.fyi/collection/murder-on-the-audio-express)
 
 ## Links
 - [Podcast Transcripts Google Sheet](https://docs.google.com/spreadsheets/d/1NzAL5bwqq7S0ZwwsIvSqFB3Cf4P8SVRnTxp0nF5ZcKQ/edit#gid=732523145)
@@ -105,5 +107,9 @@
 - ⭐️ [Great Taste - Big List](https://www.theend.fyi/recommended-audio-fiction)
 - ⭐️ [big list of lesser heard mystery/horror](https://www.reddit.com/r/audiodrama/s/9U0rGNk5bI)
 
+## Old Time Radio
+- https://www.oldradioworld.com/
+
 ---
 up:: [[Atlas/📥 Sources\|📥 Sources]]
+

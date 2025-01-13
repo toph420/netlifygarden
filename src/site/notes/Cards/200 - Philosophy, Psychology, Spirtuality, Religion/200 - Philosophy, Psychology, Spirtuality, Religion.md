@@ -45,10 +45,11 @@
 
 ## Notes
 > [!NOTE]- 📝 Encounters
->  | Note                                                     | Summary                                                   |
-> | -------------------------------------------------------- | --------------------------------------------------------- |
-> | [[+ Encounters/Depression\|Depression]]               | The dark cloud                                            |
-> | [[+ Encounters/Personality Tests\|Personality Tests]] | A note of links to tests and results of tests I've taken  |
+>  | Note                                                     | Summary                                                                                                                                                                |
+> | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/Depression\|Depression]]               | The dark cloud                                                                                                                                                         |
+> | [[+ Encounters/Kabbalah\|Kabbalah]]                   | Among the most prominent forms of Jewish mysticism is Kabbalah, which emerged in the 12th century and has since become a central component of Jewish mystical thought. |
+> | [[+ Encounters/Personality Tests\|Personality Tests]] | A note of links to tests and results of tests I've taken                                                                                                               |
 > 
 { .block-language-dataview}
 

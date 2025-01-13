@@ -6,7 +6,7 @@
 >
 >> [!metadata]- Meta
 >> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
->> **type**:: #📥/📚
+>> **type**:: #📥/📚/completed 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books
 >> **topics**:: 

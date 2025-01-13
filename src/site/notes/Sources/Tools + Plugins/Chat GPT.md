@@ -3,11 +3,11 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 > type:: #📥/🛠 
 > status:: #📥/🟧 
 > tags::  #on/ai , #on/tools 
-> topics:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 > links:: [[Writing Fiction with AI\|Writing Fiction with AI]]
 
 # Chat GPT
@@ -37,5 +37,5 @@
 
 
 ---
-up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 

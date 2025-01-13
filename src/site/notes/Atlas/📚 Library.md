@@ -65,7 +65,7 @@ The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowled
 - [[Cards/600 - Applied Sciences/600 - Applied Sciences\|600 - Applied Sciences]]
 - [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]] | [[Cards/600 - Applied Sciences/Filmmaking/Filmmaking\|Filmmaking]]
 
-See also: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] | [[Medical\|Medical]] | [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]] | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
+See also: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] | [[Medical\|Medical]] | [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]] | [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
 
 ## 700 - Art & Recreation
 

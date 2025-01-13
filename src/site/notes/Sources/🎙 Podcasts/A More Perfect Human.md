@@ -9,7 +9,7 @@
 >> **type**:: #📥/🎙 
 >> **status**:: #📥/🟩 
 >> **tags**:: #on/podcasts, #on/ai
->> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+>> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 >
 >> [!metadata]- Podcast Info
 >> **Author**:: [[Throughline\|Throughline]]

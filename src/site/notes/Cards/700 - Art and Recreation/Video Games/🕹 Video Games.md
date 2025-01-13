@@ -15,6 +15,7 @@
 
 > Tracking dope videos I play and want to play
 
+See [[+ Encounters/Retro Video Games\|Retro Video Games]]
 ## Playing
 - [[Cards/700 - Art and Recreation/Video Games/Baldur's Gate 3\|Baldur's Gate 3]]
 - [[Cards/700 - Art and Recreation/Video Games/Video Game - Pathfinder - WotR\|Video Game - Pathfinder - WotR]]

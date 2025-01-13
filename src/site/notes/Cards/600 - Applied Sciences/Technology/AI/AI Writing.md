@@ -3,11 +3,11 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > type:: #📝 
 > tags::  #on/ai #on/writing 
 > status:: #📝/🌱 
-> topics:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]] [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+> topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]] [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 > links:: [[AIVA\|AIVA]]
 
 # AI Writing
@@ -23,5 +23,5 @@
 
 
 ---
-up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 

@@ -9,7 +9,7 @@
 >> **type**:: #📥/🎙 
 >> **status**:: #📥/🟨 
 >> **tags**:: #on/podcasts, #🔥 
->> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]], [[Virtual Reality\|Virtual Reality]], [[Augmented Reality\|Augmented Reality]]
+>> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]], [[Virtual Reality\|Virtual Reality]], [[Augmented Reality\|Augmented Reality]]
 >
 >> [!metadata]- Podcast Info
 >> **Author**:: The AI in Business Podcast

@@ -9,7 +9,7 @@
 >> **type**:: #📥/🛠
 >> **status**:: #📥/🟧 
 >> **tags**:: #on/ai, #on/writing, #on/tools
->> **links**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[Writing Fiction with AI\|Writing Fiction with AI]], [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+>> **links**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[Writing Fiction with AI\|Writing Fiction with AI]], [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 >
 >> [!metadata]- Info
 >> **Author**: 

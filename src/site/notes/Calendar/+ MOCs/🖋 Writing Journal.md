@@ -14,7 +14,8 @@
 
 > All my writing journal entries
 
-See [My Medium Posts](https://medium.com/@tophergroenink)
+- [My Medium Posts](https://medium.com/@tophergroenink)
+- [[Calendar/Ideas/2024-06-15-IJ - Characters\|Character Ideas]]
 
 ## Latest Writing Entries
 
@@ -28,7 +29,23 @@ See [My Medium Posts](https://medium.com/@tophergroenink)
 
 { .block-language-dataview}
 
+## Themes that interest me
 
+- Control vs Chaos
+- Fate, Determinism vs free will
+- imperialism, colonialism, power
+- Finding meaning
+- Consciousness, a crutch? [[Sources/📚 Books/Blindsight\|Blindsight]]
+- Cults
+- Illuminati
+- Witch trials 
+- BDSM
+- Addiction
+- Drugs
+- Capitalism, Greed, envy, money
+- heaven, HELL
+- theology
+- Stuck as a cog in the machine, privilege of pursuing passion, even if living in squalor 
 
 ---
 up:: [[Calendar/+ MOCs/🪵 Log\|🪵 Log]]

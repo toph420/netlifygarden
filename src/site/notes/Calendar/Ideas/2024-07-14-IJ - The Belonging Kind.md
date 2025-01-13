@@ -16,7 +16,7 @@
 
 see [[Sources/📚 Books/Burning Chrome#⭐️ The Belonging Kind\|Burning Chrome#⭐️ The Belonging Kind]]
 
-see [[Sources/Readwise/📰 Articles/WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind\|WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind]] - interesting analysis 
+see [[Sources/📰 Articles/WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind\|WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind]] - interesting analysis 
 
 Clearly this is a very visually stunning piece but could we adapt it for a shoestring budget and make this a 5minute short?
 

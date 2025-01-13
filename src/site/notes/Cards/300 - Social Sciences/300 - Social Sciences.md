@@ -29,12 +29,14 @@
 > | [[Cards/300 - Social Sciences/Child Labor\|Child Labor]]                                         | My research into the rampant child labor in the US and across the world                                                                                                            |
 > | [[+ Encounters/Communism\|Communism]]                                                            | Yep                                                                                                                                                                                |
 > | [[Cards/300 - Social Sciences/Conservatism\|Conservatism]]                                       | Research and outline of conservative politics and economics                                                                                                                        |
+> | [[+ Encounters/Conspiracy Theories\|Conspiracy Theories]]                                        | Curating the worlds best and brightest thinkers                                                                                                                                    |
 > | [[Cards/300 - Social Sciences/Economics\|Economics]]                                             | Top level map of everything related to economics.                                                                                                                                  |
 > | [[Cards/300 - Social Sciences/Effective Altruism\|Effective Altruism]]                           | \-                                                                                                                                                                                 |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]] | Gender dysphoria is a condition where someone feels distress because their gender does not match the gender they were assigned at birth                                            |
 > | [[Cards/300 - Social Sciences/Gun Violence in America\|Gun Violence in America]]                 | Research about gun violence in the USA                                                                                                                                             |
 > | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]             | The time is now!                                                                                                                                                                   |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                 | My research into Leftist politics and economics                                                                                                                                    |
+> | [[Cards/300 - Social Sciences/Marxist-Leninist\|Marxist-Leninist]]                               | Notes about ML                                                                                                                                                                     |
 > | [[Cards/300 - Social Sciences/Politics\|Politics]]                                               | Map of all things politics                                                                                                                                                         |
 > | [[Cards/300 - Social Sciences/Racism\|Racism]]                                                   | Notes related to or discussing racism                                                                                                                                              |
 > | [[Cards/300 - Social Sciences/Republicans\|Republicans]]                                         | Tracking the clown show of republicans                                                                                                                                             |
@@ -42,9 +44,10 @@
 > | [[Cards/300 - Social Sciences/Socialism\|Socialism]]                                             | A political and economic theory advocating for the collective ownership and control of the means of production, distribution, and exchange of goods and services within a society. |
 > | [[+ Encounters/Star Trek\|Star Trek]]                                                            | Stuff about Star Trek, duh                                                                                                                                                         |
 > | [[Cards/300 - Social Sciences/Tankies\|Tankies]]                                                 | Nites and info related to 'tankies' (often used to describe Marxist-Leninists)                                                                                                     |
-> | [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]                   | Info and links related to the Middle East                                                                                                                                          |
+> | [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]                   | Info and links related to the Middle East, and the conflict in the Middle East (Israel, Palestine, Lebanon, Iran)                                                                  |
 > | [[Cards/300 - Social Sciences/The War on Transgender People\|The War on Transgender People]]     |                                                                                                                                                                                    |
 > | [[Cards/300 - Social Sciences/The Wheel of Privilege\|The Wheel of Privilege]]                   | The wheel of privilege, power vs marginalized communities                                                                                                                          |
+> | [[+ Encounters/Tragic Optimism\|Tragic Optimism]]                                                | Surviving capitalistic nihilism through tragic optimism                                                                                                                            |
 > | [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]                                   | Research and notes related to transgenderism                                                                                                                                       |
 > | [[Cards/300 - Social Sciences/White Supremacy\|White Supremacy]]                                 | White supremacy is unfortunates alive and well in America                                                                                                                          |
 > 
@@ -58,18 +61,18 @@
 
 > [!attention]- Unrequited Notes
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Atlas/📚 Library\|📚 Library]]
-> - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
-> - [[Cards/300 - Social Sciences/Racism\|Racism]]
 > - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
+> - [[Cards/300 - Social Sciences/Activism\|Activism]]
+> - [[Cards/300 - Social Sciences/Racism\|Racism]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
-> - [[Cards/300 - Social Sciences/Economics\|Economics]]
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
-> - [[Cards/300 - Social Sciences/Activism\|Activism]]
+> - [[Cards/300 - Social Sciences/Economics\|Economics]]
+> - [[Atlas/📚 Library\|📚 Library]]
+> - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
 > 
 { .block-language-dataview}
 

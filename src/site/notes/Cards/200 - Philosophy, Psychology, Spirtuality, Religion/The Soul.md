@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/humanity #on/science #on/psychology 
-> **topics**:: [[Science\|Science]], [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> **topics**:: [[Science\|Science]], [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > **links**:: [[Cards/Zettels/Computers are machines that do math and humans are not\|Computers are machines that do math and humans are not]]
 
 

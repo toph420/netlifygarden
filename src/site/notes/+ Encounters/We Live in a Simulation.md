@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**:: #on/technology #on/ai
-> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > **links**::
 
 

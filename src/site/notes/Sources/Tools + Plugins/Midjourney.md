@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 > type:: #📥/🛠 
 > status:: #📥/🟩
 > tags::  #on/ai , #on/tools 
@@ -99,12 +99,12 @@
 
 
 > [!Links] Unrequited
->  - [[Calendar/Prompt Journal/2022-12-23-PJ - Ancient Scroll Diagram\|2022-12-23-PJ - Ancient Scroll Diagram]]
-> - [[Calendar/Prompt Journal/2022-12-23-PJ - Dream Journal Ideas\|2022-12-23-PJ - Dream Journal Ideas]]
-> - [[Calendar/Journal/Daily/2022-12-23\|2022-12-23]]
+>  - [[Calendar/Journal/Daily/2022-12-23\|2022-12-23]]
 > - [[Calendar/Journal/Daily/2022-12-29\|2022-12-29]]
 > - [[Calendar/Journal/Daily/2023-04-02\|2023-04-02]]
 > - [[Calendar/Journal/Daily/2023-04-01\|2023-04-01]]
+> - [[Calendar/Prompt Journal/2022-12-23-PJ - Ancient Scroll Diagram\|2022-12-23-PJ - Ancient Scroll Diagram]]
+> - [[Calendar/Prompt Journal/2022-12-23-PJ - Dream Journal Ideas\|2022-12-23-PJ - Dream Journal Ideas]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/AI Resources\|AI Resources]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/AI Tools\|AI Tools]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/Using Chat GPT to Generate Prompts for AI\|Using Chat GPT to Generate Prompts for AI]]
@@ -113,4 +113,4 @@
 
 
 ---
-up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]

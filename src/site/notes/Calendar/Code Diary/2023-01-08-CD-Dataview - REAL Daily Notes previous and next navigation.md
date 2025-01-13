@@ -59,22 +59,10 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
     at asyncEvalInContext (plugin:dataview:18896:32)
     at DataviewJSRenderer.render (plugin:dataview:18922:19)
     at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1166749)
+    at e.load (app://obsidian.md/app.js:1:1248334)
     at DataviewApi.executeJs (plugin:dataview:19465:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)
-    at new Promise (&lt;anonymous&gt;)
-    at __async (plugin:digitalgarden:74:10)
-    at eval (plugin:digitalgarden:10699:41)
-    at GardenPageCompiler.eval (plugin:digitalgarden:17175:50)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)
-    at new Promise (&lt;anonymous&gt;)
-    at __async (plugin:digitalgarden:74:10)
-    at eval (plugin:digitalgarden:17173:50)
-    at GardenPageCompiler.eval (plugin:digitalgarden:17126:36)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:77:24)</pre>
+    at eval (plugin:digitalgarden:90:61)</pre>
 ---
 up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]

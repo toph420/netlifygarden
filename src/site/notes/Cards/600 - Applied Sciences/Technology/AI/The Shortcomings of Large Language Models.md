@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/ai #on/linguistics
-> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]], [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]
+> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]], [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]
 
 
 # The Shortcomings of Large Language Models
@@ -15,7 +15,7 @@
 > Many people believe that large language models are simply not that powerful. Sure they're impressive, but they lack the ability to understand meaning of words and make decisions like humans do.
 
  
-> [!quote] [[Sources/Readwise/📰 Articles/Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn\|Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn]] 
+> [!quote] [[Sources/📰 Articles/Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn\|Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn]] 
 > 
  > You say something like "draw a picture of a man chasing a woman" or "draw a picture of a woman chasing a man", and the system is basically a chance. It really can't tell the difference, and it's not clear that just adding in more of the same - what people call scaling today - is actually going to help. I think that there's something fundamental missing from these systems, which is an understanding of the world, how objects work, what objects are.
  > 

@@ -7,14 +7,14 @@
 > **type**:: #📝/zettel 
 > **status**:: #📝/🌿 
 > **tags**::  #on/ai #on/technology 
-> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|Artificial Intelligence]]
+> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 
 
 # Computers are machines that do math and humans are not
 
 > Are computers really that impressive compared to us?
 
-It's easy for us to get grandiose about [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]. Of course it's impressive, but ultimately computers are machines that do math. Humans are not. For example, without *instinct* are we making more mistakes, perhaps fewer?
+It's easy for us to get grandiose about [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]. Of course it's impressive, but ultimately computers are machines that do math. Humans are not. For example, without *instinct* are we making more mistakes, perhaps fewer?
 
 > There's a deep desire for the human condition not to be a deterministic output of our chemical or genetic or cultural forces, but for there to be something that allows for [[free will\|free will]] and surprise and [[creativity\|creativity]] that belongs to us.
 >

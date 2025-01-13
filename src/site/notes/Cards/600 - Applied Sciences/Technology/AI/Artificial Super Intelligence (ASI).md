@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> **up**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/ai 
@@ -19,7 +19,7 @@
 > ![ASI](https://pimages.toolbox.com/wp-content/uploads/2022/02/17131424/43-1.png)
 
 
-> [!quote] [[Sources/Readwise/📰 Articles/What Is Super Artificial Intelligence\|What Is Super Artificial Intelligence]]
+> [!quote] [[Sources/📰 Articles/What Is Super Artificial Intelligence\|What Is Super Artificial Intelligence]]
 > - ASI will be one of the finest and possibly the last inventions that humans would ever need to make as it will constantly evolve to become more intelligent.
 > - Superintelligence will accelerate technological progress across various fields such as [AI programming](https://www.spiceworks.com/tech/artificial-intelligence/articles/ai-programming-languages/), space research, discovery and development of medicines, academics, and plenty others.
 > - ASI may further mature and develop advanced forms of superintelligence that may even enable artificial minds to be copied.
@@ -42,5 +42,5 @@
 > [!abstract] Eliezer Yudkowsky is a Nutjob: [MIRI announces new "Death With Dignity" strategy](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy)
 
 ---
-up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 

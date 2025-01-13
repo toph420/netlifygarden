@@ -25,13 +25,13 @@ But first, a warm up...
 "Nothin to worry about, sugar."
 "What can I do for you mister?"
 "Well sweetheart, I'm looking to get the old lady a little something to cheer her up. Y'see she's a stylist. Works from home, got a cute little salon in the basement. Her folks are in town and she asked if I could take 'em outta the house while she handled a few clients. It slipped my mind after a few drinks and I hit the back nine with Ed instead. Turns out her daddy wandered into the salon with nothin on. Now she's yapping like her business is going down the shitter. Say, you're a pretty little thing aren't ya."
-"Oh my. Follow me sir. I've got just the thing. Trust me, she'll forget it ever happened."
+"Oh my. Follow me sir. I've got just the thing. Trust me, you'll forget it ever happened."
 "I'll be damned, show me what you're hidin."
-"How bad do you want to make it up to your wife? What price are willing to pay?"
+"How bad do you want to make it up to your wife? What price are you willing to pay?"
 "Sugar I'm not made of money, what's this all about?"
 "I want you to take a look at a video tape."
 "We ain't even got a VCR, what am I gonna do with a damn video tape."
-"Sir please, trust me. Would a pretty lady like myself do you wrong?"
+"Sir please, trust me. Would a pretty lady like me steer ya wrong?"
 "I suppose not. Alright. Show me the tape."
 "Take a seat right here, let me grab you a drink, what'll it be?"
 "Shit, now that's a real lady. Hell gimme a Whiskey"
@@ -43,7 +43,7 @@ Interesting exercise, probably made that more difficult on myself than I needed,
 
 ## The Chiropractor
 
-[[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]
+[[Sources/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]
 
 Andy worked a desk job at a print shop. It's not what he wanted to do with his life, but it paid well and he worked alone. He preferred it that way, but his back was killing him.
 

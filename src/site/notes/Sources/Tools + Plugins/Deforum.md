@@ -7,7 +7,7 @@
 > **type**:: #📥/🛠 
 > **status**:: #📥/🟧 
 > **tags**::  #on/ai , #on/tools
-> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]]
+> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > **links**:: [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]], [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]], [[Cards/600 - Applied Sciences/Technology/AI/AI Resources\|AI Resources]]
 
 

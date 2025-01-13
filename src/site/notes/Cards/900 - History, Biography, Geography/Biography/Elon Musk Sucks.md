@@ -4,10 +4,10 @@
 
 
 > [!metadata]- Meta
-> up:: [[🏠 Home\|🏠 Home]]
+> up:: [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 > type:: #📝 
-> tags::  
-> status:: #📝/🌞
+> tags::  #on/biography #on/elon #on/capitalism #on/greed 
+> status:: #📝/🌿 
 > topics:: [[Cards/300 - Social Sciences/Capitalism\|Capitalism]], [[Greed\|Greed]], [[Money\|Money]]
 > links:: 
 
@@ -21,6 +21,7 @@
 	- [Folder - Google Drive](https://drive.google.com/drive/folders/1zPeWaaCZHqfq0tnkPwc61A6bGHySdj91?usp=sharing)
 - LOL at this Hasan reaction to a goofy Elon documentary
 	- [Hasanabi Reacts to the Cult of Elon](https://youtu.be/_2_vrzGDx14)
+- Elon and Russia - [Elon and Russia twitter thread](https://x.com/theethomasb/status/1831678213845614729?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [The Worlds Smartest Man Doesn't want you to read this](https://twitter.com/juliusgoat/status/1644689506115657730?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
 - [Vaush - Is Elon a Worthless, Low IQ Moron? Debating a Musk Defender](https://youtu.be/a_u4980YqjA)
 - [THE WORLD'S SMARTEST MAN DOESN'T WANT YOU TO READ THIS ON TWITTER](https://twitter.com/juliusgoat/status/1644689506115657730?s=61&t=gyRX2W0x81b80X8f34EMoQ)
@@ -33,13 +34,19 @@
 - [Evan - Men would rather __ than go to therapy](https://x.com/esjesjesj/status/1763064972282568850?s=46)
 - Deposition about patriot front being feds https://www.scribd.com/document/721193667/Elon-Musk-Deposed-In-Lawsuit-For-Falsely-Linking-Jewish-Man-To-Neo-Nazi-Brawl
 - ⭐️[Elon Musk has unusual relationships with women at SpaceX, WSJ reports - The Verge](https://t.co/wFT4I5tEe6)
+- [Elon steals baby name from Grimes for baby from another lady](https://x.com/esjesjesj/status/1834731830920016083?s=61&t=gyRX2W0x81b80X8f34EMoQ)
+- [Elon supercut from Trump rally lol](https://x.com/theserfstv/status/1842827355175243986?s=46)
+- [Elon puts kaibosh on trains for his own industry profit](https://x.com/midwesternmarx/status/1867017051535184043?s=46)
 
 ![Elon Musk Sucks - Elon owned.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elon%20owned.png)
 
 ![Elon Musk Sucks - Elonneuralink.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elonneuralink.png)
 
+![Elon Musk Sucks - elonstwitter.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20elonstwitter.png)
 
+![Elon Musk Sucks - cheerleader.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20cheerleader.png)
 
+![Elon Musk Sucks - concerning.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20concerning.png)
 
 
 ---

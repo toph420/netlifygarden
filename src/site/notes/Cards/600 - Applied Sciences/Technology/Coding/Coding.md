@@ -37,6 +37,7 @@
 ## 🧩 Languages
 | File                                                                    |
 | ----------------------------------------------------------------------- |
+| [[+ Encounters/Words\|Words]]                                        |
 | [[Sources/Tools + Plugins/TypeScript\|TypeScript]]                   |
 | [[Sources/Tools + Plugins/SQL\|SQL]]                                 |
 | [[Sources/Tools + Plugins/JavaScript\|JavaScript]]                   |

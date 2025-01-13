@@ -22,8 +22,8 @@
 - [[Cards/Zettels/Nanotechnology cleans up oil spills\|Nanotechnology cleans up oil spills]]
 - [[Cards/Zettels/Nanotechnology in the fight against cancer\|Nanotechnology in the fight against cancer]]
 - [[Cards/Zettels/Nanotechnology in the fight against climate change\|Nanotechnology in the fight against climate change]]
-- [[Sources/Readwise/📰 Articles/The Artificial Intelligence Revolution Part 2\|The Artificial Intelligence Revolution Part 2]]
-- [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]
+- [[Sources/📰 Articles/The Artificial Intelligence Revolution Part 2\|The Artificial Intelligence Revolution Part 2]]
+- [[Sources/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]
 
 { .block-language-dataview}
 ---

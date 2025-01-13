@@ -17,6 +17,7 @@
 - Character name: Jab Squeemish
 - Bill Sapphire- character name
 - Character - Tony Scavengers
+- Bajablastmyfaceoff - Hasan chatter
 
 
 ![2024-06-15-IJ - Characters - 90da.png](/img/user/Extras/Attachments/2024-06-15-IJ%20-%20Characters%20-%2090da.png)

@@ -36,7 +36,7 @@ Everyone has a slightly different definition of what an Evergreen Note is to the
 > In this way, Thing-based notes are sturdy dots that we can then connect to Opinion-based notes through the natural process of note-making.
 > There seem to be "things" and "opinion about things", and it's nice to have both. The "things" act as pillars of—or waypoints to—acquired knowledge. Guiding markers and reminders. The things are the latticework upon which our "opinions about things" can hang. I suspect a healthy PKM system needs a balance of both.
 > 
-> [[Sources/Readwise/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]
+> [[Sources/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

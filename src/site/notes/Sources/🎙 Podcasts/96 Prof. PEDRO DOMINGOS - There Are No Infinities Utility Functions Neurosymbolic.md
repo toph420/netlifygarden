@@ -9,7 +9,7 @@
 >> **type**:: #📥/🎙 
 >> **status**:: #📥/🟨 
 >> **tags**:: #on/podcasts
->> **topics**::  [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|🤖 Artificial Intelligence]], [[Cards/600 - Applied Sciences/Technology/AI/Large Language Models\|LLM]]
+>> **topics**::  [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]], [[Cards/600 - Applied Sciences/Technology/AI/Large Language Models\|LLM]]
 >
 >> [!metadata]- Podcast Info
 >> **Author**:: Machine Learning Street Talk (MLST)

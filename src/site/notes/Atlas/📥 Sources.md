@@ -12,37 +12,47 @@
 > [!NOTE|no-t clean]
 > ## 🟥 Not Processed
 > 
->  | Source                                                                                                                                                                                           |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-> | [[Sources/Readwise/📰 Articles/Surprised by La Jetée\|Surprised by La Jetée]]                                                                                                                 |
-> | [[Sources/Readwise/📰 Articles/WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind\|WFRs 101 Weird Writers - William Gibson and John Shirley - The Belonging Kind]] |
-> | [[Sources/Readwise/📰 Articles/Why Socialism?\|Why Socialism?]]                                                                                                                               |
-> | [[Sources/Readwise/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]                                                                                                               |
-> | [[Sources/Readwise/📰 Articles/The Artificial Intelligence Revolution Part 2\|The Artificial Intelligence Revolution Part 2]]                                                                 |
+>  | Source                                                                                                                                        |
+> | --------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]     |
+> | [[Sources/📚 Books/J R\|J R]]                                                                                                              |
+> | [[Sources/📚 Books/The Conquest of Bread\|The Conquest of Bread]]                                                                          |
+> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                                 |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin old\|Dialectical and Historical Materialism by Joseph Stalin]] |
 > 
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
 > ## 🟧 Processing
->  | File                                                                                                                                           |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Readwise/📰 Articles/The Principles of Communism\|The Principles of Communism]]                                                   |
-> | [[Sources/Readwise/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]                                                   |
-> | [[Sources/Readwise/📰 Articles/Strategic Implications of Openness in AI Development\|Strategic Implications of Openness in AI Development]] |
+>  | File                                                                                |
+> | ----------------------------------------------------------------------------------- |
+> | [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]] |
+> | [[Sources/Tools + Plugins/ComfyUI\|ComfyUI]]                                     |
+> | [[Sources/Tools + Plugins/Gen-1\|Gen-1]]                                         |
+> | [[Sources/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]] |
+> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]                                       |
 > 
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
 > ## 🟨 Synthesizing 
->  | File |
-> | ---- |
+>  | File                                                                                                                                                                                              |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📚 Books/Ubik\|Ubik]]                                                                                                                                                                |
+> | [[Sources/Tools + Plugins/Zotero\|Zotero]]                                                                                                                                                     |
+> | [[Sources/🎙 Podcasts/AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg\|AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg]]                                         |
+> | [[Sources/🎙 Podcasts/Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay\|Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay]] |
+> | [[Sources/🎙 Podcasts/99 - CARLA CREMER IGOR KRAWCZUK - X-Risk Governance Effective Altruism\|99 - CARLA CREMER IGOR KRAWCZUK - X-Risk Governance Effective Altruism]]                         |
 > 
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
 > ## 📄 Papers (Zotero)
->  | File |
-> | ---- |
+>  | File                                                                                                                                              |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]         |
+> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                                     |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin old\|Dialectical and Historical Materialism by Joseph Stalin old]] |
 > 
 { .block-language-dataview}
 
@@ -70,35 +80,36 @@
 
 > [!NOTE|no-t clean]
 > ## 🛠 Tools + Plugins
->  | File                                                                      |
-> | ------------------------------------------------------------------------- |
-> | [[Sources/Tools + Plugins/SudoWrite\|SudoWrite]]                       |
-> | [[Sources/Tools + Plugins/SOL Decoder\|SOL Decoder]]                   |
-> | [[Sources/Tools + Plugins/Runway ML\|Runway ML]]                       |
-> | [[Sources/Tools + Plugins/Descript\|Descript]]                         |
-> | [[Sources/Tools + Plugins/LangChain\|LangChain]]                       |
-> | [[Sources/Tools + Plugins/Arxiv\|Arxiv]]                               |
-> | [[Sources/Tools + Plugins/Automatic 1111\|Automatic 1111]]             |
-> | [[Sources/Tools + Plugins/Shortcuts App\|Shortcuts App]]               |
-> | [[Sources/Tools + Plugins/Discord\|Discord]]                           |
-> | [[Sources/Tools + Plugins/Plugin - Breadcrumbs\|Plugin - Breadcrumbs]] |
+>  | File                                                          |
+> | ------------------------------------------------------------- |
+> | [[Sources/Tools + Plugins/TL Draw\|TL Draw]]               |
+> | [[Sources/Tools + Plugins/SudoWrite\|SudoWrite]]           |
+> | [[Sources/Tools + Plugins/SOL Decoder\|SOL Decoder]]       |
+> | [[Sources/Tools + Plugins/Runway ML\|Runway ML]]           |
+> | [[Sources/Tools + Plugins/Descript\|Descript]]             |
+> | [[Sources/Tools + Plugins/LangChain\|LangChain]]           |
+> | [[Sources/Tools + Plugins/Arxiv\|Arxiv]]                   |
+> | [[Sources/Tools + Plugins/Automatic 1111\|Automatic 1111]] |
+> | [[Sources/Tools + Plugins/Shortcuts App\|Shortcuts App]]   |
+> | [[Sources/Tools + Plugins/Discord\|Discord]]               |
 > 
 { .block-language-dataview}
 
 
 > [!NOTE|no-t clean]
 > ## 🟩 Synthesized 
->  | File                                                                                                                                                                                                                         |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Readwise/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]                   |
-> | [[Sources/Readwise/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]                                                                                                                               |
-> | [[Sources/Readwise/📰 Articles/Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content\|Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content]] |
-> | [[Sources/Readwise/📰 Articles/Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn\|Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn]]                                                   |
-> | [[Sources/Readwise/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]                                                                             |
-> | [[Sources/Readwise/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]                                                   |
-> | [[Sources/Readwise/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]                                                                                                       |
-> | [[Sources/Readwise/📰 Articles/What Is Super Artificial Intelligence\|What Is Super Artificial Intelligence]]                                                                                                             |
-> | [[Sources/Readwise/📰 Articles/In 2021 I published 4 books by Nicolas Cole\|In 2021 I published 4 books by Nicolas Cole]]                                                                                                 |
+>  | File                                                                                                                                                                                                                |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📰 Articles/Column Chiropractic treatment a 15-billion industry has its roots in a ghost story\|Column Chiropractic treatment a 15-billion industry has its roots in a ghost story]]                   |
+> | [[Sources/🎥 Videos/How to Learn Stuff You have no Business Learning in Obsidian by Nicole van der Hoeven\|How to Learn Stuff You have no Business Learning in Obsidian by Nicole van der Hoeven]]               |
+> | [[Sources/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]                                                                                                                               |
+> | [[Sources/🎙 Podcasts/A More Perfect Human\|A More Perfect Human]]                                                                                                                                               |
+> | [[Sources/🎙 Podcasts/If You Read the GOPs Anti-Trans Policies Youll See What It Really Wants\|If You Read the GOPs Anti-Trans Policies Youll See What It Really Wants]]                                         |
+> | [[Sources/📰 Articles/Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content\|Getty Images Is Suing the Creators of AI Art Tool Stable Diffusion for Scraping Its Content]] |
+> | [[Sources/📰 Articles/Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn\|Debunking the Great AI Lie by Noam Chomsky Gary Marcus Jeremy Kahn]]                                                   |
+> | [[Sources/🎥 Videos/Towards a Foundation for AGI with Distinguished Lecturer, Gary Marcus\|Towards a Foundation for AGI with Distinguished Lecturer, Gary Marcus]]                                               |
+> | [[Sources/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]                                                                             |
+> | [[Sources/📰 Articles/The Surprising Ways Nanotechnology Is Changing the World Around Us\|The Surprising Ways Nanotechnology Is Changing the World Around Us]]                                                   |
 > 
 { .block-language-dataview}
 

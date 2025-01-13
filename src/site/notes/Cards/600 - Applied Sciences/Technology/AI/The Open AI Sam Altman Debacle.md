@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+> **up**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 > **type**:: #📝 
 > **status**:: #📝/🌱 
 > **tags**::  #on/ai #on/news
@@ -18,5 +18,5 @@ In recent news, OpenAI faced a major controversy following the firing of its CEO
 ## Related
 - [Reddit thread with info from insiders describing Sam's ego trip](https://www.reddit.com/user/Anxious_Bandicoot126/comments/?sort=new&rdt=45674)
 ---
-up:: [[Cards/600 - Applied Sciences/Technology/AI/🤖 Artificial Intelligence\|AI]]
+up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 

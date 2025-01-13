@@ -77,7 +77,7 @@ The prose is simple and effective. Nothing too heady and the lack of intellectua
 
 > “In the Transcend, truly sophisticated equipment can operate devices substantially smarter than anyone down here. Of course, almost any economic or military competition can be won by the side with superior computing resources. Such can be had at the Top of the Beyond and in the Transcend. Races are always migrating there, hoping to build their utopias. But what do you do when your new creations may be smarter than you are? It happens that there are limitless possibilities for disaster, even if an existing Power does not cause harm. So there are unnumbered recipes for safely taking advantage of the Transcend. Of course they can’t be effectively examined except in the Transcend. And run on devices of their own description, the recipes themselves become sentient.”
 
-- [N] [[AGI\|AGI]], way ahead of its time, 1992 discussing what is essentially [[Artificial Intelligence\|Artificial Intelligence]]
+- [N] [[AGI\|AGI]], way ahead of its time, 1992 discussing what is essentially [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 
 ### id744969365
 
@@ -117,7 +117,7 @@ The prose is simple and effective. Nothing too heady and the lack of intellectua
 
 > “In the Transcend, truly sophisticated equipment can operate devices substantially smarter than anyone down here. Of course, almost any economic or military competition can be won by the side with superior computing resources. Such can be had at the Top of the Beyond and in the Transcend. Races are always migrating there, hoping to build their utopias. But what do you do when your new creations may be smarter than you are? It happens that there are limitless possibilities for disaster, even if an existing Power does not cause harm. So there are unnumbered recipes for safely taking advantage of the Transcend. Of course they can’t be effectively examined except in the Transcend. And run on devices of their own description, the recipes themselves become sentient.”
 
-- [N] [[AGI\|AGI]], way ahead of its time, 1992 discussing what is essentially [[Artificial Intelligence\|Artificial Intelligence]]
+- [N] [[AGI\|AGI]], way ahead of its time, 1992 discussing what is essentially [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 
 ### id744969365
 
