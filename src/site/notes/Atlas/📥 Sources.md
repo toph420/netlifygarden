@@ -12,13 +12,13 @@
 > [!NOTE|no-t clean]
 > ## 🟥 Not Processed
 > 
->  | Source                                                                                                                                        |
-> | --------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]     |
-> | [[Sources/📚 Books/J R\|J R]]                                                                                                              |
-> | [[Sources/📚 Books/The Conquest of Bread\|The Conquest of Bread]]                                                                          |
-> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                                 |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin old\|Dialectical and Historical Materialism by Joseph Stalin]] |
+>  | Source                                                                                                                            |
+> | --------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📚 Books/J R\|J R]]                                                                                                  |
+> | [[Sources/📚 Books/The Conquest of Bread\|The Conquest of Bread]]                                                              |
+> | [[Sources/📰 Articles/Life Without Law\|Life Without Law]]                                                                     |
+> | [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]] |
+> | [[Sources/📚 Books/Foucaults Pendulum\|Foucaults Pendulum]]                                                                    |
 > 
 { .block-language-dataview}
 
@@ -36,23 +36,23 @@
 
 > [!NOTE|no-t clean]
 > ## 🟨 Synthesizing 
->  | File                                                                                                                                                                                              |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📚 Books/Ubik\|Ubik]]                                                                                                                                                                |
-> | [[Sources/Tools + Plugins/Zotero\|Zotero]]                                                                                                                                                     |
-> | [[Sources/🎙 Podcasts/AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg\|AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg]]                                         |
-> | [[Sources/🎙 Podcasts/Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay\|Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay]] |
-> | [[Sources/🎙 Podcasts/99 - CARLA CREMER IGOR KRAWCZUK - X-Risk Governance Effective Altruism\|99 - CARLA CREMER IGOR KRAWCZUK - X-Risk Governance Effective Altruism]]                         |
+>  | File                                                                                                                                      |
+> | ----------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📜 Papers/The Philosophical Roots of the Marx-Bakunin Conflict\|The Philosophical Roots of the Marx-Bakunin Conflict]]       |
+> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                             |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]] |
+> | [[Sources/📚 Books/Ubik\|Ubik]]                                                                                                        |
+> | [[Sources/Tools + Plugins/Zotero\|Zotero]]                                                                                             |
 > 
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
 > ## 📄 Papers (Zotero)
->  | File                                                                                                                                              |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]         |
-> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                                     |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin old\|Dialectical and Historical Materialism by Joseph Stalin old]] |
+>  | File                                                                                                                                      |
+> | ----------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📜 Papers/The Philosophical Roots of the Marx-Bakunin Conflict\|The Philosophical Roots of the Marx-Bakunin Conflict]]       |
+> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                             |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]] |
 > 
 { .block-language-dataview}
 

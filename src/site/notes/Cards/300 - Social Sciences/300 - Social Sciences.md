@@ -36,7 +36,7 @@
 > | [[Cards/300 - Social Sciences/Gun Violence in America\|Gun Violence in America]]                 | Research about gun violence in the USA                                                                                                                                             |
 > | [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]             | The time is now!                                                                                                                                                                   |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                 | My research into Leftist politics and economics                                                                                                                                    |
-> | [[Cards/300 - Social Sciences/Marxist-Leninist\|Marxist-Leninist]]                               | Notes about ML                                                                                                                                                                     |
+> | [[Cards/300 - Social Sciences/Marxism-Leninism\|Marxism-Leninism]]                               | Notes about arxism-Leninism                                                                                                                                                        |
 > | [[Cards/300 - Social Sciences/Politics\|Politics]]                                               | Map of all things politics                                                                                                                                                         |
 > | [[Cards/300 - Social Sciences/Racism\|Racism]]                                                   | Notes related to or discussing racism                                                                                                                                              |
 > | [[Cards/300 - Social Sciences/Republicans\|Republicans]]                                         | Tracking the clown show of republicans                                                                                                                                             |
@@ -54,23 +54,25 @@
 { .block-language-dataview}
 
 > [!note]- 📥 Sources (`#on/socialsciences`)
->  | Note |
-> | ---- |
+>  | Note                                                                                                                                                                                                                          |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]<span class='summary'>\-</span><span class='block'>7:12 PM - January 12, 2025</span> |
 > 
 { .block-language-dataview}
 
 > [!attention]- Unrequited Notes
 >  - [[🏠 Home\|🏠 Home]]
+> - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
+> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
 > - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
-> - [[Cards/300 - Social Sciences/Activism\|Activism]]
 > - [[Cards/300 - Social Sciences/Racism\|Racism]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
-> - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
 > - [[Cards/300 - Social Sciences/Economics\|Economics]]
+> - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
+> - [[Cards/300 - Social Sciences/Activism\|Activism]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
 > 

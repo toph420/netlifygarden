@@ -32,7 +32,7 @@ The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowled
 
 - [[Atlas/🧠 Sid\|🧠 Sid]] | [[Cards/000 - Knowledge Management/My Meta\|My Meta]] | [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My Note Taking Workflow]] 
 - [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]] | [[Atlas/🧊 Icebox\|🧊 Icebox]]
-- [[Calendar/+ MOCs/🪵 Log\|🪵 Log]] | [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]] | [[Atlas/🏹 Action\|🏹 Action]]
+- [[Calendar/+ MOCs/🪵 Log\|🪵 Log]] | [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]] | [[🏹 Action\|🏹 Action]]
 - [[Atlas/🗺 Maps\|🗺 Maps]] 
 - [[Sources/Tools + Plugins/Obsidian\|Obsidian]] | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
 

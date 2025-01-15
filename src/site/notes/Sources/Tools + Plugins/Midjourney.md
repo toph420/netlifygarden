@@ -101,8 +101,8 @@
 > [!Links] Unrequited
 >  - [[Calendar/Journal/Daily/2022-12-23\|2022-12-23]]
 > - [[Calendar/Journal/Daily/2022-12-29\|2022-12-29]]
-> - [[Calendar/Journal/Daily/2023-04-02\|2023-04-02]]
 > - [[Calendar/Journal/Daily/2023-04-01\|2023-04-01]]
+> - [[Calendar/Journal/Daily/2023-04-02\|2023-04-02]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Ancient Scroll Diagram\|2022-12-23-PJ - Ancient Scroll Diagram]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Dream Journal Ideas\|2022-12-23-PJ - Dream Journal Ideas]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/AI Resources\|AI Resources]]

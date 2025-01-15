@@ -89,10 +89,10 @@
 > [!note]+ 📥 Sources (`#on/writing`)
 >  | Note                                                                                                                                                                                                                                                                                    |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<span class='summary'>Mind blowing storytelling AI tool, wow. From the guide: Subtxt is not the application to write your story, it's an application to _develop_ your story.</span><span class='block'>2:40 PM - February 11, 2023</span> |
 > | [[Sources/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]<span class='summary'>PD Workman's process for writing inside Obsidian</span><span class='block'>5:22 PM - March 13, 2023</span>                                                                     |
 > | [[Sources/📰 Articles/The Most Important Page Ever\|The Most Important Page Ever]]<span class='summary'></span><span class='block'>4:37 PM - March 13, 2023</span>                                                                                                                   |
 > | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<span class='summary'></span><span class='block'>10:31 PM - June 26, 2024</span>                                                                                                          |
+> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]<span class='summary'>Mind blowing storytelling AI tool, wow. From the guide: Subtxt is not the application to write your story, it's an application to _develop_ your story.</span><span class='block'>2:40 PM - February 11, 2023</span> |
 > | [[Sources/Reddit Thread about Writing in Obsidian\|Reddit Thread about Writing in Obsidian]]<span class='summary'>A great thread and conversation about writing a story, developing characters in Obsidian</span><span class='block'>8:35 PM - December 08, 2022</span>              |
 > 
 { .block-language-dataview}

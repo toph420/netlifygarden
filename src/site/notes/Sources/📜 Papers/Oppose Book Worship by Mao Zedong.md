@@ -4,9 +4,9 @@
 
 
 > [!metadata]- Meta
-> **up**:: 
+> **up**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]]
 > **type**:: #📥/📜
-> **status**:: #📥/🟥 
+> **status**:: #📥/🟨 
 > **tags**:: #on/leftism, #on/communism, #on/mao, #on/socialism, #on/marx
 > **topics**:: [[Cards/300 - Social Sciences/Leftism\|Leftism]], [[+ Encounters/Communism\|Communism]], [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Marxism]]
 > **links**::
@@ -68,119 +68,120 @@
 | <mark class="hltr-magenta">Magenta</mark>      | Confused or questions          |
 | <mark class="hltr-purple">Purple</mark>        | Section Heading                |
 
-### id0AU5TDXL3
 
+
+
+### No Investigation, No Right to Speak
 <mark class="hltr-purple">NO INVESTIGATION, NO RIGHT TO SPEAK</mark> [Page 3](zotero://open-pdf/library/items/8KDM9XN5?page=3&annotation=AU5TDXL3) 
 
-### id07EQEDQK6
+<mark class="hltr-yellow">When you have not probedinto a problem, into the present facts and its past history, and know nothing ofits essentials, whatever you say about it will undoubtedly be nonsense.</mark> [Page 3](zotero://open-pdf/library/items/8KDM9XN5?page=3&annotation=7EQEDQK6)
 
-<mark class="hltr-yellow">When you have not probedinto a problem, into the present facts and its past history, and know nothing ofits essentials, whatever you say about it will undoubtedly be nonsense.</mark> [Page 3](zotero://open-pdf/library/items/8KDM9XN5?page=3&annotation=7EQEDQK6) 
+- [N] You cannot speak on a subject without understanding its present facts and past history.
+- [N] Speaking without understanding the essentials leads to nonsense.
 
-### id0J87R9UAW
+tags:: #on/investigation #on/knowledge #on/speaking
 
+### To Investigate A Problem Is To Solve It
 <mark class="hltr-purple">TO INVESTIGATE A PROBLEM IS TO SOLVE IT</mark> [Page 3](zotero://open-pdf/library/items/8KDM9XN5?page=3&annotation=J87R9UAW) 
 
-### id0T9SUZECS
+<mark class="hltr-yellow">You can&#39; t solve a problem? Well, get down and investigate the present facts and its past history! When you have investigated the problem thoroughly, you will know how to solve it.</mark> [Page 3](zotero://open-pdf/library/items/8KDM9XN5?page=3&annotation=T9SUZECS)
 
-<mark class="hltr-yellow">You can&#39; t solve a problem? Well, get down and investigate the present facts and its past history! When you have investigated the problem thoroughly, you will know how to solve it.</mark> [Page 3](zotero://open-pdf/library/items/8KDM9XN5?page=3&annotation=T9SUZECS) 
+- [N] Investigation is the key to solving problems.
+- [N] Thorough investigation reveals the solution.
 
-### id0FMDCRQJM
+tags:: #on/investigation #on/problems #on/solutions
 
+### Oppose Book Workship
 <mark class="hltr-purple">OPPOSE BOOK WORSHIP</mark> [Page 4](zotero://open-pdf/library/items/8KDM9XN5?page=4&annotation=FMDCRQJM) 
 
-### id0EPIADWQ6
+<mark class="hltr-yellow">Of course we should study Marxist books, butthis study must be integrated with our country&#39;s actual conditions. We needbooks, but we must overcome book worship, which is divorced from the actualsituation.</mark> [Page 5](zotero://open-pdf/library/items/8KDM9XN5?page=5&annotation=EPIADWQ6)
 
-<mark class="hltr-yellow">Of course we should study Marxist books, butthis study must be integrated with our country&#39;s actual conditions. We needbooks, but we must overcome book worship, which is divorced from the actualsituation.</mark> [Page 5](zotero://open-pdf/library/items/8KDM9XN5?page=5&annotation=EPIADWQ6) 
+- [N] Study of [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Marxiste]] books should be integrated with actual conditions.
+- [N] Book worship must be overcome because it is divorced from the actual situation.
 
-### id0M86WLPVZ
+tags:: #on/books #on/marxism #on/application
 
-<mark class="hltr-purple">WITHOUT INVESTIGATING THE ACTUAL SITUATION, THERE ISBOUND TO BE AN IDEALIST APPRAISAL OF CLASS FORCES AND ANIDEALIST GUIDANCE IN WORK, RESULTING EITHER IN OPPORTUNISM OR IN PUTSCHISM</mark> [Page 5](zotero://open-pdf/library/items/8KDM9XN5?page=5&annotation=M86WLPVZ) 
+### Without Investigating The Actual Situation, There Is Bound To Be An Idealist Appraisal
+<mark class="hltr-purple">WITHOUT INVESTIGATING THE ACTUAL SITUATION, THERE ISBOUND TO BE AN IDEALIST APPRAISAL OF CLASS FORCES AND ANIDEALIST GUIDANCE IN WORK, RESULTING EITHER IN OPPORTUNISM OR IN PUTSCHISM</mark> [Page 5](zotero://open-pdf/library/items/8KDM9XN5?page=5&annotation=M86WLPVZ)
 
-### id0ZUVNUYET
+<mark class="hltr-yellow">We must wipe out idealism and guard against all opportunist and putschist errors before we can succeed in winning over the masses and defeating theenemy. The only way to wipe out idealism is to make the efort and investigatethe actual situation.</mark> [Page 6](zotero://open-pdf/library/items/8KDM9XN5?page=6&annotation=ZUVNUYET)
 
-<mark class="hltr-yellow">We must wipe out idealism and guard against all opportunist and putschist errors before we can succeed in winning over the masses and defeating theenemy. The only way to wipe out idealism is to make the efort and investigatethe actual situation.</mark> [Page 6](zotero://open-pdf/library/items/8KDM9XN5?page=6&annotation=ZUVNUYET) 
+- [N] Failure to investigate leads to idealism in appraising class forces.
+- [N] Idealism leads to opportunism or putschism.
+- [N] The only way to eliminate idealism is through investigation.
 
-### id03SGA48N2
+tags:: #on/idealism #on/investigation #on/class
 
-<mark class="hltr-purple">THE AIM OF SOCIAL AND ECONOMIC INVESTIGATION IS TO ARRIVE AT A CORRECT APPRAISAL OF CLASS FORCES AND THEN TO FORMULATECORRECT TACTICS FOR THE STRUGGLE</mark> [Page 6](zotero://open-pdf/library/items/8KDM9XN5?page=6&annotation=3SGA48N2) 
+### Investigation Guides Struggle
+<mark class="hltr-purple">THE AIM OF SOCIAL AND ECONOMIC INVESTIGATION IS TO ARRIVE AT A CORRECT APPRAISAL OF CLASS FORCES AND THEN TO FORMULATECORRECT TACTICS FOR THE STRUGGLE</mark> [Page 6](zotero://open-pdf/library/items/8KDM9XN5?page=6&annotation=3SGA48N2)
 
-### id0ZRBGNUBU
+<mark class="hltr-yellow">Weshould investigate not only the state of each trade, but more especially the classrelations within it. We should investigate the relationships not only between the diferent trades but more especially between the diferent classes. Our chiefmethod of investigation must be to dissect the diferent social classes, theultimate purpose being to understand their interrelations, to arrive at a correct appraisal of class forces and then to formulate the correct tactics for the struggle,dening which classes constitute the main force in the revolutionary struggle,which classes are to be won over as allies and which classes are to be overthrown.This is our sole purpose.</mark> [Page 7](zotero://open-pdf/library/items/8KDM9XN5?page=7&annotation=ZRBGNUBU)
 
-<mark class="hltr-yellow">Weshould investigate not only the state of each trade, but more especially the classrelations within it. We should investigate the relationships not only between the diferent trades but more especially between the diferent classes. Our chiefmethod of investigation must be to dissect the diferent social classes, theultimate purpose being to understand their interrelations, to arrive at a correct appraisal of class forces and then to formulate the correct tactics for the struggle,dening which classes constitute the main force in the revolutionary struggle,which classes are to be won over as allies and which classes are to be overthrown.This is our sole purpose.</mark> [Page 7](zotero://open-pdf/library/items/8KDM9XN5?page=7&annotation=ZRBGNUBU) 
+- [N] The aim of investigation is to accurately appraise class forces and formulate correct tactics.
+- [N] Investigate class relations within and between trades.
+- [N] Understand class interrelations to define the main force, allies, and enemies in struggle.
 
-### id0ZGP9UG9C
+tags:: #on/investigation #on/class #on/struggle
 
-<mark class="hltr-purple">VICTORY IN CHINA&#39;S REVOLUTIONARY STRUGGLE WILL DEPEND ONTHE CHENESE COMRADES&#39; UNDERSTANDING OF CHINESE CONDITIONS</mark> [Page 8](zotero://open-pdf/library/items/8KDM9XN5?page=8&annotation=ZGP9UG9C) 
+### Understanding Chinese Conditions
+<mark class="hltr-purple">VICTORY IN CHINA&#39;S REVOLUTIONARY STRUGGLE WILL DEPEND ONTHE CHENESE COMRADES&#39; UNDERSTANDING OF CHINESE CONDITIONS</mark> [Page 8](zotero://open-pdf/library/items/8KDM9XN5?page=8&annotation=ZGP9UG9C)
 
-### id0AKEER952
+<mark class="hltr-magenta">The aim of our struggle is to attain socialism via the stage of democracy. In this task, the rst step is to complete the democratic revolution by winning themajority of the working class and arousing the peasant masses and the urbanpoor for the overthrow of the landlord class, imperialism and the Kuomintang regime.</mark> [Page 8](zotero://open-pdf/library/items/8KDM9XN5?page=8&annotation=AKEER952)
 
-<mark class="hltr-magenta">The aim of our struggle is to attain socialism via the stage of democracy. In this task, the rst step is to complete the democratic revolution by winning themajority of the working class and arousing the peasant masses and the urbanpoor for the overthrow of the landlord class, imperialism and the Kuomintang regime.</mark> [Page 8](zotero://open-pdf/library/items/8KDM9XN5?page=8&annotation=AKEER952) 
-- [N] Attain socialism via democracy? 
+<mark class="hltr-yellow">To awakenthese comrades we must raise our voices and cry out to them: Change your conservative ideas without delay! Replace them by progressive and militant Communist ideas!Get into the struggle!Go among the masses and investigate the facts!</mark> [Page 9](zotero://open-pdf/library/items/8KDM9XN5?page=9&annotation=7763SJH6)
 
-### id07763SJH6
+- [N] Victory in China's revolution depends on understanding Chinese conditions.
+- [N] The first step is to complete the democratic revolution to overthrow the landlord class, imperialism and the Kuomintang regime.
+- [N] Change conservative ideas to progressive and militant Communist ideas through investigation and struggle.
 
-<mark class="hltr-yellow">To awakenthese comrades we must raise our voices and cry out to them: Change your conservative ideas without delay! Replace them by progressive and militant Communist ideas!Get into the struggle!Go among the masses and investigate the facts!</mark> [Page 9](zotero://open-pdf/library/items/8KDM9XN5?page=9&annotation=7763SJH6) 
+tags:: #on/china #on/revolution #on/conditions
 
-### id07AN5CXUX
 
-<mark class="hltr-purple">THE TECHNIUE OF INVESTlGATION</mark> [Page 9](zotero://open-pdf/library/items/8KDM9XN5?page=9&annotation=7AN5CXUX) 
+### Techniques of Investigation
 
-### id0DKIKK6C9
+<mark class="hltr-purple">THE TECHNIUE OF INVESTlGATION</mark> [Page 9](zotero://open-pdf/library/items/8KDM9XN5?page=9&annotation=7AN5CXUX)
 
-<mark class="hltr-purple">1. Hold fact-nding meetings and undertake investigation through discussions.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=DKIKK6C9) 
+<mark class="hltr-purple">1. Hold fact-nding meetings and undertake investigation through discussions.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=DKIKK6C9)
 
-### id0GW97YXYT
+<mark class="hltr-purple">2. What kind of people should attend the fact-nding meetings?</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=GW97YXYT)
 
-<mark class="hltr-purple">2. What kind of people should attend the fact-nding meetings?</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=GW97YXYT) 
+<mark class="hltr-yellow">They should be people well acquainted with social and economic conditions. As far as age is concerned, older people are best, because they are rich in experienceand not only know what is going an but understand the causes and efects.Young people with experience of struggle should also be included, because they have progressive ideas and sharp eyes.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=N992DF4I)
 
-### id0N992DF4I
+<mark class="hltr-purple">3. Which is better, a large fact-finding meeting or a small one?</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=ME3RZHND)
 
-<mark class="hltr-yellow">They should be people well acquainted with social and economic conditions. As far as age is concerned, older people are best, because they are rich in experienceand not only know what is going an but understand the causes and efects.Young people with experience of struggle should also be included, because they have progressive ideas and sharp eyes.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=N992DF4I) 
+<mark class="hltr-yellow">the number of. people attending a meeting depends on thecompetence of the investigator. However, the minimum is three, or otherwisethe information obtained will be too limited to correspond to the real situation.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=EKJUHTCI)
 
-### id0ME3RZHND
+<mark class="hltr-purple">4. Prepare a detailed outline for the investigation.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=3LMUPNBR)
 
-<mark class="hltr-purple">3. Which is better, a large fact-nding meeting or a small one?</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=ME3RZHND) 
+<mark class="hltr-yellow">A detailed outline&#39; should be prepared beforehand, and the investigator shouldask questions according to the outline, with those present at the meeting giving their answers.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=PKW2SDNJ)
 
-### id0EKJUHTCI
+<mark class="hltr-purple">5. Personal participation.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=I9SBBTXG)
 
-<mark class="hltr-yellow">the number of. people attending a meeting depends on thecompetence of the investigator. However, the minimum is three, or otherwisethe information obtained will be too limited to correspond to the real situation.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=EKJUHTCI) 
+<mark class="hltr-yellow">Everyone with responsibility for giving leadership — from the chairman of the township government to the chairman of the central government, from thedetachment leader to the commander-in-chief, from the secretary of a Partybranch to the general secretary — must personally undertake investigation intothe specic social and economic conditions and not merely rely on reading reports.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=TLBAPITW)
 
-### id03LMUPNBR
+<mark class="hltr-purple">6. Probe deeply.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=9HHHUK7R)
 
-<mark class="hltr-purple">4. Prepare a detailed outline for the investigation.</mark> [Page 10](zotero://open-pdf/library/items/8KDM9XN5?page=10&annotation=3LMUPNBR) 
+<mark class="hltr-yellow">Anyone new to investigation work should make one or two thoroughinvestigations in order to gain full knowledge of a particular place (say, a villageor a town) of a particular problem (say, the problem of grain or currency)</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=ZRSX966L)
 
-### id0PKW2SDNJ
+<mark class="hltr-purple">7. Make your own notes.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=VUVSNRNK)
 
-<mark class="hltr-yellow">A detailed outline&#39; should be prepared beforehand, and the investigator shouldask questions according to the outline, with those present at the meeting giving their answers.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=PKW2SDNJ) 
+<mark class="hltr-yellow">The investigator should not only preside at fact-nding meetings and give proper guidance to those present but should also make his own notes and record the results himself.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=7AM29X8H)
 
-### id0I9SBBTXG
+- [N] Investigation should be conducted through fact-finding meetings and discussions.
+- [N] Participants should be familiar with social and economic conditions, including older people with experience and younger people with progressive ideas.
+- [N] The size of the meeting should be based on the investigator's competence, with a minimum of three participants.
+- [N] A detailed outline should be prepared beforehand, and the investigator should ask questions based on the outline.
+- [N] Leaders at all levels must personally participate in investigations and not rely on reports.
+- [N] New investigators should conduct one or two thorough investigations of a particular place or problem.
+- [N] Investigators should make their own notes and record the results.
 
-<mark class="hltr-purple">5. Personal participation.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=I9SBBTXG) 
-
-### id0TLBAPITW
-
-<mark class="hltr-yellow">Everyone with responsibility for giving leadership — from the chairman of the township government to the chairman of the central government, from thedetachment leader to the commander-in-chief, from the secretary of a Partybranch to the general secretary — must personally undertake investigation intothe specic social and economic conditions and not merely rely on reading reports.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=TLBAPITW) 
-
-### id09HHHUK7R
-
-<mark class="hltr-purple">6. Probe deeply.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=9HHHUK7R) 
-
-### id0ZRSX966L
-
-<mark class="hltr-yellow">Anyone new to investigation work should make one or two thoroughinvestigations in order to gain full knowledge of a particular place (say, a villageor a town) of a particular problem (say, the problem of grain or currency)</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=ZRSX966L) 
-
-### id0VUVSNRNK
-
-<mark class="hltr-purple">7. Make your own notes.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=VUVSNRNK) 
-
-### id07AM29X8H
-
-<mark class="hltr-yellow">The investigator should not only preside at fact-nding meetings and give proper guidance to those present but should also make his own notes and record the results himself.</mark> [Page 11](zotero://open-pdf/library/items/8KDM9XN5?page=11&annotation=7AM29X8H) 
+tags:: #on/investigation #on/meetings #on/participants #on/leadership #on/notes #on/recording #on/technique #on/outline #on/depth
 
 
 
 ---
 up:: 
+
 
 
 

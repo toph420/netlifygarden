@@ -14,7 +14,8 @@
 > Give these babies some love
 >  | Maps                                                                                                                                                                               | Summary                                                                                                                                                                                                                                                                                                                                                                                       |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Cards/300 - Social Sciences/Marxist-Leninist\|Marxist-Leninist]]                                                                                                              | Notes about ML                                                                                                                                                                                                                                                                                                                                                                                |
+> | [[+ Encounters/LLM Template - Zettelize Highlights\|LLM Template - Zettelize Highlights]]                                                                                       | Turn highlights into zettels                                                                                                                                                                                                                                                                                                                                                                  |
+> | [[Cards/300 - Social Sciences/Marxism-Leninism\|Marxism-Leninism]]                                                                                                              | Notes about arxism-Leninism                                                                                                                                                                                                                                                                                                                                                                   |
 > | [[+ Encounters/Book Club - JR by Gaddis\|Book Club - JR by Gaddis]]                                                                                                             | The great American novel                                                                                                                                                                                                                                                                                                                                                                      |
 > | [[+ Encounters/Book Club\|Book Club]]                                                                                                                                           | Master note for all things book club related                                                                                                                                                                                                                                                                                                                                                  |
 > | [[+ Encounters/Book Club - Crime and Punishment\|Book Club - Crime and Punishment]]                                                                                             | Book club notes and discussion for Dostoyevsky's Crime and Punishment                                                                                                                                                                                                                                                                                                                         |
@@ -63,7 +64,6 @@
 > | [[+ Encounters/Science Fiction\|Science Fiction]]                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                               |
 > | [[Calendar/Ideas/2024-08-01-IJ - Pretending to feel guilty to save marriage \|2024-08-01-IJ - Pretending to feel guilty to save marriage ]]                                     | An interesting Reddit post about a guy that killed an intruder, his wife begins feeling cold toward a guy that doesn't feel anything about killing a man, so he pretends he feels guilty                                                                                                                                                                                                      |
 > | [[Calendar/Ideas/2024-07-28-IJ - Dating Apps meet Capitalism\|2024-07-28-IJ - Dating Apps meet Capitalism]]                                                                     | This is just too crazy, restaurants posing as people on dating apps so that people go to the restaurant and once the other person doesn't show up they'll at least buy food.                                                                                                                                                                                                                  |
-> | [[+ Encounters/Mental Health\|Mental Health]]                                                                                                                                   | Notes about mental health related stuff                                                                                                                                                                                                                                                                                                                                                       |
 > 
 { .block-language-dataview}
 
@@ -73,8 +73,8 @@
 > 
 >  | Notes                                                                                                            |
 > | ---------------------------------------------------------------------------------------------------------------- |
-> | [[Atlas/📥 Sources\|📥 Sources]]                                                                              |
 > | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                                         |
+> | [[Atlas/📥 Sources\|📥 Sources]]                                                                              |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                              |
 > | [[Cards/600 - Applied Sciences/Technology/AI/Singularity (AI)\|Singularity (AI)]]                             |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Resources\|AI Resources]]                                     |
@@ -123,15 +123,15 @@
 
 > [!attention]- Untagged
 >  - [[🏠 Home\|🏠 Home]]
-> - [[Spaces/🦆 Ducks Films/Ducks Legal\|Ducks Legal]]
 > - [[Spaces/🦆 Ducks Films/🌈 Project Board\|🌈 Project Board]]
-> - [[Spaces/🦆 Ducks Films/Areas/Edit Log\|Edit Log]]
+> - [[Spaces/🦆 Ducks Films/Ducks Legal\|Ducks Legal]]
 > - [[Spaces/🦆 Ducks Films/Areas/🤷‍♂️ Prospects\|🤷‍♂️ Prospects]]
-> - [[Spaces/🦆 Ducks Films/Areas/👤 Ducks Accounts\|👤 Ducks Accounts]]
 > - [[Spaces/🦆 Ducks Films/Areas/Filming Locations and Studios\|Filming Locations and Studios]]
-> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Design Ideas\|T-Shirt Design Ideas]]
+> - [[Spaces/🦆 Ducks Films/Areas/👤 Ducks Accounts\|👤 Ducks Accounts]]
+> - [[Spaces/🦆 Ducks Films/Areas/Edit Log\|Edit Log]]
 > - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Marketing\|T-Shirt Marketing]]
 > - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Market Research\|T-Shirt Market Research]]
+> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Design Ideas\|T-Shirt Design Ideas]]
 > 
 { .block-language-dataview}
 

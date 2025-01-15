@@ -32,8 +32,8 @@
 
 > [!NOTE]+ 📝 Notes (`#on/leftism`)
 >  - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
+> - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[+ Encounters/Noam Chomsky\|Noam Chomsky]]
 > - [[+ Encounters/Mikhail Bakunin\|Mikhail Bakunin]]
@@ -44,14 +44,14 @@
 { .block-language-dataview}
 
 > [!note]+ Sources
->  - [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]
-> - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
-> - [[Sources/📰 Articles/Life Without Law\|Life Without Law]]
-> - [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]]
+>  - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
 > - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
-> - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
+> - [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]]
+> - [[Sources/📰 Articles/Life Without Law\|Life Without Law]]
+> - [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]
+> - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+> - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]
 > - [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]
-> - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin old\|Dialectical and Historical Materialism by Joseph Stalin old]]
 > 
 { .block-language-dataview}
 
