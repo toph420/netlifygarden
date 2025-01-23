@@ -8,7 +8,7 @@
 >status:: #📝/🌱 
 
 # 👨🏻‍🌾 The Greenhouse
-> A place for all of my budding notes.
+> A place for all of my budding notes and stuff
 
 > [!example]- 🌞 Incubator
 > Give these babies some love
