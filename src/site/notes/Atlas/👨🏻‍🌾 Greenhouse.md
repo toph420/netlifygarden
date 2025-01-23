@@ -73,6 +73,7 @@
 > 
 >  | Notes                                                                                                            |
 > | ---------------------------------------------------------------------------------------------------------------- |
+> | [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]]                                                              |
 > | [[Cards/300 - Social Sciences/Activism\|Activism]]                                                            |
 > | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]                                   |
 > | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                                         |
@@ -82,7 +83,6 @@
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Resources\|AI Resources]]                                     |
 > | [[Cards/600 - Applied Sciences/Technology/AI/The Turing Test\|The Turing Test]]                               |
 > | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]] |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]]                                                 |
 > 
 { .block-language-dataview}
 
