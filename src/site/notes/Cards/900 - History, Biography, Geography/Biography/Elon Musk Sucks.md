@@ -7,15 +7,14 @@
 > up:: [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 > type:: #📝 
 > tags::  #on/biography #on/elon #on/capitalism #on/greed 
-> status:: #📝/🌿 
+> status:: #📝/🌲 
 > topics:: [[Cards/300 - Social Sciences/Capitalism\|Capitalism]], [[Greed\|Greed]], [[Money\|Money]]
 > links:: 
 
 # Elon Musk Sucks
 
-![Pasted image 20240425223714.png](/img/user/Extras/Attachments/Pasted%20image%2020240425223714.png)
-
-- The Twitter thread that explains why [[Elon Musk\|Elon Musk]] is a lying asshole
+![Pasted image 20240425223714.png|350](/img/user/Extras/Attachments/Pasted%20image%2020240425223714.png)
+- The Twitter thread that explains why Elon is a lying asshole
 	- [https://twitter.com/capitolhunters/status/1593307541932474368?s=20&t=BEtytdo-mC14mSF1pYrzDA](https://twitter.com/capitolhunters/status/1593307541932474368?s=20&t=BEtytdo-mC14mSF1pYrzDA)
 - Sources from the thread
 	- [Folder - Google Drive](https://drive.google.com/drive/folders/1zPeWaaCZHqfq0tnkPwc61A6bGHySdj91?usp=sharing)
@@ -37,6 +36,17 @@
 - [Elon steals baby name from Grimes for baby from another lady](https://x.com/esjesjesj/status/1834731830920016083?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [Elon supercut from Trump rally lol](https://x.com/theserfstv/status/1842827355175243986?s=46)
 - [Elon puts kaibosh on trains for his own industry profit](https://x.com/midwesternmarx/status/1867017051535184043?s=46)
+- [Charlie Hebdo art - omg](https://x.com/charlie_hebdo_/status/1879891356945891454?s=46)
+- [Charlie Hebdo art 2 - lol](https://x.com/charlie_hebdo_/status/1879966901918380155?s=46)
+- [Elon does Nazi salute and Trump inauguration](https://x.com/thatguyintwitmo/status/1881506713779769751?s=46)
+
+## Twitter Corruption
+
+![Elon Musk Sucks - whistleblower1.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20whistleblower1.png)
+
+![Elon Musk Sucks - whistleblower2.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20whistleblower2.png)
+
+## Miscellaneous
 
 ![Elon Musk Sucks - Elon owned.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elon%20owned.png)
 
@@ -48,6 +58,7 @@
 
 ![Elon Musk Sucks - concerning.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20concerning.png)
 
+![Elon Musk Sucks - elontrump.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20elontrump.png)
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

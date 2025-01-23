@@ -50,6 +50,7 @@
 > | [[+ Encounters/Depression\|Depression]]               | The dark cloud                                                                                                                                                         |
 > | [[+ Encounters/Kabbalah\|Kabbalah]]                   | Among the most prominent forms of Jewish mysticism is Kabbalah, which emerged in the 12th century and has since become a central component of Jewish mystical thought. |
 > | [[+ Encounters/Personality Tests\|Personality Tests]] | A note of links to tests and results of tests I've taken                                                                                                               |
+> | [[+ Encounters/Philosophy\|Philosophy]]               | All stuff related to philosophy                                                                                                                                        |
 > 
 { .block-language-dataview}
 
@@ -62,6 +63,7 @@
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Divergent Thinking\|Divergent Thinking]]                                   | The creative process of developing multiple unique ideas/concepts from a single idea or concept.                                        |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/Gender Dysphoria\|Gender Dysphoria]]                                       | Gender dysphoria is a condition where someone feels distress because their gender does not match the gender they were assigned at birth |
 > | [[+ Encounters/Personality Tests\|Personality Tests]]                                                                                  | A note of links to tests and results of tests I've taken                                                                                |
+> | [[+ Encounters/Philosophy\|Philosophy]]                                                                                                | All stuff related to philosophy                                                                                                         |
 > | [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/The Soul\|The Soul]]                                                       | Is the soul a strictly human thing, or can robot have a soul as well?                                                                   |
 > 
 { .block-language-dataview}

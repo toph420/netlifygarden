@@ -21,6 +21,7 @@
 ## Books
 - [[+ Encounters/Book Club - Crime and Punishment\|Book Club - Crime and Punishment]]
 - [[+ Encounters/Book Club - JR by Gaddis\|Book Club - JR by Gaddis]]
+- [[Book Club - The Tunnel by WIllaim Gass\|Book Club - The Tunnel by WIllaim Gass]] - [The Tunnel by William H. Gass - YouTube - Leaf by Leaf playlist!](https://www.youtube.com/watch?v=HYOR62TCvVw&t=29335s)
 
 ---
 up:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]

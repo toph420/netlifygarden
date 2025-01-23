@@ -12,25 +12,25 @@
 > [!NOTE|no-t clean]
 > ## 🟥 Not Processed
 > 
->  | Source                                                                                                                            |
-> | --------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📚 Books/J R\|J R]]                                                                                                  |
-> | [[Sources/📚 Books/The Conquest of Bread\|The Conquest of Bread]]                                                              |
-> | [[Sources/📰 Articles/Life Without Law\|Life Without Law]]                                                                     |
-> | [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]] |
-> | [[Sources/📚 Books/Foucaults Pendulum\|Foucaults Pendulum]]                                                                    |
+>  | Source                                                                                                                                                                                      |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/Clippings/2025-01-23 - Reddit - What can anarchists in America do right now\|What can anarchists in America do right now?]]                                                    |
+> | [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|what is the anarchist consensus on dialectical/historical materialism?]] |
+> | [[Sources/📚 Books/J R\|J R]]                                                                                                                                                            |
+> | [[Sources/📚 Books/The Conquest of Bread\|The Conquest of Bread]]                                                                                                                        |
+> | [[Sources/📰 Articles/Life Without Law\|Life Without Law]]                                                                                                                               |
 > 
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
 > ## 🟧 Processing
->  | File                                                                                |
-> | ----------------------------------------------------------------------------------- |
-> | [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]] |
-> | [[Sources/Tools + Plugins/ComfyUI\|ComfyUI]]                                     |
-> | [[Sources/Tools + Plugins/Gen-1\|Gen-1]]                                         |
-> | [[Sources/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]] |
-> | [[Sources/Tools + Plugins/Subtxt\|Subtxt]]                                       |
+>  | File                                                                                                                                                                                                                            |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/Clippings/2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation\|2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation]] |
+> | [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]                                                                                                                                             |
+> | [[Sources/Tools + Plugins/ComfyUI\|ComfyUI]]                                                                                                                                                                                 |
+> | [[Sources/Tools + Plugins/Gen-1\|Gen-1]]                                                                                                                                                                                     |
+> | [[Sources/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]                                                                                                                                             |
 > 
 { .block-language-dataview}
 

@@ -19,7 +19,7 @@
 - See Cosmos [Check these out collection](https://www.cosmos.so/topher/check-these-out)
 - See [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]] 
 - See [[Cards/600 - Applied Sciences/Filmmaking/Video Assets\|Video Assets]]
-- [[Cards/600 - Applied Sciences/Photography/Stock Photography\|Stock Photography]]
+- [[Cards/Public Domain\|Public Domain]]
 
 
 

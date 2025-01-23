@@ -15,7 +15,7 @@
 
 > Assets, textures, graphics, effects for video editing
 
-- see [[Cards/600 - Applied Sciences/Photography/Stock Photography\|Stock Photos]] 
+- see [[Cards/Public Domain\|Stock Photos]] 
 
 ## YouTube Channels
 - [Green Screen Garf - YouTube](https://www.youtube.com/@GreenScreenGarf/videos)

@@ -14,6 +14,11 @@
 > Give these babies some love
 >  | Maps                                                                                                                                                                               | Summary                                                                                                                                                                                                                                                                                                                                                                                       |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[+ Encounters/David Graeber\|David Graeber]]                                                                                                                                   | The legendary man and anarchist                                                                                                                                                                                                                                                                                                                                                               |
+> | [[Cards/Stock Photography\|Stock Photography]]                                                                                                                                  | Good sites and resources for stock photos and public domain stuff                                                                                                                                                                                                                                                                                                                             |
+> | [[+ Encounters/Hot Dogs\|Hot Dogs]]                                                                                                                                             | Yep, hot dogs                                                                                                                                                                                                                                                                                                                                                                                 |
+> | [[+ Encounters/Philosophy\|Philosophy]]                                                                                                                                         | All stuff related to philosophy                                                                                                                                                                                                                                                                                                                                                               |
+> | [[+ Encounters/David Lynch\|David Lynch]]                                                                                                                                       | Notes about the legendary artist                                                                                                                                                                                                                                                                                                                                                              |
 > | [[+ Encounters/LLM Template - Zettelize Highlights\|LLM Template - Zettelize Highlights]]                                                                                       | Turn highlights into zettels                                                                                                                                                                                                                                                                                                                                                                  |
 > | [[Cards/300 - Social Sciences/Marxism-Leninism\|Marxism-Leninism]]                                                                                                              | Notes about arxism-Leninism                                                                                                                                                                                                                                                                                                                                                                   |
 > | [[+ Encounters/Book Club - JR by Gaddis\|Book Club - JR by Gaddis]]                                                                                                             | The great American novel                                                                                                                                                                                                                                                                                                                                                                      |
@@ -59,11 +64,6 @@
 > | [[+ Encounters/Christopher Nolan\|Christopher Nolan]]                                                                                                                           | Notes about the legendary film director of epics such as Inception and Interstellar                                                                                                                                                                                                                                                                                                           |
 > | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]                                                                                                                 | Kurt Vonneguts story shapes, graphs                                                                                                                                                                                                                                                                                                                                                           |
 > | [[Calendar/Ideas/2024-08-10-IJ - Tampons in the Mens Restroom\|2024-08-10-IJ - Tampons in the Mens Restroom]]                                                                   | A satire about the freaks that lose their minds about tampons in men's restrooms                                                                                                                                                                                                                                                                                                              |
-> | [[Calendar/Ideas/2024-08-10-IJ - Short Term Memory\|2024-08-10-IJ - Short Term Memory]]                                                                                         | Some interesting stories in this thread about people that have lost their memory                                                                                                                                                                                                                                                                                                              |
-> | [[+ Encounters/Container Homes\|Container Homes]]                                                                                                                               | Notes related to DIY and prefab shipping container homes, apprently these are not very healthy or sustianable due to the materials and chemicals                                                                                                                                                                                                                                              |
-> | [[+ Encounters/Science Fiction\|Science Fiction]]                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                               |
-> | [[Calendar/Ideas/2024-08-01-IJ - Pretending to feel guilty to save marriage \|2024-08-01-IJ - Pretending to feel guilty to save marriage ]]                                     | An interesting Reddit post about a guy that killed an intruder, his wife begins feeling cold toward a guy that doesn't feel anything about killing a man, so he pretends he feels guilty                                                                                                                                                                                                      |
-> | [[Calendar/Ideas/2024-07-28-IJ - Dating Apps meet Capitalism\|2024-07-28-IJ - Dating Apps meet Capitalism]]                                                                     | This is just too crazy, restaurants posing as people on dating apps so that people go to the restaurant and once the other person doesn't show up they'll at least buy food.                                                                                                                                                                                                                  |
 > 
 { .block-language-dataview}
 
@@ -73,6 +73,8 @@
 > 
 >  | Notes                                                                                                            |
 > | ---------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/300 - Social Sciences/Activism\|Activism]]                                                            |
+> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]]                                   |
 > | [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]                                                         |
 > | [[Atlas/📥 Sources\|📥 Sources]]                                                                              |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                                              |
@@ -81,8 +83,6 @@
 > | [[Cards/600 - Applied Sciences/Technology/AI/The Turing Test\|The Turing Test]]                               |
 > | [[Cards/600 - Applied Sciences/Technology/AI/The Open AI Sam Altman Debacle\|The Open AI Sam Altman Debacle]] |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]]                                                 |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]                                         |
-> | [[Cards/600 - Applied Sciences/Technology/AI/NeRFs\|NeRFs]]                                                   |
 > 
 { .block-language-dataview}
 
@@ -90,14 +90,14 @@
 > These are close to living on their own, grow young sapling!
 >  | Notes                                                                                                                                  |
 > | -------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Calendar/+ MOCs/📊 Habits\|📊 Habits]]                                                                                            |
+> | [[Calendar/+ MOCs/🎲 Prompt Journal\|🎲 Prompt Journal]]                                                                            |
 > | [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]                                     |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Tools\|AI Tools]]                                                                   |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Prompting\|AI Prompting]]                                                           |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Art Debate\|AI Art Debate]]                                                         |
 > | [[Cards/600 - Applied Sciences/Technology/AI/Using Chat GPT to Generate Prompts for AI\|Using Chat GPT to Generate Prompts for AI]] |
 > | [[Cards/Zettels/Computers are machines that do math and humans are not\|Computers are machines that do math and humans are not]]    |
-> | [[Calendar/+ MOCs/🎲 Prompt Journal\|🎲 Prompt Journal]]                                                                            |
-> | [[Cards/900 - History, Biography, Geography/Biography/Elon Musk Sucks\|Elon Musk Sucks]]                                            |
 > | [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                                                          |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Music for Videos\|Music for Videos]]                                                      |
 > 
@@ -107,6 +107,8 @@
 > Grown ass notes.
 >  | Notes                                                                                              |
 > | -------------------------------------------------------------------------------------------------- |
+> | [[Cards/900 - History, Biography, Geography/Biography/Elon Musk Sucks\|Elon Musk Sucks]]        |
+> | [[+ Encounters/Free Movies and TV\|Free Movies and TV]]                                         |
 > | [[Cards/000 - Knowledge Management/The Konik Method\|The Konik Method]]                         |
 > | [[Atlas/🧊 Icebox\|🧊 Icebox]]                                                                  |
 > | [[Cards/700 - Art and Recreation/Learn to Draw Infographic\|Learn to Draw Infographic]]         |
@@ -126,8 +128,8 @@
 > - [[Spaces/🦆 Ducks Films/🌈 Project Board\|🌈 Project Board]]
 > - [[Spaces/🦆 Ducks Films/Ducks Legal\|Ducks Legal]]
 > - [[Spaces/🦆 Ducks Films/Areas/🤷‍♂️ Prospects\|🤷‍♂️ Prospects]]
-> - [[Spaces/🦆 Ducks Films/Areas/Filming Locations and Studios\|Filming Locations and Studios]]
 > - [[Spaces/🦆 Ducks Films/Areas/👤 Ducks Accounts\|👤 Ducks Accounts]]
+> - [[Spaces/🦆 Ducks Films/Areas/Filming Locations and Studios\|Filming Locations and Studios]]
 > - [[Spaces/🦆 Ducks Films/Areas/Edit Log\|Edit Log]]
 > - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Marketing\|T-Shirt Marketing]]
 > - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Market Research\|T-Shirt Market Research]]

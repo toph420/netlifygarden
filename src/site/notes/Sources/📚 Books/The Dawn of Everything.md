@@ -12,7 +12,7 @@
 >> **topics**:: [[Anthropology\|Anthropology]]
 >
 >> [!metadata]- Book Info
->> **Author**:: [[David Graeber\|David Graeber]]
+>> **Author**:: [[+ Encounters/David Graeber\|David Graeber]]
 >> **Title**:: The Dawn of Everything
 >> **URL**::
 >> **Reviewed Date**:: [[2024-06-26 \|2024-06-26 ]]

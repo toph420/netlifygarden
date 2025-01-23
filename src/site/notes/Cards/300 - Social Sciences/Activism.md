@@ -15,6 +15,8 @@
 
 > A dump of ideas for solutions, things to do
 
+## Resources
+- [Uprsising Support](https://uprisingsupport.org/further-resources/)
 - [Social Justice Organizations](https://www.startguide.org/orgs/orgs06.html) - Massive list of orgs
 - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 - [[Cards/300 - Social Sciences/Research about local activism\|Research about local activism]]

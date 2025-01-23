@@ -11,7 +11,7 @@
 >> **topics**:: [[Cards/300 - Social Sciences/Leftism\|leftism]], [[+ Encounters/Anarchism\|Anarchism]]
 >
 >> [!metadata]- Article Info
->> **Author**:: [[David Graeber\|David Graeber]]
+>> **Author**:: [[+ Encounters/David Graeber\|David Graeber]]
 >> **Title**:: Are You an Anarchist? The Answer May Surprise You!
 >> **URL**:: "https://davidgraeber.org/articles/are-you-an-anarchist-the-answer-maysurprise-you/"
 >> **Reviewed Date**:: [[2025-01-07\|2025-01-07]]

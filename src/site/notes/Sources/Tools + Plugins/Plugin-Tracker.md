@@ -22,10 +22,9 @@
 ## Guides
 - [John Mavricks Habit Tracking Tips](https://johnmavrick.notion.site/0-3-1-2f8407335d9a43ebab831d7e0e5820ab?p=019ae25085744853a6203f06afac2df2&pm=s)
 
-## Examples
-
-{ .block-language-dataview}
-
 
 ---
 up:: [[Atlas/📥 Sources\|📥 Sources]]
+
+
+

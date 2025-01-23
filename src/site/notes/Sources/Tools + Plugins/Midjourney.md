@@ -105,6 +105,7 @@
 > - [[Calendar/Journal/Daily/2023-04-02\|2023-04-02]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Ancient Scroll Diagram\|2022-12-23-PJ - Ancient Scroll Diagram]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Dream Journal Ideas\|2022-12-23-PJ - Dream Journal Ideas]]
+> - [[Calendar/Prompt Journal/2025-01-15-PJ - Zettelize Highlights\|2025-01-15-PJ - Zettelize Highlights]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/AI Resources\|AI Resources]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/AI Tools\|AI Tools]]
 > - [[Cards/600 - Applied Sciences/Technology/AI/Using Chat GPT to Generate Prompts for AI\|Using Chat GPT to Generate Prompts for AI]]

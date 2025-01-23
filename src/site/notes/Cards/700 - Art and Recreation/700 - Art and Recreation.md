@@ -86,8 +86,8 @@
 > | [[Cards/700 - Art and Recreation/Food/Food\|Food]]                                                                        |
 > | [[Cards/700 - Art and Recreation/Digital Drawing\|Digital Drawing]]                                                       |
 > | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]                        |
-> | [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]                                                    |
 > | [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]]                                                  |
+> | [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]                                                    |
 > | [[Cards/700 - Art and Recreation/Art and Design/The Origins of Art\|The Origins of Art]]                                  |
 > | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                            |
 > | [[Cards/700 - Art and Recreation/Art and Design/Drawing\|Drawing]]                                                        |

@@ -140,9 +140,14 @@ columns:
 > - [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]]
 > - [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|2024-06-11-WJ - My First Writing Entry]]
 > - [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|2024-02-15-WJ - Things I Want to Write About]]
+> - [[Calendar/Prompt Journal/2025-01-15-PJ - Zettelize Highlights\|2025-01-15-PJ - Zettelize Highlights]]
 > - [[Calendar/Prompt Journal/2025-01-07-PJ - Contemplator\|2025-01-07-PJ - Contemplator]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Dream Journal Ideas\|2022-12-23-PJ - Dream Journal Ideas]]
 > - [[Calendar/Prompt Journal/2022-12-23-PJ - Ancient Scroll Diagram\|2022-12-23-PJ - Ancient Scroll Diagram]]
+> - [[Calendar/Meetings/2025-01-23-M-Well Design - Discussing Well Design internal Fishbeck video with Amar (animation)\|2025-01-23-M-Well Design - Discussing Well Design internal Fishbeck video with Amar (animation)]]
+> - [[Calendar/Meetings/2025-01-21-M-Red Project - Red Project social media clips and Naloxone wrap up\|2025-01-21-M-Red Project - Red Project social media clips and Naloxone wrap up]]
+> - [[Calendar/Meetings/2025-01-15-M-Well Design - Well Design video projects\|2025-01-15-M-Well Design - Well Design video projects]]
+> - [[Calendar/Meetings/2025-01-15-M-LRCFA - Video Opportunities for 2025\|2025-01-15-M-LRCFA - Video Opportunities for 2025]]
 > - [[Calendar/Meetings/2025-01-14-M-AARP - Follow up with Jennifer about Painting video\|2025-01-14-M-AARP - Follow up with Jennifer about Painting video]]
 > - [[Calendar/Meetings/2024-12-11-M-Red Project - Revision Meeting\|2024-12-11-M-Red Project - Revision Meeting]]
 > - [[Calendar/Meetings/2024-11-06-M-Red Project - Discussing next steps for Naloxone Training videos\|2024-11-06-M-Red Project - Discussing next steps for Naloxone Training videos]]
@@ -150,11 +155,6 @@ columns:
 > - [[Calendar/Meetings/2024-10-31-M-Red Project - Intro to training video project\|2024-10-31-M-Red Project - Intro to training video project]]
 > - [[Calendar/Meetings/2024-10-17-M-GRCF - Revision meeting for 2024 AP\|2024-10-17-M-GRCF - Revision meeting for 2024 AP]]
 > - [[Calendar/Meetings/2024-10-16-M-Steve at Red Project - Potential training videos for Red Project\|2024-10-16-M-Steve at Red Project - Potential training videos for Red Project]]
-> - [[Calendar/Meetings/2024-09-25-M-AARP - Next steps for AARP community video\|2024-09-25-M-AARP - Next steps for AARP community video]]
-> - [[Calendar/Meetings/2024-08-28-M-AARP - Briefing with Jennifer\|2024-08-28-M-AARP - Briefing with Jennifer]]
-> - [[Calendar/Meetings/2024-08-08-M-UCC - Talking through climate ad\|2024-08-08-M-UCC - Talking through climate ad]]
-> - [[Calendar/Meetings/2024-08-07-M-UCC - Democracy and Climate Interviews\|2024-08-07-M-UCC - Democracy and Climate Interviews]]
-> - [[Calendar/Meetings/2024-07-26-M-UCC - Strategy session with Raven for UCC Everyday people campaign video\|2024-07-26-M-UCC - Strategy session with Raven for UCC Everyday people campaign video]]
 > 
 { .block-language-dataview}
 

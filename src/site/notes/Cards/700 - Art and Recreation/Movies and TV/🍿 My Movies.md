@@ -12,7 +12,6 @@
 
 > Movies movies movies! See [‎My Letterboxd Watchlist](https://letterboxd.com/xmartyxcorex/watchlist/) and "movies" tag in Raindrop
 ## Lists
-- [[Sight & Sounds 2022 Poll of the Best Films of All Time by Christian Blauvelt\|Sight & Sounds 2022 Poll of the Best Films of All Time by Christian Blauvelt]]
 - [AI related Movies](https://twitter.com/icreatelife/status/1637300116758355969?s=20)
 - [Documentaries every entrepreneur should watch](https://twitter.com/lmsqueezy/status/1644010638908243975?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [AI Movies](https://twitter.com/theaiadvantage/status/1649222136613990400?s=46&t=ltXPd0UXMbjM40a6oiE7aQ)
