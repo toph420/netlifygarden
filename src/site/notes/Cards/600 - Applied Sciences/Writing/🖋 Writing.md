@@ -35,6 +35,7 @@
 > 	- [Typetrigger](https://typetrigger.com/) - "Four times a day, we help you get the words out. Write in any genre in 300 words or less. Hit publish. Read. Be Read. Write. Now."
 > 	- [NaNoWriMo](https://nanowrimo.org/)
 > 	- [Writing a Book in Obsidian](https://pdworkman.com/write-book-with-obsidian/)
+> 	- [r/writingadvice](https://www.reddit.com/r/writingadvice/s/RkEzNEZzbK)
 > - **Places to find story ideas**
 > 	- [Reddit - Am I the Asshole?](https://www.reddit.com/r/AmItheAsshole/s/qndonGl9vm)
 > 	- [Reddit - Conspiracy](https://www.reddit.com/r/conspiracy/s/kdLdAmy9G8)
@@ -75,14 +76,15 @@
 ## Notes
 
 > [!NOTE]+ 📝 Notes (`#on/writing`)
->  | Note                                                                                                                                                                                                                                  |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Cards/600 - Applied Sciences/Writing/Writing a Book is a 5 Step process\|Writing a Book is a 5 Step process]]<span class='summary'>\-</span><span class='block'>12:27 PM - December 01, 2022</span>                              |
-> | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]<span class='summary'>Can AI really be a tool in creative writing?</span><span class='block'>12:39 PM - November 30, 2022</span>                              |
-> | [[Calendar/Ideas/Idea - Airbnb Lady\|Idea - Airbnb Lady]]<span class='summary'>A story about lady in a bad relationship, she seeks help through renters of her AirBnb</span><span class='block'>4:49 PM - November 30, 2022</span> |
-> | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]<span class='summary'>Kurt Vonneguts story shapes, graphs</span><span class='block'>11:47 AM - August 10, 2024</span>                                               |
-> | [[+ Encounters/Short Stories\|Short Stories]]<span class='summary'>Recommendations and stuff related to short stories</span><span class='block'>4:40 PM - June 24, 2024</span>                                                     |
-> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<span class='summary'>The greatest bizzaro fiction writer of all time </span><span class='block'>9:43 PM - June 25, 2024</span>                                           |
+>  | Note                                                                                                                                                                                                                                                                                                                                                 |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Cards/600 - Applied Sciences/Writing/Writing a Book is a 5 Step process\|Writing a Book is a 5 Step process]]<span class='summary'>\-</span><span class='block'>12:27 PM - December 01, 2022</span>                                                                                                                                             |
+> | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]<span class='summary'>Can AI really be a tool in creative writing?</span><span class='block'>12:39 PM - November 30, 2022</span>                                                                                                                                             |
+> | [[Calendar/Ideas/Idea - Airbnb Lady\|Idea - Airbnb Lady]]<span class='summary'>A story about lady in a bad relationship, she seeks help through renters of her AirBnb</span><span class='block'>4:49 PM - November 30, 2022</span>                                                                                                                |
+> | [[+ Encounters/Chat - Literary Writing Exercises\|Chat - Literary Writing Exercises]]<span class='summary'>Prompt: I need some exercises to get me writing, I'm interested in writing inspiration from authors like delillo, Pynchon, umberto eco, Philip k dick, bolano, Gaddis, Gass</span><span class='block'>11:11 AM - March 15, 2025</span> |
+> | [[+ Encounters/Vonneguts Story Shapes\|Vonneguts Story Shapes]]<span class='summary'>Kurt Vonneguts story shapes, graphs</span><span class='block'>11:47 AM - August 10, 2024</span>                                                                                                                                                              |
+> | [[+ Encounters/Short Stories\|Short Stories]]<span class='summary'>Recommendations and stuff related to short stories</span><span class='block'>4:40 PM - June 24, 2024</span>                                                                                                                                                                    |
+> | [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]]<span class='summary'>The greatest bizzaro fiction writer of all time </span><span class='block'>9:43 PM - June 25, 2024</span>                                                                                                                                                          |
 > 
 { .block-language-dataview}
 

@@ -13,7 +13,9 @@
 
 > Don't know what to write about? Check here for inspiration!
 
-> [!abstract] Ava
+- [[+ Encounters/Chat - Literary Writing Exercises\|Chat - Literary Writing Exercises]]
+
+> [!abstract]+ Ava
 > ### General Prompts
 > 1.  "What was the best part of your day and why?"
 > 2.  "Describe a place you've never been but would like to visit."
@@ -32,7 +34,7 @@
 > 4.  "Write a descriptive passage about a character's home, using all five senses."
 > 5.  "Write a short story that begins with the line, "I never expected to see him again, but there he was..."
 
-> [!Example|no-t] 
+> [!Example|no-t]+
 > [Writing Exercise: Stream of Consciousness - Dorrance Publishing Company](https://www.dorrancepublishing.com/writing-exercise-stream-of-consciousness/)
 > 1) Write about you- your day, what’s going on in your life right now, your desires, your fears. Don’t be afraid to get personal, no one is going to see it. The important thing is to not pick up your pen from the page. Don’t pause or hesitate- just keep writing. This will serve as the warmup for the rest of the activities.
 > 
@@ -46,7 +48,7 @@
 > 
 > 6) Think of that scene in your book that you have been struggling to write for a while (you know the one). Take a minute to picture the events as they need to unfold. Start the timer and write the scene. Don’t make it perfect, and don’t pick up your pen or stop to think… just write.
 
-> [!Example|no-t]
+> [!Example|no-t]+
 > [30 Creative Writing Prompts to Improve Your Craft | School of Continuing Studies - University of Toronto](https://learn.utoronto.ca/curiousu-blog/curiosity/30-creative-writing-prompts-improve-your-craft)
 > 
 > 1.  Use a newspaper to find ideas for writing. Can a news item prompt a short story, an editorial prompt a rebuttal, a photo prompt a setting, the classifieds prompt a catalogue poem, or the headlines prompt a found poem?" – [Patricia Westerhof](https://learn.utoronto.ca/why-continuing-studies/about-our-instructors/instructors/patricia-westerhof "Patricia Westerhof")
@@ -81,5 +83,5 @@
 > 30.  “I used to be …. but now I ….” – Beth Kaplan
 
 ---
-up:: [[🏠 Home\|🏠 Home]]
+up:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
 

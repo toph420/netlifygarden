@@ -10,21 +10,25 @@
 
 # An idea for a local media organization
 
+See [[Cards/300 - Social Sciences/Activism#Local\|Activism#Local]]
+
 I've been thinking about this for a while. We have a growing number of "independent journalists" in GR; activists, artists, organizers, writers. Here's a brain dump to keep track of these ideas:
 
-- It would not necessarily be owned or managed by me. I would be a part of it, but ultimately ownership lies in the hands of everyone involved.
+- It would not be owned or managed by me. I would be a part of it, but ultimately ownership lies in the hands of everyone involved. A horizontal responsibility. Of course leaders will emerge, but this is a community operated mission.
 - It would be left leaning, progressive, but we all know there are considerable differences within the left. I want to create a platform, a coalition of people with similar principles, but one that offers the ability to respectfully debate, present differing viewpoints. 
 	- Aligning these values may be the most difficult.
-	- Maybe sometimes we allow for completely opposite viewpoints to debate.
-- That being said, the vast majority of the platform will be focused on news, editorial, covering of issues as it relates to both [[Cards/900 - History, Biography, Geography/Geography and Travel/Grand Rapids/🏙️ Grand Rapids\|Grand Rapids]] and the greater population of the nation and world.
+	- Maybe sometimes we allow for completely opposite viewpoints to *debate*.
+	- Accruing numbers is crucial, and many laypersons aren't particularly politically inclined or motivated, but the opportunity to provoke a response, an interest in critical analysis of the current material conditions and how we can better the lives of everyone through direct action and political involvement is an ideal outcome
+- The vast majority of the platform will be focused on news, editorial, covering of issues as it relates to both [[Cards/900 - History, Biography, Geography/Geography and Travel/Grand Rapids/🏙️ Grand Rapids\|Grand Rapids]] and the greater population of the nation and world.
 - I believe in focusing our efforts **locally** in order to drive change and encourage awareness, education, where it's most likely to have an affect. Here are a few local specific priorities:
 	- Local elections and politics are important, but I don't think our community is nearly as informed as it could be and should be. 
-	- Accountability is an important part of progress. We don't want to shame people into oblivion, but rather call out when people/orgs/biz do something wrong in order to avoid repeat issues in the future. And to offer a learning experience, a lesson. 
+	- Direct action is even more important
+	- Accountability is an important part of progress. We don't want to shame people into oblivion, but rather bring attention to people/orgs/biz doing wrong in order to avoid repeat issues in the future. And to offer a learning experience, rehabilitation. 
 		- It's not about "cancelling" people. I believe strongly in redemption, second chances, and growth (in the majority of cases). Progress comes from failing, recognizing the failure, taking accountability, fixing and righting wrongs, and doing better going forward.
 	- Awareness -- there are so many awesome people, businesses, and organizations doing good around the city in a wide array of disciplines and focus areas. I believe we can assist driving awareness to these entities and encourage combining forces where possible. The more people we get encourage to get involved with orgs and initiatives that they feel passionately about, the more power in numbers we have as a collective, and the more hope for change and progress spreads into the community. 
-	- Education -- This is a big one for me. I have a myriad of interests and simply not enough time to dig into each and every topic. For example, on the left we have plenty of far left folks that consider themselves Marxist-Leninists, we also have Maoists; most people will have no clue what those words even remotely mean, but they offer an important historical context to the broader vision of progressive politics and society.
+	- Education -- This is a **big** one. I have a myriad of interests and simply not enough time to dig into each and every topic. For example, many leftists consider themselves Marxist-Leninists, then there are Anarchists; most people will have no clue what those words mean, but they offer an important historical context to the broader vision of progressive politics and society.
 		- I want to deliver people digestible, accessible content that offers a broad spectrum of ideas, and allow them to form their own conclusions and positions. 
-- I think of this as sort of a mini Vice network, or Vox. 
+- I think of this as sort of a mini Vice network, or Vox, but hyper local, perhaps statewide when necessary and/or down the road.
 - Here's how I imagine this would work:
 	- Each individual involved already either has their own style of "journalism" or has shown interest or knack for "journalism." [[Aly the Activist\|Aly the Activist]] is a prime example of someone that is doing a lot of work on her own to inform folks about protest events,  whats happening with the police and who's saying what at city commission meetings, organizing fundraisers, etc. Another example would be Asia (VenusxFlyytrap), an artist an advocate for women and bipoc. 
 	- People would continue to do their own thing, but our media organization would be a place where we can curate and highlight their efforts. Offer people a single place to go to receive a variety of different types of information (and entertainment).
@@ -50,6 +54,9 @@ I've been thinking about this for a while. We have a growing number of "independ
 	- Affordable Housing committee
 	- [[Cards/100 - Personal Management/🛸 Companies/Candor Media\|Candor Media]] - [Candor Media](https://www.instagram.com/candor_mi?igsh=MXc3aXNwZ2MyMW90Mg==)
 	- [[Kay Bianchi\|Kay Bianchi]] - writing about non profit and related sector
+- Discussion
+	- interesting Reddit thread about a protest in GR, discussing importance of efficient organizing and not alienating certain communities (in this case, anti-cap and latino) - [Reddit](https://www.reddit.com/r/grandrapids/s/TTTxK3HQQX)
+	
 - My role:
 	- I have a passion for media and a passion for driving necessary change. 
 	- I'm the video nerd, obviously I'll be helping out with the technical side of things as it relates to photo/video production.
@@ -57,7 +64,7 @@ I've been thinking about this for a while. We have a growing number of "independ
 - My Views:
 	- I wont pretend like I'm very educated or well versed in a wide range of ideologies or modes of thought. 
 	- I find myself primarily gravitating towards the anti-capitalist sentiments. Capitalism is the root cause of so many issues we have around the world. The task of dismantling it is immense and we aren't going to do it over night. I'm a big Bernie fan and union supporter.
-	- I'm a pragmatist. I think that saying "we need to get rid of capitalism" is fine, but the way to get there is slow and calculated. This is one of the main reasons for doing something like this, to educate and hear from everyone, and SUPPORT LOCAL, not these grifting, soul sucking, greedy corporations. 
+	- I think that saying "we need to get rid of capitalism" is fine, but the way to get there is slow and calculated. This is one of the main reasons for doing something like this, to educate and hear from everyone, and SUPPORT LOCAL, not these grifting, soul sucking, greedy corporations. 
 	- I want to work with and understand people of all viewpoints. Yes, even those that are super dumb and entirely wrong. People can change their mind, they're allowed to and it often occurs, but bashing people over the head with ad hominems and shunning them from discussion doesn't do much for progress and drives the wedge even further.
 -  content ideas:
 	- The differences among the left
@@ -90,6 +97,21 @@ I've been thinking about this for a while. We have a growing number of "independ
 - Johnny Harris
 - IG accounts
 	- [sunny maguire, lcsw 🌾🌹 (@the.ethical.dilemma) • Instagram photos and videos](https://www.instagram.com/the.ethical.dilemma?igsh=MW1zY3BvcDJkdTZ4eA==)
+- ⭐️ [Reddit - best left wing media sources](https://www.reddit.com/r/socialism/s/qcwfxVSg6B) - check this out !
+
+
+## People to Connect with
+- Alexa from Muskegon (Justins friend)
+- Jasmine
+- Industrial String Bands, Carsten Forester
+	- Solidarity Singers, Wren
+- FRSO - GRAARPR, PSGR
+
+
+## Content Ideas
+- [Ultimate Guide to Calling Your Reps](https://www.reddit.com/r/IronFrontUSA/s/D4tvwT8Day) - turn this into its own note and a video 
+- horrendous example of right wing/zionist propaganda from Prager U (we need these but leftist): [Prager U on Nasrallah Funeral](https://x.com/xaviaerd/status/1895548318664835418?s=46)
+
 
 ---
 up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]

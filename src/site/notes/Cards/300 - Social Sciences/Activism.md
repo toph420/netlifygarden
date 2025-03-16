@@ -21,6 +21,15 @@
 - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 - [[Cards/300 - Social Sciences/Research about local activism\|Research about local activism]]
 - [[Calendar/Meetings/2024-03-07-M-CCOS - Peoples Hearing 3 - Action\|2024-03-07-M-CCOS - Peoples Hearing 3 - Action]] - notes from peoples hearing, solutions from the community and other interesting info
+- [The Diatribe Inc - Resources Post](https://www.instagram.com/p/DFfajHoNW46/?img_index=4&igsh=MXV6ZTZiZHlibjFzcg==)
+- [r/ProtestFinderUSA](https://www.reddit.com/r/ProtestFinderUSA/s/fxsj7RMyLv)
+- [Ultimate Guide to Calling Your Reps](https://www.reddit.com/r/IronFrontUSA/s/D4tvwT8Day) - turn this into its own note and a video 
+- [Sustainable Development Wiki](https://sdgwiki.carrd.co/) - massive resource wiki
+- ⭐️ [Reddit - best left wing media sources](https://www.reddit.com/r/socialism/s/qcwfxVSg6B) - check this out !
+
+## Local
+- interesting Reddit thread about a protest in GR, discussing importance of efficient organizing and not alienating certain communities (in this case, anti-cap and latino) - [Reddit](https://www.reddit.com/r/grandrapids/s/TTTxK3HQQX)
+- [r/grandrapidsleftist](https://www.reddit.com/r/grandrapidsleftist/s/isOdJ7f5TG)
 
 ## History
 - [Rei Squirrels thread with a bunch of 60s talk show segments discussing protesting of the Vietnam war](https://x.com/zei_squirrel/status/1786017867340595656?s=46) - striking similarities to the rhetoric of todays media and how they discuss the protests of Israel’s genocide in Gaza

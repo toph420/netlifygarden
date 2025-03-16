@@ -25,7 +25,7 @@
 > - [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]
 > - [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]
 > - [[Cards/000 - Knowledge Management/Obsidian Themes\|Obsidian Themes]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
+> - [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 > - [Obsidian Eagle Folder](eagle://smart-folder/LC6U98NN4MXAG)
 > - [my-custom-styles.css](hook://file/LIYRHxxo3?p=Lm9ic2lkaWFuL3NuaXBwZXRz&n=my%2Dcustom%2Dstyles%2Ecss)
 > - **On the Web**
@@ -47,7 +47,7 @@
 > | [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]<span class='summary'>Obsidian Publish info and tips</span>                                                                                             |
 > | [[Cards/000 - Knowledge Management/Obsidian Themes\|Obsidian Themes]]<span class='summary'>Index of some of my favorite Obsidian themes</span>                                                                                 |
 > | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<span class='summary'>Examples of vaults, ideas for notes, customizing Obsidian</span>                                                                                        |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]<span class='summary'>A running list of digital gardens and second brains that are published to the web</span>                  |
+> | [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]<span class='summary'>A running list of digital gardens and second brains that are published to the web</span>                                  |
 > | [[Cards/000 - Knowledge Management/The Konik Method\|The Konik Method]]<span class='summary'>Tips from the legend herself, Eleanor Konik</span>                                                                                |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/Vault - John Mavrick\|Vault - John Mavrick]]<span class='summary'>John's vault is full of great templates for everyday use and interesting uses of different plugins</span> |
 > 
@@ -65,7 +65,7 @@
 { .block-language-dataview}
 
 > [!NOTE]- 📝 Vaults
-> See [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
+> See [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 > 
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
 > - [Welcome 🌌 - John's Idea Galaxy - Obsidian Publish](https://publish.obsidian.md/johnmavrick/000+Digital+Garden/Welcome+%F0%9F%8C%8C)
@@ -92,7 +92,7 @@
 > | [[Calendar/Journal/Daily/2023-02-07\|2023-02-07]]<span class='summary'>Just another day</span>                                                                                                                                 |
 > | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<span class='summary'>Examples of vaults, ideas for notes, customizing Obsidian</span>                                                                                        |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]<span class='summary'>This guy has a beautiful vault and some great YouTube videos</span>                                               |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]<span class='summary'>A running list of digital gardens and second brains that are published to the web</span>                  |
+> | [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]<span class='summary'>A running list of digital gardens and second brains that are published to the web</span>                                  |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]<span class='summary'>The GOAT vault, see the [[SLRvb Canvas.canvas\|SLRvb Canvas.canvas]] for a visual rundown</span>                                           |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]<span class='summary'>This guys vault is sick, great philosophies about tagging and linking</span>                                              |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/Vault - Farouks\|Vault - Farouks]]<span class='summary'>Fire vault, great little panels and buttons</span>                                                                  |
@@ -121,15 +121,15 @@
 > - [[Sources/Reddit Thread about Writing in Obsidian\|Reddit Thread about Writing in Obsidian]]
 > - [[Sources/Nick Milos Hotkey Essentials\|Nick Milos Hotkey Essentials]]
 > - [[Sources/How to Use Templater JS Scripts\|How to Use Templater JS Scripts]]
+> - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
 > - [[Cards/000 - Knowledge Management/Workflows/My Zotero Workflow\|My Zotero Workflow]]
 > - [[Cards/000 - Knowledge Management/What I want to do with Obsidian\|What I want to do with Obsidian]]
 > - [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]]
 > - [[Cards/000 - Knowledge Management/Tags\|Tags]]
 > - [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Thoughts\|SLRvb Thoughts]]
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
+> - [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Thoughts\|SLRvb Thoughts]]
 > - [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
-> - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
 > - [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > - [[Calendar/Journal/Daily/2022-10-23\|2022-10-23]]
 > 

@@ -22,9 +22,9 @@
 > [!NOTE]+ 📝 Notes (`#on/economics`)
 >  | Note                                                          | Summary                                                     |
 > | ------------------------------------------------------------- | ----------------------------------------------------------- |
+> | [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]     | The Antichrist                                              |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]           | My research into Leftist politics and economics             |
 > | [[Cards/300 - Social Sciences/Conservatism\|Conservatism]] | Research and outline of conservative politics and economics |
-> | [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]     | The Antichrist                                              |
 > | [[+ Encounters/Communism\|Communism]]                      | Yep                                                         |
 > 
 { .block-language-dataview}

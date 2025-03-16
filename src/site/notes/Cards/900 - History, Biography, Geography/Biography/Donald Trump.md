@@ -15,5 +15,9 @@
 - [Trumps Indictment Thread by Metro Adlib](https://twitter.com/metroadlib/status/1667248343255220227?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [Trump Assassination Attempt](https://x.com/goodliontv/status/1812498902387450305?s=46)
 
+## Corruption
+
+![Donald Trump - .png](/img/user/Extras/Attachments/Donald%20Trump%20-%20.png)
+
 ---
 up:: [[Cards/900 - History, Biography, Geography/Prominent People\|Prominent People]]

@@ -12,13 +12,13 @@
 > [!NOTE|no-t clean]
 > ## 🟥 Not Processed
 > 
->  | Source                                                                                                                                                                                      |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Clippings/2025-01-23 - Reddit - What can anarchists in America do right now\|What can anarchists in America do right now?]]                                                    |
-> | [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|what is the anarchist consensus on dialectical/historical materialism?]] |
-> | [[Sources/📚 Books/J R\|J R]]                                                                                                                                                            |
-> | [[Sources/📚 Books/The Conquest of Bread\|The Conquest of Bread]]                                                                                                                        |
-> | [[Sources/📰 Articles/Life Without Law\|Life Without Law]]                                                                                                                               |
+>  | Source                                                                                                                                      |
+> | ------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📚 Books/White Noise\|White Noise]]                                                                                            |
+> | [[Sources/📚 Books/Invisible Cities\|Invisible Cities]]                                                                                  |
+> | [[Sources/📚 Books/Song of Solomon\|Song of Solomon]]                                                                                    |
+> | [[Sources/📚 Books/A New History of Western Philosophy\|A New History of Western Philosophy]]                                            |
+> | [[Sources/📰 Articles/So that we may become good - Nicomachean Ethics Book II\|So that we may become good - Nicomachean Ethics Book II]] |
 > 
 { .block-language-dataview}
 

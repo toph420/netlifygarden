@@ -31,9 +31,9 @@ A larger machine was assembled from a variety of the whizzing machines from abov
 
 "Um, hi. I'm Howie."
 
-The modular being conjured a beautiful chromatic chalice and handed it to Howie. A worker from the sky stopped above him and conducted a brief spinning maneuver. It deployed a stream of blue liquid into the chalice, took what appeared to be a bow, and zoomed back into it's designated path.
+The modular being conjured a chromatic chalice and handed it to Howie. A worker from the sky stopped above him and conducted a brief spinning maneuver. It deployed a stream of blue liquid into the chalice, took what appeared to be a bow, and zoomed back into its designated path.
 
-Parched, Howie didn't ask questions and chugged the mystery liquid. Immediately Howie's burns and bruises diminished as if nothing had happened. Now he was freaked out. 
+Parched, Howie didn't ask questions and chugged the mystery liquid. Immediately Howie's burns and bruises diminished as if nothing had happened. This was too much.
 
 He peered past the being, across the vast expanse of the jungle drenched cityscape. The air was crisp and clear, he could see for miles. *There was a wall. It did not look important. It was built of uncut rocks roughly mortared.*
 
@@ -47,13 +47,13 @@ He peered past the being, across the vast expanse of the jungle drenched citysca
 
 Harvey's phone dings. Another delivery. But this one had a note attached to it. "Don't waste my time and I won't waste yours." And a phone number to call. He didn't recognize the area code.
 
-Another notification came through, this time a Venmo transaction for $200. Who is this? How do they know my Venmo information? Do I know this person?
+Another notification came through, this time a Venmo transaction for $200. Who is this? How do they have my info? Do I know this person?
 
-Adrenaline coursed through his veins, a combination of hostility toward the fluffy haired frat boys and the mysterious opportunity that awaits. 
+Adrenaline coursed through his veins, a combination of hostility toward the beer breath frat boys and the opportunity that awaits. 
 
-Harvey married at a young age, gave himself entirely to his marriage, to loving his wife, to creating a comfortable life to build a family. One afternoon, on the way to one of his many doctor appointments, he received an apologetic call from the receptionist, "Mr. Harvey, Dr. Kantor was in a car accident on his way back from lunch so we'll need to reschedule." He turned around and headed home, perhaps his wife would enjoy an afternoon hike in the woods.
+Harvey married at a young age, gave himself entirely to his marriage, to loving his wife, to creating a comfortable life to build a family. One afternoon, on the way to a doctor appointment,  he received an apologetic call from the receptionist, "Mr. Harvey,Dr. Kantor was in a car accident on his way back from lunch so we'll need to reschedule." He turned around and headed home, perhaps his wife would enjoy an afternoon hike in the woods.
 
-An electric skateboard was propped up against the garage door. Harvey glanced at the board, what the hell is that? The door was locked. As soon as he inserted his key, he heard commotion, a window slam, and caught a glimpse of the skinny tan frosted tips neighbor kid scurry through the backyard bushes, naked. The image of that Coppertone butt was that last thing Harvey saw before skipping town with a gym bag full of clothes, a toothbrush, and a 2003 first place wrestling trophy. 
+An electric skateboard was propped up against the garage door. Harvey glanced at the board, what the hell is that? The door was locked. As soon as he inserted his key, he heard commotion, a window slam, and caught a glimpse of the skinny tan frosty tipped neighbor kid scurry through the backyard bushes naked. The image of that Coppertone butt was that last thing Harvey saw before skipping town with a gym bag full of clothes, a toothbrush, and a 2003 first place wrestling trophy. 
 
 Harvey didn't take shit from anybody. His chronic illness stripped him of so much, but his pride and dignity remained. 
 

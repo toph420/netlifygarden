@@ -30,6 +30,7 @@ Elsewhere:
 
 | Entries                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/Writing Journal/2025-03-15-WJ - Sporty Twins and the Capitalist\|Sporty Twins and the Capitalist]]<span class=summary>A writing session based on a weird dream I had last night with some twins and a (literally) filthy capitalist.</span>                                                                    |
 | [[Calendar/Writing Journal/2024-07-02-WJ - The Chiropractor\|The Chiropractor]]<span class=summary>Updates on my reading progress and an experiment in Bizarro fiction storytelling</span>                                                                                                                                |
 | [[Calendar/Writing Journal/2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante\|Continuing Harvey, Aspiring Stuntman Doordash Vigilante]]<span class=summary>A writing entry continuing a bit of Harveys story from [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]] and exercises</span> |
 | [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|Everything he said that day was bullshit]]<span class=summary>A writing prompt inspired by a conversation with my dad</span>                                                                                                         |
@@ -82,46 +83,46 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/David Graeber\|David Graeber]]<br><span class='block'>11:37 PM - January 22, 2025</span>          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Free Movies and TV\|Free Movies and TV]]<br><span class='block'>3:40 PM - January 22, 2025</span> | <span class='center-block'>🌲</span> |
-> | [[Cards/Stock Photography\|Stock Photography]]<br><span class='block'>2:13 PM - January 20, 2025</span>          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Hot Dogs\|Hot Dogs]]<br><span class='block'>11:52 PM - January 19, 2025</span>                    | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Philosophy\|Philosophy]]<br><span class='block'>9:24 PM - January 18, 2025</span>                 | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                             | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+> | [[+ Encounters/Chat - Literary Writing Exercises\|Chat - Literary Writing Exercises]]<br><span class='block'>11:11 AM - March 15, 2025</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Sigil\|Sigil]]<br><span class='block'>12:54 AM - March 11, 2025</span>                                                         | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Philosopher Table\|Philosopher Table]]<br><span class='block'>11:39 PM - March 08, 2025</span>                                 | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/James Joyce\|James Joyce]]<br><span class='block'>10:00 AM - March 04, 2025</span>                                             | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Fashion\|Fashion]]<br><span class='block'>9:04 PM - March 02, 2025</span>                                                      | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                                 | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/300 - Social Sciences/Activism\|Activism]]<br><span class='block'>2:51 PM - January 23, 2025</span>                                       | <span class='center-block'>🌱</span> |
-> | [[Cards/900 - History, Biography, Geography/Biography/Elon Musk Sucks\|Elon Musk Sucks]]<br><span class='block'>1:43 AM - January 23, 2025</span> | <span class='center-block'>🌲</span> |
-> | [[Cards/100 - Personal Management/💪 Health/💪 Health\|💪 Health]]<br><span class='block'>1:43 AM - January 23, 2025</span>                       | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/David Graeber\|David Graeber]]<br><span class='block'>1:43 AM - January 23, 2025</span>                                            | <span class='center-block'>🌞</span> |
-> | [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|My Movies]]<br><span class='block'>1:43 AM - January 23, 2025</span>                 | <span class='center-block'>🌱</span> |
+>  | Note                                                                                                                                             | Status                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+> | [[+ Encounters/Chat - Literary Writing Exercises\|Chat - Literary Writing Exercises]]<br><span class='block'>11:50 AM - March 15, 2025</span> | <span class='center-block'>🌞</span> |
+> | [[Cards/600 - Applied Sciences/Writing/Writing Prompts\|Writing Prompts]]<br><span class='block'>11:50 AM - March 15, 2025</span>             | <span class='center-block'>🌿</span> |
+> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]<br><span class='block'>3:26 PM - March 14, 2025</span>                      | <span class='center-block'>🌱</span> |
+> | [[+ Encounters/Sigil\|Sigil]]<br><span class='block'>3:39 AM - March 11, 2025</span>                                                          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Communism\|Communism]]<br><span class='block'>11:05 PM - March 10, 2025</span>                                                 | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                                                          | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Clippings/2025-01-23 - Reddit - What can anarchists in America do right now\|What can anarchists in America do right now?]]<br><span class='block'>2:41 PM - January 23, 2025</span>                                                                               | <span class='center-block'>🟥</span> |
-> | [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|what is the anarchist consensus on dialectical/historical materialism?]]<br><span class='block'>8:45 PM - January 16, 2025</span>                            | <span class='center-block'>🟥</span> |
-> | [[Sources/Clippings/2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation\|'Three parties that mattered': extract from Homage to Catalonia \]]<br><span class='block'>11:20 PM - January 15, 2025</span> | <span class='center-block'>🟧</span> |
-> | [[Sources/📜 Papers/The Philosophical Roots of the Marx-Bakunin Conflict\|The Philosophical Roots of the Marx-Bakunin Conflict]]<br><span class='block'>11:20 PM - January 14, 2025</span>                                                                                   | <span class='center-block'>🟨</span> |
-> | [[Sources/📚 Books/J R\|J R]]<br><span class='block'>8:06 PM - January 12, 2025</span>                                                                                                                                                                                       | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                              | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/White Noise\|White Noise]]<br><span class='block'>9:46 PM - March 15, 2025</span>                                                                                             | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Invisible Cities\|Invisible Cities]]<br><span class='block'>10:36 PM - March 14, 2025</span>                                                                                  | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Song of Solomon\|Song of Solomon]]<br><span class='block'>7:35 PM - March 12, 2025</span>                                                                                     | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/A New History of Western Philosophy\|A New History of Western Philosophy]]<br><span class='block'>1:58 AM - March 08, 2025</span>                                             | <span class='center-block'>🟥</span> |
+> | [[Sources/📰 Articles/So that we may become good - Nicomachean Ethics Book II\|So that we may become good - Nicomachean Ethics Book II]]<br><span class='block'>11:04 PM - March 04, 2025</span> | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                                                                    | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/Clippings/2025-01-23 - Reddit - What can anarchists in America do right now\|2025-01-23 - Reddit - What can anarchists in America do right now]]<br><span class='block'>3:06 PM - January 23, 2025</span>                                                                    | <span class='center-block'>🟥</span> |
-> | [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism]]<br><span class='block'>8:46 PM - January 16, 2025</span>                  | <span class='center-block'>🟥</span> |
-> | [[Sources/Clippings/2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation\|2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation]]<br><span class='block'>12:41 AM - January 16, 2025</span> | <span class='center-block'>🟧</span> |
-> | [[Sources/Tools + Plugins/Plugin-Tracker\|Plugin-Tracker]]<br><span class='block'>12:07 AM - January 16, 2025</span>                                                                                                                                                                   | <span class='center-block'>🟥</span> |
-> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]<br><span class='block'>11:48 PM - January 14, 2025</span>                                                                                                                                   | <span class='center-block'>🟨</span> |
+>  | Source                                                                                                                                                   | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/White Noise\|White Noise]]<br><span class='block'>9:52 PM - March 15, 2025</span>                                                  | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Invisible Cities\|Invisible Cities]]<br><span class='block'>10:40 PM - March 14, 2025</span>                                       | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Song of Solomon\|Song of Solomon]]<br><span class='block'>7:52 PM - March 12, 2025</span>                                          | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/A New History of Western Philosophy\|A New History of Western Philosophy]]<br><span class='block'>12:17 PM - March 10, 2025</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Slaughterhouse-Five\|Slaughterhouse-Five]]<br><span class='block'>11:56 PM - March 04, 2025</span>                                 | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

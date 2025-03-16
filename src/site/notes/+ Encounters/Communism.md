@@ -15,8 +15,7 @@
 
 > Yep
 
-
-![Communism - frida.png](/img/user/Extras/Attachments/Communism%20-%20frida.png)
+![Communism - anticomm.png](/img/user/Extras/Attachments/Communism%20-%20anticomm.png)
 
 ---
 up:: [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]

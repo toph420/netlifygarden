@@ -17,6 +17,11 @@
 - Check out my [Profile on Podchaser](https://www.podchaser.com/users/me92363) and [A guys spreadsheet of podcasts and huge list of resources](https://docs.google.com/spreadsheets/d/e/2PACX-1vTn9PbJWlKQrFSxAL2MLpydNrevQehpAGbxh1_h6i90gZRRr8OMEMFiWuIvozM_Me_HRHkduRofYmI4/pubhtml#)
 - [Audio Fiction Search Database](https://audiofiction.co.uk/search2.php?language=English&format=Audio+Drama&continuity=Serial&inex1=Include&genre1=Horror&order=newest&form_submit=Search)
 - https://audiodrama.directory/
+
+## Current
+- Mysteries of Derlin County
+- Mission: Rejected
+- Philosophize This!
 ## Pods I Listen To
 - [[Darknet Diaries\|Darknet Diaries]]
 - [[Rabbits\|Rabbits]]
@@ -46,6 +51,7 @@
 - ⭐️ [[Wake of Corrosion\|Wake of Corrosion]]
 - ⭐ [[Midst\|Midst]]
 	- [List of Midst episodes - Critical Role](https://criticalrole.miraheze.org/wiki/List_of_Midst_episodes) - succinct summaries of episodes
+- Mission: Rejected - fun cozy investigative, great acting and sound design
 
 ## Pods to Check Out
 
@@ -70,7 +76,8 @@
 	- [Stream episode Mythos by Julian Simpson](https://soundcloud.com/purehokum/mythos2018)
 	- [Who is Aldrich Kemp? - Chapter One: Clara Page](https://www.bbc.co.uk/programmes/m0014gtt)
 
-
+## Cozy
+- [Reddit - Favorite Happy or Funny](https://www.reddit.com/r/audiodrama/s/Rq5dGUsA0G)
 ## Horror (ish?)
 - ![F4D3108C-BC9E-4E95-B66A-B2A089B8FD07.jpeg](/img/user/Extras/Attachments/F4D3108C-BC9E-4E95-B66A-B2A089B8FD07.jpeg)
 - big new thread - [Horror fiction reccommendations](https://www.reddit.com/r/audiodrama/s/BwSev4q5AX)
@@ -109,6 +116,7 @@
 
 ## Old Time Radio
 - https://www.oldradioworld.com/
+- https://fourble.co.uk/podcasts
 
 ---
 up:: [[Atlas/📥 Sources\|📥 Sources]]

@@ -34,7 +34,7 @@ The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowled
 - [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]] | [[Atlas/🧊 Icebox\|🧊 Icebox]]
 - [[Calendar/+ MOCs/🪵 Log\|🪵 Log]] | [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]] | [[🏹 Action\|🏹 Action]]
 - [[Atlas/🗺 Maps\|🗺 Maps]] 
-- [[Sources/Tools + Plugins/Obsidian\|Obsidian]] | [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
+- [[Sources/Tools + Plugins/Obsidian\|Obsidian]] | [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 
 ## 100 - Personal Management
 

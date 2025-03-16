@@ -24,6 +24,7 @@ I use [[Soundly\|Soundly]], it's awesome! Also, generate your own sfx with [Elev
 - [James Masi](https://www.instagram.com/via.masi/profilecard/?igsh=MXJvODhndXU3eTR0dQ==) - This guy has a bunch of SFX examples
 	- [SFX Examples with Names](https://www.instagram.com/reel/DAOHbMppe7W/?igsh=MW82eWZ1bGJveDh6dQ==)
 	- [More SFX Examples](https://www.instagram.com/reel/DATAi4MptJ5/?igsh=amluN3hqOGttOWox)
+- https://krotos.studio/ - Krotos allows you to make your own sound effects using existing or from their library, also AI tools for image and sound to generate sounds, **very cool**
 
 ## SFX Packs
 - [The Ultimate Sound FX Bundle (ALL-IN-ONE) - 5000+](https://ocularsounds.com/products/the-ultimate-sound-fx-bundle)

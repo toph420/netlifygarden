@@ -6,19 +6,26 @@
 >
 >> [!metadata]- Meta
 >> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
->> **type**:: #📥/📚/reading 
+>> **type**:: #📥/📚/completed 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books
->> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]], [[Horror\|Horror]]
+>> **topics**:: Horror
 >
 >> [!metadata]- Book Info
 >> **Author**:: [[qntm\|qntm]]
 >> **Title**:: There Is No Antimemetics Division
 >> **URL**::
->> **Reviewed Date**:: [[2024-08-31 \|2024-08-31 ]]
->> **Finished Year**:: [[2024\|2024]]
+>> **Reviewed Date**:: [[2025-02-24 \|2025-02-24 ]]
+>> **Finished Year**:: [[2025\|2025]]
+>> **Rating**:: 3.75
 
 # There Is No Antimemetics Division
+
+> [!summary]+
+> **summary**:: 
+
+> [!Ava]- AI Highlight Analysis
+> Take a look at all of my highlights, denoted here by unique ids. Ignore the single word highlights, some contain definitions below them, those can be combined in a "Words" list with definitions of each which we will do later. Given the other highlights, and the personal notes I made below them for some of them, give me a short essay describing the themes of the book, use quotes from the highlights and include outside sources if you find it helpful.
 
 ## Thoughts
 
@@ -108,3 +115,68 @@
 ### id765092186
 
 > boondoggle <span class='highlight-link'>[🔗](https://read.readwise.io/read/01j6gkr4dz7kdg2sg88vhhnaqb)</span>
+
+### id855375199
+
+> She's Wile E. Coyote, she's already run off the edge of a precipice into clear air, and thinking that thought would be like looking down. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmn5k6cz5yp19ac4aryjdgqe)</span>
+
+### id855886174
+
+> arcology <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmrnt4rcng13n3j123b75aw9)</span>
+
+- [N] arcology (noun): a large, self-sustaining ecological city designed to minimize land use and environmental impact 🌍🏙️
+
+### id856224688
+
+> Immemorial <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmthkztbmhjvqaf6pgs381af)</span>
+
+- [N] The big rock structure and the new hire. Good one!
+
+### id856276683
+
+> ossuary <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmtw4ycz9x8td41eqyjscxde)</span>
+
+- [N] ossuary (noun): a container or space for holding the bones of the dead; a bone repository ⚰️💀
+
+### id856278097
+
+> prevaricate <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmtwcyk1k6qbg1x69h79ybm6)</span>
+
+- [N] prevaricate (verb): to speak or act in an evasive way; to avoid giving a direct answer 🤥🌀
+
+### id856279899
+
+> Apollyon <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmtx4sv26cedzqkqrfwmeszp)</span>
+
+- [N] Apollyon (noun): a figure representing destruction or a demonic entity; often associated with the Devil in biblical context. 😈🔥
+
+### id856281988
+
+> He has more ideas, but there is, mechanically, no way to start working on the problem. It would eviscerate him the moment he tried to comprehend the entire problem. He'd need to design and build the box while *already inside the box he was building*. He would need to box the *universe*. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmtxjfvnzn4dcfxtzp6sd87s)</span>
+
+### id856294872
+
+> sigil <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmtzm7jeshnwcpwst02r6e78)</span>
+
+- [N] sigil (noun): a symbol or sign with magical or mystical significance; often used in rituals or to represent concepts. 🌀🔮
+
+### id856299547
+
+> Before the end of the first month, he had proven to his satisfaction that the countermeme he was searching for existed beyond the comprehension of human intellect. A human being's mind would figuratively burst into flame upon contact with it; it was quite possible that their literal body would too, as a violent reaction to the profound, unalterable wrongness of every aspect of the universe around it. To create the countermeme, he would need to start from a human carrier of a suitable, "single-celled" base idea, and amplify that idea artificially using a machine. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmv0w77ah8z1rw4ben2kt490)</span>
+
+### id856301009
+
+> "There's an (anti)memetic monster called SCP-3125," she says. "It killed me, and the Division, and the Foundation, and now it's occupying our whole reality. It ruins humans. It's the worst thing that's ever existed. There's no one left but you and you can't stop it. You can't even look at it. Hughes needs an idea to amplify, so you took a lethal dose of biochemical mnestic to reify me properly, because I was the best idea you had. Does that cover it?" <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmv1gj3cne61xbgr8vxa43y1)</span>
+
+### id856301196
+
+> She feels it, now. She knows in her bones that she is *irreal*; an animate memory; an ideal, an abstract. When she started to exist a few moments ago she was mostly realistic, but she can feel flaws and complexity being stripped away from her. She can see the shape of the idea complex which Hughes is assembling around her. It looks familiar. It looks like a heavily reworked slice through the concept of the Foundation itself. The Foundation's noblest intentions and achievements, at least. The best purpose of its existence: to protect people. To swallow up all the horror, to manage it and understand it, to keep it under lock and key, so that *people don't have to be afraid*. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmv1jk0sjtn80yp47pwrdmwg)</span>
+
+### id856301840
+
+> "But if we have learned nothing else, we have learned this: humans can walk away from, and forget, *anything*. Civilization can go back to 'normal' after *anything*." <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmv1w9hwb4697wgyctk6wnx8)</span>
+
+### id856302042
+
+> He says, "Last time. The time before this one, the time *none* of us remember, the time for which there is *no* evidence of any kind, but which I now realise must exist. That time, when we told ourselves and each other, 'We must do better,' what did we do differently, from then on, and why didn't it work?"
+> He says, "What does the Foundation need to be? *Where* does it need to be, and how far is that place from here? Can we see it from here? <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jmv1z08eryh6ra5hbwg0xfn4)</span>

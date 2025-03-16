@@ -84,14 +84,14 @@
 > | [[Cards/700 - Art and Recreation/Internet Cretors/The Downfall of Channel 5 \|The Downfall of Channel 5 ]]                |
 > | [[Cards/700 - Art and Recreation/Internet Cretors/H3 Podcast\|H3 Podcast]]                                                |
 > | [[Cards/700 - Art and Recreation/Food/Food\|Food]]                                                                        |
-> | [[Cards/700 - Art and Recreation/Digital Drawing\|Digital Drawing]]                                                       |
+> | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                            |
+> | [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]                                                    |
 > | [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]                        |
 > | [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]]                                                  |
-> | [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]                                                    |
 > | [[Cards/700 - Art and Recreation/Art and Design/The Origins of Art\|The Origins of Art]]                                  |
-> | [[Cards/700 - Art and Recreation/Art and Design/Fonts\|Fonts]]                                                            |
-> | [[Cards/700 - Art and Recreation/Art and Design/Drawing\|Drawing]]                                                        |
 > | [[Cards/700 - Art and Recreation/Art and Design/Design Assets\|Design Assets]]                                            |
+> | [[Cards/700 - Art and Recreation/Art and Design/Drawing\|Drawing]]                                                        |
+> | [[Cards/700 - Art and Recreation/Art and Design/Digital Drawing\|Digital Drawing]]                                        |
 > 
 { .block-language-dataview}
 
@@ -110,8 +110,8 @@
 > - [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
 > - [[Cards/700 - Art and Recreation/Funny/🤣 LOL\|🤣 LOL]]
 > - [[Cards/700 - Art and Recreation/Food/Food\|Food]]
-> - [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]
 > - [[Cards/700 - Art and Recreation/Art and Design/UI Design\|UI Design]]
+> - [[Cards/700 - Art and Recreation/Art and Design/Vintage User Interfaces\|Vintage User Interfaces]]
 > - [[Atlas/📚 Library\|📚 Library]]
 > 
 { .block-language-dataview}

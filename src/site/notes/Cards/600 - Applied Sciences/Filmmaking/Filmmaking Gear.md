@@ -20,9 +20,10 @@
 - [Ulanzi LT028 40W Portable LED Video Light L032GBB1 – ULANZI](https://www.ulanzi.com/products/ulanzi-lt028-portable-40w-led-video-light-l032gbb1)
 - ⭐️ [Amazon.com: Aputure Amaran PT4c,Pixel Tube Light,16 RGBWW Pixels Tube LED,32W Power (120cm/47.2Inch) Amaran T4C : Electronics](https://a.co/d/iy0NWa9)
 - External VND and filters - https://www.mofage.store/
+- ⭐️ [Osmo Pocket 3](https://store.dji.com/product/osmo-pocket-3?vid=153291) - this thing looks awesome, great picture and audio quality
 
-## Focus
-- https://www.smallrig.com/global/SmallRig-Follow-Focus-F60-3850.html
+### Film Gear Brands
+- [SHAPE - Camera accessories brand for all content creators](https://www.shapewlb.com/)
 
 ## Tripod
 - nice 1 step tripod from sirui - [New Releases: SIRUI SQ75 Rapid System One-step Height Adjustment Twin-leg Tripod Kit With VHS-10 Professional Fluid Head](https://store.sirui.com/products/sirui-sq75-rapid-system-one-step-height-adjustment-twin-leg-tripod-kit-with-vhs-10-professional-fluid-head?utmid=meproduct7&from=hp)

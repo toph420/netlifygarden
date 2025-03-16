@@ -21,11 +21,14 @@
 - [WTF Movies](https://x.com/thecinesthetic/status/1712201287184548325?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 - [Agnes Vardas top 100](https://x.com/dannydrinkswine/status/1775600347353862192?s=46)
 - [Funny Movie twitter thread](https://x.com/emmatolkin/status/1802551728434499921?s=46)
+- [movies that feel like gravity's rainbow](https://www.reddit.com/r/ThomasPynchon/s/zFhC0kuitc)
+- [Vuhlandes black history month reccs](https://x.com/vuhlandes/status/1886242633439379648?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 
 ## Twitter Movie People
 - [Emir Han](https://x.com/realemirhan?s=21&t=ltXPd0UXMbjM40a6oiE7aQ) - great lists in his comments
 - [Taste of Cinema](https://x.com/davidcinema?s=21)
 - [Depressed Bergman](https://x.com/dannydrinkswine?s=21)
+
 ## To Watch
 - [All watched over by machines of loving grace - Adam Curtis](https://topdocumentaryfilms.com/all-watched-over-by-machines-of-loving-grace/)
 - [All Wars are Bankers Wars documentary](https://x.com/inversionism/status/1711161404772806973?s=61&t=gyRX2W0x81b80X8f34EMoQ)

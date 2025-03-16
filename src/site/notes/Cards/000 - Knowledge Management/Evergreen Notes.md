@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
+> **up**:: [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  
@@ -39,5 +39,5 @@ Everyone has a slightly different definition of what an Evergreen Note is to the
 > [[Sources/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]
 
 ---
-up:: [[🏠 Home\|🏠 Home]]
+up:: [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 

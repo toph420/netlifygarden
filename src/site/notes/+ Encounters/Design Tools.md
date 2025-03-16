@@ -18,7 +18,7 @@
 See Raindrop "Tools" collection
 
 - https://constraint.systems/ - 32 alternative interfaces for creating and editing images and text
-- manekan.app - automatic mockups of designs on apparel, billboards, signs
+- [manekan.app](https://www.maneken.app/) - automatic mockups of designs on apparel, billboards, signs
 
 
 ---

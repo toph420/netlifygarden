@@ -39,6 +39,9 @@
 - [Charlie Hebdo art - omg](https://x.com/charlie_hebdo_/status/1879891356945891454?s=46)
 - [Charlie Hebdo art 2 - lol](https://x.com/charlie_hebdo_/status/1879966901918380155?s=46)
 - [Elon does Nazi salute and Trump inauguration](https://x.com/thatguyintwitmo/status/1881506713779769751?s=46)
+- [Elons Grimes abuse](https://www.reddit.com/r/Grimes/s/DnHU05N7qM)
+- [Elons Election Interference Machine](https://x.com/p_kallioniemi/status/1891838354523558290?s=46)
+- [Elons Texas SpaceX Bullshit](https://x.com/moreperfectus/status/1892343609522815466?s=46)
 
 ## Twitter Corruption
 
@@ -46,9 +49,15 @@
 
 ![Elon Musk Sucks - whistleblower2.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20whistleblower2.png)
 
+![Elon Musk Sucks - grok.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20grok.png)
+
 ## Miscellaneous
 
+![Elon Musk Sucks - aush.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20aush.png)
+
 ![Elon Musk Sucks - Elon owned.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elon%20owned.png)
+
+![Elon Musk Sucks - hunger.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20hunger.png)
 
 ![Elon Musk Sucks - Elonneuralink.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20Elonneuralink.png)
 
@@ -59,6 +68,13 @@
 ![Elon Musk Sucks - concerning.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20concerning.png)
 
 ![Elon Musk Sucks - elontrump.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20elontrump.png)
+
+![IMG_1919.png](/img/user/Extras/Attachments/IMG_1919.png)
+
+![Elon Musk Sucks - tesla.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20tesla.png)
+
+![Elon Musk Sucks - ket.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20ket.png)
+
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

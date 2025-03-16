@@ -8,7 +8,7 @@
 > **status**:: #📝/🌿 
 > **tags**:: #on/obsidian #on/pkm #on/vaults
 > **topics**:: 
-> **links**:: [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
+> **links**:: [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 
 
 # Obsidian Vaults
@@ -19,7 +19,7 @@
 | File                                                                                               |
 | -------------------------------------------------------------------------------------------------- |
 | [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]         |
-| [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]] |
+| [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]                 |
 | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]             |
 | [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]                 |
 | [[Cards/000 - Knowledge Management/Obsidian Vaults/Vault - Farouks\|Vault - Farouks]]           |

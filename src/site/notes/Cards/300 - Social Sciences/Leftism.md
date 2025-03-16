@@ -38,20 +38,20 @@
 > - [[+ Encounters/Noam Chomsky\|Noam Chomsky]]
 > - [[+ Encounters/Mikhail Bakunin\|Mikhail Bakunin]]
 > - [[+ Encounters/Liberalism\|Liberalism]]
-> - [[+ Encounters/Communism\|Communism]]
 > - [[+ Encounters/Anarchism\|Anarchism]]
+> - [[+ Encounters/Communism\|Communism]]
 > 
 { .block-language-dataview}
 
 > [!note]+ Sources
->  - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+>  - [[Sources/Clippings/2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation\|2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation]]
+> - [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism]]
+> - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
 > - [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/📰 Articles/Life Without Law\|Life Without Law]]
 > - [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]]
 > - [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]
 > - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
-> - [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism]]
-> - [[Sources/Clippings/2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation\|2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation]]
 > - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]
 > - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
 > 

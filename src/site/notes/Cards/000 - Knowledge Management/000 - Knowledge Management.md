@@ -94,7 +94,7 @@
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Popover-Popup\|Popover-Popup]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Progress bar vault launch\|Progress bar vault launch]]
 > - [[Cards/000 - Knowledge Management/Progressive Summarization\|Progressive Summarization]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/Public Second Brains\|Public Second Brains]]
+> - [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Resizable Mermaid\|Resizable Mermaid]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Ribbons\|Ribbons]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Scroll bar\|Scroll bar]]
@@ -165,7 +165,9 @@
 { .block-language-dataview}
 
 > [!attention]- Untagged Notes (`-#on/pkm`)
->  
+>  - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
+> - [[Cards/000 - Knowledge Management/Evergreen Notes\|Evergreen Notes]]
+> 
 { .block-language-dataview}
 
 

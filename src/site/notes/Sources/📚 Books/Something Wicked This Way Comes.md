@@ -6,21 +6,30 @@
 >
 >> [!metadata]- Meta
 >> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
->> **type**:: #📥/📚/reading 
+>> **type**:: #📥/📚/completed 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books
->> **topics**:: [[Horror\|Horror]]
+>> **topics**:: SF
 >
 >> [!metadata]- Book Info
 >> **Author**:: [[Ray Bradbury\|Ray Bradbury]]
 >> **Title**:: Something Wicked This Way Comes
 >> **URL**::
->> **Reviewed Date**:: [[2024-07-17 \|2024-07-17 ]]
->> **Finished Year**:: [[2024\|2024]]
+>> **Reviewed Date**:: [[2025-02-22 \|2025-02-22 ]]
+>> **Finished Year**:: [[2025\|2025]]
+>> **Rating**:: 4.25
 
 # Something Wicked This Way Comes
 
+> [!summary]+
+> **summary**:: In the autumn of 1954, two 13-year-old boys, Will Halloway and Jim Nightshade, encounter a mysterious traveling carnival that arrives in their small Illinois town. This carnival, operated by the enigmatic Mr. Dark, has the power to grant people's secret desires, but at a terrible cost. As the townspeople succumb to the carnival's allure, Will and Jim, with the help of Will's father, Charles Halloway, discover the dark secrets behind the carnival and fight to save their town from its sinister influence, confronting themes of good versus evil, the loss of innocence, and the fear of aging.
+
+
+> [!Ava]- AI Highlight Analysis
+> Take a look at all of my highlights, denoted here by unique ids. Ignore the single word highlights, some contain definitions below them, those can be combined in a "Words" list with definitions of each which we will do later. Given the other highlights, and the personal notes I made below them for some of them, give me a short essay describing the themes of the book, use quotes from the highlights and include outside sources if you find it helpful.
+
 ## Thoughts
+A wild carousel ride through puberty and midlife crisis. Beautiful prose, wicked story.
 
 ## Highlights
 ### id746123827
@@ -300,12 +309,6 @@
 >     Her eyes, flexed wide as from blasts of photographic powder, were skinned white like a statue's. Deep under the glass, she spoke. She murmured. She whimpered. Now she cried. Now she shouted. Now she yelled. She knocked glass with her head, her elbows, tilted drunken as a light-blind moth, raised her hands in claws. 'Oh God! Help!' she wailed. 'Help, oh God!' <span class='highlight-link'>[🔗](https://read.readwise.io/read/01j2wj1fr4rg5szsk9jj431j1m)</span>
 
 - [N] First actual scary thing to happen aside from the boys watching the night carnival
-
-### id746129739
-
-> Any boy hit by lightning, lift his lid and there on his eyeball, pretty as the Lord's prayer on a pin, find the last scene the boy ever saw! <span class='highlight-link'>[🔗](https://read.readwise.io/read/01j2t705wxc24bdd8cjm6qz8hq)</span>
-
-- [N] This dialogue and prose is amazing. The creepy atmosphere of this scene of the wind blowing, two young boys listening to an ominous lightning rod salesmen that's practiced his shpiel so many times he's lost count, the boys dead serious, taking it all in as gospel, and the foreboding warning of death and fire. The noises, the imagery
 
 ### id749233401
 
@@ -617,3 +620,84 @@
 ### id784087296
 
 > On the promise alone of being returned to normal old age, that train travels with the world, its side show populated with madmen waiting to be released from bondage, meantime servicing the carnival, giving it coke for its ovens." <span class='highlight-link'>[🔗](https://read.readwise.io/read/01j7fmnh0ezw6k57gby0tmha3w)</span>
+
+### id785266329
+
+> Somewhere in the recumbent solitudes, the motionless but teeming millions of books, lost in two dozen turns right, three dozen turns left, down aisles, through doors, toward dead ends, locked doors, half-empty shelves, somewhere in the literary soot of Dickens's London, or Dostoevsky's Moscow or the steppes beyond, somewhere in the vellumed dust of atlas or Geographic, sneezes pent but set like traps, the boys crouched, stood, lay sweating a cool and constant brine. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01j7pjs128948169919z0ydsgd)</span>
+
+- [N] Perfectly imagined library scene 
+
+### id785267224
+
+> Like a black tidal wave upon a bleak shore, a dark tumult infilled with phosphorescent beauties and badly spoiled dreams, Mr. Dark sounded and hissed his feet, his legs, his body, his sharp face forward. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01j7pk2wdqddtd8mzcv741p0tf)</span>
+
+### id785274734
+
+> Night spiraled in fiery whorls like great thumbprints inside Will's eyes. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01j7pme5hjh2e8gjq4r6wt56aa)</span>
+
+### id853253468
+
+> Somehow, irresistibly, the prime thing was: nothing mattered. Life in the end seemed a prank of such size you could only stand off at this end of the corridor to note its meaningless length and its quite unnecessary height, a mountain built to such ridiculous immensities you were dwarfed in its shadow and mocking of its pomp. So with death this near he thought numbly but purely upon a billion vanities, arrivals, departures, idiot excursions of boy, boy-man, man and old-man goat. He had gathered and stacked all manner of foibles, devices, playthings of his egotism and now, between all the silly corridors of books, the toys of his life swayed. And none more grotesque than this thing named Witch Gypsy Reader-of-Dust, tickling, that's what! just tickling the air! Fool! Didn't she know what she was doing! <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm955792jx31mm6y70yd53n8)</span>
+
+### id853254915
+
+> he looked again to the maze, where the sensed but unseen shadow-shapes of Will and Jim were filed among titanic razor blades of revelation and illusion <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm95yv0xemwhte5encrnretd)</span>
+
+### id853255137
+
+> It was as if he had written this play for himself, over the years, in the library, nights, torn up the play after memorizing it, and now forgotten what he had set forth to remember. He was relying on secret discoveries of self , moment by moment, playing by ear, no! heart and soul! And . . . now?! <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm9633f82tp1kbq9e87wachy)</span>
+
+### id853256787
+
+> Ahead flowed sluices of silver light, deep slabs of shadow, polished, wiped, rinsed with images of themselves and others whose souls, passing, scoured the glass with their agony, curried the cold ice with their narcissism, or sweated the angles and flats with their fear. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm96mnrth7g02b84xg78tfy1)</span>
+
+### id853257035
+
+> Hamstrung, the old old man foundered to his knees, as did his suppliant images, his congregation of terrified selves one week, one month, two years, twenty, fifty, seventy, ninety years from now! every second, minute, and long-after-midnight hour of his possible survival into insanity, there all sank grayer, more yellow as the mirrors ricocheted him through, bled him lifeless, mouthed him dry, then threatened to whiff him to skeletal dusts and litter his moth ashes to the floor. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm96tma65k7h94tk90nk66b5)</span>
+
+### id853258144
+
+> a broadcast of mortality along the wind. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm97eegrfbx9npeaxhnpgq2v)</span>
+
+### id853262606
+
+> Then at last, the Freak Tent, the great melancholy mothering reptile bird, after a moment of indecision, sucked in a Niagara of blizzard air, broke loose three hundred hempen snakes, crack-rattled its black sidepoles so they fell like teeth from a cyclopean jaw, slammed the air with acres of moldered wing as if trying to kite away but, earth-tethered, must succumb to plain and most simple gravity, must be crushed by its own locked bulk.
+>     Now this greatest tent stated out hot raw breaths of earth, confetti that was ancient when the canals of Venice were not yet staked, and wafts of pink cotton candy like tired feather boas. In rushing downfalls, the tent shed skin; grieved, soughed as flesh fell away until at last the tall museum timbers at the spine of the discarded monster dropped with three cannon roars. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm98g90fpky94gjwmrcd1m2v)</span>
+
+- [N] Sick
+
+### id853262791
+
+> But the wind was blowing their footprints out of the grass and they might run forever now trying to outflee themselves. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm98j4d9tapmz9dqb6cjjx4g)</span>
+
+### id853263007
+
+> "But hell! You saw the mirrors! And the mirrors shoved me half in, half out the grave. Showed me all wrinkles and rot! Blackmailed me! Blackmailed Miss Foley so she joined the grand march Nowhere, joined the fools who wanted everything! Idiot thing to want: everything! Poor damned fools. So wound up with nothing like, the dumb dog who dropped his bone to go after the reflection of the bone in the pond. Will, you saw: every mirror fell. Like ice in a thaw. With no rock or rifle, no knife, just my teeth, tongue and lungs, I gunshot those mirrors with pure contempt! Knocked down ten million scared fools and let the real man get to his feet! Now, on your feet, Will!" <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm98nes87hxtpczsvrs398gt)</span>
+
+### id853263948
+
+> "Dad, will they ever come back?"
+>     "No. And yes." Dad tucked away his harmonica. "No not them. But yes, other people like them. Not in a carnival. God knows what shape they'll come in next. But sunrise, noon, or at the latest, sunset tomorrow they'll show. They're on the road."
+>     "Oh, no," said Will.
+>     "Oh, yes, said Dad. "We got to watch out the rest of our lives. The fight's just begun." <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm993bxgx9srx6aymzs028x7)</span>
+
+- [N] ❤️ 
+
+### id853264136
+
+> Just three times around, ahead, thought Will. Hey.
+>     Just four times around, ahead, thought Jim. Boy.
+>     Just ten times around, back, thought Charles Halloway.
+>     Lord.
+>     Each read the thoughts in the other's eyes.
+>     How easy, thought Will.
+>     Just this once, thought Jim.
+>     But then, thought Charles Halloway, once you start, you'd always come back. One more ride and one more ride. And, after awhile, you'd offer rides to friends, and more friends until finally . . .
+>     The thought hit them all in the same quiet moment.
+>     . . . finally you wind up owner of the carousel, keeper of the freaks . . . proprietor for some small part of eternity of the traveling dark carnival shows. . . .
+>     Maybe, said their eyes, they're already here. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm996pdek8t8ctnq7zyb2965)</span>
+
+### id853264229
+
+> The father hesitated only a moment. He felt the vague pain in his chest. If I run, he thought, what will happen? Is Death important? No. Everything that happens before Death is what counts. And we've done fine tonight. Even Death can't spoil it. So, there went the boys and why not . . . follow?
+>     He did just that. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jm9989gcdtnv5w0fpffeenme)</span>

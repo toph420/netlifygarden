@@ -23,6 +23,8 @@
 - [Story Structure: 7 Types All Writers Should Know](https://blog.reedsy.com/guide/story-structure/)
 - [Nelsons Short Story Method](https://youtu.be/4PqGPZtyFtw?si=9TLgV1gFLTF3p2Zc) - need to check this out! 
 
+![IMG_1992.jpeg](/img/user/Extras/Attachments/IMG_1992.jpeg)
+
 
 > [!Image]- Story Structure Diagram
 > ![Storytelling - structure.png](/img/user/Extras/Attachments/Storytelling%20-%20structure.png)

@@ -21,6 +21,9 @@
 ## Chicago
 - [[Cards/900 - History, Biography, Geography/Geography and Travel/Chicago Trip\|Chicago Trip]]
 
+## China
+- [Chongqing - Oliver Tree](https://x.com/olivertree/status/1893742351459176543?s=46) - dope mountain city, "Spicy Mountain"
+
 ---
 up:: [[Spaces/🤘 My Life/🤘 My Life\|🤘 My Life]]
 

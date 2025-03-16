@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]]
+> **up**:: [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  
@@ -30,5 +30,4 @@
 - To see where the idea came from
 - To strengthen our argument
 ---
-up:: [[🏠 Home\|🏠 Home]]
-
+up:: [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]

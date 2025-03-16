@@ -14,7 +14,7 @@
 
 > My journey into drawing begins here!
 
-See [My Drawing YouTube Playlist](https://www.youtube.com/playlist?list=PLy-dDGNue8NdEQMAeIK_Snr_-wkADAD_r&jct=If8pGEJ15ndXafdv1lqmHrauTbTzRw) and [[Cards/700 - Art and Recreation/Digital Drawing\|Digital Drawing]]
+See [My Drawing YouTube Playlist](https://www.youtube.com/playlist?list=PLy-dDGNue8NdEQMAeIK_Snr_-wkADAD_r&jct=If8pGEJ15ndXafdv1lqmHrauTbTzRw) and [[Cards/700 - Art and Recreation/Art and Design/Digital Drawing\|Digital Drawing]]
 
 ![1D406F6C-780E-4312-BD65-F30C2DAF0B8A.png](/img/user/Extras/Attachments/1D406F6C-780E-4312-BD65-F30C2DAF0B8A.png)
 ## Courses
