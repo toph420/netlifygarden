@@ -23,6 +23,8 @@
 ## Thoughts
 
 Ok this book blew my mind. There’s something haunting and soul crushing about it. 
+
+[The Dark Side of Consciousness](https://youtu.be/2CpO05bxIKY?si=ucHOQ1Re6zmbydzx)
 ## Highlights
 ### id742406431
 

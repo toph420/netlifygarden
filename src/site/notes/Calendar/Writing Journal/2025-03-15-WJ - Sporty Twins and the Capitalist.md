@@ -44,25 +44,23 @@ In unison, "It's us, the Vanderbilts!"
 
 Growing up the Vanderbilts lived up the road, they spent a lot of time lifting heavy rusted weights in their front lawn and telling each other "No homo," I spent a lot of time inside drawing maps to navigate around their house. One was a doctor, the other followed around his twin, the doctor. They're on Forbes 40 under 40 and a neighborhood watchlist for numerous noise complaints (death rattles and buzzsaws). 
 
-The conversation - thats not fair - the longing for a spontaneous wave to lap the shore and carry me over the falls - ended abruptly when we spotted a small group of teens playing down below. A 50's quiff bounced behind a viewfinder, commanding the subjects to show some more skin. A small crew of grip and electric twiddled their thumbs while the aspiring director battled the urge to maim the children for going off script. 
+The conversation - thats not fair - the longing for a spontaneous wave to lap the shore and carry me over the falls - ended abruptly when we spotted a small group of teens dancing down below. A 50's quiff bounced behind a viewfinder, commanding the subjects to quit it with the improv. A small crew of grip and electric twiddled their thumbs while the aspiring director battled the urge to maim the children for going off script. 
 
 "Do you see this? What are you- What's that say?" 
 
 The Quiff stabbed a hole in the page and scoured for replacements, screaming over the roar of the falling water. 
 
-The rest of the kids wandered a cave behind the falls, a makeshift green room, gear closet. A film light appeared to be breathing, a new day hibiscus, speaking in colors. 
+The rest of the kids wandered a twilit cave behind the falls, a makeshift green room, gear closet. A film light appeared to be breathing, a new day hibiscus, speaking in colors. 
+
+We took cover behind a boulder jutting out over the film shoot. The twins grunted, flexing for each other on their way to a squat. I tried to figure out who was who from a puddle reflection and wondered how we got here. This intangible twin link created unease, a power imbalance, brittle rubber-band synapses ready to snap.
 
 Shadows raced across the ruins, pools of refuge swallowed the hilltops. The Quiff rambled among the torn up pages. Smoke clouded the lens and concealed the kids from an embarrassing meltdown. 
 
-We took cover behind a boulder jutting out over the film shoot. The twins grunted, flexing for each other on their way to a squatting position. I tried to figure out who was who from their reflection in a puddle and wondered how we got here. This intangible twin link created unease, a power imbalance, brittle rubberband synapses ready to snap. *Maybe the twins are like animals, unaware that they will die, or perhaps aware that they will not die*
-
 The sound of crackling branches forced our attention opposite our evening entertainment. Below the boulder a stovepipe hat peaked above the trees, a profit hungry rattle like golden shackles of the free market, the film crew ran while the kids smoked and The Quiff melted.
 
-A final tree snapped at the edge of the clearing and the scene fell quiet. The water trickled from the rocks, the cigarettes sizzled beneath the haze, the film whirred and clacked, birds migrated early, and The Capitalist cleared his throat. Beneath those gold chains a septic heart beat like a firing squad. 
+A final tree snapped at the edge of the clearing and the scene fell quiet. The water tip-toed over the rocks, the cigarettes sizzled beneath the haze, the film whirred and clacked, birds migrated early, and The Capitalist cleared his throat. Beneath those gold chains a septic heart beat like a firing squad. 
 
 Meanwhile the spelunkers circled the blooming fixture, awaiting instruction. Meaning reveals itself not in a word but a world of signs and oppositions. The circle constricted the ethereal messenger.  
-
-
 
 
 

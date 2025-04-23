@@ -10,10 +10,15 @@
 
 # An idea for a local media organization
 
+**THE BLAST**
+
 See [[Cards/300 - Social Sciences/Activism#Local\|Activism#Local]]
+
+Vibe is *punk rock effortless high production quality*
 
 I've been thinking about this for a while. We have a growing number of "independent journalists" in GR; activists, artists, organizers, writers. Here's a brain dump to keep track of these ideas:
 
+- this shits gotta be **punk** as fuck 
 - It would not be owned or managed by me. I would be a part of it, but ultimately ownership lies in the hands of everyone involved. A horizontal responsibility. Of course leaders will emerge, but this is a community operated mission.
 - It would be left leaning, progressive, but we all know there are considerable differences within the left. I want to create a platform, a coalition of people with similar principles, but one that offers the ability to respectfully debate, present differing viewpoints. 
 	- Aligning these values may be the most difficult.
@@ -54,6 +59,7 @@ I've been thinking about this for a while. We have a growing number of "independ
 	- Affordable Housing committee
 	- [[Cards/100 - Personal Management/🛸 Companies/Candor Media\|Candor Media]] - [Candor Media](https://www.instagram.com/candor_mi?igsh=MXc3aXNwZ2MyMW90Mg==)
 	- [[Kay Bianchi\|Kay Bianchi]] - writing about non profit and related sector
+	- [Distill Social](https://www.instagram.com/distill_social?igsh=cWg3NTN5N2ZkMm5t) - doing a similar thing already, interviews, news
 - Discussion
 	- interesting Reddit thread about a protest in GR, discussing importance of efficient organizing and not alienating certain communities (in this case, anti-cap and latino) - [Reddit](https://www.reddit.com/r/grandrapids/s/TTTxK3HQQX)
 	
@@ -94,7 +100,7 @@ I've been thinking about this for a while. We have a growing number of "independ
 - Hasan
 - Majority Report
 - The Young Turks
-- Johnny Harris
+- Johnny Harris (CIA op)
 - IG accounts
 	- [sunny maguire, lcsw 🌾🌹 (@the.ethical.dilemma) • Instagram photos and videos](https://www.instagram.com/the.ethical.dilemma?igsh=MW1zY3BvcDJkdTZ4eA==)
 - ⭐️ [Reddit - best left wing media sources](https://www.reddit.com/r/socialism/s/qcwfxVSg6B) - check this out !
@@ -111,6 +117,70 @@ I've been thinking about this for a while. We have a growing number of "independ
 ## Content Ideas
 - [Ultimate Guide to Calling Your Reps](https://www.reddit.com/r/IronFrontUSA/s/D4tvwT8Day) - turn this into its own note and a video 
 - horrendous example of right wing/zionist propaganda from Prager U (we need these but leftist): [Prager U on Nasrallah Funeral](https://x.com/xaviaerd/status/1895548318664835418?s=46)
+
+## Names
+- against the grain - book
+- Gravity and grace - Simone veil
+- propaganda
+- Strange day out
+- Playtime
+- The radical
+- The rusty spoon (bar in [[Sources/📚 Books/V.\|V.]])
+- [List of Anarchist Periodical Names - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_anarchist_periodicals)
+	- ⭐️ The Blast 💥 
+		- [Blast Archives](https://libcom.org/article/blast-newspaper)
+	- The Adult
+	- why?
+	- Black Mask
+- [Map of Anarchist Newspapers](https://public.tableau.com/app/profile/mapping.social.movements/viz/Anarchistnewspapers1872-1940/AnarchistNewspapers1872-1940)
+	- revolt
+	- The alarm
+	- age of thought
+	- Free society
+	- fair play
+	- the free spirit
+	- Mother Earth 
+	- the dawn
+- [Anarchist Periodicals PDF](https://files.libcom.org/files/Anarchist_Periodicals_in_English.pdf)
+	- The advance
+	- alternative 
+	- discontent
+	- Demonstrator
+	- age of thought
+	- the flame
+	- the firebrand 
+	- the new order
+	- radical review
+- [Communist Periodicals](https://en.m.wikipedia.org/wiki/Category:Communist_periodicals_published_in_the_United_States)
+	- new masses
+	- the liberator
+- [Marxists.org List](https://www.marxists.org/history/usa/index.htm)
+	- American appeal
+	- Appeal to reason
+	- l'avanti!
+	- the bugle
+	- fight
+	- good morning
+	- the masses
+	- new justice 
+	- The organizer
+	- the people
+	- solidarity
+- [Marxists.org more](https://www.marxists.org/history/erol/periodicals/index.htm)
+	- changeover
+	- awaken
+	- a world to gain 
+	- the call
+	- inside out
+	- new dawn
+	- seize the time(s)
+	- alive
+	- the forge
+	- hammer or anvil
+	- new age
+	- the rebel
+	- eureka
+
 
 
 ---

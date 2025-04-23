@@ -26,6 +26,7 @@
 - [Ultimate Guide to Calling Your Reps](https://www.reddit.com/r/IronFrontUSA/s/D4tvwT8Day) - turn this into its own note and a video 
 - [Sustainable Development Wiki](https://sdgwiki.carrd.co/) - massive resource wiki
 - ⭐️ [Reddit - best left wing media sources](https://www.reddit.com/r/socialism/s/qcwfxVSg6B) - check this out !
+- ⭐️ [Anti-Capitalist Resources \| Hilary Agro](https://hilaryagro.com/resources/)
 
 ## Local
 - interesting Reddit thread about a protest in GR, discussing importance of efficient organizing and not alienating certain communities (in this case, anti-cap and latino) - [Reddit](https://www.reddit.com/r/grandrapids/s/TTTxK3HQQX)

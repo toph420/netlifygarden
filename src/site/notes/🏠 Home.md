@@ -30,6 +30,7 @@ Elsewhere:
 
 | Entries                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/Writing Journal/2025-04-05-WJ - Shitterday Notes\|Shitterday Notes]]<span class=summary>Maybe I'll write something in here today 🤔 </span>                                                                                                                                                                    |
 | [[Calendar/Writing Journal/2025-03-15-WJ - Sporty Twins and the Capitalist\|Sporty Twins and the Capitalist]]<span class=summary>A writing session based on a weird dream I had last night with some twins and a (literally) filthy capitalist.</span>                                                                    |
 | [[Calendar/Writing Journal/2024-07-02-WJ - The Chiropractor\|The Chiropractor]]<span class=summary>Updates on my reading progress and an experiment in Bizarro fiction storytelling</span>                                                                                                                                |
 | [[Calendar/Writing Journal/2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante\|Continuing Harvey, Aspiring Stuntman Doordash Vigilante]]<span class=summary>A writing entry continuing a bit of Harveys story from [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]] and exercises</span> |
@@ -83,46 +84,46 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                             | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-> | [[+ Encounters/Chat - Literary Writing Exercises\|Chat - Literary Writing Exercises]]<br><span class='block'>11:11 AM - March 15, 2025</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Sigil\|Sigil]]<br><span class='block'>12:54 AM - March 11, 2025</span>                                                         | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Philosopher Table\|Philosopher Table]]<br><span class='block'>11:39 PM - March 08, 2025</span>                                 | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/James Joyce\|James Joyce]]<br><span class='block'>10:00 AM - March 04, 2025</span>                                             | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Fashion\|Fashion]]<br><span class='block'>9:04 PM - March 02, 2025</span>                                                      | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                 | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Taxes - 2024\|Taxes - 2024]]<br><span class='block'>11:27 AM - April 15, 2025</span>               | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Easing\|Easing]]<br><span class='block'>12:17 PM - April 07, 2025</span>                           | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Quotes\|Quotes]]<br><span class='block'>1:06 PM - April 06, 2025</span>                            | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Friedrich Nietzsche\|Friedrich Nietzsche]]<br><span class='block'>12:46 PM - April 06, 2025</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Curtis Yarvin\|Curtis Yarvin]]<br><span class='block'>10:15 PM - April 03, 2025</span>             | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                             | Status                               |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-> | [[+ Encounters/Chat - Literary Writing Exercises\|Chat - Literary Writing Exercises]]<br><span class='block'>11:50 AM - March 15, 2025</span> | <span class='center-block'>🌞</span> |
-> | [[Cards/600 - Applied Sciences/Writing/Writing Prompts\|Writing Prompts]]<br><span class='block'>11:50 AM - March 15, 2025</span>             | <span class='center-block'>🌿</span> |
-> | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]<br><span class='block'>3:26 PM - March 14, 2025</span>                      | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Sigil\|Sigil]]<br><span class='block'>3:39 AM - March 11, 2025</span>                                                          | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Communism\|Communism]]<br><span class='block'>11:05 PM - March 10, 2025</span>                                                 | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                   | Status                               |
+> | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/600 - Applied Sciences/Filmmaking/Filmmaking Gear\|Filmmaking Gear]]<br><span class='block'>9:09 AM - April 22, 2025</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Gilles Deleuze\|Gilles Deleuze]]<br><span class='block'>12:01 PM - April 21, 2025</span>                             | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Friedrich Nietzsche\|Friedrich Nietzsche]]<br><span class='block'>8:39 PM - April 18, 2025</span>                    | <span class='center-block'>🌞</span> |
+> | [[Cards/300 - Social Sciences/Activism\|Activism]]<br><span class='block'>10:50 AM - April 17, 2025</span>                          | <span class='center-block'>🌱</span> |
+> | [[+ Encounters/Taxes - 2024\|Taxes - 2024]]<br><span class='block'>3:48 PM - April 15, 2025</span>                                  | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                              | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/White Noise\|White Noise]]<br><span class='block'>9:46 PM - March 15, 2025</span>                                                                                             | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Invisible Cities\|Invisible Cities]]<br><span class='block'>10:36 PM - March 14, 2025</span>                                                                                  | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Song of Solomon\|Song of Solomon]]<br><span class='block'>7:35 PM - March 12, 2025</span>                                                                                     | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/A New History of Western Philosophy\|A New History of Western Philosophy]]<br><span class='block'>1:58 AM - March 08, 2025</span>                                             | <span class='center-block'>🟥</span> |
-> | [[Sources/📰 Articles/So that we may become good - Nicomachean Ethics Book II\|So that we may become good - Nicomachean Ethics Book II]]<br><span class='block'>11:04 PM - March 04, 2025</span> | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                                                                         | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/Ice\|Ice]]<br><span class='block'>12:04 AM - April 21, 2025</span>                                                                                                                                                       | <span class='center-block'>🟥</span> |
+> | [[Sources/📰 Articles/The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays\|The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays]]<br><span class='block'>1:00 AM - April 15, 2025</span> | <span class='center-block'>🟧</span> |
+> | [[Sources/📰 Articles/War Fever\|War Fever]]<br><span class='block'>8:59 PM - April 05, 2025</span>                                                                                                                                         | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/V.\|V.]]<br><span class='block'>10:06 PM - March 28, 2025</span>                                                                                                                                                         | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Dubliners\|Dubliners]]<br><span class='block'>12:49 AM - March 24, 2025</span>                                                                                                                                           | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                   | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/White Noise\|White Noise]]<br><span class='block'>9:52 PM - March 15, 2025</span>                                                  | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Invisible Cities\|Invisible Cities]]<br><span class='block'>10:40 PM - March 14, 2025</span>                                       | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Song of Solomon\|Song of Solomon]]<br><span class='block'>7:52 PM - March 12, 2025</span>                                          | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/A New History of Western Philosophy\|A New History of Western Philosophy]]<br><span class='block'>12:17 PM - March 10, 2025</span> | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Slaughterhouse-Five\|Slaughterhouse-Five]]<br><span class='block'>11:56 PM - March 04, 2025</span>                                 | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                                                                          | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/Ice\|Ice]]<br><span class='block'>3:47 AM - April 21, 2025</span>                                                                                                                                                         | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Invisible Cities\|Invisible Cities]]<br><span class='block'>1:24 AM - April 19, 2025</span>                                                                                                                               | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/V.\|V.]]<br><span class='block'>1:24 AM - April 19, 2025</span>                                                                                                                                                           | <span class='center-block'>🟥</span> |
+> | [[Sources/📰 Articles/The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays\|The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays]]<br><span class='block'>12:58 PM - April 15, 2025</span> | <span class='center-block'>🟧</span> |
+> | [[Sources/📰 Articles/War Fever\|War Fever]]<br><span class='block'>9:48 PM - April 06, 2025</span>                                                                                                                                          | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

@@ -19,7 +19,7 @@
 - [Akabane, Tokyo](https://twitter.com/tokyo_gone/status/1662767853303656453?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 
 ## Chicago
-- [[Cards/900 - History, Biography, Geography/Geography and Travel/Chicago Trip\|Chicago Trip]]
+- [[Chicago Trip\|Chicago Trip]]
 
 ## China
 - [Chongqing - Oliver Tree](https://x.com/olivertree/status/1893742351459176543?s=46) - dope mountain city, "Spicy Mountain"

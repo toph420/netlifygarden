@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**:: #on/philosophy #on/chats
-> **topics**:: [[Hegel\|Hegel]], [[+ Encounters/Zizek\|Zizek]]
+> **topics**:: [[Hegel\|Hegel]], [[+ Encounters/Slavoj Zizek\|Slavoj Zizek]]
 > **links**::
 
 

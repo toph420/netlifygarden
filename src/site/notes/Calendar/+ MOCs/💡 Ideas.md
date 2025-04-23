@@ -98,7 +98,8 @@
 
 
 > [!idea]+ Idea Logs
->  - [i] #💡 #on/aphantasia Ok [[+ Encounters/Aphantasia\|Aphantasia]] is crazy, inability to visualize imagery  ⏳ 2024-06-15
+>  - [i] #💡 #on/philosophy Found a cool subreddit that discusses [[+ Encounters/Philosophy\|Philosophy]], [[Occult\|Occult]] [Sorcery of the Spectacle](https://www.reddit.com/r/sorceryofthespectacle/s/d2KFcaeUTy)
+> - [i] #💡 #on/aphantasia Ok [[+ Encounters/Aphantasia\|Aphantasia]] is crazy, inability to visualize imagery  ⏳ 2024-06-15
 > - [i] #💡 #on/government The governments anti vax psyop is crazy https://x.com/briebriejoy/status/1801995634188177488?s=46 ⏳ 2024-06-15
 > - [i] #💡 #on/writing Write about Chaos, and how to embrace and harness the power of it  ⏳ 2024-02-16
 > - [i] #💡 [[Ghost Wax\|Ghost Wax]] episode 1 - story idea - dudes life gets stolen by himself, he kills the other him #💡/story ⏳ 2024-02-19

@@ -35,11 +35,15 @@ I use this snippet to list lines tagged with ‘#exam’ in my folder "3_semeste
 
 ## Result
 
-| class                                                              | 🔥                                                                                                                                                                                |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/📚 Books/Blindsight\|Blindsight]]                     | <ul><li><ul><li>Awesome passage on [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] </li><li>This seems like the thesis to the entire book here, a lot of ideas baked into this passage, damn! </li></ul></li></ul> |
-| [[Sources/📚 Books/Blood Meridian\|Blood Meridian]]             | <ul><li><ul><li></li></ul></li></ul>                                                                                                                                              |
-| [[Sources/📚 Books/Plato Complete Works\|Plato Complete Works]] | <ul><li><ul><li></li></ul></li></ul>                                                                                                                                              |
+| class                                                                                       | 🔥                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/📚 Books/After World\|After World]]                                            | <ul><li><ul><li>These are all amazing, post this some time </li></ul></li></ul>                                                                                                   |
+| [[Sources/📚 Books/Blindsight\|Blindsight]]                                              | <ul><li><ul><li>Awesome passage on [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] </li><li>This seems like the thesis to the entire book here, a lot of ideas baked into this passage, damn! </li></ul></li></ul> |
+| [[Sources/📚 Books/Blood Meridian\|Blood Meridian]]                                      | <ul><li><ul><li></li></ul></li></ul>                                                                                                                                              |
+| [[Sources/📚 Books/Plato Complete Works\|Plato Complete Works]]                          | <ul><li><ul><li></li></ul></li></ul>                                                                                                                                              |
+| [[Sources/📚 Books/The Lathe of Heaven\|The Lathe of Heaven]]                            | <ul><li><ul><li> Lacanian void, objet a</li></ul></li></ul>                                                                                                                       |
+| [[Sources/📚 Books/V.\|V.]]                                                              | <ul><li><ul><li>V.'s love for peregrinations throughout an inanimate world until now. Tourism </li></ul></li></ul>                                                                |
+| [[Sources/📰 Articles/Fiction and the Figures of Life\|Fiction and the Figures of Life]] | <ul><li><ul><li>Beautiful. </li></ul></li></ul>                                                                                                                                   |
 
 { .block-language-dataview}
 

@@ -2034,4 +2034,266 @@
 
 ### id861751517
 
+### id862076183
+
+> The Stoics believed not just in universal causation, that is to say, the thesis that everything has a cause; they believed also in universal causal determinism, that is to say, that everything has a cause by which it was determined. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp19zh60sw8y39pdavn2paaw)</span>
+
+### id862076225
+
+> They claim not just that every beginning of existence has a cause, but that everything that happens has a cause. Further they claim that every cause is a necessitating cause: given the cause, the effect cannot but happen. They maintain not just universal causation, but universal determinism. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1a0jq77xzam4ej6hb7kpwj)</span>
+
+- [N] "Fate"
+
+### id862077422
+
+> Consider the propositions
+> (1) If I call the doctor, I will recover.
+> (2) If I do not call the doctor, I will recover.
+> If I am fated to recover, then the consequent of each of these propositions is true; and if we interpret each of the propositions truth-functionally, in the manner of Philo, each of them will on that supposition be true. In that sense it will be true that whether or not I call the doctor I will recover. But as these propositions are normally used in guiding behaviour, they must be understood not simply truth-functionally, but also as supporting the corresponding counterfactuals
+> (3) If I called the doctor, I would recover.
+> (4) If I did not call the doctor, I would recover.
+> But a Stoic has no reason to accept (4). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1a8gyqj94rt7nznqhbk3cz)</span>
+
+- [N] The Lazy Argument 
+
+### id862077443
+
+> Determinism and Freedom <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1a921jarv09sjk1pqmjmnp)</span>
+
+### id862078135
+
+> ‘If something could be brought about without an antecedent cause, it would be false that everything happens through fate; but if it is probable that there is an antecedent cause for whatever happens, what possible reason is there for denying that all things happen through fate?’ (Cicero, *Fat*. 43). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1ajpybn7frf4pkdp2x2cxv)</span>
+
+### id862080026
+
+> Many philosophers in later ages have claimed that if a human agent is responsible for an action X, it must have been possible for her, at the moment of action, both to do and not to do X. Such freedom of alternative choice was later given the technical name of ‘liberty of indifference’. Chrysippus is not claiming that liberty of indifference is compatible with fate: he is interested rather in what later philosophers called ‘liberty of spontaneity’. An agent enjoys liberty of spontaneity if he does X because he wants to do X. Chrysippus’ humans do enjoy liberty of spontaneity, because they do X because they assent to X, and they assent to X because of their own nature and character. The responsibility that he defends is the autonomy of the agent to act unforced by external causes and stimuli. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1b05gvj91p79f6xg43ggwd)</span>
+
+- [N] Many thinkers later on have said that if a person is responsible for doing something, they should have had the choice to either do it or not do it at that moment. This idea of having a choice is called ‘liberty of indifference’. However, Chrysippus is not saying that this kind of choice can exist alongside fate. Instead, he is focused on what later thinkers called ‘liberty of spontaneity’. A person has liberty of spontaneity if they do something because they genuinely want to do it. Chrysippus believes that people do have this kind of freedom because they choose to do things based on their own desires and character. The responsibility he talks about is about a person being able to act freely without being forced by outside influences.
+
+Liberty of spontaneity
+
+### id862080082
+
+> 6  
+> What There Is: Metaphysics <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1b1kn9zhge82qp592e5rhq)</span>
+
+### id862080589
+
+> Carneades denies that voluntary actions have an external antecedent cause; Chrysippus affirms that they have, but appears here to deny that they are necessitated by it. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1b49999h0r5c4ys1bmt56h)</span>
+
+- [N] The main difference between Carneades and Chrysippus is this: Carneades believes that our voluntary actions (things we choose to do) don’t have outside causes that lead to them, while Chrysippus thinks they do have outside causes, but he also suggests that those causes don’t force us to act in a specific way. This might seem confusing because the Stoics generally believed in determinism, which means everything happens for a reason.
+
+### id862080818
+
+> The central topic of metaphysics is ontology: the study of Being. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jp1b9qt9jg21789bah9kgjgs)</span>
+
+- [N] Ontology, the study of Being. The totality of individual beings make up Being.
+
+### id866076907
+
+> For Parmenides, Being is not just that which exists, but that of which any sentence containing ‘is’ is true. Equally, being is not just existing (being, period) but being anything whatever: being hot or being cold, being earth or being water, and so on. Thus interpreted, Being is a realm both richer and more puzzling than the totality of existents. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv1mfgmknaqznkqt73ctrp5)</span>
+
+- [N] Parmenides "Being"
+
+### id866076922
+
+> Parmenides’ Ontology <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv1nhmgyyz53ydx1asppfsx)</span>
+
+### id866077020
+
+> What you can call and think must Being be  
+> For Being can, and nothing cannot, be. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv1r81a5bfkvsm2q6s8k1t8)</span>
+
+### id866077063
+
+> Never shall this prevail, that Unbeing is;  
+> Rein in your mind from any thought like this. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv1rr17k64taj09ty8kz9bb)</span>
+
+### id866077095
+
+> Unbeing you won’t grasp—it can’t be done—  
+> Nor utter; being thought and being are one. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv1te91fkvvyz30kkwx931c)</span>
+
+### id866077364
+
+> A person who first runs fast and then runs slowly is running all the time. Similarly, for Parmenides, stuff which is first water and then air goes on be-ing all the time. Change is never from not-being to being, or vice versa; the most there can ever be is variation of being. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv1z99351x2g9w9gban8nxf)</span>
+
+### id866077475
+
+> From the principle ‘Nothing can come from nothing’ many philosophers of different persuasions have drawn the conclusion that the world must always have existed. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv22zj87hrvzknev4gx8wzk)</span>
+
+### id866077537
+
+> Being is not only everlasting, it is not subject to change (‘four-square, unmoved’) or even to the passage of time (it is all now, and has no past or future). What could differentiate past from present and future? If it is no kind of being, then time is unreal; if it is some kind of being, then it is all part of Being. Past, present, and future are all one Being. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv252zvt4genanwpbnd6pt9)</span>
+
+- [N] Parmenides' Being is not subject to change or passage of time. It is all now, has no past for future.
+
+### id866077691
+
+> To think a thing’s to think it is, no less.  
+> Apart from Being, whate’er we may express  
+> Thought does not reach. Naught is or will be  
+> Beyond Being’s bounds, since Destiny’s decree  
+> Fetters it whole and still. All things are names  
+> Which the credulity of mortals frames—  
+> Birth and destruction, being all or none,  
+> Changes of place, and colours come and gone.  
+> But since a bound is set embracing all  
+> Its shape’s well rounded like a perfect ball. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv2b0nmztatjf4efma844c1)</span>
+
+- [N] Parmenides thinks the universe is all wrapped up in a sphere shape?
+
+### id866078225
+
+> If this is the nature of Being, uniform, unchanging, immobile, and timeless, what are we to make of the multiplicity of changing properties that we normally attribute to items in the world on the basis of sense-experience? These, for Parmenides, belong to the Way of Seeming. If we want to follow the Way of Truth, we must keep our minds fixed on Being. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv2kbfsp27hj6rxf082fpdq)</span>
+
+- [N] Parmenides Way of Truth is stable, the Way of Seeming is changing 
+
+### id866078352
+
+> If you step into a river, you cannot put your feet twice into the same water. Getting rather carried away by his metaphor, Heraclitus went on to say—if Plato reports him honestly—that you cannot step twice into the same river *(Cra*. 402a). However that may be, he seems undoubtedly to have claimed that all things are in motion all of the time (Aristotle, *Ph*. 8. 3. 253b9). If we do not notice this, it is because of the defects of our senses. For Heraclitus, then, it is change that is the Way of Truth, and stability that is the Way of Seeming. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv2n4q2hsf9tfk5qfww6nmf)</span>
+
+- [N] Heraclitus, change is Way of Truth, stability is Way of Seeming
+
+### id866079064
+
+> Plato’s Ideas and their Troubles <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv2qcz8v48v00dryccyyrrt)</span>
+
+### id866079318
+
+> the Ideas, as represented in the early middle dialogues, belong in an eternal world that is as unchanging as the Being revealed by Parmenides’ way of Truth. The entities that inhabit the empirical world, on the other hand, are in a Heraclitean flux, constantly flitting between being and non-being. Plato is not, however, even-handed between the two protagonists: the Parmenidean world is far superior to the Heraclitean one; the unchanging world of Ideas is more real, and contains more truth, than the flickering world of experience. Only intellectual insight into Ideas gives knowledge; the senses can provide nothing better than true belief. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv2yb3k15dncfaqyg8s8n74)</span>
+
+- [N] Plato's Theory of Ideas
+
+### id866079524
+
+> Being is undifferentiated and single, whereas there are many different Ideas in some kind of relation to each other. They appear to be hierarchically ordered, under the Idea of Good, which appears to trump any notion of Being *(Rep*. 6. 509b). No doubt the other Ideas owe it to the Idea of Good that they are Ideas at all: a bed is a Perfect or Ideal Bed because it participates in Perfection and is the best possible bed. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv321r1pwswhws657atyp0x)</span>
+
+- [N] Idea of Good
+
+### id866079893
+
+> (1) *The Principle of Commonality*. Wherever several things are F, this is because they participate in or imitate a single Idea of F *(Rep*. 5. 476a).
+> (2) *The Principle of Separation*. The Idea of F is distinct from all the things that are F *(Phd*. 74c).
+> (3) *The Principle of Self-Predication*. The Idea of F is itself F.
+> (4) *The Principle of Purity*. The Idea of F is nothing but F (*Phd*. 74c).
+> (5) *The Principle of Uniqueness*. Nothing but the Idea of F is really, truly, altogether F *(Phd*. 74d; *Rep*. 5. 479a—d).
+> (6) *The Principle of Sublimity*. Ideas are everlasting, they have no parts and undergo no change, and they are not perceptible to the senses (*Phd*. 78d). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv374rh1e1s0anjaatn72tj)</span>
+
+- [N] Plato's Theory of Ideas
+
+### id866085660
+
+> In order to resolve some of the problems about Ideas, Plato introduces a distinction between two types of predication. Using a terminology which belongs to a later period, we can say that he makes a distinction between predication per se and predication *per accidens*. The difference between the two can be brought out thus: S is P per se if being P is part of what it is to be S. Thus, an oak is a tree per se. (If we allow improper as well as proper parts of what it is to be S, then an oak is oak per se.) S is P *per accidens*, on the other hand, if S is as a matter of fact P, but it is no part of being S to be P. Thus, if oaks are as a matter of fact plentiful in a certain area, ‘plentiful’ is predicated only *per accidens.[2](private://read/01jnm91m9rh438fy4w3n6a77ns/#fn079)* <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv49p287174fbq9eqw990nd)</span>
+
+- [N] Plato's predication distinctions - Per se and per accidens
+
+### id866092682
+
+> Finally, we can revisit the notion of participation. A major difficulty in understanding how many things can share in a single Idea was that this seemed to divide an Idea into parts. We can now say that a Form is one per se if it is part of what it is to be a Form that it should be single and unique: otherwise it will not achieve the purpose for which it was invented, to mark what is common to things bearing the same name. But if there are many individuals instantiating the Form, then it will be many *per accidens*. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv4kh31wjttj162a6tzkygk)</span>
+
+- [N] Theory of Forms : 
+
+A big challenge in figuring out how different things can all share the same idea is that it might seem like we’re breaking that idea into smaller pieces. Now we can say that a Form (or idea) is always one and unique because that’s what makes it a Form in the first place. If it weren’t unique, it wouldn’t do its job of helping us understand what is similar about things that have the same name. However, if there are many individual things that show this Form, then we can say that they are many in a different way.
+
+### id866093136
+
+> What the pursuit of a definition by division will reveal, if it is carried out in a serious manner, is a tree structure in which species will appear under genera, and narrower genera under broader genera: human under animal, animal under living being, and so on. This tree structure is related to the predication per se which we found an important feature of the *Parmenides*. For anything that appears above F in a genus—species tree structure will be something that is predicated per se. Thus, being an animal is part of what it is to be human; being a living thing is part of what it is to be an animal. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv4wtab62dhgq5kkyt1sgnr)</span>
+
+- [N] Theory of Forms
+
+### id866095446
+
+> But in addition to Being four other forms—motion, rest, sameness, and difference—are considered and their interrelations explored. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv52t9n7q10jhs0k4mnpryk)</span>
+
+### id866095947
+
+> The non-beautiful differs from the beautiful and the unjust differs from the just; but the non-beautiful and the unjust are no less real than the beautiful and the just (257e—258a). If we lump together all the things that are non-something, or unsomething, then we get the category of non-being, which is just as real as the category of Being. So we have blown open the prison into which Parmenides had confined us (258c). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv56e06qcgnjhtsg8vaf1c8)</span>
+
+- [N] Non-being is perfectly real and allows us to talk about falsehoods
+
+### id866096690
+
+> Aristotelian Forms <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv5d0khxm2ymnb0k6z54vm8)</span>
+
+### id866110112
+
+> The difference between Aristotelian forms and Platonic Forms is that for Aristotle forms are not separate *(chorista):* any form is the form of some actual individual. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv89a3s4yerzpgppphnk7k2)</span>
+
+### id866110359
+
+> ‘The question that was asked of old, and is asked now, and always will be asked and always will be a problem is “what is Being?” And this is the question; “what is substance?’” (Z 1. 1028b2–4). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv8ft988nvg4va258zxfzxj)</span>
+
+### id866110364
+
+> Are there separate substances of any kind, distinct from those we can perceive with our senses? (*Z* 3. 1028b8–32). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv8g21raar3wrx33t4dcctq)</span>
+
+### id866110367
+
+> Essence and Quiddity <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv8g5pv8p05rrsfmt17fvkm)</span>
+
+### id866111026
+
+> ‘Substance’, he says, has four principal meanings: the quiddity, the universal, the genus, and the subject. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv8pgndhhz0z8acg9z6dbrk)</span>
+
+- [N] Quiddity or here translated as "essence"
+
+### id866111162
+
+> The subject (*to hypokeimenon)* turns out to be the same as the first substance of the *Categories:* it is that of which everything is predicated and which is itself predicated of nothing. Such first substances, we are told, are composites of matter and form; in the way that a statue is related to its bronze and its shape (1029a3–5) <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv8ssmp1nggqyh3yaptq3sk)</span>
+
+- [N] Subject
+
+### id866111192
+
+> In treating of quiddity Aristotle makes use of a distinction he drew in his lexicon in *Metaphysics D* (1017a7) between being per se *(kath’auto)* and being *per accidens (kata sumbebekos)*. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv8vwyhgc3146dewz8nzd7b)</span>
+
+- [N] Quiddity
+
+### id866111263
+
+> Aristotle uses his definition in defining quiddity: a quiddity is what a thing is said to be per se. You may be a scholar, but you are not a scholar per se as you are a person per se (*Z* 4. 1029b15). ‘The scholar Theophrastus’ names a *per accidens* being. However, ‘the man Theophrastus’ names a per se being, and ‘Theophrastus is a man’ is a per se predication. Being a man is the quiddity or essence of Theophrastus. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv8ygpkvg4js995tkxsv5d2)</span>
+
+- [N] Quiddity 
+
+### id866111360
+
+> Aristotle next asks: what is the relation between a thing and its quiddity? His answer is that they are identical: and this takes us by surprise, since a thing is surely concrete and a quiddity is surely abstract. His initial justification of his surprising claim is that a thing is surely the same substance as itself, and a thing’s quiddity is called its substance. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv93grtctm34akqb9yeavgc)</span>
+
+### id866111684
+
+> ‘It is clear then that for things that are primary and spoken of per se the thing and its essence are one and the same’ (Z 6. 1032a8). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv95vn8ss9j0cfkerxkrk2y)</span>
+
+### id866111727
+
+> What this seems to mean is this. In a sentence such as ‘Socrates is wise’ the word ‘wise’ signifies an accident, the wisdom of Socrates, which is distinct from Socrates. But in ‘Socrates is human’ the word ‘human’ does not signify anything distinct from Socrates himself. We need to distinguish between Socrates and his wisdom because they have two different histories: as Socrates gets older, Socrates’ wisdom may increase or perhaps evaporate. But Socrates and his humanity do not have two different histories: to be Socrates is to be human, and if Socrates ceases to be a human being he ceases to exist. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv96y480dp45edgyasgahgw)</span>
+
+### id866111837
+
+> What comes into existence must always be divisible, and there must be two identifiable components, one matter and the other form. . . . it is clear from what has been said that the part which is called form or substance does not come into existence; what comes into existence is the composite entity which bears its name. (*Z* 8. 1033b16–19) <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv98arc74r21g7ysd380jms)</span>
+
+### id866111843
+
+> He goes on to draw an anti-Platonic conclusion: if everyday enmattered forms do not come into existence at all, there is no need to invoke separate, Ideal, Forms to explain how forms come into existence (*Z* 8. 1033b26).
+> We do not even need to invoke Forms to explain how an individual substance gets its form. Human beings derive their form not from an Ideal Human, but from their parents (*Z* 8. 1033b32). The father (plus the mother, though Aristotle was ignorant of this) is responsible for introducing form into the appropriate matter. ‘The final product, a form of such-and-such a kind in this flesh and these bones, is Callias or Socrates. What makes them distinct is their matter, which is distinct; but they are the same in form (for that is not subdivided)’ (*Z* 8. 1034a8). <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv98t959hw513jpek7bqygg)</span>
+
+### id866115893
+
+> Definitions have parts, and the substances they define also have parts: Aristotle takes a chapter to explain that if A is a part of X this does not always mean that the definition of A has to be part of the definition of X. (You don’t have to mention an acute angle in defining a right angle; just the reverse, in fact; F 11. 1035b6.) The definition has to mention parts of the form, but not parts of the matter. Parts of the form are to be identified by the method of definition by division, into genus and species, that we met in Plato’s later dialogues. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv9jw28am4ff02zaz06k1bw)</span>
+
+- [N] Definitions have parts
+
+### id866116003
+
+> We can now see why it is misguided to ask whether Socrates’ body is part of his quiddity. Body and soul are parts of Socrates (parts of a rather special kind, as will be explained in the next chapter). Being rational and being animal are parts of the quiddity of Socrates, and being animal includes having a body (an organic body of a particular kind). But *having a body* is not at all the same as a body. To ask whether Socrates’ body is part of his quiddity is to fall into the confusion of concrete and abstract of which we were earlier tempted to accuse Aristotle himself. On the other hand, we must say something similar about soul. The soul cannot simply be identified with the quiddity, as Aristotle sometimes incautiously suggests: to be human is to have a soul of an appropriate kind incarnate in an organic body. <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv9nnpej48255bxh78x9w87)</span>
+
+- [N] On body and soul as parts of quiddity
+
+### id866116025
+
+> Being and Existence <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jpv9pm7caexrep4nyn4wg06b)</span>
 > Causation and Determinism <span class='highlight-link'>[🔗](https://read.readwise.io/read/01jnz41scf1dwfc4394fhz1xqn)</span>
+
+
+
+

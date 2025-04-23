@@ -21,6 +21,7 @@
 
 | Entries                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Calendar/Writing Journal/2025-04-05-WJ - Shitterday Notes\|Shitterday Notes]]<span class='summary'>Maybe I'll write something in here today 🤔 </span>                                                                                                                                                                    |
 | [[Calendar/Writing Journal/2025-03-15-WJ - Sporty Twins and the Capitalist\|Sporty Twins and the Capitalist]]<span class='summary'>A writing session based on a weird dream I had last night with some twins and a (literally) filthy capitalist.</span>                                                                    |
 | [[Calendar/Writing Journal/2024-07-02-WJ - The Chiropractor\|The Chiropractor]]<span class='summary'>Updates on my reading progress and an experiment in Bizarro fiction storytelling</span>                                                                                                                                |
 | [[Calendar/Writing Journal/2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante\|Continuing Harvey, Aspiring Stuntman Doordash Vigilante]]<span class='summary'>A writing entry continuing a bit of Harveys story from [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]] and exercises</span> |
@@ -47,6 +48,8 @@
 - heaven, HELL
 - theology
 - Stuck as a cog in the machine, privilege of pursuing passion, even if living in squalor 
+- things that happen while looking the other way (broken veil podcast, [[Sources/📚 Books/Blindsight\|Blindsight]])
+- the idea that the world is entirely subjective experience, like a game board you're just moving the pieces around, including others and events around you, but something shatters the idea, not of free will or fate, but some grand plan at work
 
 ---
 up:: [[Calendar/+ MOCs/🪵 Log\|🪵 Log]]

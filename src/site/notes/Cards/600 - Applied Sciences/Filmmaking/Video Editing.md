@@ -38,6 +38,8 @@
 >  | Note                                                                                                                                                                                                                             |
 > | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]]<span class='summary'>\-</span><span class='block'>5:52 PM - November 09, 2022</span>                                                                             |
+> | [[+ Encounters/Video Editing Tutorials\|Video Editing Tutorials]]<span class='summary'>Links to tutorials about video editing</span><span class='block'>10:31 PM - August 18, 2024</span>                                     |
+> | [[+ Encounters/Easing\|Easing]]<span class='summary'>Tips for using motion easing in projects</span><span class='block'>12:17 PM - April 07, 2025</span>                                                                      |
 > | [[Cards/700 - Art and Recreation/Videos\|Videos]]<span class='summary'>Curating the dopest videos from the web</span><span class='block'>11:44 PM - February 10, 2023</span>                                                  |
 > | [[Cards/700 - Art and Recreation/Art and Design/Design Assets\|Design Assets]]<span class='summary'>Keeping track of all the cool sites to find good design assets </span><span class='block'>1:21 PM - April 26, 2024</span> |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Video Assets\|Video Assets]]<span class='summary'>Assets, textures, graphics, effects for video editing</span><span class='block'>11:42 PM - February 27, 2024</span>               |
@@ -50,7 +52,6 @@
 > | [[Cards/600 - Applied Sciences/Filmmaking/Davinci Hotkeys\|Davinci Hotkeys]]<span class='summary'>\-</span><span class='block'>2:21 PM - November 13, 2022</span>                                                             |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Animation\|Animation]]<span class='summary'>Curation of videos and resources related to animation</span><span class='block'>3:08 PM - February 21, 2023</span>                      |
 > | [[Cards/000 - Knowledge Management/Workflows/My Davinci Resolve Process\|My Davinci Resolve Process]]<span class='summary'>My video editing process</span><span class='block'>10:36 AM - November 07, 2022</span>             |
-> | [[+ Encounters/Video Editing Tutorials\|Video Editing Tutorials]]<span class='summary'>Links to tutorials about video editing</span><span class='block'>10:31 PM - August 18, 2024</span>                                     |
 > 
 { .block-language-dataview}
 

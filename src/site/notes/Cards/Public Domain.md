@@ -14,12 +14,12 @@
 
 > Good sites and resources for public domain stuff and stock photos
 
+- [[Cards/Stock Photography\|Stock Photography]]
+
 ## Miscellaneous
 - https://guides.lib.utexas.edu/c.php?g=951753&p=6865813
 - https://digitalcollections.nypl.org/
 - https://www.getty.edu/projects/open-content-program/
-
-## Stock Photos
 
 ### Free
 - [Public Work](https://public.work/) - public domain infinite canvas by the people who made Cosmos

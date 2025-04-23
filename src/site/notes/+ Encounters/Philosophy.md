@@ -47,7 +47,7 @@
 	- Interpretation of dreams 
 - [[Lacan\|Lacan]] 
 	- Seminar 11 and 10, Anxiety
-- [[+ Encounters/Zizek\|Zizek]]
+- [[+ Encounters/Slavoj Zizek\|Slavoj Zizek]]
 	- Why theory suggests Looking Awry and Plague of Fantasies
 - [[Alenka Zupančič\|Alenka Zupančič]] 
 	- Odd one in and ethics of the real

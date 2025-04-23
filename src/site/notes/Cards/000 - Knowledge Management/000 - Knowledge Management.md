@@ -165,8 +165,8 @@
 { .block-language-dataview}
 
 > [!attention]- Untagged Notes (`-#on/pkm`)
->  - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
-> - [[Cards/000 - Knowledge Management/Evergreen Notes\|Evergreen Notes]]
+>  - [[Cards/000 - Knowledge Management/Evergreen Notes\|Evergreen Notes]]
+> - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
 > 
 { .block-language-dataview}
 

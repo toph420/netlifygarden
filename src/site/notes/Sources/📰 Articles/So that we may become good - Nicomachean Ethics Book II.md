@@ -6,7 +6,7 @@
 >> [!metadata]- Meta
 >> **up**:: [[Atlas/📥 Sources\|📥 Sources]]
 >> **type**:: #📥/📰 
->> **status**:: #📥/🟥 
+>> **status**:: #📥/🟧 
 >> **tags**:: #on/articles
 >> **topics**:: [[Aristotle\|Aristotle]], [[+ Encounters/Philosophy\|Philosophy]]
 >
@@ -24,7 +24,13 @@
 
 
 > [!Ava]- AI Highlight Analysis
-> Take a look at all of my highlights, denoted here by unique ids. Ignore the single word highlights, some contain definitions below them, those can be combined in a "Words" list with definitions of each which we will do later. Given the other highlights, and the personal notes I made below them for some of them, give me a short essay describing the themes of the article, use quotes from the highlights and include outside sources if you find it helpful.
+> 
+> The highlights from Nicomachean Ethics, Book II, discuss the nature of virtues, both intellectual and moral, and how they are acquired. Moral virtues, such as justice, courage, and moderation, are developed through habituation (*ēthikē* from *ethos*, meaning habit) rather than being innate. This development involves acting virtuously to cultivate the habit of virtuous behavior, leading to virtuous thinking, judgment, and pleasure in acting virtuously.
+> 
+> Virtue is described as a skill that requires development and is not achieved by chance. It involves doing the right thing for the right reason, aligning more with Kantianism than utilitarianism. The process of becoming virtuous involves performing moderate actions, even before one is fully moderate, as these actions contribute to the development of virtue.
+> 
+> A key concept is that virtue is the mean between two vices, representing a balance between excess and deficiency. For example, courage is the mean between cowardice and recklessness. This mean is relative and specific to individuals, aiming for a golden mean that isn't necessarily exactly in the middle but is a natural balancing point. Virtuous action is a choice resulting from our rational soul, and while virtue is a mean, it is also an extreme in that one cannot be *too virtuous*; exceeding virtue means deviating into vice.
+
 
 ## Thoughts
 
