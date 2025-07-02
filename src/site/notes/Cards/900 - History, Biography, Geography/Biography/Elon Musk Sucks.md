@@ -5,10 +5,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
-> type:: #📝 
+> categories:: #📝 
 > tags::  #on/biography #on/elon #on/capitalism #on/greed 
 > status:: #📝/🌲 
-> topics:: [[Cards/300 - Social Sciences/Capitalism\|Capitalism]], [[Greed\|Greed]], [[Money\|Money]]
+> links:: [[Cards/300 - Social Sciences/Capitalism\|Capitalism]], [[Greed\|Greed]], [[Money\|Money]]
 > links:: 
 
 # Elon Musk Sucks
@@ -42,7 +42,8 @@
 - [Elons Grimes abuse](https://www.reddit.com/r/Grimes/s/DnHU05N7qM)
 - [Elons Election Interference Machine](https://x.com/p_kallioniemi/status/1891838354523558290?s=46)
 - [Elons Texas SpaceX Bullshit](https://x.com/moreperfectus/status/1892343609522815466?s=46)
-
+ - [why Elon dismantled US Aid](https://x.com/jamesfloveiv/status/1888833415291482435?s=46)
+- [xAI pollution in Memphis](https://x.com/moreperfectus/status/1928505391295365221?s=61&t=gyRX2W0x81b80X8f34EMoQ)
 ## Twitter Corruption
 
 ![Elon Musk Sucks - whistleblower1.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20whistleblower1.png)
@@ -52,6 +53,8 @@
 ![Elon Musk Sucks - grok.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20grok.png)
 
 ## Miscellaneous
+
+![2025-05-05 - elon.png](/img/user/Extras/Attachments/2025-05-05%20-%20elon.png)
 
 ![Elon Musk Sucks - aush.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20aush.png)
 
@@ -75,6 +78,7 @@
 
 ![Elon Musk Sucks - ket.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20ket.png)
 
+![Elon Musk Sucks - usaid.png](/img/user/Extras/Attachments/Elon%20Musk%20Sucks%20-%20usaid.png)
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

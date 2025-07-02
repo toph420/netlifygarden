@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
-> type:: #log/code 
+> categories:: #log/code 
 > tags:: #to/implement 
 > language:: [[Sources/Tools + Plugins/JavaScript\|JavaScript]], [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]]
 > program:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]

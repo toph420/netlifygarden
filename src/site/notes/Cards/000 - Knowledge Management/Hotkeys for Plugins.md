@@ -33,8 +33,8 @@ status:: #📝/🌞
 
 > [!metadata]- Meta
 > up:: [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
-> type:: #📝 
+> categories:: #📝 
 > tags::  
 > status:: #📝/🌿 
-> topics:: 
+> links:: 
 > links:: 

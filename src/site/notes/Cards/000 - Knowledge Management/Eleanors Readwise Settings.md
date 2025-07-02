@@ -75,10 +75,10 @@ up:: [[Atlas/📥 Sources\|📥 Sources]]
 ---
  > [!meta] Meta
 > up::[[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📝
+> categories:: #📝
 > tags:: 
 > status:: #📝/🌿
- > topics:: 
+ > links:: 
 > links:: 
 - [N] Here's an annotation about this highlight
 - [?] Heres a question about this highlight

@@ -48,8 +48,8 @@ I've been thinking about this for a while. We have a growing number of "independ
 	- Debates, ie climate change, vaccines, socialism vs capitalism, mao vs Marxist-leninists
 - Specific people/Orgs:
 	- [[Aly the Activist\|Aly the Activist]]: Event calendar, news coverage about police, city officials, greater national crisis of police brutality.
-	- [[Cards/100 - Personal Management/👽 People/Denavvia Mojet\|Denavvia]]: Political Pulse radio show, lets bring this back to a regularly scheduled show, do interviews with local politicians, activists, community members.
-	- [[Cards/100 - Personal Management/👽 People/Darline Rodriguez\|Darline]]: Holding people accountable, she's got the receipts.
+	- [[Cards/100 - Personal Management/People/Denavvia Mojet\|Denavvia]]: Political Pulse radio show, lets bring this back to a regularly scheduled show, do interviews with local politicians, activists, community members.
+	- [[Cards/100 - Personal Management/People/Darline Rodriguez\|Darline]]: Holding people accountable, she's got the receipts.
 	- Asia: Music news, podcast with other artists, entertainment, working with community, supporting local.
 	- [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/The Coalition for Community Owned Safety/The Coalition for Community Owned Safety\|The Coalition for Community Owned Safety]] - grassroots organizing and education (LINC)
 	- [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/Lions and Rabbits/Lions and Rabbits\|Lions and Rabbits]] - arts opportunities and highlights
@@ -57,7 +57,7 @@ I've been thinking about this for a while. We have a growing number of "independ
 	- [[GR Tenants Union\|GR Tenants Union]]
 	- [[Rent is Too Damn High\|Rent is Too Damn High]]
 	- Affordable Housing committee
-	- [[Cards/100 - Personal Management/🛸 Companies/Candor Media\|Candor Media]] - [Candor Media](https://www.instagram.com/candor_mi?igsh=MXc3aXNwZ2MyMW90Mg==)
+	- [[Cards/100 - Personal Management/Companies/Candor Media\|Candor Media]] - [Candor Media](https://www.instagram.com/candor_mi?igsh=MXc3aXNwZ2MyMW90Mg==)
 	- [[Kay Bianchi\|Kay Bianchi]] - writing about non profit and related sector
 	- [Distill Social](https://www.instagram.com/distill_social?igsh=cWg3NTN5N2ZkMm5t) - doing a similar thing already, interviews, news
 - Discussion
@@ -104,7 +104,8 @@ I've been thinking about this for a while. We have a growing number of "independ
 - IG accounts
 	- [sunny maguire, lcsw 🌾🌹 (@the.ethical.dilemma) • Instagram photos and videos](https://www.instagram.com/the.ethical.dilemma?igsh=MW1zY3BvcDJkdTZ4eA==)
 - ⭐️ [Reddit - best left wing media sources](https://www.reddit.com/r/socialism/s/qcwfxVSg6B) - check this out !
-
+- [Chicago Reader (@chicago\_reader)](https://www.instagram.com/chicago_reader?igsh=Mnc2ZmpjZXFjYzd6)
+- [🦋🪲🌕 (@midnightcarecollective)](https://www.instagram.com/midnightcarecollective?igsh=ZGhuNm5pdDh0NDZw)
 
 ## People to Connect with
 - Alexa from Muskegon (Justins friend)

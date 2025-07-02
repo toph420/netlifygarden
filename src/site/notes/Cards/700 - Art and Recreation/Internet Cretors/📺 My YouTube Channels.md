@@ -34,8 +34,8 @@ up:: [[🏠 Home\|🏠 Home]]
 
 > [!NOTE]
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #🗺 
+> categories:: #🗺 
 > tags::  
 > status:: #📝/🌿 
-> topics:: 
+> links:: 
 > links::

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/design-tools/","title":"Design Tools"}
+{"dg-publish":true,"permalink":"/encounters/design-tools/","title":"Design Tools","tags":["📝","📝/🌞","on/tools"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Design\|Design]], [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/tools
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Design\|Design]], [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/tools  
+> **topics**::  
+> **links**::
 
 # Design Tools
 
@@ -19,7 +19,6 @@ See Raindrop "Tools" collection
 
 - https://constraint.systems/ - 32 alternative interfaces for creating and editing images and text
 - [manekan.app](https://www.maneken.app/) - automatic mockups of designs on apparel, billboards, signs
-
 
 ---
 up:: [[Design\|Design]], [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]

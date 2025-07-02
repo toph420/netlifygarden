@@ -29,7 +29,7 @@ When she gets home things go on for a few months but they are both tormented by 
 
 > [!NOTE]
 > up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
-> type:: #💡/video 
+> categories:: #💡/video 
 > tags::  
 > status:: #📝/🌞
 > topics:: 

@@ -5,10 +5,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]
-> type:: #📥/📰 
+> categories:: #📥/📰 
 > status:: #📥/🟨
 > tags:: #on/pkm 
-> topics:: [[Cards/000 - Knowledge Management/Tags\|Tags]]
+> links:: [[Tags\|Tags]]
 > links:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|How I Take Notes]], [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs TODO Tag\|TIMs TODO Tag]], [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]
 
 # TIMs EVER Notes

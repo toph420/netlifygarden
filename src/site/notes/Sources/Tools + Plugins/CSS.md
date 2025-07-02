@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
-> type:: #📥/🛠
+> categories:: #📥/🛠
 > status:: #📥/🟧 
 > tags:: #on/language
 > links:: [[My Code Snippets\|My Code Snippets]]

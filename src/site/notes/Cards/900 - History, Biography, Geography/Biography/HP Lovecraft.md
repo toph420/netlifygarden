@@ -5,7 +5,7 @@
 > [!metadata]- Meta
 > **up**:: [[Cards/800 - Literature/800 - Literature\|800 - Literature]]
 > **type**:: #📝/🌱 
-> **tags**::  #on/authors #on/lovecraft #on/cosmichorror #on/literature
+> **tags**::  #person/author #on/lovecraft #on/cosmichorror #on/literature
 > **topics**:: [[Horror\|Horror]], [[Cosmic Horror\|Cosmic Horror]]
 > **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 

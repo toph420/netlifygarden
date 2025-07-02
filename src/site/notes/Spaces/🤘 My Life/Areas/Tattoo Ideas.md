@@ -5,7 +5,7 @@
 > [!metadata]- Meta
 > **up**:: [[Spaces/🤘 My Life/🤘 My Life\|🤘 My Life]]
 > **tags**:: #on/tattoos
-> **topics**:: [[Art\|Art]], [[Tattooing\|Tattooing]]
+> **topics**:: [[+ Encounters/Art\|Art]], [[Tattooing\|Tattooing]]
 
 
 # Tattoo Ideas

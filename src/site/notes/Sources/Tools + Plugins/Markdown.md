@@ -15,8 +15,8 @@ up:: [[🏠 Home\|🏠 Home]]
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📥/🛠  
+> categories:: #📥/🛠  
 > tags::  
 > status:: #📥/🟥 
-> topics:: 
+> links:: 
 > links::

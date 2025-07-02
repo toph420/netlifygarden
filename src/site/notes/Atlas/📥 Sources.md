@@ -1,24 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/sources/","contentClasses":"sources"}
+{"dg-publish":true,"permalink":"/atlas/sources/","title":"📥 Sources","contentClasses":"sources","tags":["🗺"]}
 ---
-
 
 
 # 📥 Sources
 
 > Information from the source ether. Refer to  [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My Note Taking Workflow]] for info about creating and modifying notes. I have a page dedicated to all of the [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]] that come into the Source folder.
 
-
 > [!NOTE|no-t clean]
 > ## 🟥 Not Processed
 > 
 >  | Source                                                       |
 > | ------------------------------------------------------------ |
+> | [[Sources/📚 Books/Satantango\|Satantango]]               |
+> | [[Sources/📚 Books/Omensetter’s Luck\|Omensetter’s Luck]] |
+> | [[Sources/📚 Books/The Waves\|The Waves]]                 |
 > | [[Sources/📚 Books/Ice\|Ice]]                             |
-> | [[Sources/📰 Articles/War Fever\|War Fever]]              |
 > | [[Sources/📚 Books/V.\|V.]]                               |
-> | [[Sources/📚 Books/Dubliners\|Dubliners]]                 |
-> | [[Sources/📚 Books/Tenth of December\|Tenth of December]] |
 > 
 { .block-language-dataview}
 
@@ -36,23 +34,25 @@
 
 > [!NOTE|no-t clean]
 > ## 🟨 Synthesizing 
->  | File                                                                                                                                      |
-> | ----------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📜 Papers/The Philosophical Roots of the Marx-Bakunin Conflict\|The Philosophical Roots of the Marx-Bakunin Conflict]]       |
-> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                             |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]] |
-> | [[Sources/📚 Books/Ubik\|Ubik]]                                                                                                        |
-> | [[Sources/Tools + Plugins/Zotero\|Zotero]]                                                                                             |
+>  | File                                                                                                                                                                                              |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]                                                         |
+> | [[Sources/📚 Books/Ubik\|Ubik]]                                                                                                                                                                |
+> | [[Sources/Tools + Plugins/Zotero\|Zotero]]                                                                                                                                                     |
+> | [[Sources/🎙 Podcasts/AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg\|AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg]]                                         |
+> | [[Sources/🎙 Podcasts/Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay\|Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay]] |
 > 
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
-> ## 📄 Papers (Zotero)
->  | File                                                                                                                                      |
-> | ----------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📜 Papers/The Philosophical Roots of the Marx-Bakunin Conflict\|The Philosophical Roots of the Marx-Bakunin Conflict]]       |
-> | [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]                                             |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]] |
+> ## 📜 Papers (Zotero)
+>  | File                                                                                                              |
+> | ----------------------------------------------------------------------------------------------------------------- |
+> | [[Sources/📜 Papers/The Logic of Sense\|The Logic of Sense]]                                                   |
+> | [[Sources/📜 Papers/Nietzsche and Philosophy\|Nietzsche and Philosophy]]                                       |
+> | [[Sources/📜 Papers/Anti-Oedipus 1.4 - A Materialist Psychiatry\|Anti-Oedipus 1.4 - A Materialist Psychiatry]] |
+> | [[Sources/📜 Papers/Anti-Oedipus - Capitalism and Schizophrenia\|Anti-Oedipus - Capitalism and Schizophrenia]] |
+> | [[Sources/📜 Papers/Anti-Oedipus 1.1 - Desiring-Production\|Anti-Oedipus 1.1 - Desiring-Production]]           |
 > 
 { .block-language-dataview}
 
@@ -95,7 +95,6 @@
 > 
 { .block-language-dataview}
 
-
 > [!NOTE|no-t clean]
 > ## 🟩 Synthesized 
 >  | File                                                                                                                                                                                                                |
@@ -114,7 +113,4 @@
 { .block-language-dataview}
 
 ---
-> [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
-> **type**:: #🗺
-> **status**:: #📝/🌱 
+up:: [[🏠 Home\|🏠 Home]]

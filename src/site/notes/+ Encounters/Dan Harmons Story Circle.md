@@ -1,23 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/dan-harmons-story-circle/","title":"Dan Harmons Story Circle"}
+{"dg-publish":true,"permalink":"/encounters/dan-harmons-story-circle/","title":"Dan Harmons Story Circle","tags":["📝","📝/🌞","on/storystructure","on/storytelling","on/writing"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[+ Encounters/Storytelling\|Storytelling]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/writing #on/storytelling #on/storystructure
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]], [[+ Encounters/Storytelling\|Storytelling]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/writing #on/storytelling #on/storystructure  
+> **topics**::  
+> **links**::
 
 # Dan Harmons Story Circle
 
 > A simplified version of the hero's journey
 
-
-
-> [!ava]+ The Story Circle
+> [!ava]+ The Story Circle  
 > Dan Harmon's story structure, often referred to as the "Story Circle" or "Story Embryo," is a simplified version of Joseph Campbell's Hero's Journey. It's designed to be applicable to a wide range of stories, from feature-length films to individual episodes of TV shows. Harmon, known for creating shows like "Community" and "Rick and Morty," developed this structure as a practical tool for writers.
 > 
 > Here's a breakdown of Harmon's 8-step Story Circle:
@@ -52,11 +50,9 @@
 > 
 > Would you like to try one of these exercises or explore how this structure compares to others we've discussed?
 
-
 ## Example Outlines
 
-
-> [!ava]- PKD (hypothetical)
+> [!ava]- PKD (hypothetical)  
 > Title: "The Reality Adjustment Bureau"
 > 
 > 1. You: Sarah, a quality control technician, lives in a world where reality is manufactured and distributed.
@@ -91,9 +87,8 @@
 > Remember, PKD's stories often leave readers with more questions than answers, blending mind-bending concepts with deeply human concerns. The ambiguity at the end - Is Sarah really in control? Is this just another layer of simulation? - is characteristic of his work.
 > 
 > Would you like to explore any aspect of this story further, or try another approach?
-> 
-
+>  
 
 ---
-up:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[+ Encounters/Storytelling\|Storytelling]]
+up:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]], [[+ Encounters/Storytelling\|Storytelling]]
 

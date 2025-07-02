@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌱 
 > tags::  #on/music
-> topics:: [[Music\|Music]]
+> links:: [[Music\|Music]]
 > links:: [[](Music.md)
 
 # 🎧 My Music

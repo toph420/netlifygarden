@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]
-> type:: #📝 
+> categories:: #📝 
 > tags::  #on/videoediting  #on/process
 > status:: #📝/🌿 
-> topics:: [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]], [[🎞 Video Editing MOC\|🎞 Video Editing]]
+> links:: [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]], [[🎞 Video Editing MOC\|🎞 Video Editing]]
 > links:: 
 
 # My Davinci Resolve Process

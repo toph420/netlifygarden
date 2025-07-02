@@ -13,10 +13,9 @@
 >> **type**:: #📥/📰
 >> **status**:: #📥/🟧 
 >> **tags**:: #rw #on/pkm #on/obsidian 
->> **topics**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+>> **topics**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[🖋 Writing\|🖋 Writing]]
 >
->> [!ABSTRACT]- Article Info
->> **Author**: Vanessa Glau
+>> [!ABSTRACT]- Article In[](Writing.md)**: Vanessa Glau
 >> **Title**: How I Plan and Write Fiction in Obsidian
 >> **URL**: [Link](https://medium.com/@vanessaglau/how-i-plan-and-write-fiction-in-obsidian-f140455281c1)
 ---

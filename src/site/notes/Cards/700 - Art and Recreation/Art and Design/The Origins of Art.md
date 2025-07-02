@@ -3,7 +3,7 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Art\|Art]]
+> **up**:: [[+ Encounters/Art\|Art]]
 > **type**:: #📝 
 > **status**:: #📝/🌱 
 > **tags**::  #on/art

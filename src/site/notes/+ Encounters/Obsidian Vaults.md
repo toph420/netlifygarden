@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/obsidian-vaults/","title":"Obsidian Vaults"}
+{"dg-publish":true,"permalink":"/encounters/obsidian-vaults/","title":"Obsidian Vaults","tags":["📝","📝/🌿","on/obsidian","on/pkm","on/vaults"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
-> **type**:: #📝 
-> **status**:: #📝/🌿 
-> **tags**:: #on/obsidian #on/pkm #on/vaults
-> **topics**:: 
-> **links**:: [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 
+> [!metadata]- Meta  
+> **up**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]  
+> **type**:: #📝  
+> **status**:: #📝/🌿  
+> **tags**:: #on/obsidian #on/pkm #on/vaults  
+> **topics**::  
+> **links**:: [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 
 # Obsidian Vaults
 
 > Examples of vaults, ideas for notes, customizing Obsidian
-
 
 | File                                                                                               |
 | -------------------------------------------------------------------------------------------------- |

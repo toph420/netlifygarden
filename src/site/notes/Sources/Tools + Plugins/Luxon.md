@@ -14,8 +14,8 @@ up:: [[🏠 Home\|🏠 Home]]
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📥/🛠 
+> categories:: #📥/🛠 
 > tags::  
 > status:: #📥/🟥
-> topics:: [[Sources/Tools + Plugins/JavaScript\|JavaScript]]
+> links:: [[Sources/Tools + Plugins/JavaScript\|JavaScript]]
 > links:: [[Sources/Tools + Plugins/Tools + Plugins\|Tools]]

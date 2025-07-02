@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
-> type:: #💡
+> categories:: #💡
 > tags::  #on/ai 
 > topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]] 
 > links:: 

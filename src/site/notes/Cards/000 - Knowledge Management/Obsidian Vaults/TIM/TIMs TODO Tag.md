@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/000-knowledge-management/obsidian-vaults/tim/ti-ms-todo-tag/","title":"TIMs TODO Tag"}
 ---
 
-up:: [[Atlas/🧠 Sid\|🧠 Sid]]
+up:: [[Atlas/🧠 My Vault\|🧠 My Vault]]
 
 ---
 
@@ -40,10 +40,10 @@ url:: [my TO(DO) and EVER(GREEN) structure - TIM - Obsidian Publish](https://pub
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/📰 
+> categories:: #📥/📰 
 > tags:: #on/pkm 
 > status:: #📥/🟧 
-> topics:: [[Cards/000 - Knowledge Management/Tags\|Tags]]
+> links:: [[Tags\|Tags]]
 > links:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|How I Take Notes]], [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]], [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs EVER Notes\|TIMs EVER Notes]]
 
 

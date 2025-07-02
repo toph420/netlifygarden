@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > tags:: #on/technology
-> topics:: 
+> links:: 
 > **links**::
 
 

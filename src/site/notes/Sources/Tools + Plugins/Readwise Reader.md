@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
-> type:: #📥/🛠 
+> categories:: #📥/🛠 
 > status:: #📥/🟨 
 > tags:: #on/tools
 > links:: [[Readwise\|Readwise]]

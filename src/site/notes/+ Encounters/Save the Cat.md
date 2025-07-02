@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/save-the-cat/","title":"Save the Cat"}
+{"dg-publish":true,"permalink":"/encounters/save-the-cat/","title":"Save the Cat","tags":["📝","📝/🌞","on/story","on/storystructure","on/storytelling","on/writing"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/storytelling #on/storystructure #on/story #on/writing
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/storytelling #on/storystructure #on/story #on/writing  
+> **topics**::  
+> **links**::
 
 # Save the Cat
 
 > A storytelling structure, 15 beats 
-
 
 > [!ava]+ Cheat Sheet
 > 
@@ -40,11 +39,9 @@
 > 
 > The writer should be able to describe each beat with just one or two sentences.
 
-
 ## Example Outlines
 
-
-> [!ava]- PKD (hypothetical)
+> [!ava]- PKD (hypothetical)  
 > Title: "The Memory Merchant"
 > 
 > 1. Opening Image: A man wakes up in a sterile room, unsure of his identity.
@@ -65,8 +62,6 @@
 > 
 > This outline incorporates themes and elements common in Philip K. Dick's work, such as questioning reality and identity, without directly copying any specific story. It demonstrates how the Save the Cat structure can be applied to a science fiction narrative exploring philosophical questions about the nature of self and memory.
 
-
-
 ---
-up:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+up:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]
 

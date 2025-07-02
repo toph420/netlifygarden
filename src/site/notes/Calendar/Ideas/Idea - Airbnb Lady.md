@@ -3,11 +3,11 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[🏠 Home\|🏠 Home]]
-> type:: #💡  
+> up:: [[Calendar/+ MOCs/💡 Ideas\|Ideas]]
+> categories:: #💡  
 > tags::  #on/writing
 > status:: #📝/🌞 
-> topics:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+> topics:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]
 > links::
 
 

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/voodoo/","title":"Voodoo"}
+{"dg-publish":true,"permalink":"/encounters/voodoo/","title":"Voodoo","tags":["📝","📝/🌞","on/vodou","on/voodoo"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: 
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/voodoo #on/vodou
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**::  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/voodoo #on/vodou  
+> **topics**::  
+> **links**::
 
 # Voodoo
 

@@ -4,11 +4,10 @@
 
 
 >[!metadata]- Meta
->up:: [[Atlas/🧠 Sid\|🧠 Sid]]
->type:: #📝 
->tags:: #on/pkm 
+>up:: [[🧠 Sid\|🧠 Sid]]
+>categories:[](🧠%20My%20Vault.md)gs:: #on/pkm 
 >status:: #📝/🌿 
->topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+>links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 
 # What I want to do with Obsidian
 
@@ -39,6 +38,6 @@
 - On client pages I want to see all related projects and their tasks grouped by project sorted by priority, then due. 
 
 ---
-up:: [[Atlas/🧠 Sid\|🧠 Sid]]
+up:: [[Atlas/🧠 My Vault\|🧠 My Vault]]
 
 

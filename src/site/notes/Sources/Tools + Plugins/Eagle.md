@@ -39,7 +39,7 @@ Eagle is a great tool for collecting inspiration and offers a wide variety of op
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/🛠 
+> categories:: #📥/🛠 
 > status:: #📥/🟥
 > tags:: 
-> topics::
+> links::

@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/storytelling-exercises/","title":"Storytelling Exercises"}
+{"dg-publish":true,"permalink":"/encounters/storytelling-exercises/","title":"Storytelling Exercises","tags":["📝","📝/🌞","on/learning","on/writing"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/writing #on/learning
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/writing #on/learning  
+> **topics**::  
+> **links**::
 
 # Storytelling Exercises
 
 > A brain dump of exercises to level up my writing
 
-
 > [!ava]+ Interactive Exercises to Learn Story Structures
->
+> 
 > 1. Structure Mapping Choose a favorite book or movie. Identify how it fits into one of these structures. Create a visual map or outline of the story's events according to the structure.
 > 2. Structure Switching Take a simple fairy tale and rewrite its outline in three different structures. How does the story change?
 > 3. Beat Board Creation Using the Save the Cat beats, create a physical or digital "beat board" for a story idea. Use sticky notes or digital cards to arrange and rearrange story elements.
@@ -31,9 +30,6 @@
 > 11. Three-Act Structure Trilogy Develop a trilogy where each book represents one act of the Three-Act Structure. Outline how the larger story unfolds across the three books.
 > 12. Fichtean Curve Crisis Creation For a story idea, brainstorm a series of escalating crises. Arrange them along a curve, ensuring each is more intense than the last.
 
-
-
-
 ---
-up:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+up:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]
 

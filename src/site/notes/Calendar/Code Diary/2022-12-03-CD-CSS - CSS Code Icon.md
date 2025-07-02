@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]], [[Calendar/+ MOCs/📓 Journal\|Journal]]
-> type:: #log/code 
+> categories:: #log/code 
 > language:: [[Sources/Tools + Plugins/CSS\|CSS]]
 ---
 

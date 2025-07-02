@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home/","contentClasses":"mado-table-stripe mado-table","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Home","contentClasses":"mado-table mado-table-stripe","tags":["🗺️","gardenEntry"]}
 ---
 
 
-
-# Welcome to Topher's notes
+# Welcome to Topher's Notes
 
 I use [Obsidian](https://obsidian.md/) to manage everything from projects, people, journaling, and general note taking. This here website is my own little [digital garden](https://maggieappleton.com/garden-history), a collection of notes from my Obsidian vault that I've made public. I’m inspired by many others who talk about the benefits of [learning in public](https://notes.nicolevanderhoeven.com/Learning+in+public). The goal in publishing this is to encourage myself to take more and better notes. My brain is all over the place so it goes without saying this may be messy, but feel free to click around! 
 
@@ -14,7 +13,7 @@ Below are some jumping off points:
 
 - Be sure to check out the [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]] to keep up with my writing journey. 
 - See what books I'm reading on my [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
-- Learn some more about this [[Sources/Tools + Plugins/Obsidian\|Obsidian]] vault of notes, I call it [[Atlas/🧠 Sid\|🧠 Sid]] (homage to Sid from [The Incredible Toon Machine](https://www.youtube.com/watch?v=w6RD2s4TQAQ))
+- Learn some more about this [[Sources/Tools + Plugins/Obsidian\|Obsidian]] vault of notes, I call it [[Atlas/🧠 My Vault\|🧠 My Vault]] (homage to Sid from [The Incredible Toon Machine](https://www.youtube.com/watch?v=w6RD2s4TQAQ))
 - Use [[Atlas/🗺 Maps\|🗺 Maps]], [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]], [[Atlas/📚 Library\|📚 Library]], [[Atlas/📥 Sources\|📥 Sources]] to explore 
 - Use the backlinks on each page to navigate to related notes
 
@@ -30,18 +29,20 @@ Elsewhere:
 
 | Entries                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/Writing Journal/2025-06-09-WJ - Lingerie Trunk\|Lingerie Trunk]]<span class=summary>A quick 5 minute session at 1am</span>                                                                                                                                                                                     |
+| [[Calendar/Writing Journal/2025-05-29-WJ - Long Weekend\|Long Weekend]]<span class=summary>Late night blurb </span>                                                                                                                                                                                                       |
+| [[Calendar/Writing Journal/2025-05-14-WJ - Trenchcoat Dime\|Trenchcoat Dime]]<span class=summary>A late night stream of consciousness</span>                                                                                                                                                                              |
+| [[Calendar/Writing Journal/2025-05-14-WJ - The Hearing\|The Hearing]]<span class=summary>A quick morning stream of consciousness </span>                                                                                                                                                                                  |
 | [[Calendar/Writing Journal/2025-04-05-WJ - Shitterday Notes\|Shitterday Notes]]<span class=summary>Maybe I'll write something in here today 🤔 </span>                                                                                                                                                                    |
 | [[Calendar/Writing Journal/2025-03-15-WJ - Sporty Twins and the Capitalist\|Sporty Twins and the Capitalist]]<span class=summary>A writing session based on a weird dream I had last night with some twins and a (literally) filthy capitalist.</span>                                                                    |
 | [[Calendar/Writing Journal/2024-07-02-WJ - The Chiropractor\|The Chiropractor]]<span class=summary>Updates on my reading progress and an experiment in Bizarro fiction storytelling</span>                                                                                                                                |
 | [[Calendar/Writing Journal/2024-06-19-WJ - Continuing Harvey, Aspiring Stuntman Doordash Vigilante\|Continuing Harvey, Aspiring Stuntman Doordash Vigilante]]<span class=summary>A writing entry continuing a bit of Harveys story from [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|2024-06-14-WJ - Everything he said that day was bullshit]] and exercises</span> |
 | [[Calendar/Writing Journal/2024-06-14-WJ - Everything he said that day was bullshit\|Everything he said that day was bullshit]]<span class=summary>A writing prompt inspired by a conversation with my dad</span>                                                                                                         |
 | [[Calendar/Writing Journal/2024-06-11-WJ - My First Writing Entry\|My First Writing Entry]]<span class=summary>Getting started on a writing journey, let's see how it goes.</span>                                                                                                                                        |
-| [[Calendar/Writing Journal/2024-02-15-WJ - Things I Want to Write About\|Things I Want to Write About]]<span class=summary></span>                                                                                                                                                                                        |
 
 { .block-language-dataview}
 
-
-## Where to?
+## Where To?
 
 > [!multi-column]
 > > [!example]+ Notes
@@ -51,13 +52,11 @@ Elsewhere:
 > > - [[Cards/Canvasses/📋 Canvasses\|📋 Canvasses]]
 > > - [[Atlas/🧊 Icebox\|🧊 Icebox]]
 > > - [[Atlas/📚 Library\|📚 Library]]
-> > - [[Atlas/🧠 Sid\|🧠 Sid]]
+> > - [[Atlas/🧠 My Vault\|🧠 My Vault]]
 > 
 > > [!example]+ Work
-> > - [[🏹 Action\|🏹 Action]]
-> > - [[Calendar/+ MOCs/👥 Meeting Log\|👥 Meeting Log]]
+> > - [[Calendar/+ MOCs/👥 Meetings\|👥 Meetings]]
 > > - [[Spaces/🦆 Ducks Films/🦆 Ducks Films\|🦆 Ducks Films]]
-> > - [[Spaces/🦆 Ducks Apparel/🦆 Ducks Apparel\|🦆 Ducks Apparel]]
 > > - [[Spaces/🦆 Ducks Films/🌈 Ducks Projects/🌈 Ducks Projects\|🌈 Ducks Projects]]
 > > - [[Spaces/🦆 Ducks Films/Areas/💸 Ducks Finances\|💸 Ducks Finances]]
 > 
@@ -84,46 +83,45 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                 | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Taxes - 2024\|Taxes - 2024]]<br><span class='block'>11:27 AM - April 15, 2025</span>               | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Easing\|Easing]]<br><span class='block'>12:17 PM - April 07, 2025</span>                           | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Quotes\|Quotes]]<br><span class='block'>1:06 PM - April 06, 2025</span>                            | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Friedrich Nietzsche\|Friedrich Nietzsche]]<br><span class='block'>12:46 PM - April 06, 2025</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Curtis Yarvin\|Curtis Yarvin]]<br><span class='block'>10:15 PM - April 03, 2025</span>             | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                      | Status                               |
+> | --------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/China\|China]]<br><span class='block'>9:08 PM - June 29, 2025</span>                    | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Mao Zedong\|Mao Zedong]]<br><span class='block'>8:54 PM - June 29, 2025</span>          | <span class='center-block'>\-</span> |
+> | [[+ Encounters/Reddit Posts\|Reddit Posts]]<br><span class='block'>1:24 AM - June 29, 2025</span>      | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Obsidian Todo\|Obsidian Todo]]<br><span class='block'>1:00 AM - June 27, 2025</span>    | <span class='center-block'>\-</span> |
+> | [[+ Encounters/Steve Tomasula\|Steve Tomasula]]<br><span class='block'>12:52 AM - June 27, 2025</span> | <span class='center-block'>\-</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                   | Status                               |
-> | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Cards/600 - Applied Sciences/Filmmaking/Filmmaking Gear\|Filmmaking Gear]]<br><span class='block'>9:09 AM - April 22, 2025</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Gilles Deleuze\|Gilles Deleuze]]<br><span class='block'>12:01 PM - April 21, 2025</span>                             | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Friedrich Nietzsche\|Friedrich Nietzsche]]<br><span class='block'>8:39 PM - April 18, 2025</span>                    | <span class='center-block'>🌞</span> |
-> | [[Cards/300 - Social Sciences/Activism\|Activism]]<br><span class='block'>10:50 AM - April 17, 2025</span>                          | <span class='center-block'>🌱</span> |
-> | [[+ Encounters/Taxes - 2024\|Taxes - 2024]]<br><span class='block'>3:48 PM - April 15, 2025</span>                                  | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                                      | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Ulysses\|Ulysses]]<br><span class='block'>10:17 PM - July 01, 2025</span>                                               | <span class='center-block'>🌱</span> |
+> | [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]<br><span class='block'>10:50 PM - June 30, 2025</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/William Gibson\|William Gibson]]<br><span class='block'>9:42 PM - June 30, 2025</span>                                  | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Thomas Pynchon\|Thomas Pynchon]]<br><span class='block'>9:42 PM - June 30, 2025</span>                                  | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Raymond Roussel\|Raymond Roussel]]<br><span class='block'>9:42 PM - June 30, 2025</span>                                | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
-
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                         | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/Ice\|Ice]]<br><span class='block'>12:04 AM - April 21, 2025</span>                                                                                                                                                       | <span class='center-block'>🟥</span> |
-> | [[Sources/📰 Articles/The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays\|The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays]]<br><span class='block'>1:00 AM - April 15, 2025</span> | <span class='center-block'>🟧</span> |
-> | [[Sources/📰 Articles/War Fever\|War Fever]]<br><span class='block'>8:59 PM - April 05, 2025</span>                                                                                                                                         | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/V.\|V.]]<br><span class='block'>10:06 PM - March 28, 2025</span>                                                                                                                                                         | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Dubliners\|Dubliners]]<br><span class='block'>12:49 AM - March 24, 2025</span>                                                                                                                                           | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                  | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📰 Articles/How to Use Templater JS Scripts 1\|How to Use Templater JS Scripts]]<br><span class='block'>11:09 AM - June 28, 2025</span>                    | <span class='center-block'>\-</span> |
+> | [[Sources/📚 Books/Satantango\|Satantango]]<br><span class='block'>12:57 AM - June 07, 2025</span>                                                                   | <span class='center-block'>🟥</span> |
+> | [[Sources/📜 Papers/The Logic of Sense\|The Logic of Sense]]<br><span class='block'>10:05 PM - June 05, 2025</span>                                                  | <span class='center-block'>🟥</span> |
+> | [[Sources/📜 Papers/Nietzsche and Philosophy\|Nietzsche and Philosophy]]<br><span class='block'>9:30 PM - June 05, 2025</span>                                       | <span class='center-block'>🟨</span> |
+> | [[Sources/📜 Papers/Anti-Oedipus 1.4 - A Materialist Psychiatry\|Anti-Oedipus 1.4: A Materialist Psychiatry]]<br><span class='block'>11:59 PM - June 04, 2025</span> | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                                                                          | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/Ice\|Ice]]<br><span class='block'>3:47 AM - April 21, 2025</span>                                                                                                                                                         | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Invisible Cities\|Invisible Cities]]<br><span class='block'>1:24 AM - April 19, 2025</span>                                                                                                                               | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/V.\|V.]]<br><span class='block'>1:24 AM - April 19, 2025</span>                                                                                                                                                           | <span class='center-block'>🟥</span> |
-> | [[Sources/📰 Articles/The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays\|The Substantial Ghost Towards a General Exegesis of Duchamps Artful Wordplays]]<br><span class='block'>12:58 PM - April 15, 2025</span> | <span class='center-block'>🟧</span> |
-> | [[Sources/📰 Articles/War Fever\|War Fever]]<br><span class='block'>9:48 PM - April 06, 2025</span>                                                                                                                                          | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                                    | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📜 Papers/The Fetish Object\|The Fetish Object]]<br><span class='block'>9:22 PM - June 30, 2025</span>                                                                       | <span class='center-block'>🟥</span> |
+> | [[Sources/📜 Papers/Oppose Book Worship\|Oppose Book Worship]]<br><span class='block'>9:22 PM - June 30, 2025</span>                                                                   | <span class='center-block'>🟥</span> |
+> | [[Sources/📜 Papers/The Logic of Sense\|The Logic of Sense]]<br><span class='block'>9:14 PM - June 29, 2025</span>                                                                     | <span class='center-block'>🟥</span> |
+> | [[Sources/📜 Papers/The Philosophical Roots of the Marx-Bakunin Conflict\|The Philosophical Roots of the Marx-Bakunin Conflict]]<br><span class='block'>7:30 PM - June 29, 2025</span> | <span class='center-block'>🟨</span> |
+> | [[Sources/📜 Papers/Anti-Oedipus 1.1 - Desiring-Production\|Anti-Oedipus 1.1 - Desiring-Production]]<br><span class='block'>7:30 PM - June 29, 2025</span>                             | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
-> type:: #🗺 
+> categories:: #🗺 
 > status:: #📝/🌿 
 > tags:: #on/coding
 
@@ -34,9 +34,9 @@
 
 | File                                                                                               | Modified  | Language |
 | -------------------------------------------------------------------------------------------------- | --------- | -------- |
-| [[Sources/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]                          | 2024-6-13 | \-       |
+| [[Sources/📰 Articles/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]              | 2025-6-28 | \-       |
 | [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]] | 2024-6-13 | \-       |
-| [[Calendar/Journal/Daily/2023-04-04\|2023-04-04]]                                               | 2023-4-5  | \-       |
+| [[Calendar/Journal/Daily/2023-04-04\|2023-04-04]]                                               | 2025-6-28 | \-       |
 
 { .block-language-dataview}
 

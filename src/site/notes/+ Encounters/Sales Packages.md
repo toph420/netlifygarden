@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/sales-packages/","title":"Sales Packages"}
+{"dg-publish":true,"permalink":"/encounters/sales-packages/","title":"Sales Packages","tags":["📝","📝/🌞"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**::  
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[🏠 Home\|🏠 Home]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**::  
+> **topics**::  
+> **links**::
 
 # Sales Packages
 

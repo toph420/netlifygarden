@@ -4,9 +4,9 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌞
-> topics:: [[Economic Development\|Economic Development]]
+> links:: [[Economic Development\|Economic Development]]
 > links:: [[Spaces/🦆 Ducks Films/🌈 Ducks Projects/_Completed/CCOS - Reinvest in GR/CCOS - Reinvest in GR\|CCOS - Reinvest in GR]]
 
 > [!attention] Todo
@@ -21,8 +21,8 @@
 ## People
 - [[Cards/100 - Personal Management/Community Activists\|Community Activists]]
 - [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/The Coalition for Community Owned Safety/The Coalition for Community Owned Safety\|The Coalition for Community Owned Safety]]
-- [[Cards/100 - Personal Management/👽 People/Denavvia Mojet\|Denavvia]]
-- [[Cards/100 - Personal Management/👽 People/Hannah Berry\|Hannah Berry]]
+- [[Cards/100 - Personal Management/People/Denavvia Mojet\|Denavvia]]
+- [[Cards/100 - Personal Management/People/Hannah Berry\|Hannah Berry]]
 - [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/Lions and Rabbits/Lions and Rabbits\|Lions and Rabbits]]
 
 

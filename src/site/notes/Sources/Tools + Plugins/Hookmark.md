@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
-> type:: #📥/🛠 
+> categories:: #📥/🛠 
 > status:: #📥/🟧
 > tags::  #on/tools
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 
 # Hookmark
 

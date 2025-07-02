@@ -5,7 +5,7 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌞
 > tags::  #on/michigan
 

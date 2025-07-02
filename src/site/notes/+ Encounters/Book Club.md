@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/book-club/","title":"Book Club"}
+{"dg-publish":true,"permalink":"/encounters/book-club/","title":"Book Club","tags":["📝","📝/🌞","on/bookclub","on/books"]}
 ---
-
-> [!metadata]- Meta
-> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/books #on/bookclub
-> **topics**:: 
-> **links**::
 
 
 # Book Club

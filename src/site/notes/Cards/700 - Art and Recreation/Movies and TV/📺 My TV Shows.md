@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #🗺 
+> categories:: #🗺 
 > status:: #📝/🌿 
 > tags::  #on/tv
 
@@ -65,6 +65,10 @@
 ## Lists
 - [What is the most underrated tv series that barely anyone knows?](https://x.com/TheCinesthetic/status/1724131513120493867?s=20)
 - [underrated tv shows](https://x.com/thecinesthetic/status/1849881110286614775?s=61&t=gyRX2W0x81b80X8f34EMoQ)
+
+![My TV Shows - bestTV.png](/img/user/Extras/Attachments/My%20TV%20Shows%20-%20bestTV.png)
+
+
 ---
 up:: [[🏠 Home\|🏠 Home]]
 

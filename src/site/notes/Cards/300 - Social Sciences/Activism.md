@@ -27,7 +27,7 @@
 - [Sustainable Development Wiki](https://sdgwiki.carrd.co/) - massive resource wiki
 - ⭐️ [Reddit - best left wing media sources](https://www.reddit.com/r/socialism/s/qcwfxVSg6B) - check this out !
 - ⭐️ [Anti-Capitalist Resources \| Hilary Agro](https://hilaryagro.com/resources/)
-
+- [Instagram](https://www.instagram.com/p/DK230UcSHEp/?img_index=2&igsh=MzZqZjV0MXgxbXU2)
 ## Local
 - interesting Reddit thread about a protest in GR, discussing importance of efficient organizing and not alienating certain communities (in this case, anti-cap and latino) - [Reddit](https://www.reddit.com/r/grandrapids/s/TTTxK3HQQX)
 - [r/grandrapidsleftist](https://www.reddit.com/r/grandrapidsleftist/s/isOdJ7f5TG)

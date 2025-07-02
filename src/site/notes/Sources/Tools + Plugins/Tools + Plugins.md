@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #🗺/view  
+> categories:: #🗺/view  
 > links:: [[Atlas/📥 Sources\|📥 Sources]]
 
 
@@ -47,7 +47,6 @@ See raindrop "Tools" collection and [[+ Encounters/Design Tools\|Design Tools]]
 > | [[Sources/Tools + Plugins/Plugin - Tasks\|Plugin - Tasks]]<span class='summary'>\-</span>                                                                                                                                                                                                                                      |
 > | [[Sources/Tools + Plugins/Plugin - Quickadd\|Plugin - Quickadd]]<span class='summary'>\-</span>                                                                                                                                                                                                                                |
 > | [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]<span class='summary'>A plugin to display data from your notes, anywhere.</span>                                                                                                                                                                               |
-> | [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]]<span class='summary'>Docs and resources for Templater</span>                                                                                                                                                                                                |
 > | [[Sources/Tools + Plugins/Obsidian Scrapers\|Obsidian Scrapers]]<span class='summary'>A collection of [Templater](https://github.com/SilentVoid13/Templater) scripts for [Obsidian](https://obsidian.md/) that can be easily integrated into your templates to get information from different sites with a copied link.</span> |
 > 
 { .block-language-dataview}
@@ -67,7 +66,7 @@ See raindrop "Tools" collection and [[+ Encounters/Design Tools\|Design Tools]]
 > [!example]- Untagged
 >  | Notes                                                                                                                              |
 > | ---------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Extras/Templates/Template, Tools + Plugins\|Template, Tools + Plugins]]<span class='summary'>{{VALUE:Summary}}</span>         |
+> | [[Extras/Templates/Template, Tools + Plugins\|{{VALUE:title}}]]<span class='summary'>{ { VALUE:summary }: \- }</span>           |
 > | [[Sources/Tools + Plugins/Highlightr\|Highlightr]]<span class='summary'>Examples and resources for the Highlightr plugin</span> |
 > | [[Sources/Tools + Plugins/Raycast\|Raycast]]<span class='summary'>Guides and tips for Raycast</span>                            |
 > | [[Sources/Tools + Plugins/Markdown\|Markdown]]<span class='summary'>Docs and resources related to Markdown</span>               |

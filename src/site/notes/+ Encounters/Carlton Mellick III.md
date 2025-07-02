@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/carlton-mellick-iii/","title":"Carlton Mellick III"}
+{"dg-publish":true,"permalink":"/encounters/carlton-mellick-iii/","title":"Carlton Mellick III","tags":["person/author","on/literature","on/reading","on/writing"]}
 ---
-
-> [!metadata]- Meta
-> **up**:: [[Cards/800 - Literature/800 - Literature\|800 - Literature]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/authors #on/writing #on/literature #on/reading
-> **topics**:: 
-> **links**::
 
 
 # Carlton Mellick III
@@ -19,9 +11,9 @@
 
 ---
 
-Some guys teir list:
+Some guys teir list:  
 ![Carlton Mellick III - teirlist.png](/img/user/Extras/Attachments/Carlton%20Mellick%20III%20-%20teirlist.png)
 
 ---
-up:: [[Cards/800 - Literature/800 - Literature\|800 - Literature]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
+up:: [[+ Encounters/Authors\|Authors]]
 

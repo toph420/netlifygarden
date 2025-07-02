@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/storytelling/","title":"Storytelling"}
+{"dg-publish":true,"permalink":"/encounters/storytelling/","title":"Storytelling","tags":["📝","📝/🌞","on/story","on/storystructure","on/storytelling","on/writing"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/600 - Applied Sciences\|Applied Sciences]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/writing #on/storytelling #on/storystructure #on/story
-> **topics**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/600 - Applied Sciences/600 - Applied Sciences\|Applied Sciences]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/writing #on/storytelling #on/storystructure #on/story  
+> **topics**:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]  
+> **links**::
 
 # Storytelling
 
 > Notes and guides about telling stories 
-
 
 - See [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]
 
@@ -25,12 +24,10 @@
 
 ![IMG_1992.jpeg](/img/user/Extras/Attachments/IMG_1992.jpeg)
 
-
-> [!Image]- Story Structure Diagram
+> [!Image]- Story Structure Diagram  
 > ![Storytelling - structure.png](/img/user/Extras/Attachments/Storytelling%20-%20structure.png)
 
-
-> [!ava]+ Some Story Structures
+> [!ava]+ Some Story Structures  
 > Here are some of the most common and influential story structures, followed by suggestions for interactive exercises to help you learn them:
 > 
 > 1. Three-Act Structure Basic structure: Setup, Confrontation, Resolution
@@ -48,12 +45,9 @@
 > 
 > Remember, these structures are guidelines, not rigid rules. As you practice with these exercises, you'll develop an intuitive sense of story flow and pacing. You may even find yourself creating your own unique structural approaches. The key is to understand these structures well enough to use them as tools, bending and adapting them to serve your story's needs.
 
-
-
 ## Tropes
 
-
-> [!ava]- Bizarro/Surreal, Horror/Lovecratian, Sci-Fi Tropes 
+> [!ava]- Bizarro/Surreal, Horror/Lovecratian, Sci-Fi Tropes  
 > Bizarro and Surreal Tropes:
 > 
 > 1. Body transformation/mutation Description: Characters undergo bizarre physical changes. Example: A man's fingers turn into miniature versions of himself. Subtext: Identity crisis, body dysmorphia, societal pressure to conform.
@@ -78,8 +72,7 @@
 > 4. Forbidden knowledge Description: Information so dangerous or traumatic that knowing it is harmful. Example: A book that, when read, erases the reader from existence. Subtext: Limits of human knowledge, curiosity vs. safety, power of information.
 > 5. Psychological breakdown Description: Characters' minds fragment under stress or revelation. Example: A detective solving an impossible case gradually loses grip on reality. Subtext: Mental health, cognitive dissonance, the fragility of sanity.
 
-## My Favorite Authors and their Style
-
+## My Favorite Authors and Their Style
 
 > [!ava]+ CM3, PKD, Vonnegut, Lovecraft, DFW
 > 1. [[+ Encounters/Carlton Mellick III\|Carlton Mellick III]] Style: Bizarro fiction, extremely surreal and transgressive Characteristics:
@@ -120,7 +113,6 @@
 > - For Vonnegut, aim for simplicity and repetition, with a mix of humor and bleakness.
 > - For Lovecraft, use ornate language and focus on creating a sense of dread and the unknown.
 > - For Wallace, experiment with complex structures, extensive detail, and meta-commentary.
-
 
 ---
 up:: [[Cards/600 - Applied Sciences/600 - Applied Sciences\|Applied Sciences]]

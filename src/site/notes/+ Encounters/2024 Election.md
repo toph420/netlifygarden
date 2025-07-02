@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/2024-election/","title":"2024 Election"}
+{"dg-publish":true,"permalink":"/encounters/2024-election/","title":"2024 Election","tags":["📝","📝/🌞","on/elections","on/politics"]}
 ---
-
-> [!metadata]- Meta
-> **up**:: [[Cards/300 - Social Sciences/Politics\|Politics]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/politics #on/election
-> **topics**:: 
-> **links**::
 
 
 # 2024 Election
@@ -20,5 +12,5 @@
 ![2024 Election - 4horsemen.png](/img/user/Extras/Attachments/2024%20Election%20-%204horsemen.png)
 
 ---
-up:: [[Cards/300 - Social Sciences/Politics\|🏛️ Politics]]
+up:: [[Cards/300 - Social Sciences/Politics\|Politics]]
 

@@ -4,18 +4,18 @@
 
 
 > [!metadata]- Meta
-> up:: [[Atlas/🧠 Sid\|🧠 Sid]]
-> type:: #📥/🛠  
+> up:: [[🧠 Sid\|🧠 Sid]]
+> categories:[](🧠%20My%20Vault.md)
 > tags:: #on/pkm, #on/plugins 
 > status:: #📥/🟨 
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Sources/Tools + Plugins/JavaScript\|JavaScript]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Sources/Tools + Plugins/JavaScript\|JavaScript]]
 
 # Templater
 > All things related to Templater
 
 ## Notes
 - [[Sources/Tools + Plugins/Obsidian Scrapers\|Obsidian Scrapers]] - docs for scraping from the web
-- [[Sources/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]
+- [[Sources/📰 Articles/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]
 
 ## Guides
 - [Syntax - Templater](https://silentvoid13.github.io/Templater/syntax.html)
@@ -24,7 +24,7 @@
 
 ## My Scripts
 - Extras/Templates/Templater
-- See [[Sources/How to Use Templater JS Scripts\|How to Use Templater JS Scripts]] by [[Shabeblog\|Shabeblog]]
+- See [[Sources/📰 Articles/How to Use Templater JS Scripts 1\|How to Use Templater JS Scripts 1]] by [[Shabeblog\|Shabeblog]]
 - `<%* tp.user.updateTitle(tp) %>` 
 	- When placed in a template it will check if the file name includes "Untitled" or "Undefined", if so it will prompt for a new file name.
 

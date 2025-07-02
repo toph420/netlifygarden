@@ -11,7 +11,7 @@ ol {
 }
 ul {
     padding-inline-start: 18px;
-    list-style-type: disc;
+    list-style-categories: disc;
 }
 
 /* Long bullet list: connect the same levels of bullets with vertical "lines" */

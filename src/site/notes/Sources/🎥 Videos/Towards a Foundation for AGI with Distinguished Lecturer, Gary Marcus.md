@@ -27,7 +27,7 @@
 
 ## Notes
 
-I really dig this talk. He talks a lot about the shortcomings of things like [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], arguing that if it cant figure out a blue block from a red block or do simple math then there is no way that we will reach [[Cards/600 - Applied Sciences/Technology/AI/Artificial General Intelligence (AGI)\|AGI]] by 2029 (as [[Elon Musk\|Elon Musk]] predicted). He even offered Elon a $500,000 bet that it wasn't gonna happen. 
+I really dig this talk. He talks a lot about the shortcomings of things like [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], arguing that if it cant figure out a blue block from a red block or do simple math then there is no way that we will reach [[Cards/600 - Applied Sciences/Technology/AI/Artificial General Intelligence (AGI)\|AGI]] by 2029 (as [[Cards/900 - History, Biography, Geography/Biography/Elon Musk\|Elon Musk]] predicted). He even offered Elon a $500,000 bet that it wasn't gonna happen. 
 
 Instead, he offers the notion that we need to include reasoning and human values in order to reach the level of [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]] that is necessary for AGI. In direct opposition is the fact that it has no idea what's going on in the world, and hasn't a clue what life or death mean; he even cited an example that included a bot responding, telling someone to commit suicide could be a major concern, what's to stop it if it concludes that it would likely result in the greatest level of happiness.
 

@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/roger-hallam/","title":"Roger Hallam"}
+{"dg-publish":true,"permalink":"/encounters/roger-hallam/","title":"Roger Hallam","tags":["📝","📝/🌞","on/activism","on/environmentalism","on/people","WholeTruthFive"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/people #on/environmentalism #on/activism
-> **topics**:: [[Cards/300 - Social Sciences/Activism\|Activism]], [[Environmentalism\|Environmentalism]]
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/people #on/environmentalism #on/activism  
+> **topics**:: [[Cards/300 - Social Sciences/Activism\|Activism]], [[Environmentalism\|Environmentalism]]  
+> **links**::
 
 # Roger Hallam
 
 > British environmental activist, a co-founder of Extinction Rebellion, cooperative federation organisation Radical Routes, the political party Burning Pink, Just Stop Oil, and Insulate Britain
 
-
-> [!NOTE]- Sentenced to Jail
+> [!NOTE]- Sentenced to Jail  
 > [Twitter Post by Roger](https://x.com/rogerhallamcs21/status/1813995764374450558?s=46)
 > 
 > I've just been sentenced to 5 years in prison.
@@ -140,8 +139,6 @@
 > Next, it could be you.
 > 
 > Join the resistance at juststopoil.org before it’s too late.
-
-
 
 ---
 up:: [[Cards/300 - Social Sciences/Activism\|Activism]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]

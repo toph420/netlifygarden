@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/anarchism/","title":"Anarchism"}
+{"dg-publish":true,"permalink":"/encounters/anarchism/","title":"Anarchism","tags":["📝","📝/🌞","on/anarchism","on/leftism","on/marxism","on/politics"]}
 ---
-
-> [!metadata]- Meta
-> **up**:: [[Cards/300 - Social Sciences/Politics\|Politics]], [[Cards/300 - Social Sciences/Leftism\|Leftism]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/anarchism #on/politics #on/leftism #on/marxism
-> **topics**:: [[+ Encounters/Communism\|Communism]]
-> **links**:: [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Marxism]]
 
 
 # Anarchism

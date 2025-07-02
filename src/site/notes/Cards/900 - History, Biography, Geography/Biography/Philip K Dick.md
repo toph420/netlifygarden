@@ -6,7 +6,7 @@
 > **up**:: [[Cards/800 - Literature/800 - Literature\|800 - Literature]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 > **type**:: #📝 
 > **status**:: #📝/🌞
-> **tags**::  #on/authors 
+> **tags**::  #person/author 
 > **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]
 > **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
@@ -15,6 +15,7 @@
 
 > The legendary Sci-fi author that has inspired countless movies and created entire genres
 
+- [Philip K Dick FBI file \| Spy Culture](https://www.spyculture.com/philip-k-dick-fbi-file/)
 ## To Read
 - ✅ Dr. Bloodmoney - underrated 
 - Policeman flow my tears

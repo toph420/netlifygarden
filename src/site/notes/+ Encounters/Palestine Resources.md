@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/palestine-resources/","title":"Palestine Resources"}
+{"dg-publish":true,"permalink":"/encounters/palestine-resources/","title":"Palestine Resources","tags":["📝","📝/🌞","on/genocide","on/israel","on/middleeast","on/palestine"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/middleeast #on/palestine #on/israel #on/genocide
-> **topics**:: [[Palestine\|Palestine]] [[Israel\|Israel]] [[War\|War]] [[Genocide\|Genocide]]
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/middleeast #on/palestine #on/israel #on/genocide  
+> **topics**:: [[Palestine\|Palestine]] [[Israel\|Israel]] [[War\|War]] [[Genocide\|Genocide]]  
+> **links**::
 
 # Palestine Resources
 
 > A list of resources related to Palestine (history, Israel, war crimes, and more)
 
-## Early History of the Region: 
+## Early History of the Region
 
 1.  [The History of Jerusalem](https://www.aljazeera.com/amp/news/2003/12/9/the-history-of-jerusalem)
 2.  [Judahite Temple by Jerusalem May Have Housed Statue of Canaanite God](https://www.haaretz.com/archaeology/2021-10-27/ty-article/judahite-temple-by-jerusalem-may-have-housed-statue-of-canaanite-god/0000017f-e2b7-d38f-a57f-e6f714c90000)
@@ -24,14 +24,14 @@
 5.  [DNA from biblical Canaanites lives on in modern Arabs and Jews](https://www.nationalgeographic.com/history/article/dna-from-biblical-canaanites-lives-modern-arabs-jews)
 6.  [When Ancient DNA Gets Politicized](https://www.smithsonianmag.com/history/when-ancient-dna-gets-politicized-180972639/)
 
-## The First Nakba: 
+## The First Nakba
 
 1.  [The Nakba did not start or end in 1948](https://www.aljazeera.com/amp/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948)
 2.  [More than a century on, the Balfour Declaration explained](https://www.aljazeera.com/amp/features/2018/11/2/more-than-a-century-on-the-balfour-declaration-explained)
 3.  [The Nakba: Five Palestinian towns massacred 75 years ago](https://www.aljazeera.com/amp/news/2023/5/15/the-nakba-five-palestinian-towns-massacred-75-years-ago)
 4.  [r/AskMiddleEast: Israeli soldiers laughing about how they](https://www.reddit.com/r/AskMiddleEast/comments/1733xyg/israeli_soldiers_laughing_about_how_they/?share_id=7Um8rEjWa8UiTt95GTcj-&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
 
-## The Colonization of Palestine 
+## The Colonization of Palestine
 
 1.  [Israel’s occupation: 50 years of dispossession](https://amnesty.org/en/latest/campaigns/2017/06/israel-occupation-50-years-of-dispossession/…) 
 2.  [Youtube Video](https://youtube.com/watch?v=xSQOZp21_FA…) 
@@ -42,7 +42,7 @@
 7.  [Tinyurl.com/4nswk73s](https://tinyurl.com/4nswk73s) 
 8.  [RaggedTP Twitter Post](https://twitter.com/RaggedTP/status/1711826672591175860) 
 
-## Treatment of Palestinians Up to October 7th: 
+## Treatment of Palestinians Up to October 7th
 
 1.  [Israel: 50 Years of Occupation Abuses](https://www.hrw.org/news/2017/06/04/israel-50-years-occupation-abuses)
 2.  [Israel's Apartheid against Palestinians: A Cruel System of Domination and a Crime against Humanity](https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/)
@@ -92,7 +92,7 @@
 19. [Iraq: Jews, attacks, Zionist role confirmed, operative, police report](https://www.middleeasteye.net/news/iraq-jews-attacks-zionist-role-confirmed-operative-police-report)
 20. [The mass assassination factory: how Israel calculates bombing raids in Gaza](https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/)
 
-## Children's Deaths: 
+## Children's Deaths
 
 1.  [Counting the Kids](https://countingthekids.org/)
 2.  [Regrttes Twitter Post](https://twitter.com/regrttes/status/1718288603950805350?s=46&t=18eEvk-ancP8FZhQBHlaLA)
@@ -104,12 +104,12 @@
 8.  [(Extremely graphic) Tksshawa Twitter Post](https://x.com/tksshawa/status/1721522775226003609?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 9.  [Zei_squirrel Twitter Post](https://x.com/zei_squirrel/status/1713297978193064273?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 
-## Death Toll Comparisons: 
+## Death Toll Comparisons
 
 1.  [NYTimes Twitter Post](https://twitter.com/nytimes/status/1713289836562432399?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 2.  [lrdektbh Twitter Post](https://twitter.com/lrdektbh/status/1712994753791348761?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 
-## Genocide of the Palestinian People: 
+## Genocide of the Palestinian People
 
 1.  [Artan_Ayan Twitter Post](https://twitter.com/artan_ayan/status/1719453324284452944?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 2.  [Public Statement: Scholars Warn of Potential Genocide in Gaza](https://opiniojuris.org/2023/10/18/public-statement-scholars-warn-of-potential-genocide-in-gaza/)
@@ -121,7 +121,7 @@
 8.  [A genocide is under way in Palestine](https://www.aljazeera.com/opinions/2023/11/2/a-genocide-is-under-way-in-palestine)
 9.  [Israeli think tank lays out a blueprint for the complete ethnic cleansing of Gaza](https://mondoweiss.net/2023/10/israeli-think-tank-lays-out-a-blueprint-for-the-complete-ethnic-cleansing-of-gaza/)
 
-## Gazans Attempt at Peaceful Protest: 
+## Gazans Attempt at Peaceful Protest
 
 1.  [Gaza: Great March of Return - the stories behind the protests](https://www.amnesty.org/en/latest/campaigns/2018/10/gaza-great-march-of-return/)
 2.  [Gaza's Great March of Return protests explained](https://www.aljazeera.com/news/2019/3/30/gazas-great-march-of-return-protests-explained)
@@ -131,14 +131,14 @@
 6.  [Why Gaza Protests Won't Stop](https://www.hrw.org/news/2019/03/29/why-gaza-protests-wont-stop)
 7.  [YouTube Video of Gaza's Great March](https://www.youtube.com/watch?v=7g4luNQaC1Y)
 
-## Hamas: 
+## Hamas
 
 1.  [Hamas 2017 document: Full text](https://www.middleeasteye.net/news/hamas-2017-document-full)
 2.  [Hamas wins huge majority](https://www.aljazeera.com/news/2006/1/26/hamas-wins-huge-majority)
 3.  [Turkey's Erdogan says Hamas is not a terrorist organisation](https://www.reuters.com/world/middle-east/turkeys-erdogan-says-hamas-is-not-terrorist-organisation-2023-10-25/)
 4.  [Who are Hamas?](https://apnews.com/article/hamas-middle-east-science-32095d8e1323fc1cad819c34da08fd87)
 
-## Israel's Use of Propaganda & Misinformation: 
+## Israel's Use of Propaganda & Misinformation
 
 1.  [Fact Sheet: Israel's History of Spreading Disinformation](https://imeu.org/article/fact-sheet-israels-history-of-spreading-disinformation)
 2.  [Israel’s Disinformation Problem](https://time.com/6176045/israel-response-shireen-abu-akleh-killing/)
@@ -155,7 +155,7 @@
 13. [Israel Is Spying on American Student Activists](https://www.thenation.com/article/world/israel-spying-american-student-activists/)
 14. [How The New York Times Buried a Key Source’s Pro-Israel Advocacy](https://theintercept.com/2024/02/28/new-york-times-anat-schwartz-october-7/)
 
-## Anti-Zionist Jewish Voices: 
+## Anti-Zionist Jewish Voices
 
 1.  [doubledownnews Twitter Post](https://twitter.com/doubledownnews/status/1333045949032263680)
 2.  [This Week In History: Herzl, rabbis clash on Zionism](https://m.jpost.com/Features/In-Thespotlight/This-Week-In-History-Herzl-rabbis-clash-on-Zionism)
@@ -175,7 +175,7 @@
 16. [Questioning Israel's party line: A Jewish activist explains her awakening](https://www.trtworld.com/magazine/questioning-israels-party-line-a-jewish-activist-explains-her-awakening-15814522)
 17. [Is Zionism a liberating democratic movement? (Part 13)](https://foroys.wordpress.com/2017/06/20/is-zionism-a-liberating-democratic-movement-part-13/)
 
-## Israel vs. Israeli Citizens and Jewish People:
+## Israel vs. Israeli Citizens and Jewish People
 
 1.  [carterforva Twitter Post](https://twitter.com/carterforva/status/1716669129178890461?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 2.  [ajenglish Twitter Post](https://twitter.com/ajenglish/status/1715840331403722884?s=46&t=18eEvk-ancP8FZhQBHlaLA)
@@ -196,20 +196,20 @@
 17. [Evidence Israel killed its own citizens on 7 October](https://electronicintifada.net/content/evidence-israel-killed-its-own-citizens-7-october/41156)
 18. [Ethiopian women given contraceptives without consent in Israel](https://amp.theguardian.com/world/2013/feb/28/ethiopian-women-given-contraceptives-israel)
 
-## Peace Negotiations: 
+## Peace Negotiations
 
 1.  [Myth: The Palestinians Sabotaged the Peace Process](https://decolonizepalestine.com/myth/palestinians-sabotaged-the-peace-process/)
 2.  [AaronJMate Twitter Post](https://twitter.com/aaronjmate/status/1711372769345077481?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 3.  [Israel Rejected Peace With Hamas On Five Occasions](https://inkstickmedia.com/israel-rejected-peace-with-hamas-on-five-occasions/)
 
-## The Role of Egypt: 
+## The Role of Egypt
 
 1.  [As Gaza Faces a Dire Humanitarian Crisis, Egypt’s Role Comes Under Scrutiny](https://www.nytimes.com/2023/11/05/world/middleeast/israel-egypt-gaza.html)
 2.  [Rafah crossing: What we know about Gaza's key passage to Egypt](https://www.cnn.com/2023/11/01/middleeast/rafah-crossing-gaza-egypt-explainer-intl/index.html#:~:text=Movement%20through%20Rafah%20on%20normal,border%20often%20have%20long%20waits)
 3.  [Palestinians in Gaza Fear a Permanent Expulsion](https://time.com/6330904/palestinians-gaza-fear-permanent-expulsion/)
 4.  [Gaza evacuations suspended after ambulance targeted - Egypt sources](https://www.reuters.com/world/middle-east/gaza-evacuations-suspended-since-saturday-after-ambulance-targeted-egypt-sources-2023-11-05/)
 
-## The Role of the United States: 
+## The Role of the United States
 
 1.  [dialectichiphop Twitter Post](https://twitter.com/dialectichiphop/status/1716444004512899354?s=46&t=18eEvk-ancP8FZhQBHlaLA)
 2.  [Joe Biden says the U.S.A invented Israel](https://www.c-span.org/video/?c4962369/user-clip-joe-biden-israel-usa-invent-israel-protect-interest-region)
@@ -218,7 +218,6 @@
 5.  [How much military aid does the U.S. give to Israel?](https://usafacts.org/articles/how-much-military-aid-does-the-us-give-to-israel/)
 6.  [US House passes $14.5bn military aid package for Israel](https://www.aljazeera.com/news/2023/11/3/us-house-passes-14-5bn-military-aid-package-for-israel)
 7.  [Spotify Podcast Episode About US Aid to Israel](https://open.spotify.com/episode/6Etv35TTthc7IvdYMyBper?si=W-hihAdzRNG9kzeYJCikng)
-
 
 ---
 up:: [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]

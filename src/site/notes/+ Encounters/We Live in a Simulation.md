@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/we-live-in-a-simulation/","title":"We Live in a Simulation"}
+{"dg-publish":true,"permalink":"/encounters/we-live-in-a-simulation/","title":"We Live in a Simulation","tags":["📝","📝/🌞","on/ai","on/technology"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/technology #on/ai
-> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/technology #on/ai  
+> **topics**:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]  
+> **links**::
 
 # We Live in a Simulation
 

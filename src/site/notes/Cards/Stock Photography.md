@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Filmmaking/Video Assets\|Video Assets]], [[Cards/700 - Art and Recreation/Art and Design/Design Assets\|Design Assets]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌞
 > tags::  
-> topics:: 
+> links:: 
 > links::
 
 # Stock Photography

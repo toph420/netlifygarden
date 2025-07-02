@@ -6,14 +6,14 @@
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/🎥
+> categories:: #📥/🎥
 > status:: #📥/🟨 
 > tags:: #on/pkm, #rw
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
-> links:: [[Atlas/🧠 Sid\|🗳 My Vault]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
+> links:: [[🧠 Sid\|🗳 My Vault]]
 
 
-# Aidan Helfant: After This Video You Will Finally Understand The Zettelkasten Method in Obsidian
+# Aida[](🧠%20My%20Vault.md)Video You Will Finally Understand The Zettelkasten Method in Obsidian
 
 > [!metadata]- Video Meta
 > In this video, you will learn the workflow using Zettelkasten System along with its history, benefits, practicalities, and philosophy in creating Obsidian.⏱ ...

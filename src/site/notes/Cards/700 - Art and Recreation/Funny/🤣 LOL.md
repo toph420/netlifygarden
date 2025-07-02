@@ -5,7 +5,7 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/700 - Art and Recreation/700 - Art and Recreation\|700 - Art and Recreation]]
-> type:: #🗺 
+> categories:: #🗺 
 > status:: #📝/🌞
 > tags::  #on/lol 
 > topic:: [[Comedy\|Comedy]]

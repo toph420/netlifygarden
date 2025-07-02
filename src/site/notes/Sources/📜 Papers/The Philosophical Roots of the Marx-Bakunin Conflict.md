@@ -1,25 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/sources/papers/the-philosophical-roots-of-the-marx-bakunin-conflict/","title":"The Philosophical Roots of the Marx-Bakunin Conflict"}
+{"dg-publish":true,"permalink":"/sources/papers/the-philosophical-roots-of-the-marx-bakunin-conflict/","title":"The Philosophical Roots of the Marx-Bakunin Conflict","tags":["📥/📜","on/anarchism","on/bakunin","on/communism","on/dialectics","on/hegel","on/history","on/leftism","on/marx","on/politics","on/revolution","on/socialism"]}
 ---
 
 
-> [!metadata]- Meta
-> **up**:: 
-> **type**:: #📥/📜
-> **status**:: #📥/🟨 
-> **tags**:: #on/leftism, #on/communism, #on/socialism, #on/marx, #on/anarchism
-> **topics**:: 
-> **links**::
 
 # The Philosophical Roots of the Marx-Bakunin Conflict
 
-> [!info]- Info
-> **zotero_link**:: [marxism-anarchism.pdf](zotero://select/library/items/RTRFAJRY)
-> **author**:: Ann Robertson 
-> **url**:: https://www.marxists.org/reference/archive/bakunin/bio/robertson-ann.htm
-> **doi**:: 
-> **citekey**:: robertsonPhilosophicalRootsMarxBakunin
-
+> [!info]- Info  
+> **zotero_link**:: [marxism-anarchism.pdf](zotero://select/library/items/RTRFAJRY)  
+> **author**: Ann Robertson  
+> **url**: https://www.marxists.org/reference/archive/bakunin/bio/robertson-ann.htm  
+> **doi**::  
+> **citekey**: robertsonPhilosophicalRootsMarxBakunin
 
 > [!links]- Related
 >  | File | created | modified | tags | type |
@@ -27,10 +19,10 @@
 > 
 { .block-language-dataview}
 
-> [!abstract]+
-> **abstract**:: "The Philosophical Roots of the Marx-Bakunin Conflict" examines the ideological divergence between Karl Marx and Mikhail Bakunin, two prominent figures in the 19th-century socialist movement, whose differences shaped the trajectory of revolutionary thought. The study explores how their conflicting philosophical foundations—Marx's emphasis on historical materialism and the role of the state in achieving communism, versus Bakunin's anarchist insistence on the immediate abolition of the state and a decentralized, anti-authoritarian approach—led to profound disputes within the First International. By analyzing their views on authority, freedom, and the means of revolutionary change, the paper illuminates the enduring tensions between Marxism and anarchism, offering insights into the challenges of achieving unity in anti-capitalist movements.
+> [!abstract]+  
+> **abstract**: This article examines the ideological divergence between Karl Marx and Mikhail Bakunin, two prominent figures in the 19th-century socialist movement, whose differences shaped the trajectory of revolutionary thought. The study explores how their conflicting philosophical foundations—Marx's emphasis on historical materialism and the role of the state in achieving communism, versus Bakunin's anarchist insistence on the immediate abolition of the state and a decentralized, anti-authoritarian approach—led to profound disputes within the First International. By analyzing their views on authority, freedom, and the means of revolutionary change, the paper illuminates the enduring tensions between Marxism and anarchism, offering insights into the challenges of achieving unity in anti-capitalist movements.
 
-> [!tldr]- Hypothesis
+> [!tldr]- Hypothesis  
 > **hypothesis**:: The conflict between Marx and Bakunin arose primarily from their fundamentally opposing philosophies on authority and the role of the state, which reflect deeper ideological divides between Marxism and anarchism.
 
 > [!summary]- Summary of Key Points
@@ -59,7 +51,6 @@
 >     - Reflection on the philosophical roots of their conflict as a microcosm of broader challenges in achieving unity within anti-capitalist movements.
 >     - Final thoughts on the compatibility of Marxist and anarchist principles.
 
-
 ## Highlights
 
 | <mark class="hltr-grey">Highlight Color</mark> | Meaning                        |
@@ -72,7 +63,6 @@
 | <mark class="hltr-magenta">Magenta</mark>      | Confused or questions          |
 | <mark class="hltr-purple">Purple</mark>        | Section Heading                |
 
-
 ### Marx and Bakunin's Mutual Disdain
 
 <mark class="hltr-yellow">According to Marx, Bakunin was “a man devoid of all theoretical knowledge” and was “in his element as an intriguer”,1 while Bakunin believed that “...the instinct of liberty is lacking in him [Marx]; he remains from head to foot, an authoritarian”.2</mark> [Page 3](zotero://open-pdf/library/items/RTRFAJRY?page=3&annotation=W7Q26ICJ) 
@@ -80,7 +70,7 @@
 - [N] Marx viewed Bakunin as theoretically lacking and an intriguer
 - [N] Bakunin saw Marx as authoritarian and lacking the instinct for liberty
 
-tags:: #on/marx #on/bakunin #on/conflict #on/personality
+ #on/marx #on/bakunin #on/conflict #on/personality
 
 ### Differing Views on the State and Revolution
 
@@ -93,7 +83,7 @@ tags:: #on/marx #on/bakunin #on/conflict #on/personality
 - [N] Bakunin favored secret societies, Marx rejected them
 - [N] Bakunin saw potential in peasants, Marx prioritized the proletariat
 
-tags:: #on/state #on/revolution #on/anarchism #on/marxism #on/strategy #on/organization #on/class
+ #on/state #on/revolution #on/anarchism #on/marxism #on/strategy #on/organization #on/class
 
 ### Bakunin's Naturalistic Philosophy of Morality and Freedom
 
@@ -118,7 +108,7 @@ tags:: #on/state #on/revolution #on/anarchism #on/marxism #on/strategy #on/organ
 - [N] Cooperation and equality are natural
 - [N] Bakunin's philosophy is rooted in Enlightenment empiricism where a fixed human nature is governed by natural laws
 
-tags:: #on/bakunin #on/morality #on/naturalism #on/freedom #on/empiricism #on/enlightenment
+ #on/bakunin #on/morality #on/naturalism #on/freedom #on/empiricism #on/enlightenment
 
 ### Marx's Dialectical Philosophy of Historical Development
 
@@ -134,7 +124,7 @@ tags:: #on/bakunin #on/morality #on/naturalism #on/freedom #on/empiricism #on/en
 - [N] Production of material life is the first historical act, and the creation of new needs is the second
 - [N] Human nature is not fixed but develops historically
 
-tags:: #on/marx #on/hegel #on/historicalmaterialism #on/dialectical #on/human #on/development
+ #on/marx #on/hegel #on/historicalmaterialism #on/dialectical #on/human #on/development
 
 ### Marx's View on Revolution, Ethics, and Freedom
 
@@ -159,7 +149,7 @@ tags:: #on/marx #on/hegel #on/historicalmaterialism #on/dialectical #on/human #o
 - [N] Socialism allows individuals to collectively alter social institutions
 - [N] True freedom is the collective, rational determination of social policy
 
-tags::  #on/marx #on/revolution #on/human #on/ethics #on/freedom #on/socialism
+  #on/marx #on/revolution #on/human #on/ethics #on/freedom #on/socialism
 
 ### The Interplay of Circumstances and Human Action
 
@@ -172,7 +162,7 @@ tags::  #on/marx #on/revolution #on/human #on/ethics #on/freedom #on/socialism
 - [N] Human labor is distinct from animal labor through conscious planning
 - [N] Social relations are not natural but are the product of historical development
 
-tags:: #on/marx #on/history #on/labor #on/circumstances
+ #on/marx #on/history #on/labor #on/circumstances
 
 ### The Dictatorship of the Proletariat
 
@@ -189,7 +179,7 @@ tags:: #on/marx #on/history #on/labor #on/circumstances
 - [N] Marx aimed to smash the bourgeois state to enable full working-class participation in policy
 - [N] Marx on the eventual transition to a society "from each according to his ability, to each according to his needs"
 
-tags:: #on/state #on/revolution #on/dictatorshipoftheproletariat #on/marx #on/bakunin #on/coercion
+ #on/state #on/revolution #on/dictatorshipoftheproletariat #on/marx #on/bakunin #on/coercion
 
 ### Organizational Differences and the Role of the Masses
 
@@ -211,7 +201,7 @@ tags:: #on/state #on/revolution #on/dictatorshipoftheproletariat #on/marx #on/ba
 - [N] Bakunin believed leaders should ignite the masses instincts which would drive the revolution
 - [N] Marx believed the masses needed class consciousness not instinct
 
-tags:: #on/organization #on/revolution #on/masses #on/instinct #on/classconsciousness #on/leadership #on/bakunin #on/marx
+ #on/organization #on/revolution #on/masses #on/instinct #on/classconsciousness #on/leadership #on/bakunin #on/marx
 
 ### The Importance of Working-Class Organization
 
@@ -230,7 +220,7 @@ tags:: #on/organization #on/revolution #on/masses #on/instinct #on/classconsciou
 - [N] Marx on the appropriation of means of production by the proletariat for universal control
 - [N] Marx believed in organizing workers, whereas Bakunin organized secret societies
 
-tags:: #on/marx #on/organization #on/classconsciousness #on/tradeunion #on/politicalparty #on/proletariat #on/revolution
+ #on/marx #on/organization #on/classconsciousness #on/tradeunion #on/politicalparty #on/proletariat #on/revolution
 
 ### Disagreements on Political Reforms
 
@@ -241,7 +231,7 @@ tags:: #on/marx #on/organization #on/classconsciousness #on/tradeunion #on/polit
 - [N] Marx saw political engagement as permissible and sometimes indispensable
 - [N] Marx defined political movements as those where the working class confronts ruling classes
 
-tags:: #on/marx #on/bakunin #on/politicalreform #on/state #on/revolution #on/strategy
+ #on/marx #on/bakunin #on/politicalreform #on/state #on/revolution #on/strategy
 
 ### The Revolutionary Agent and the Role of the Peasants
 
@@ -262,7 +252,7 @@ tags:: #on/marx #on/bakunin #on/politicalreform #on/state #on/revolution #on/str
 - [N] Marx rejected the revolutionary role of peasants due to their economic situation
 - [N] Marx on the isolating nature of peasant life, hindering the development of class consciousness
 
-tags:: #on/revolution #on/class #on/proletariat #on/peasants #on/lumpenproletariat #on/marx #on/bakunin
+ #on/revolution #on/class #on/proletariat #on/peasants #on/lumpenproletariat #on/marx #on/bakunin
 
 ### Differing Definitions of Human Nature and Freedom
 
@@ -270,8 +260,7 @@ tags:: #on/revolution #on/class #on/proletariat #on/peasants #on/lumpenproletari
 - [N] Marxists and anarchists have opposing definitions of human nature and freedom
 - [N] Bakunin's spontaneity is opposed to Marx's collective
 
-tags:: #on/marx #on/bakunin #on/humannature #on/freedom #on/spontaneity #on/rationality
-
+ #on/marx #on/bakunin #on/humannature #on/freedom #on/spontaneity #on/rationality
 
 ---
 up:: 

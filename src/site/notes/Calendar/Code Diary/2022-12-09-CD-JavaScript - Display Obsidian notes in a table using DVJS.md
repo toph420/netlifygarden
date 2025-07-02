@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
-> type:: #log/code 
+> categories:: #log/code 
 > tags:: #on/dataview 
 > language:: [[Sources/Tools + Plugins/JavaScript\|JavaScript]], [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]
 > program:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]

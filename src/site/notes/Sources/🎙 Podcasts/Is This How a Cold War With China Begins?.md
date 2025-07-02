@@ -9,7 +9,7 @@
 >> **type**:: #📥/🎙 
 >> **status**:: #📥/🟧 
 >> **tags**:: #on/podcasts
->> **topics**::  [[China\|China]], [[War\|War]]
+>> **topics**::  [[+ Encounters/China\|China]], [[War\|War]]
 >
 >> [!metadata]- Podcast Info
 >> **Author**:: The Ezra Klein Show

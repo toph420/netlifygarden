@@ -3,9 +3,8 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/100 - Personal Management/💪 Health/💪 Health\|💪 Health]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
+> **up**:: [[💪 Health\|💪 Health]]
+> **type**:[](Health.md)atus**:: #📝/🌞
 > **tags**::  #on/health #on/exercise #on/weightlifting 
 > **topics**:: [[Exercise\|Exercise]]
 > **links**:: [[Spaces/🤘 My Life/Areas/Stuff I Want\|Stuff I Want]]
@@ -34,5 +33,5 @@ This rack is dope and customizable:
 ![8381F617-BC6D-4D69-A0B6-7971FBD76713.png](/img/user/Extras/Attachments/8381F617-BC6D-4D69-A0B6-7971FBD76713.png)
 
 ---
-up:: [[Cards/100 - Personal Management/💪 Health/💪 Health\|💪 Health]]
+up:: [[Cards/100 - Personal Management/💪 Health/Health\|Health]]
 

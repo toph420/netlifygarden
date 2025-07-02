@@ -5,10 +5,10 @@
 
 > [!metadata]- Meta
 > up::[[Cards/600 - Applied Sciences/Technology/Technology\|Technology]]
-> type:: #📝/zettel
+> categories:: #📝/zettel
 > status:: #📝/🌿
 > tags:: #on/technology #on/nanotechnology 
-> topics:: [[Cards/600 - Applied Sciences/Technology/Nanotechnology\|Nanotechnology]]
+> links:: [[Cards/600 - Applied Sciences/Technology/Nanotechnology\|Nanotechnology]]
 > links:: 
 
 # Nanotechnology in the fight against climate change

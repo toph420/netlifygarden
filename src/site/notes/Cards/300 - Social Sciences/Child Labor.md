@@ -8,7 +8,7 @@
 > **status**:: #📝/🌞
 > **tags**::  #on/childlabor
 > **topics**:: [[Greed\|Greed]]
-> **links**:: [[Cards/900 - History, Biography, Geography/Biography/Elon Musk Sucks\|Elon Musk Sucks]]
+> **links**:: [[Cards/900 - History, Biography, Geography/Biography/Elon Musk\|Elon Musk]]
 
 
 # Child Labor

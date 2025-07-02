@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/biology/","title":"Biology"}
+{"dg-publish":true,"permalink":"/encounters/biology/","title":"Biology","tags":["📝","📝/🌞","on/biology"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/biology
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/500 - Natural Sciences/500 - Natural Sciences\|500 - Natural Sciences]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/biology  
+> **topics**::  
+> **links**::
 
 # Biology
 

@@ -9,9 +9,9 @@
 >> **type**:: #📥/📰 
 >> **status**:: #📥/🟩 
 >> **tags**:: #on/articles, #on/writing
->> **topics**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+>> **topics**:: [[🖋 Writing\|🖋 Writing]]
 >
->> [!metadata]- Article Info
+>> [!metadat[](Writing.md)fo
 >> **Author**:: [[subtxt.app\|subtxt.app]]
 >> **Title**:: The Most Important Page Ever
 >> **URL**:: "https://guide.subtxt.app/introduction/the-most-important-page-ever/"

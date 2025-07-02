@@ -25,7 +25,7 @@
 
 
 ## Episode metadata
-- Episode title:: [[Sources/🎙 Podcasts/99 - CARLA CREMER IGOR KRAWCZUK - X-Risk Governance Effective Altruism#99 - CARLA CREMER & IGOR KRAWCZUK - X-Risk, Governance, Effective Altruism\|#99 - CARLA CREMER & IGOR KRAWCZUK - X-Risk, Governance, Effective Altruism]]
+- Episode title:: [[#99 - CARLA CREMER & IGOR KRAWCZUK - X-Risk, Governance, Effective Altruism]]
 - Show:: [[Machine Learning Street Talk (MLST)\|Machine Learning Street Talk (MLST)]]
 - Owner / Host:: [[Machine Learning Street Talk\|Machine Learning Street Talk]]
 - Episode link:: [open in Snipd](https://share.snipd.com/episode/b6cb9549-1d04-4cd3-a5ef-562b69e6c158)

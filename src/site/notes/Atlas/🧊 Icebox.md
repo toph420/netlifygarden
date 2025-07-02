@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/icebox/"}
+{"dg-publish":true,"permalink":"/atlas/icebox/","title":"🧊 Icebox","tags":["🗺️"]}
 ---
 
->[!metadata]- Meta
->up:: [[🏠 Home\|🏠 Home]]
->type:: #🗺/view 
->status:: #📝/🌲 
 
 # 🧊 Icebox
 
@@ -17,7 +13,6 @@ FROM "+ Encounters"
 SORT file.cday asc
 LIMIT 20
 ```
-
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

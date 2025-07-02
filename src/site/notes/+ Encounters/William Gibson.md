@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/william-gibson/","title":"William Gibson"}
+{"dg-publish":true,"permalink":"/encounters/william-gibson/","title":"William Gibson","tags":["📝","📝/🌞","person/author"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Authors\|Authors]], [[Cards/800 - Literature/800 - Literature\|800 - Literature]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/authors 
-> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]
-> **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
+> [!metadata]- Meta  
+> **up**:: [[+ Encounters/Authors\|Authors]], [[Cards/800 - Literature/800 - Literature\|800 - Literature]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #person/author  
+> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]  
+> **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
 # William Gibson
 
@@ -31,5 +31,5 @@
 	- beautiful prose but god damn it’s a convoluted story that’s difficult to follow.
 
 ---
-up:: [[Authors\|Authors]], [[Cards/800 - Literature/800 - Literature\|800 - Literature]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
+up:: [[+ Encounters/Authors\|Authors]], [[Cards/800 - Literature/800 - Literature\|800 - Literature]], [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 

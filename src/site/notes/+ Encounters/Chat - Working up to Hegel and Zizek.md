@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/chat-working-up-to-hegel-and-zizek/","title":"Chat - Working up to Hegel and Zizek"}
+{"dg-publish":true,"permalink":"/encounters/chat-working-up-to-hegel-and-zizek/","title":"Chat - Working up to Hegel and Zizek","tags":["📝","📝/🌞","on/chats","on/philosophy"]}
 ---
 
-> [!metadata]- Meta
-> **up**::[[+ Encounters/Philosophy\|Philosophy]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/philosophy #on/chats
-> **topics**:: [[Hegel\|Hegel]], [[+ Encounters/Slavoj Zizek\|Slavoj Zizek]]
-> **links**::
 
+> [!metadata]- Meta  
+> **up**::[[+ Encounters/Philosophy\|Philosophy]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/philosophy #on/chats  
+> **topics**:: [[Hegel\|Hegel]], [[+ Encounters/Slavoj Zizek\|Slavoj Zizek]]  
+> **links**::
 
 # Chat - Working up to Hegel and Zizek
 

@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌞
 > tags::  #on/games
-> topics:: 
+> links:: 
 > links::
 
 # The Sims

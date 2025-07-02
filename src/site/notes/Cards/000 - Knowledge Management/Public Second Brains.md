@@ -33,6 +33,7 @@
 - [John Mavricks](https://notes.johnmavrick.com/)
 - [Derek Sivers](https://sive.rs/)
 - [Javalent](https://plugins.javalent.com/leaflet/coordinates) - interesting garden of plugins and experiments
+- [Brad Woods Digital Garden](https://garden.bradwoods.io/) - css, JavaScript, design
 
 ## Collections
 

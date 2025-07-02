@@ -12,7 +12,7 @@
 >> **topics**:: Fiction
 >
 >> [!metadata]- Book Info
->> **Author**:: [[Toni Morrison [Morrison, Toni\|Toni Morrison [Morrison, Toni]]]
+>> **Author**:: [[Toni Morrison\|Toni Morrison]]
 >> **Title**:: Song of Solomon
 >> **URL**::
 >> **Reviewed Date**:: [[2025-03-12 \|2025-03-12 ]]

@@ -5,7 +5,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
-> type:: #💡
+> categories:: #💡
 > tags::  
 > topics:: [[Greed\|Greed]], [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]
 > links::

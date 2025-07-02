@@ -35,7 +35,7 @@
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/🎥
+> categories:: #📥/🎥
 > status:: #📥/🟥
 > tags::
-> topics::
+> links::

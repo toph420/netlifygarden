@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌿 
 > tags::  #🔥
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 > links:: [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Bullet Journal Setup\|SLRvb Bullet Journal Setup]]
 
 # [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb]] Thoughts

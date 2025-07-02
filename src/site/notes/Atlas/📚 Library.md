@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/library/"}
+{"dg-publish":true,"permalink":"/atlas/library/","title":"Library","tags":["🗺️"]}
 ---
 
 
@@ -28,9 +28,9 @@
 - [[Spaces/🤘 My Life/🤘 My Life\|🤘 My Life]]
 
 ## 000 - Knowledge Management
-The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]] shows the best practices of knowledge management. Check out [[Atlas/🧠 Sid\|🧠 Sid]] to learn more about how this vault works. Here’s a few of my favorite places to visit.
+The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]] shows the best practices of knowledge management. Check out [[Atlas/🧠 My Vault\|🧠 My Vault]] to learn more about how this vault works. Here’s a few of my favorite places to visit.
 
-- [[Atlas/🧠 Sid\|🧠 Sid]] | [[Cards/000 - Knowledge Management/My Meta\|My Meta]] | [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My Note Taking Workflow]] 
+- [[Atlas/🧠 My Vault\|🧠 My Vault]] | [[Cards/000 - Knowledge Management/My Meta\|My Meta]] | [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My Note Taking Workflow]] 
 - [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]] | [[Atlas/🧊 Icebox\|🧊 Icebox]]
 - [[Calendar/+ MOCs/🪵 Log\|🪵 Log]] | [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]] | [[🏹 Action\|🏹 Action]]
 - [[Atlas/🗺 Maps\|🗺 Maps]] 
@@ -39,8 +39,8 @@ The [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowled
 ## 100 - Personal Management
 
 - [[Calendar/+ MOCs/📊 Habits\|📊 Habits]]
-- [[Cards/100 - Personal Management/💪 Health/💪 Health\|💪 Health]] | [[Cards/100 - Personal Management/💪 Health/🧘‍♂️ Yoga\|🧘‍♂️ Yoga]] | [[Cards/100 - Personal Management/💪 Health/Working Out\|Working Out]]
-- [[Cards/100 - Personal Management/👽 People/👽 People\|👽 People]] | [[Cards/100 - Personal Management/👯 CRM\|👯 CRM]]
+- [[Cards/100 - Personal Management/💪 Health/Health\|Health]] | [[Cards/100 - Personal Management/💪 Health/Yoga\|Yoga]] | [[Cards/100 - Personal Management/💪 Health/Working Out\|Working Out]]
+- [[Cards/100 - Personal Management/People/👽 People\|👽 People]] | [[Cards/100 - Personal Management/CRM\|CRM]]
 
 ## 200 - Philosophy, Psychology ; Spirituality, Religion
 
@@ -70,10 +70,10 @@ See also: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] | [
 ## 700 - Art & Recreation
 
 - [[Cards/700 - Art and Recreation/700 - Art and Recreation\|700 - Art and Recreation]]
-- [[Art\|Art]] | [[Design\|Design]] | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
+- [[+ Encounters/Art\|Art]] | [[Design\|Design]] | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
 - [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]] |  [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]
 - [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]
-- [[Cards/700 - Art and Recreation/Food/🍱 Recipes\|🍱 Recipes]]
+- [[Cards/700 - Art and Recreation/Food/Recipes\|Recipes]]
 
 ## 800 - Literature
 
@@ -84,5 +84,5 @@ Check out the [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]] for book
 - [[Cards/900 - History, Biography, Geography/History/History of Africa\|History of Africa]] | [[Cards/900 - History, Biography, Geography/The Middle East\|The Middle East]]
 - [[Cards/900 - History, Biography, Geography/Geography and Travel/Geography\|Geography]]
 
-> [!metadata]- Meta
-> **type**:: #🗺 
+---
+[[🏠 Home\|🏠 Home]]

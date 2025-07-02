@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/ideas/100-gecs-fan-fiction/"}
+{"dg-publish":true,"permalink":"/calendar/ideas/100-gecs-fan-fiction/","title":"100 Gecs Fan Fiction"}
 ---
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #💡 
+> categories:: #💡 
 > status:: #📝/🌞
 > tags::  #to/write 
 > topics:: [[100 Gecs\|100 Gecs]] 

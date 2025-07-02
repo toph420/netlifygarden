@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
-> type:: #💡
+> categories:: #💡
 > tags::  
 > topics:: 
 > links::

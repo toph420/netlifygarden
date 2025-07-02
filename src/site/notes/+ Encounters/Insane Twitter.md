@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/insane-twitter/","title":"Insane Twitter"}
+{"dg-publish":true,"permalink":"/encounters/insane-twitter/","title":"Insane Twitter","tags":["📝","📝/🌞"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**::  
-> **topics**:: 
-> **links**::
 
+> [!metadata]- Meta  
+> **up**:: [[🏠 Home\|🏠 Home]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**::  
+> **topics**::  
+> **links**::
 
 # Insane Twitter
 

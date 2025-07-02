@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📥/🛠 
+> categories:: #📥/🛠 
 > status:: #📥/🟥 
 > tags::  #on/movies, #on/tools
-> topics:: [[Movies MOC\|Movies]]
+> links:: [[Movies MOC\|Movies]]
 
 # Letterboxd
 

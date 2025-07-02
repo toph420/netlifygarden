@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
-> type:: #log/code 
+> categories:: #log/code 
 > tags:: #to/implement 
 > language:: [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]], [[Sources/Tools + Plugins/JavaScript\|JavaScript]]
 > program:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
@@ -32,7 +32,7 @@
 > 
 > ````swift
 > ---
-> type: beerCard
+> categories: beerCard
 > Rating: 9
 > ABV: 6.5%
 > Cost: £

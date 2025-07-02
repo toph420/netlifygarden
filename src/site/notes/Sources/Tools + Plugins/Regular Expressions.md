@@ -4,9 +4,9 @@
 
 > [!INFO]-  Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📥/🛠  
+> categories:: #📥/🛠  
 > status:: #📥/🟥
-> topics:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
+> links:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
 > tags:: #on/language 
 > language:: [[Sources/Tools + Plugins/Regular Expressions\|Regular Expressions]]
 

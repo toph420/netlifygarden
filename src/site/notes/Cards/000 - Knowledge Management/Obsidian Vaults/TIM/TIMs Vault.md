@@ -3,11 +3,10 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Atlas/🧠 Sid\|🗳 My Vault]], [[Atlas/📥 Sources\|📥 Sources]]
-> 	type:: #📥/🔗
-> tags:: #on/pkm #on/vaults
+> up:: [[🧠 Sid\|🗳 My Vault]], [[Atlas/📥 Sources\|📥 Sources]]
+> 	type[](🧠%20My%20Vault.md)/pkm #on/vaults
 > status:: #📥/🟨 
-> topics:: [[Cards/000 - Knowledge Management/Tags\|Tags]]
+> links:: [[Tags\|Tags]]
 > links:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|How I Take Notes]], [[My Code Snippets\|My Code Snippets]], [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs TODO Tag\|TIMs TODO Tag]], [[TIM's Vault\|TIM's Vault]]
 ---
 
@@ -17,7 +16,7 @@
 - [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs TODO Tag\|TIMs TODO Tag]]
 
 ## Notes
-I love this guy's vault and I've implemented quite a few of his techniques in [[Atlas/🧠 Sid\|My Vault]]. 
+I love this guy's vault and I've implemented quite a few of his techniques in [[Atlas/🧠 My Vault\|My Vault]]. 
 
 ---
 

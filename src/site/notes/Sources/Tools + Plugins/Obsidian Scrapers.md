@@ -4,15 +4,13 @@
 
 > [!metadata]- Meta
 > up:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
-> type:: #📥/🛠
+> categories:: #📥/🛠
 > tags:: #on/pkm, #on/plugins 
 > status:: #📥/🟩
-> topics:: [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]], [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
-> links:: [[Atlas/🧠 Sid\|My Vault]], [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
+> links:: [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]], [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
+> links:: [[🧠 Sid\|My Vault]], [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
 
-# Obsidian scrapers
-
-> A collection of [[Sources/Tools + Plugins/Plugin - Templater\|Templater]] scripts for [[Sources/Tools + Plugins/Obsidian\|Obsidian]] that can be easily integrated into your templates to get information from different sites with a copied link.
+# Obsid[](🧠%20My%20Vault.md)ollection of [[Sources/Tools + Plugins/Plugin - Templater\|Templater]] scripts for [[Sources/Tools + Plugins/Obsidian\|Obsidian]] that can be easily integrated into your templates to get information from different sites with a copied link.
 
 [Video Example](https://user-images.githubusercontent.com/71596800/193448137-3a4d4489-cbc6-4108-905c-9eb3165e6ee1.mp4)
 

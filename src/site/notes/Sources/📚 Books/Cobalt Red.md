@@ -43,7 +43,7 @@ up:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
 > While Tesla’s responsible sourcing practices apply to all materials and supply chain partners, we recognize the conditions associated with select artisanal mining (ASM) of cobalt in the DRC. To assure the cobalt in Tesla’s supply chain is ethically sourced, we have implemented targeted due diligence procedures for cobalt sourcing.
 
-- [N] [[Elon Musk\|Elon Musk]] is such a POS
+- [N] [[Cards/900 - History, Biography, Geography/Biography/Elon Musk\|Elon Musk]] is such a POS
 
 ### id480276990
 
@@ -527,7 +527,7 @@ up:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
 > The prices paid at Depot Tiger and Depot 233 for a kilogram of heterogenite with 1 percent grade was 200 Congolese francs (about $0.11). A forty-kilogram sack, therefore, sold for about $4.40. The négociants at Kipushi paid Faustin about $2.80 per sack. Authorization to transport ore and a means of conveyance meant that the négociants operating in Kipushi were able to retain almost 40 percent of the value of each sack of heterogenite. It seemed a needless layer in the supply chain that shifted value away from the people who worked the hardest. For that matter, the depots equally seemed to be a needless layer in the supply chain, siphoning yet more value out of the system by providing an informal and untraceable entry point for artisanal cobalt into the formal supply chain. There was nothing to stop mining companies from going to the artisanal sites themselves and directly paying the women, men, and children who dug their cobalt—aside from the negative optics associated with having direct links to hazardous, penny-wage artisanal mining areas teeming with children.
 
-- [N] Depots to shift the responsibility away from the higher up companies, putting more separation between i.e. Tesla, and he never really did the lady in the mind bringing her back. [[Elon Musk\|Elon Musk]]
+- [N] Depots to shift the responsibility away from the higher up companies, putting more separation between i.e. Tesla, and he never really did the lady in the mind bringing her back. [[Cards/900 - History, Biography, Geography/Biography/Elon Musk\|Elon Musk]]
 
 ### id487679950
 

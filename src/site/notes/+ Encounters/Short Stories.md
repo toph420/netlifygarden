@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/short-stories/","title":"Short Stories"}
+{"dg-publish":true,"permalink":"/encounters/short-stories/","title":"Short Stories","tags":["📝","📝/🌞","on/literature","on/reading","on/storytelling","on/writing"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[Cards/800 - Literature/800 - Literature\|800 - Literature]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**:: #on/reading #on/storytelling #on/writing #on/literature 
-> **topics**:: 
-> **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
+> [!metadata]- Meta  
+> **up**:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]], [[Cards/800 - Literature/800 - Literature\|800 - Literature]]  
+> **type**:: #📝  
+> **status**:: #📝/🌞  
+> **tags**:: #on/reading #on/storytelling #on/writing #on/literature  
+> **topics**::  
+> **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
 
 # Short Stories
 
@@ -39,10 +39,9 @@
 		2.	⁠Brief Interviews With Hideous Men
 		3.	⁠Girl With Curious Hair
 
-
 ## Completed
 - [[Sources/📚 Books/I Have No Mouth and I Must Scream\|I Have No Mouth and I Must Scream]]
 	- This is a terrifying, torturous revenge story. A story about an AI that was invented by humans to fight world war 3 but became more powerful and exacted revenge on humans for making it not quite sentient. The computer takes 5 humans prisoner, as his play toys and tortures them, but keeps them alive until one of them kills the others, leaving him alone, immortal, but a hero for saving the others through death. This shit is vivid and nightmarish, sheesh!
 ---
-up:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]]
+up:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]
 

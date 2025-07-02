@@ -3,18 +3,17 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Atlas/🧠 Sid\|🧠 Sid]]
-> type:: #📝 
-> status:: #📝/🌱
+> up:: [[🧠 Sid\|🧠 Sid]]
+> categories:[](🧠%20My%20Vault.md)tatus:: #📝/🌱
 > tags:: #on/pkm #on/readme #on/workflow  
-> topics:: [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
+> links:: [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > links:: [[Cards/000 - Knowledge Management/My Meta\|My Meta]], [[Cards/000 - Knowledge Management/Workflows/My Process Guides\|My Process Guides]]
 
 # My Note Taking Workflow
 
-> I do a whole lot of reading and watching and listening and logging, here's a my workflow for getting all those things into my second brain, called [[Atlas/🧠 Sid\|🧠 Sid]]. 
+> I do a whole lot of reading and watching and listening and logging, here's a my workflow for getting all those things into my second brain, called [[Atlas/🧠 My Vault\|🧠 My Vault]]. 
 
-## Notes in [[Atlas/🧠 Sid\|🧠 Sid]]
+## Notes in [[Atlas/🧠 My Vault\|🧠 My Vault]]
 -   Household management (shopping lists, chores, etc.)
 -   Task management
 -   Various kinds of annotations
@@ -80,4 +79,4 @@
 - Create a corresponding [[Sources/Tools + Plugins/Todoist\|Todoist]] project with the same name as the project filename in order to automatically pull tasks from Todoist.
 ---
 
-up:: [[Atlas/🧠 Sid\|🧠 Sid]]
+up:: [[Atlas/🧠 My Vault\|🧠 My Vault]]
