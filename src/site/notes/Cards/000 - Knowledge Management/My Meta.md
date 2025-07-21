@@ -3,11 +3,11 @@
 ---
 
 > [!metadata]- Meta
-> up:: [[Atlas/🧠 Sid\|🗳 My Vault]]
-> type:: #⚙️
+> up:: [[Atlas/🧠 My Vault\|🗳 My Vault]]
+> categories:: #⚙️
 > tags:: #on/pkm, #on/workflow
 > status:: #📝/🌱
-> topics:: [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]], [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
+> links:: [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]], [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > links:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My Note Taking Process]]
 
 # My Meta
@@ -26,7 +26,6 @@ All notes, regardless of “type” contain a `#📝` node throughout its journe
 See [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]] for inspiration
 
 ```
-#⚙️  Utility (dont think I use this)
 #log 
 	#log/event 
 	#log/journal 
@@ -37,32 +36,20 @@ See [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrich
 	#log/condition 
 	#log/week 
 	#log/year 
-#🗺 
-	- #🗺/view 
-#📝 
+#🗺 (map)
+#📝 (note)
 	- #📝/🥀 (weed)
 	- #📝/🌞 (incubator)
 	- #📝/🌱 (sprout)
 	- #📝/🌿 (sapling)
 	- #📝/🌲 (evergreen)
-#on (similar to topic, but high level)
-	- #on/readme 
-	- #on/workflow 
-	- #on/VideoEditing 
-	- #on/obsidian 
-	- #on/readme 
-	- #on/x
-#project
-	- #project/🟥 (backlog)
-	- #project/🟨 (in progress)
-	- #project/🟩 (completed)
-	- #project/⬛️ (archived)
-	- #project/newsletter
-	- #project/marketing
-	- #project/video
-	- #project/video/wedding 
-	- #project/video/recap 
-#📥
+#🌈 (project)
+	- #🌈/newsletter
+	- #🌈/marketing
+	- #🌈/video
+	- #🌈/video/wedding 
+	- #🌈/video/recap 
+#📥 (source)
 	- #📥/🟥 (not processed)
 	- #📥/🟧 (processing)
 	- #📥/🟨 (synthesizing)
@@ -75,8 +62,14 @@ See [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrich
 	- #📥/🔗 (link)
 	- #📥/🎙 (podcast)
 	- #📥/💭 (my thoughts on a source)
+  - #on (topics)
+	- #on/readme 
+	- #on/workflow 
+	- #on/VideoEditing 
+	- #on/obsidian 
+	- #on/readme 
+	- #on/x
 
-#concept — 📜 
 #person - 👽
 #company - 🛸
 #client - 🤑
@@ -89,8 +82,29 @@ Also inline tags for tasks and list items (for work use Todoist)
 #🔗 (link)
 #📸 (image)
 #🎥 (video)
-#to (ie read, explore, implement)
+#to (ie read, explore, implement) 
 ```
+
+## Status
+
+*I changed this in 2025 from tags to a "Status" property for better utilization within Bases*
+
+- **Projects**
+	- 🟥 (backlog)
+	- 🟨 (in progress)
+	- 🟩 (completed)
+	- ⬛️ (archived)
+- **Sources**
+	- 🟥 (unprocessed)
+	- 🟧 (processing)
+	- 🟨 (synthesizing)
+	- 🟩 (completed)
+- **Notes**
+	- 🥀 (weed)
+	- 🌞 (incubator)
+	- 🌱 (sprout)
+	- 🌿 (sapling)
+	- 🌲 (evergreen)
 
 ## Source Tags
 See:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My Note Taking Process]]
@@ -105,7 +119,9 @@ See:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My N
 - `#📥/📽` Movie
 	- [ ] Pull from Letterboxd using scrapers and a new AI prompt 
 - `#📥/📚` Book
-	- Learn to read 😂
+	- Readwise for fiction
+- `#📥/📜` Papers
+	- Zotero for non-fiction books, essays, papers
 - `#📥/👨‍🏫`
 	- This could turn into a big one, I’d like to build an index of tutorials, maybe by using `📥/👨‍🏫/editing`
 	- Include project files for the tutorials and bundle once tutorial turns `📥/🟩` or when a tag of `#files`
@@ -122,8 +138,8 @@ See:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My N
 	9. `storage:`
 	10. `summary:` 
 3. Meta
-	1. `type: #project`
-	2. `status: #project/ 🟥, #project/🟨, #project/🟩, #project/⬛`
+	1. `categories: #project`
+	2. `status:🟥, 🟨, #project/🟩, #project/⬛`
 	3. `client:`
 		1. get the value of a "person" or "company" from quickadd dropdown 
 		2. *is there a way to use checkbox asking if client is new, if so format differently* #❓
@@ -144,5 +160,5 @@ See:: [[Cards/000 - Knowledge Management/Workflows/My Note Taking Workflow\|My N
 	2. `Phone`
 
 ---
-up:: [[Atlas/🧠 Sid\|🧠 Sid]]
+up:: [[Atlas/🧠 My Vault\|🧠 My Vault]]
 

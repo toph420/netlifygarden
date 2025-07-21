@@ -5,8 +5,8 @@
 > [!multi-column]
 >
 >> [!metadata]- Meta
->> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
->> **type**:: #📥/📚/reading
+>> **up**:: [[📗 Bookshelf\|📗 Bookshelf]]
+>> **type**:[](📚%20Books.md)
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books
 >> **topics**:: 
@@ -26,7 +26,7 @@
 
 
 ---
-up:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+up:: [[Atlas/📚 Books\|📚 Books]]
 ### id480276986
 
 > The Katanga region in the southeastern corner of the Congo holds more reserves of cobalt than the rest of the planet combined.

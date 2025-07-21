@@ -22,6 +22,7 @@ See my [LOL Raindrop collection](https://raindrop.io/tophg/lol-35164069) for mor
 ![LOL - jules.png|400](/img/user/Extras/Attachments/LOL%20-%20jules.png)
 ![A75DFC32-5DB8-4210-83E8-2D36514786A8.jpeg|400](/img/user/Extras/Attachments/A75DFC32-5DB8-4210-83E8-2D36514786A8.jpeg)
 
+![LOL - adaptsushistory.png](/img/user/Extras/Attachments/LOL%20-%20adaptsushistory.png)
 ## Bookmarks
 
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/tophg/lol-35164069/embed/sort=-created&theme=dark"></iframe>

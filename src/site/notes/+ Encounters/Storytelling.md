@@ -1,30 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/storytelling/","title":"Storytelling","tags":["📝","📝/🌞","on/story","on/storystructure","on/storytelling","on/writing"]}
+{"dg-publish":true,"permalink":"/encounters/storytelling/","title":"Storytelling","tags":["📝","on/story","on/storystructure","on/storytelling","on/writing"]}
 ---
 
 
-> [!metadata]- Meta  
-> **up**:: [[Cards/600 - Applied Sciences/600 - Applied Sciences\|Applied Sciences]]  
-> **type**:: #📝  
-> **status**:: #📝/🌞  
-> **tags**:: #on/writing #on/storytelling #on/storystructure #on/story  
-> **topics**:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]  
-> **links**::
-
 # Storytelling
 
-> Notes and guides about telling stories 
+> Notes and guides about [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]] stories
 
 - See [[+ Encounters/Storytelling Exercises\|Storytelling Exercises]]
 
 ## Story Structure
+
 
 - [Story Structure: 7 Types All Writers Should Know](https://blog.reedsy.com/guide/story-structure/)
 - [Nelsons Short Story Method](https://youtu.be/4PqGPZtyFtw?si=9TLgV1gFLTF3p2Zc) - need to check this out! 
 
 ![IMG_1992.jpeg](/img/user/Extras/Attachments/IMG_1992.jpeg)
 
-> [!Image]- Story Structure Diagram  
+---
+
+> [!Image]+ Story Structure Diagram  
 > ![Storytelling - structure.png](/img/user/Extras/Attachments/Storytelling%20-%20structure.png)
 
 > [!ava]+ Some Story Structures  

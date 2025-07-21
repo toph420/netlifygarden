@@ -5,14 +5,14 @@
 > [!multi-column]
 >
 >> [!metadata]- Meta
->> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+>> **up**:: [[Atlas/📚 Books\|📚 Books]]
 >> **type**:: #📥/📚/completed 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books #on/shortstory
 >> **topics**:: [[+ Encounters/Short Stories\|Short Stories]]
 >
 >> [!metadata]- Book Info
->> **Author**:: [[Harlan Ellison\|Harlan Ellison]]
+>> **Author**:: [[+ Encounters/Harlan Ellison\|Harlan Ellison]]
 >> **Title**:: I Have No Mouth and I Must Scream
 >> **URL**::
 >> **Reviewed Date**:: [[2024-08-31 \|2024-08-31 ]]

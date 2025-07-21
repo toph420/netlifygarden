@@ -1,12 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/mo-cs/code-diary/"}
+{"dg-publish":true,"permalink":"/calendar/mo-cs/code-diary/","title":"🧪 Code Diary","tags":["🗺️","on/coding"]}
 ---
 
-> [!metadata]- Meta
-> up:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
-> categories:: #🗺 
-> status:: #📝/🌿 
-> tags:: #on/coding
 
 # 🧪 Code Diary
 > Helpful tips, codes, queries for displaying entries across the vault.
@@ -40,11 +35,6 @@
 
 { .block-language-dataview}
 
-
-
-
 ---
 up:: [[🏠 Home\|Home]]
-
-
 

@@ -5,7 +5,7 @@
 > [!multi-column]
 >
 >> [!metadata]- Meta
->> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+>> **up**:: [[Atlas/📚 Books\|📚 Books]]
 >> **type**:: #📥/📚/completed 
 >> **status**:: #📥/🟥
 >> **tags**:: #on/books
@@ -20,6 +20,7 @@
 
 # Gravity’s Rainbow
 
+- [audio book google drive](https://drive.google.com/drive/mobile/folders/1ZZcSCzauYk5r7vOXyBgPMDJ_27xkfwho?usp=sharing)
 ## Thoughts
 
 

@@ -7,7 +7,7 @@
 > **type**:: #📝/🌱 
 > **tags**::  #person/author #on/lovecraft #on/cosmichorror #on/literature
 > **topics**:: [[Horror\|Horror]], [[Cosmic Horror\|Cosmic Horror]]
-> **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+> **links**:: [[Atlas/📚 Books\|📚 Books]]
 
 
 # HP Lovecraft

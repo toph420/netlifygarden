@@ -1,14 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/tools-plugins/plugin-templater/"}
+{"dg-publish":true,"permalink":"/sources/tools-plugins/plugin-templater/","title":"Plugin - Templater","tags":["📥","📥/🛠","on/plugins"]}
 ---
 
 
-> [!metadata]- Meta
-> up:: [[🧠 Sid\|🧠 Sid]]
-> categories:[](🧠%20My%20Vault.md)
-> tags:: #on/pkm, #on/plugins 
-> status:: #📥/🟨 
-> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Sources/Tools + Plugins/JavaScript\|JavaScript]]
 
 # Templater
 > All things related to Templater
@@ -97,7 +91,6 @@ in here the result of the `tp` api is getting the file name to the `tp.file`�
 
 putting it all together: `tp.file.title.charAt(0)`
 
-
 ## Examples
 
 [SilentVoid13/Templater · GitHub](https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase) - GitHub Repo of Templater examples including:
@@ -115,7 +108,6 @@ putting it all together: `tp.file.title.charAt(0)`
 		await tp.file.move(`/${folderPath}/${title}`)
 	%>
 ```
-
 
 ```ad-note
 

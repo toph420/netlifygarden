@@ -7,13 +7,11 @@
 > **type**:: #📝 
 > **status**:: #📝/🌲 
 > **tags**::  #on/workflow 
-> **topics**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Sources/Tools + Plugins/Zotero\|Zotero]]
+> **topics**:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Atlas/Papers\|Papers]]
 > **links**::
 
 
-# My Zotero Workflow
-
-> Step by step instructions for integrating Zotero and Obsidian
+# My Zotero W[](Sources/Tools%20+%20Plugins/Zotero.md) Step by step instructions for integrating Zotero and Obsidian
 
 I'm using another one of Christian's processes: [How I Read Research Papers with Obsidian and Zotero | Christian B. B. Houmann](https://bagerbach.com/blog/how-i-read-research-papers-with-obsidian-and-zotero)
 

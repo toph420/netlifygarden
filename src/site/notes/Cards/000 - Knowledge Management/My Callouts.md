@@ -1,30 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/cards/000-knowledge-management/my-callouts/","title":"My Callouts"}
+{"dg-publish":true,"permalink":"/cards/000-knowledge-management/my-callouts/","title":"My Callouts","tags":["on/obsidian","on/pkm"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**::  
-> **topics**:: 
-> **links**::
 
 # My Callouts
 
 > My custom callout boxes
 
-
-> [!idea]+ Idea
+> [!idea]+ Idea  
 > Idea
 
-> [!bookmark]+ Bookmark
+> [!bookmark]+ Bookmark  
 > Bookmark
 
-> [!stats]+ Stats
+> [!stats]+ Stats  
 > Stats
 
-> [!command]+ Commands
+> [!command]+ Commands  
 > Commands
 
 ---

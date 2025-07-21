@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/000-knowledge-management/markdown-cheat-sheet/","title":"Markdown Cheat Sheet"}
 ---
 
-up:: [[Atlas/🧠 Sid\|My Vault]]
+up:: [[Atlas/🧠 My Vault\|My Vault]]
 
 ---
 
@@ -45,10 +45,10 @@ up:: [[Atlas/🧠 Sid\|My Vault]]
 ---
 
 > [!metadata]- Meta
-> up:: [[Atlas/🧠 Sid\|🗳 My Vault]]
-> type:: #📝 
+> up:: [[Atlas/🧠 My Vault\|🗳 My Vault]]
+> categories:: #📝 
 > tags::  #on/code 
 > status:: #📝/🌱 
-> topics:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
+> links:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
 > links:: [[My Code Snippets\|My Code Snippets]]
 > language:: [[Sources/Tools + Plugins/Markdown\|Markdown]]

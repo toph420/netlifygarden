@@ -3,9 +3,8 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/700 - Art and Recreation/Videos\|Videos]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
+> **up**:: [[Atlas/🎥 Videos\|🎥 Videos]]
+> **type**:[](🎥%20Videos.md)*status**:: #📝/🌞
 > **tags**::  #on/videoediting
 > **links**:: [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]], [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]
 
@@ -48,5 +47,5 @@
 > > ![dolcegabana01.gif](/img/user/Extras/Attachments/dolcegabana01.gif)
 > > [DG Magnificent Ad](https://www.pinterest.com/pin/245586985921784784/)
 ---
-up:: [[Cards/700 - Art and Recreation/Videos\|Videos]]
+up:: [[Atlas/🎥 Videos\|🎥 Videos]]
 

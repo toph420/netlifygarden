@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]
-> type:: #📥 
+> categories:: #📥 
 > status:: #📥/🟩  
 > tags::  #on/pkm #on/obsidian 
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > links:: [[Canvas - SLRvb.canvas]]
 
 # SLRvb Image Examples

@@ -4,13 +4,13 @@
 
 > [!metadata]- Meta
 > up:: [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
-> type:: #📥/🛠  
+> categories:: #📥/🛠  
 > tags::  #on/plugins, #on/pkm 
 > status:: #📥/🟨 
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Sources/Tools + Plugins/JavaScript\|JavaScript]], [[Sources/Tools + Plugins/TypeScript\|TypeScript]]
-> links:: [[Atlas/🧠 Sid\|🧠 Sid]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Sources/Tools + Plugins/JavaScript\|JavaScript]], [[Sources/Tools + Plugins/TypeScript\|TypeScript]]
+> links:: [[🧠 Sid\|🧠 Sid]]
 
-# Quickadd Plugin
+# Quick[](🧠%20My%20Vault.md)
 
 - [Getting Started | QuickAdd](https://quickadd.obsidian.guide/docs/)
 - [QuickAdd Plugin - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/quickadd-plugin/20032/75)

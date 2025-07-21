@@ -1,14 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/ideas/2024-03-20-wj-an-idea-for-a-local-media-organization/","title":"An idea for a local media organization"}
+{"dg-publish":true,"permalink":"/calendar/ideas/2024-03-20-wj-an-idea-for-a-local-media-organization/","title":"An idea for a local media organization","tags":["💡","ideas","log/ideas","on/activism","on/grandrapids"]}
 ---
 
-> [!metadata]- Meta
-> **up**:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]
-> **type**:: #💡
-> **topics**:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]], [[Cards/900 - History, Biography, Geography/Geography and Travel/Grand Rapids/🏙️ Grand Rapids\|🏙️ Grand Rapids]]
-> **tags**:: #on/activism #on/grandrapids 
 
-# An idea for a local media organization
+# An Idea for a Local Media Organization
 
 **THE BLAST**
 
@@ -81,7 +76,6 @@ I've been thinking about this for a while. We have a growing number of "independ
 - Funding
 	- Use Kofi over Patreon, patreon takes 8% of every transaction and kofi takes $4.50/month
 
-
 ## External Resources
 - [1Dime - YouTube](https://www.youtube.com/@1Dimee) - good example of the type of videos and possible pay structure (patreon and youtube subscription)
 	- [Controlled Opposition: A Theory (Documentary) - YouTube](https://youtu.be/7uPevWDAYFI?si=BoyLehWvDpHG5deD)
@@ -106,6 +100,8 @@ I've been thinking about this for a while. We have a growing number of "independ
 - ⭐️ [Reddit - best left wing media sources](https://www.reddit.com/r/socialism/s/qcwfxVSg6B) - check this out !
 - [Chicago Reader (@chicago\_reader)](https://www.instagram.com/chicago_reader?igsh=Mnc2ZmpjZXFjYzd6)
 - [🦋🪲🌕 (@midnightcarecollective)](https://www.instagram.com/midnightcarecollective?igsh=ZGhuNm5pdDh0NDZw)
+- [[The Funambulist\|The Funambulist]] - philosophy activist magazine, super cool [Magazine - THE FUNAMBULIST MAGAZINE](https://thefunambulist.net/magazine)
+- [[+ Encounters/Tiqqun\|Tiqqun]]
 
 ## People to Connect with
 - Alexa from Muskegon (Justins friend)
@@ -113,7 +109,6 @@ I've been thinking about this for a while. We have a growing number of "independ
 - Industrial String Bands, Carsten Forester
 	- Solidarity Singers, Wren
 - FRSO - GRAARPR, PSGR
-
 
 ## Content Ideas
 - [Ultimate Guide to Calling Your Reps](https://www.reddit.com/r/IronFrontUSA/s/D4tvwT8Day) - turn this into its own note and a video 
@@ -181,8 +176,6 @@ I've been thinking about this for a while. We have a growing number of "independ
 	- new age
 	- the rebel
 	- eureka
-
-
 
 ---
 up:: [[Calendar/+ MOCs/💡 Ideas\|💡 Ideas]]

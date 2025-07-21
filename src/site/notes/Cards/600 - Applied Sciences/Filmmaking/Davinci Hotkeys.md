@@ -5,10 +5,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
-> type:: #📝 
+> categories:: #📝 
 > tags::  #on/hotkeys #on/davinci 
 > status:: #📝/🌞
-> topics:: [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|🎞 Video Editing]], [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]]
+> links:: [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|🎞 Video Editing]], [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]]
 > links::[[Cards/000 - Knowledge Management/Workflows/My Davinci Resolve Process\|My Davinci Resolve Process]]
 
 ---

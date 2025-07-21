@@ -9,7 +9,7 @@
 > **status**:: #📝/🌞  
 > **tags**:: #person/author  
 > **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]  
-> **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+> **links**:: [[Atlas/📚 Books\|📚 Books]]
 
 # William Gibson
 

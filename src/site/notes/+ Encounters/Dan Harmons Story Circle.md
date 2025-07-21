@@ -3,17 +3,9 @@
 ---
 
 
-> [!metadata]- Meta  
-> **up**:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]], [[+ Encounters/Storytelling\|Storytelling]]  
-> **type**:: #📝  
-> **status**:: #📝/🌞  
-> **tags**:: #on/writing #on/storytelling #on/storystructure  
-> **topics**::  
-> **links**::
-
 # Dan Harmons Story Circle
 
-> A simplified version of the hero's journey
+> A simplified version of the hero's journey as a [[+ Encounters/Storytelling\|Storytelling]] technique
 
 > [!ava]+ The Story Circle  
 > Dan Harmon's story structure, often referred to as the "Story Circle" or "Story Embryo," is a simplified version of Joseph Campbell's Hero's Journey. It's designed to be applicable to a wide range of stories, from feature-length films to individual episodes of TV shows. Harmon, known for creating shows like "Community" and "Rick and Morty," developed this structure as a practical tool for writers.
@@ -47,12 +39,10 @@
 > 7. Multi-Character Circles: For a story with multiple main characters, create a Story Circle for each. See how they intersect and diverge.
 > 
 > Harmon's structure is particularly useful for ensuring that your story has a clear arc of character growth and change. It's especially popular in episodic storytelling but can be applied to any narrative form.
-> 
-> Would you like to try one of these exercises or explore how this structure compares to others we've discussed?
 
 ## Example Outlines
 
-> [!ava]- PKD (hypothetical)  
+> [!ava]+ PKD (hypothetical)  
 > Title: "The Reality Adjustment Bureau"
 > 
 > 1. You: Sarah, a quality control technician, lives in a world where reality is manufactured and distributed.

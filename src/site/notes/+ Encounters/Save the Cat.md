@@ -1,19 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/save-the-cat/","title":"Save the Cat","tags":["📝","📝/🌞","on/story","on/storystructure","on/storytelling","on/writing"]}
+{"dg-publish":true,"permalink":"/encounters/save-the-cat/","title":"Save the Cat","tags":["📝","on/story","on/storystructure","on/storytelling","on/writing"]}
 ---
 
 
-> [!metadata]- Meta  
-> **up**:: [[+ Encounters/Storytelling\|Storytelling]], [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]  
-> **type**:: #📝  
-> **status**:: #📝/🌞  
-> **tags**:: #on/storytelling #on/storystructure #on/story #on/writing  
-> **topics**::  
-> **links**::
 
 # Save the Cat
 
-> A storytelling structure, 15 beats 
+> A [[+ Encounters/Storytelling\|Storytelling]] structure 15 beats
 
 > [!ava]+ Cheat Sheet
 > 

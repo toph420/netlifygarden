@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/philosophy/","title":"Philosophy","tags":["📝","📝/🌞","on/philosophy"]}
+{"dg-publish":true,"permalink":"/encounters/philosophy/","title":"Philosophy","tags":["📝","on/philosophy"]}
 ---
 
-
-> [!metadata]- Meta  
-> **up**:: [[Cards/200 - Philosophy, Psychology, Spirtuality, Religion/200 - Philosophy, Psychology, Spirtuality, Religion\|200 - Philosophy, Psychology, Spirituality, Religion]]  
-> **type**:: #📝  
-> **status**:: #📝/🌞  
-> **tags**:: #on/philosophy  
-> **topics**::  
-> **links**::
 
 # Philosophy
 
 > All stuff related to philosophy
 
+![[+ Encounters/Untitled 7.base]]
+
 ## Where To?
 - [[+ Encounters/Philosopher Table\|Philosopher Table]]
 - [[+ Encounters/Mysticism\|Mysticism]]
+- [[+ Encounters/Critical Theory\|Critical Theory]] - more general theory, publications, channels, etc
 
 ## Resources
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) - massive archive of notes and overviews
@@ -26,20 +21,6 @@
 - https://www.earlymoderntexts.com/kp.html
 - [Jared Henderson - Substack](https://substack.com/@jaredhenderson?r=1t9e3k&utm_medium=ios&utm_source=profile) - this dude has a great channel and substack 
 
-### Channels (theory)
-- [LEPHT HAND](https://youtube.com/@lephthand?si=qglrboDMw0jmfVDV) - great new-ish philosophy, psych, politics channel
-- [Quarantine Collective](https://youtube.com/@dgqc?si=baQl9zy-HbWVBbxN) - awesome channel dealing with systems of how to learn and use philosophy, lots of D&G
-	- **How to Philosophy** by Quarantine Collective - an [intro to philosophy](https://youtu.be/eXbJGrlZre8?si=L1Eehiji6TpPfJfV), how to do and read and synthesize philosophy: [Syllabus](https://docs.google.com/document/d/1R91LVGK0Gq82B3gWct9x7LPHY7R7W2Ca0nqMdnC3wOY/mobilebasic)
-- [Zentapir](https://youtube.com/@zentapir?si=K3uGTkYmFPT87fcU) - great channel with short funny explanations of lots of D&G
-- Acid Horizon
-- Gavin
-- [Evers Brothers Productions](https://youtube.com/@eversbrothersproductions1476?si=BsAMNx7GCOMdXh3q) - under appreciated philosophy channel
-- [Philosophy Tube](https://youtube.com/@philosophytube?si=5SffQYWE1LU36mNZ) - not a reliably knowledgeable source
-- [Machinic Unconscious Happy Hour](https://youtube.com/@machinicunconscioushappyho5386?si=4Qht7lLGcMYjdvgP) - tons of interesting videos, small channel
-- [Theory Underground](https://youtube.com/@theory_underground?si=wUGDLiSAr966wY_M)
-- [Hermitix](https://youtube.com/@hermitixpodcast?si=rE88v8kHeP0RFGIA)
-- [Esoterica](https://youtube.com/@theesotericachannel?si=Y-E74n4FPMIbW7fT)
-
 ## Philosophers
 
 My favorites!
@@ -47,12 +28,21 @@ My favorites!
 - [[+ Encounters/Friedrich Nietzsche\|Friedrich Nietzsche]]
 - [[+ Encounters/Baruch Spinoza\|Baruch Spinoza]]
 - [[Lucretius\|Lucretius]] - [[Epicureanism\|Epicureanism]]
+- [[Heraclitus\|Heraclitus]]
 
 To look into next:
 - [[+ Encounters/Jean Baudrillard\|Jean Baudrillard]]
+- [[Gilbert Simondon\|Gilbert Simondon]] - key to unlocking difference and repetition ?
 - [[Bergson\|Bergson]]
 - [[Bataille\|Bataille]]
 - [[+ Encounters/Nick Land\|Nick Land]] - Meth head living in china 
+- [[Edmund Husserl\|Edmund Husserl]]
+- [[Jacques Derrida\|Jacques Derrida]]
+	- [Thread about where to start with Derrida](https://x.com/letovccru/status/1945106853236527278?s=46)
+- Classics to read:
+	- Kant - Critque and Prologemena
+	- Spinoza - Ethics
+	- Schopenhauer - World of Will and Representation
 
 The rest:
 - [[Plato\|Plato]]

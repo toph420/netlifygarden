@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type::  #📝 
+> categories::  #📝 
 > tags::  #on/movies #on/design 
 > status:: #📝/🌱 
-> topics:: [[Motion Graphics\|Motion Graphics]], [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]], [[Graphic Design\|Graphic Design]], [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]
+> links:: [[Motion Graphics\|Motion Graphics]], [[Cards/700 - Art and Recreation/Art and Design/Typography\|Typography]], [[Graphic Design\|Graphic Design]], [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]
 > links:: [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
 
 

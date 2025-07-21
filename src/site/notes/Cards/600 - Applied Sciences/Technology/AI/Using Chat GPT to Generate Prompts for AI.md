@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌿 
 > tags::  #on/ai #on/aiart #on/prompts #on/tutorials 
-> topics:: [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]], [[Sources/Tools + Plugins/Midjourney\|Midjourney]], [[Cards/600 - Applied Sciences/Technology/AI/Generative AI\|Generative AI]], [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]]
+> links:: [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]], [[Sources/Tools + Plugins/Midjourney\|Midjourney]], [[Cards/600 - Applied Sciences/Technology/AI/Generative AI\|Generative AI]], [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]]
 
 # Using Chat GPT to Generate Prompts for AI
 [](Midjourney.md)Teach [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]] to generate prompts for AI generated images
@@ -19,7 +19,7 @@
 > For instance:
 > 
 > 1.
-> IMAGE TYPE: Fashion photo shoot
+> IMAGE categories: Fashion photo shoot
 > EXAMPLE DESCRIPTION: A 34-year old Japanese woman, wearing a mauve cashmere pantsuite, joyful expression, garden in background, creative and dramatic fashion editorial photography y Rankin, 1995, 35mm lens, studio lighting
 > SO THE FORMAT IS: A [number between 16 and 80]-year old [ethnic adjective] [man or woman], wearing [color] [material type] [fashion item], [mood adjective] and [adjective] fashion editorial photography by [name of a famous commercial photographer], [year between 1967 and 2018], [type of lens], [type of lighting]
 
@@ -44,7 +44,7 @@ Chat GPT will generate something like this:
 
 Then we can tell Chat to:
 
-> Create a description and format for a new image type: 'Truly unique artistic image with incongruous elements not usually found together'
+> Create a description and format for a new image categories: 'Truly unique artistic image with incongruous elements not usually found together'
 
 > Now generate 5 descriptions of those unique images using that format
 

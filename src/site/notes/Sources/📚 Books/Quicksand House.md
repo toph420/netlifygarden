@@ -5,7 +5,7 @@
 > [!multi-column]
 >
 >> [!metadata]- Meta
->> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+>> **up**:: [[Atlas/📚 Books\|📚 Books]]
 >> **type**:: #📥/📚/completed 
 >> **status**:: #📥/🟨 
 >> **tags**:: #on/books

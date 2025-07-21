@@ -19,6 +19,7 @@
 - Character - Tony Scavengers
 - Bajablastmyfaceoff - Hasan chatter
 - Artist guy with [[Aphasia\|Aphasia]] - https://vt.tiktok.com/ZSMjAXoy2/
+- Mikey from The Dangerous Maybe/Theory Underground - the factory worker philosopher into cybernetics and occult 
 
 
 ![2024-06-15-IJ - Characters - 90da.png](/img/user/Extras/Attachments/2024-06-15-IJ%20-%20Characters%20-%2090da.png)

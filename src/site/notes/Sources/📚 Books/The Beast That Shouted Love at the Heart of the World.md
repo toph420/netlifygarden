@@ -5,14 +5,14 @@
 > [!multi-column]
 >
 >> [!metadata]- Meta
->> **up**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+>> **up**:: [[Atlas/📚 Books\|📚 Books]]
 >> **type**:: #📥/📚/reading 
 >> **status**:: #📥/🟥 
 >> **tags**:: #on/books
 >> **topics**:: [[+ Encounters/Science Fiction\|Science Fiction]]
 >
 >> [!metadata]- Book Info
->> **Author**:: [[Harlan Ellison\|Harlan Ellison]]
+>> **Author**:: [[+ Encounters/Harlan Ellison\|Harlan Ellison]]
 >> **Title**:: The Beast That Shouted Love at the Heart of the World
 >> **URL**::
 >> **Reviewed Date**:: [[2024-09-07 \|2024-09-07 ]]

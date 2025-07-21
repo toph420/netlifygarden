@@ -5,11 +5,10 @@
 
 
 > [!metadata]- Meta
-> up:: [[Atlas/🧠 Sid\|🧠 Sid]]
-> type:: #🗺 
-> status:: #📝/🌿 
+> up:: [[🧠 Sid\|🧠 Sid]]
+> categories:[](🧠%20My%20Vault.md)tatus:: #📝/🌿 
 > tags:: #on/hotkeys #on/pkm
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Productivity\|Productivity]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Productivity\|Productivity]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 
 # My Hotkeys
 
@@ -21,9 +20,9 @@
 - [[Cards/000 - Knowledge Management/Hotkeys for Plugins\|Hotkeys for Plugins]]
 
 ## Sources (`#on/hotkeys`)
-- [[Sources/Nick Milos Hotkey Essentials\|Nick Milos Hotkey Essentials]]
+- [[Sources/📰 Articles/Nick Milos Hotkey Essentials\|Nick Milos Hotkey Essentials]]
 
 { .block-language-dataview}
 
 ---
-up:: [[Atlas/🧠 Sid\|🧠 Sid]]
+up:: [[Atlas/🧠 My Vault\|🧠 My Vault]]

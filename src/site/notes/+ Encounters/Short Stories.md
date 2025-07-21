@@ -9,7 +9,7 @@
 > **status**:: #📝/🌞  
 > **tags**:: #on/reading #on/storytelling #on/writing #on/literature  
 > **topics**::  
-> **links**:: [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
+> **links**:: [[Atlas/📚 Books\|📚 Books]]
 
 # Short Stories
 

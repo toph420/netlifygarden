@@ -20,7 +20,7 @@ Man I've got soooo many things I want to write about. Here's a quick list of a b
 	- Tutorials -- how I use stuff like [[Sources/Tools + Plugins/Descript\|Descript]] and [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]]
 	- How I do business, create proposals, track projects in [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 - [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
-	- I want to share stuff that inspires me, like round ups of [[Cards/700 - Art and Recreation/Videos\|Videos]] and [[Cards/600 - Applied Sciences/Photography/Photography\|Photography]]
+	- I want to share stuff that inspires me, like round ups of [[Atlas/🎥 Videos\|🎥 Videos]] and [[Cards/600 - Applied Sciences/Photography/Photography\|Photography]]
 - Stories
 	- In addition to all the non-fiction stuff I want to share some fiction writing.
 	- Back in high school creative writing class we did a 10 minute "stream-of-consciousness" writing exercise. I always loved it and was surprised at the results. I want to start this again. 

@@ -77,7 +77,7 @@ See also: [[Cards/600 - Applied Sciences/Technology/Technology\|Technology]] | [
 
 ## 800 - Literature
 
-Check out the [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]] for book stuff
+Check out the [[Atlas/📚 Books\|📚 Books]] for book stuff
 
 ## 900 - History & Biography & Geography
 

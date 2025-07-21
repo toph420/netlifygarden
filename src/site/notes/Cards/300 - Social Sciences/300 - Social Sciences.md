@@ -25,7 +25,7 @@
 > [!NOTE]- 📝 Notes
 >  | Note                                                                                                | Summary                                                                                                                                                                                                                                  |
 > | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Cards/300 - Social Sciences/Activism\|Activism]]                                               | A dump of ideas for solutions, things to do                                                                                                                                                                                              |
+> | [[Cards/300 - Social Sciences/Activism\|Activism]]                                               | Everything related to activism and social justice                                                                                                                                                                                        |
 > | [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]                                         | Stuff about bail reform                                                                                                                                                                                                                  |
 > | [[Cards/300 - Social Sciences/Capitalism\|Capitalism]]                                           | The Antichrist                                                                                                                                                                                                                           |
 > | [[Cards/300 - Social Sciences/Child Labor\|Child Labor]]                                         | My research into the rampant child labor in the US and across the world                                                                                                                                                                  |
@@ -59,24 +59,22 @@
 { .block-language-dataview}
 
 > [!note]- 📥 Sources (`#on/socialsciences`)
->  | Note                                                                                                                                                                                                                          |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]<span class='summary'>\-</span><span class='block'>7:12 PM - January 12, 2025</span> |
+>  | Note |
+> | ---- |
 > 
 { .block-language-dataview}
 
 > [!attention]- Unrequited Notes
->  - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]
-> - [[🏠 Home\|🏠 Home]]
-> - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
+>  - [[🏠 Home\|🏠 Home]]
 > - [[Atlas/📚 Library\|📚 Library]]
+> - [[+ Encounters/Cybersyn Project\|Cybersyn Project]]
 > - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
-> - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
 > - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
-> - [[Cards/300 - Social Sciences/Economics\|Economics]]
-> - [[Cards/300 - Social Sciences/Racism\|Racism]]
+> - [[Cards/300 - Social Sciences/Transgenderism\|Transgenderism]]
 > - [[Cards/300 - Social Sciences/Politics\|Politics]]
+> - [[Cards/300 - Social Sciences/Economics\|Economics]]
+> - [[Cards/300 - Social Sciences/Republicans\|Republicans]]
+> - [[Cards/300 - Social Sciences/Racism\|Racism]]
 > - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > - [[Cards/300 - Social Sciences/Bail Reform\|Bail Reform]]
 > - [[Cards/300 - Social Sciences/Activism\|Activism]]

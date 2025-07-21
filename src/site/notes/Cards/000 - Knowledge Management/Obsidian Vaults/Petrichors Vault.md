@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/🔗 
+> categories:: #📥/🔗 
 > status:: #📥/🟨 
 > tags:: #on/vaults #on/pkm
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 
 # Petrichors Vault
 - [INDEX - Petrichor - Obsidian Publish](https://publish.obsidian.md/bryan-jenks/Z/INDEX)
@@ -20,7 +20,7 @@
 
 > [!NOTE] Article Meta
 > -   `Title:` [The true appearance of Odin](https://publish.obsidian.md/bryan-jenks/Inbox/(+The+true+appearance+of+Odin)
-> -   `Type:` [(](https://publish.obsidian.md/bryan-jenks/Z/()
+> -   `categories:` [(](https://publish.obsidian.md/bryan-jenks/Z/()
 > -   `Tags:`
 > -   `Author:` [PatrickAnimation](https://www.facebook.com/PatrickAnimation/)
 >     -   `Notable Authors:`
@@ -31,7 +31,7 @@
 
 > [!NOTE] Book Meta
 > -   `Tags:`
-> -   `Type:` [;](https://publish.obsidian.md/bryan-jenks/Z/%3B)
+> -   `categories:` [;](https://publish.obsidian.md/bryan-jenks/Z/%3B)
 > -   `Author:` [@Anne Gentle](https://publish.obsidian.md/bryan-jenks/%40Anne+Gentle)
 > -   `Full Title:` Docs Like Code
 > -   `Category:` books
@@ -44,7 +44,7 @@
 
 > [!NOTE] Video Meta
 > -   `Title:` [+ ADHD Secret Codes words](https://publish.obsidian.md/bryan-jenks/Inbox/%2B+ADHD+Secret+Codes+words)
-> -   `Type:` [🌲️/+](https://publish.obsidian.md/bryan-jenks/%F0%9F%8C%B2%EF%B8%8F/%2B)
+> -   `categories:` [🌲️/+](https://publish.obsidian.md/bryan-jenks/%F0%9F%8C%B2%EF%B8%8F/%2B)
 > -   `Tags:` [ADHD](https://publish.obsidian.md/bryan-jenks/Z/ADHD) - [Communication](https://publish.obsidian.md/bryan-jenks/Communication) - [Non-Verbal Communication](https://publish.obsidian.md/bryan-jenks/Non-Verbal+Communication) - [ASL](https://publish.obsidian.md/bryan-jenks/ASL)
 > -   `URL:` [https://vm.tiktok.com/ZMdTXd4Jw/](https://vm.tiktok.com/ZMdTXd4Jw/)
 > -   `Channel/Host:` [@catieosaurus](https://publish.obsidian.md/bryan-jenks/%40catieosaurus)

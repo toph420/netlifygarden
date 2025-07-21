@@ -3,9 +3,8 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/700 - Art and Recreation/Videos\|Videos]]
-> **type**:: #📝 
-> **status**:: #📝/🌱 
+> **up**:: [[Atlas/🎥 Videos\|🎥 Videos]]
+> **type**:[](🎥%20Videos.md)*status**:: #📝/🌱 
 > **tags**::  #on/videoediting 
 > **links**:: [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]], [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]
 

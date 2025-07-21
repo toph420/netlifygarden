@@ -13,6 +13,8 @@
 
 > Research and outline of conservative politics and economics
 
+![Conservatism - assholes.png](/img/user/Extras/Attachments/Conservatism%20-%20assholes.png)
+
 > [!Ava]- Intro to Conservatism
 > Course Title: Introduction to Conservatism: Understanding the Foundations
 > 

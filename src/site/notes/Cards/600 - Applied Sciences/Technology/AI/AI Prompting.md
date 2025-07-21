@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌿 
 > tags::  #on/ai 
-> topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
+> links:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
 > links:: [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]], [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], [[Sources/Tools + Plugins/Midjourney\|Midjourney]], [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]]
 
 # AI Prompting

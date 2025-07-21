@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","contentClasses":"mado-table mado-table-stripe","tags":["🗺️","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"🏠 Home","contentClasses":"mado-table mado-table-stripe","tags":["🗺️","gardenEntry"]}
 ---
 
 
@@ -10,18 +10,18 @@ I use [Obsidian](https://obsidian.md/) to manage everything from projects, peopl
 Due to the nature of some of these notes not every link will be reachable, but I'll do my best to continue to share what I can! 
 
 Below are some jumping off points:
-
-- Be sure to check out the [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]] to keep up with my writing journey. 
-- See what books I'm reading on my [[Cards/800 - Literature/📗 Bookshelf\|📗 Bookshelf]]
-- Learn some more about this [[Sources/Tools + Plugins/Obsidian\|Obsidian]] vault of notes, I call it [[Atlas/🧠 My Vault\|🧠 My Vault]] (homage to Sid from [The Incredible Toon Machine](https://www.youtube.com/watch?v=w6RD2s4TQAQ))
-- Use [[Atlas/🗺 Maps\|🗺 Maps]], [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]], [[Atlas/📚 Library\|📚 Library]], [[Atlas/📥 Sources\|📥 Sources]] to explore 
+- [[+ Encounters/Stuff to Look Into\|Stuff to Look Into]] - Increasingly massive list of stuff I need to look into 🫣
+-  [[Calendar/+ MOCs/🖋 Writing Journal\|🖋 Writing Journal]] - to keep up with my writing journey. 
+-  [[Atlas/📚 Books\|📚 Books]] - all the books I'm reading, have read, and want to read
+-   [[Atlas/🧠 My Vault\|🧠 My Vault]] - behind the scenes of this [[Sources/Tools + Plugins/Obsidian\|Obsidian]] vault
+-  [[Atlas/🗺 Maps\|🗺 Maps]], [[Atlas/👨🏻‍🌾 Greenhouse\|👨🏻‍🌾 Greenhouse]], [[Atlas/📚 Library\|📚 Library]], [[Atlas/📥 Sources\|📥 Sources]] to explore 
 - Use the backlinks on each page to navigate to related notes
 
 Elsewhere:
-- Check out [Ducks Films](http://ducksfilms.com) to see my videography work and hire me
-- Check out [TopherGroenink.com](http://tophergroenink.com) to see some of my older work
-- You can find a bunch of cool things from around the web that I’ve saved, like videos, photos, art, funny stuff, etc. in my [Cosmos](https://www.cosmos.so/topher) and [Raindrop](https://raindrop.io/tophg) collections.
-- Feel free to shoot me a message on [Instagram](https://www.instagram.com/toph.g/) or Discord @toph.g if you want to talk!
+- [Ducks Films](http://ducksfilms.com) to see my videography work and hire me
+- [TopherGroenink.com](http://tophergroenink.com) to see some of my older work
+- [My Cosmos](https://www.cosmos.so/topher) and [My Raindrop](https://raindrop.io/tophg) for curated collection of things from the web
+- [@toph.g on Instagram](https://www.instagram.com/toph.g/) or Discord @toph.g if you want to talk!
 
 ---
 
@@ -83,45 +83,45 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                      | Status                               |
-> | --------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/China\|China]]<br><span class='block'>9:08 PM - June 29, 2025</span>                    | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Mao Zedong\|Mao Zedong]]<br><span class='block'>8:54 PM - June 29, 2025</span>          | <span class='center-block'>\-</span> |
-> | [[+ Encounters/Reddit Posts\|Reddit Posts]]<br><span class='block'>1:24 AM - June 29, 2025</span>      | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Obsidian Todo\|Obsidian Todo]]<br><span class='block'>1:00 AM - June 27, 2025</span>    | <span class='center-block'>\-</span> |
-> | [[+ Encounters/Steve Tomasula\|Steve Tomasula]]<br><span class='block'>12:52 AM - June 27, 2025</span> | <span class='center-block'>\-</span> |
+>  | Note                                                                                                                                      | Status                               |
+> | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Buying a House\|Buying a House]]<br><span class='block'>11:27 PM - July 20, 2025</span>                                 | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Streamers\|Streamers]]<br><span class='block'>11:13 PM - July 18, 2025</span>                                           | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Jeffrey Epstein\|Jeffrey Epstein]]<br><span class='block'>10:36 AM - July 17, 2025</span>                               | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Posthumanism\|Posthumanism]]<br><span class='block'>10:42 PM - July 16, 2025</span>                                     | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Micropolitics and Segmentarity\|Micropolitics and Segmentarity]]<br><span class='block'>10:43 PM - July 08, 2025</span> | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                                      | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Ulysses\|Ulysses]]<br><span class='block'>10:17 PM - July 01, 2025</span>                                               | <span class='center-block'>🌱</span> |
-> | [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]<br><span class='block'>10:50 PM - June 30, 2025</span> | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/William Gibson\|William Gibson]]<br><span class='block'>9:42 PM - June 30, 2025</span>                                  | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Thomas Pynchon\|Thomas Pynchon]]<br><span class='block'>9:42 PM - June 30, 2025</span>                                  | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Raymond Roussel\|Raymond Roussel]]<br><span class='block'>9:42 PM - June 30, 2025</span>                                | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                                  | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Buying a House\|Buying a House]]<br><span class='block'>11:29 PM - July 20, 2025</span>             | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/James Joyce\|James Joyce]]<br><span class='block'>10:53 PM - July 20, 2025</span>                   | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Idea Jotter\|Idea Jotter]]<br><span class='block'>6:21 AM - July 20, 2025</span>                    | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Stuff to Look Into\|Stuff to Look Into]]<br><span class='block'>1:56 AM - July 20, 2025</span>      | <span class='center-block'>🌲</span> |
+> | [[Cards/600 - Applied Sciences/Writing/Writing\|🖋 Writing]]<br><span class='block'>1:56 AM - July 20, 2025</span> | <span class='center-block'>\-</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                  | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📰 Articles/How to Use Templater JS Scripts 1\|How to Use Templater JS Scripts]]<br><span class='block'>11:09 AM - June 28, 2025</span>                    | <span class='center-block'>\-</span> |
-> | [[Sources/📚 Books/Satantango\|Satantango]]<br><span class='block'>12:57 AM - June 07, 2025</span>                                                                   | <span class='center-block'>🟥</span> |
-> | [[Sources/📜 Papers/The Logic of Sense\|The Logic of Sense]]<br><span class='block'>10:05 PM - June 05, 2025</span>                                                  | <span class='center-block'>🟥</span> |
-> | [[Sources/📜 Papers/Nietzsche and Philosophy\|Nietzsche and Philosophy]]<br><span class='block'>9:30 PM - June 05, 2025</span>                                       | <span class='center-block'>🟨</span> |
-> | [[Sources/📜 Papers/Anti-Oedipus 1.4 - A Materialist Psychiatry\|Anti-Oedipus 1.4: A Materialist Psychiatry]]<br><span class='block'>11:59 PM - June 04, 2025</span> | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                     | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/Naked Lunch\|Naked Lunch]]<br><span class='block'>10:04 PM - July 18, 2025</span>                                                    | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Tenth of December\|Tenth of December]]<br><span class='block'>11:03 PM - July 16, 2025</span>                                        | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Crash\|Crash]]<br><span class='block'>9:52 PM - July 15, 2025</span>                                                                 | <span class='center-block'>🟥</span> |
+> | [[Sources/Zotero/Deleuze, Freud and the Three Syntheses\|Deleuze, Freud and the Three Syntheses]]<br><span class='block'>9:10 PM - July 13, 2025</span> | <span class='center-block'>🟧</span> |
+> | [[Sources/📚 Books/Junky\|Junky]]<br><span class='block'>9:50 PM - July 11, 2025</span>                                                                 | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                                                                    | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📜 Papers/The Fetish Object\|The Fetish Object]]<br><span class='block'>9:22 PM - June 30, 2025</span>                                                                       | <span class='center-block'>🟥</span> |
-> | [[Sources/📜 Papers/Oppose Book Worship\|Oppose Book Worship]]<br><span class='block'>9:22 PM - June 30, 2025</span>                                                                   | <span class='center-block'>🟥</span> |
-> | [[Sources/📜 Papers/The Logic of Sense\|The Logic of Sense]]<br><span class='block'>9:14 PM - June 29, 2025</span>                                                                     | <span class='center-block'>🟥</span> |
-> | [[Sources/📜 Papers/The Philosophical Roots of the Marx-Bakunin Conflict\|The Philosophical Roots of the Marx-Bakunin Conflict]]<br><span class='block'>7:30 PM - June 29, 2025</span> | <span class='center-block'>🟨</span> |
-> | [[Sources/📜 Papers/Anti-Oedipus 1.1 - Desiring-Production\|Anti-Oedipus 1.1 - Desiring-Production]]<br><span class='block'>7:30 PM - June 29, 2025</span>                             | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                               | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/📚 Books/Naked Lunch\|Naked Lunch]]<br><span class='block'>11:27 PM - July 20, 2025</span>                                              | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Lathe of Heaven\|The Lathe of Heaven]]<br><span class='block'>1:56 AM - July 20, 2025</span>                               | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>1:56 AM - July 20, 2025</span> | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Junky\|Junky]]<br><span class='block'>7:23 PM - July 18, 2025</span>                                                           | <span class='center-block'>🟥</span> |
+> | [[Sources/Tools + Plugins/Dia Browser\|Dia Browser]]<br><span class='block'>12:12 PM - July 17, 2025</span>                                       | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

@@ -146,7 +146,7 @@ blockquote p { display: inline; }
 /* as per Obsidianite */
 /* in Edit mode */
 ```css
-div:not(.CodeMirror-activeline)>.HyperMD-quote>span:first-of-type::before {
+div:not(.CodeMirror-activeline)>.HyperMD-quote>span:first-of-categories::before {
   content: '“' !important;
   font: 14px/20px italic Times, serif;
   font-weight: 700;
@@ -160,7 +160,7 @@ div:not(.CodeMirror-activeline)>.HyperMD-quote>span:first-of-type::before {
 
 /* in Preview mode */
 ```css
-.markdown-preview-view blockquote p:first-of-type::before {
+.markdown-preview-view blockquote p:first-of-categories::before {
   content: '“';
   font: 14px/20px italic Times, serif;
   font-weight: 700;

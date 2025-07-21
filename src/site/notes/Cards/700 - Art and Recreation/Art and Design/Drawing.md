@@ -7,7 +7,7 @@
 > **type**:: #📝 
 > **status**:: #📝/🌞
 > **tags**::  #on/drawing 
-> **topics**:: [[Art\|Art]],
+> **topics**:: [[+ Encounters/Art\|Art]],
 > **links**:: [[Painting\|Painting]]
 
 # Drawing

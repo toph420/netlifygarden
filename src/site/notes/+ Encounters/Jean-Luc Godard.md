@@ -3,14 +3,6 @@
 ---
 
 
-> [!metadata]- Meta  
-> **up**:: [[Cards/600 - Applied Sciences/Filmmaking/Filmmaking\|Filmmaking]]  
-> **type**:: #📝  
-> **status**:: #📝/🌞  
-> **tags**:: #on/filmmaking #on/film #on/movies #on/directors  
-> **topics**::  
-> **links**::
-
 # Jean-Luc Godard
 
 > The French new wave cinema legend 

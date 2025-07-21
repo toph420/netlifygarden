@@ -52,7 +52,7 @@ The Quiff stabbed a hole in the page and scoured for replacements, screaming ove
 
 The rest of the kids wandered a twilit cave behind the falls, a makeshift green room, gear closet. A film light appeared to be breathing, a new day hibiscus, speaking in colors. 
 
-We took cover behind a boulder jutting out over the film shoot. The twins grunted, flexing for each other on their way to a squat. I tried to figure out who was who from a puddle reflection and wondered how we got here. This intangible twin link created unease, a power imbalance, brittle rubber-band synapses ready to snap.
+We took cover behind a boulder jutting out over the film shoot. The twins grunted, flexing for each other on their way to a squat. I tried to figure out who was who from a puddle reflection and wondered how we got here. This intangible twin link created unease, a power (im)balance, brittle rubber-band synapses ready to snap.
 
 Shadows raced across the ruins, pools of refuge swallowed the hilltops. The Quiff rambled among the torn up pages. Smoke clouded the lens and concealed the kids from an embarrassing meltdown. 
 

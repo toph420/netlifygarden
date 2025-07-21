@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]]
-> type:: #log/code 
+> categories:: #log/code 
 > language:: [[Sources/Tools + Plugins/SQL\|SQL]], [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]
 > program:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 > topics:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]

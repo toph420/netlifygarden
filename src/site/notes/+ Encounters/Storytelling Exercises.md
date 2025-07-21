@@ -1,15 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/storytelling-exercises/","title":"Storytelling Exercises","tags":["📝","📝/🌞","on/learning","on/writing"]}
+{"dg-publish":true,"permalink":"/encounters/storytelling-exercises/","title":"Storytelling Exercises","tags":["📝","on/learning","on/story","on/storytelling","on/writing"]}
 ---
 
-
-> [!metadata]- Meta  
-> **up**:: [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]  
-> **type**:: #📝  
-> **status**:: #📝/🌞  
-> **tags**:: #on/writing #on/learning  
-> **topics**::  
-> **links**::
 
 # Storytelling Exercises
 

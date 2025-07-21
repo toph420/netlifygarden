@@ -53,7 +53,6 @@
 > - [[Cards/000 - Knowledge Management/Evergreen Notes\|Evergreen Notes]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Export to PDF\|Export to PDF]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/File explorer - Obsidian\|File explorer - Obsidian]]
-> - [[Cards/000 - Knowledge Management/CSS Snippets/Folding arrows/Folding arrows\|Folding arrows]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Font\|Font]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Footnotes\|Footnotes]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Graph nodes\|Graph nodes]]
@@ -88,7 +87,6 @@
 > - [[Cards/000 - Knowledge Management/Obsidian AI Assistant\|Obsidian AI Assistant]]
 > - [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]
 > - [[Cards/000 - Knowledge Management/Obsidian Themes\|Obsidian Themes]]
-> - [[Cards/000 - Knowledge Management/Obsidian YouTube Channels\|Obsidian YouTube Channels]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Outliner pane\|Outliner pane]]
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Popover-Popup\|Popover-Popup]]
@@ -116,9 +114,6 @@
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Tag pills\|Tag pills]]
 > - [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]]
 > - [[Cards/000 - Knowledge Management/The Konik Method\|The Konik Method]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs EVER Notes\|TIMs EVER Notes]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs TODO Tag\|TIMs TODO Tag]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Title bar\|Title bar]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/Tooltip\|Tooltip]]
 > - [[Cards/000 - Knowledge Management/CSS Snippets/URLs\|URLs]]
@@ -147,14 +142,11 @@
 > | [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]<span class='summary'>A plugin to display data from your notes, anywhere.</span>                                                                                                                                                                                                                                                     |
 > | [[Sources/Tools + Plugins/Plugin - Quickadd\|Plugin - Quickadd]]<span class='summary'>\-</span>                                                                                                                                                                                                                                                                                                      |
 > | [[Sources/Tools + Plugins/Plugin - Tasks\|Plugin - Tasks]]<span class='summary'>\-</span>                                                                                                                                                                                                                                                                                                            |
-> | [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]]<span class='summary'>Docs and resources for Templater</span>                                                                                                                                                                                                                                                                      |
 > | [[Sources/📰 Articles/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]<span class='summary'>A great list of some creative [[Templater\|Templater]] scripts and snippets.</span>                                                                                                                                                                                                                     |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Callout Examples\|SLRvb Callout Examples]]<span class='summary'>Examples of the various callouts offered by SLRvb</span>                                                                                                                                                                                                              |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Image Examples\|SLRvb Image Examples]]<span class='summary'>Examples of all the dope image snippets made by [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb]]</span>                                                                                                                                                                                             |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]<span class='summary'>The GOAT vault, see the [[SLRvb Canvas.canvas\|SLRvb Canvas.canvas]] for a visual rundown</span>                                                                                                                                                                                                                 |
+> | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]<span class='summary'>\-</span>                                                                                                                                                                                                                                                                                   |
 > | [[Sources/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]<span class='summary'>Eleanor's notetaking process explained</span>                                                                                                                                                                                                                        |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs EVER Notes\|TIMs EVER Notes]]<span class='summary'>\-</span>                                                                                                                                                                                                                                                                             |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs TODO Tag\|TIMs TODO Tag]]<span class='summary'>\-</span>                                                                                                                                                                                                                                                                                 |
 > 
 { .block-language-dataview}
 

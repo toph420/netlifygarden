@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌞
 > tags::  
-> topics:: 
+> links:: 
 > links::
 
 - [[+ Encounters/Pyxis Rig\|Pyxis Rig]]
@@ -19,6 +19,7 @@
 - 🔥 Pyxis 12k
 - 🔥 [DJI Focus Pro with LiDAR](https://www.adorama.com/djifpcc.html)
 - **Drone** DJI Air 3S
+- [The Beltless Dana Dolly Integration Kit is available for Presale – eMotimo](https://emotimo.com/blogs/news/dana-dolly-integration-kit-v3-is-almost-here)
 
 ## DIY
 - [Red Cord Productions on Instagram: "Wanna make your own Dana Dolly"](https://www.instagram.com/reel/Cs3xgmvP0Ly/?igshid=MzRlODBiNWFlZA==)
@@ -30,7 +31,7 @@
 ## Lenses
 
 Check out [Lens Addiction](https://www.instagram.com/lens_addiction?igsh=c3R0NzdvYXNxbmt6)
-
+- ⭐️ Laowa Ranger full frame 28-75 zoom
 - blazer Remus anamorphics!
 - canon 8-64 https://www.instagram.com/p/DB4DtQDtoIS/?igsh=MWRxcWZyeGxxcDBkaA== 
 - ![IMG_1477.jpeg](/img/user/Extras/Attachments/IMG_1477.jpeg)

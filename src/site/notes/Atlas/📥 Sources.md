@@ -12,11 +12,11 @@
 > 
 >  | Source                                                       |
 > | ------------------------------------------------------------ |
-> | [[Sources/📚 Books/Satantango\|Satantango]]               |
 > | [[Sources/📚 Books/Omensetter’s Luck\|Omensetter’s Luck]] |
 > | [[Sources/📚 Books/The Waves\|The Waves]]                 |
 > | [[Sources/📚 Books/Ice\|Ice]]                             |
 > | [[Sources/📚 Books/V.\|V.]]                               |
+> | [[Sources/📚 Books/Dubliners\|Dubliners]]                 |
 > 
 { .block-language-dataview}
 
@@ -36,23 +36,23 @@
 > ## 🟨 Synthesizing 
 >  | File                                                                                                                                                                                              |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]                                                         |
 > | [[Sources/📚 Books/Ubik\|Ubik]]                                                                                                                                                                |
 > | [[Sources/Tools + Plugins/Zotero\|Zotero]]                                                                                                                                                     |
 > | [[Sources/🎙 Podcasts/AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg\|AI in the Metaverse — Utopia or Dystopia? With Louis Rosenberg]]                                         |
 > | [[Sources/🎙 Podcasts/Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay\|Controlling Human Emotions With Immersive AIVR Experiences - With Dr. Srini Pillay]] |
+> | [[Sources/🎙 Podcasts/99 - CARLA CREMER IGOR KRAWCZUK - X-Risk Governance Effective Altruism\|99 - CARLA CREMER IGOR KRAWCZUK - X-Risk Governance Effective Altruism]]                         |
 > 
 { .block-language-dataview}
 
 > [!NOTE|no-t clean]
-> ## 📜 Papers (Zotero)
->  | File                                                                                                              |
-> | ----------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/📜 Papers/The Logic of Sense\|The Logic of Sense]]                                                   |
-> | [[Sources/📜 Papers/Nietzsche and Philosophy\|Nietzsche and Philosophy]]                                       |
-> | [[Sources/📜 Papers/Anti-Oedipus 1.4 - A Materialist Psychiatry\|Anti-Oedipus 1.4 - A Materialist Psychiatry]] |
-> | [[Sources/📜 Papers/Anti-Oedipus - Capitalism and Schizophrenia\|Anti-Oedipus - Capitalism and Schizophrenia]] |
-> | [[Sources/📜 Papers/Anti-Oedipus 1.1 - Desiring-Production\|Anti-Oedipus 1.1 - Desiring-Production]]           |
+> ## Zotero
+>  | File                                                                                                 |
+> | ---------------------------------------------------------------------------------------------------- |
+> | [[Sources/Zotero/Deleuze, Freud and the Three Syntheses\|Deleuze, Freud and the Three Syntheses]] |
+> | [[Sources/Zotero/Ulysses (Gabler Ed.)\|Ulysses (Gabler Ed.)]]                                     |
+> | [[Sources/Zotero/Postscript on the Societies of Control\|Postscript on the Societies of Control]] |
+> | [[Sources/Zotero/The Logic of Sense\|The Logic of Sense]]                                         |
+> | [[Sources/Zotero/Nietzsche and Philosophy\|Nietzsche and Philosophy]]                             |
 > 
 { .block-language-dataview}
 

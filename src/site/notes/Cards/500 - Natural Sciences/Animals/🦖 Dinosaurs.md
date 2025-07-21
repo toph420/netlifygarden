@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[🏠 Home\|🏠 Home]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌞
 > tags::  #on/nature
 

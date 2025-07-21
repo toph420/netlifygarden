@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]
-> type:: #📥 
+> categories:: #📥 
 > status:: #📥/🟩 
 > tags::  #on/obsidian #on/pkm 
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 
 # SLRvb Callout Examples
 
@@ -81,17 +81,17 @@ more columns:
 
 dataview:
 > [!cards|dataview]
->  | Column Name                                                                                      |
-> | ------------------------------------------------------------------------------------------------ |
-> | **[[Cards/100 - Personal Management/👽 People/👽 People\|👽 People]]**                        |
-> | **[[Cards/000 - Knowledge Management/Obsidian YouTube Channels\|Obsidian YouTube Channels]]** |
-> | **[[Cards/100 - Personal Management/💪 Health/💪 Health\|💪 Health]]**                        |
-> | **[[Cards/100 - Personal Management/👽 People/Heather Fox\|Heather Fox]]**                    |
-> | **[[Cards/100 - Personal Management/👽 People/Julio\|Julio]]**                                |
-> | **[[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]**                               |
-> | **[[Cards/100 - Personal Management/👽 People/Denavvia Mojet\|Denavvia Mojet]]**              |
-> | **[[Cards/000 - Knowledge Management/Markdown Cheat Sheet\|Markdown Cheat Sheet]]**           |
-> | **[[Cards/000 - Knowledge Management/My Meta\|My Meta]]**                                     |
+>  | Column Name                                                                            |
+> | -------------------------------------------------------------------------------------- |
+> | **[[Cards/100 - Personal Management/People/👽 People\|👽 People]]**                 |
+> | **[[Cards/100 - Personal Management/💪 Health/Health\|Health]]**                    |
+> | **[[Cards/100 - Personal Management/People/Heather Fox\|Heather Fox]]**             |
+> | **[[Cards/100 - Personal Management/People/Julio\|Julio]]**                         |
+> | **[[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]**                     |
+> | **[[Cards/100 - Personal Management/People/Denavvia Mojet\|Denavvia Mojet]]**       |
+> | **[[Cards/000 - Knowledge Management/Markdown Cheat Sheet\|Markdown Cheat Sheet]]** |
+> | **[[Cards/000 - Knowledge Management/My Meta\|My Meta]]**                           |
+> | **[[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]**        |
 > 
 { .block-language-dataview}
 ---
@@ -135,26 +135,26 @@ columns:
 >> Column 2
 
 > [!column|dataview 3] 3 Columns for Dataview List
->  - [[Calendar/Journal/Daily/2025-04-21\|2025-04-21]]
-> - [[Calendar/Journal/Daily/2025-04-20\|2025-04-20]]
-> - [[Calendar/Journal/Daily/2025-04-18\|2025-04-18]]
-> - [[Calendar/Journal/Daily/2025-04-16\|2025-04-16]]
-> - [[Calendar/Journal/Daily/2025-04-08\|2025-04-08]]
-> - [[Calendar/Journal/Daily/2025-03-20\|2025-03-20]]
-> - [[Calendar/Journal/Daily/2025-04-15\|2025-04-15]]
-> - [[Calendar/Journal/Daily/2025-04-10\|2025-04-10]]
-> - [[Calendar/Journal/Daily/2025-03-30\|2025-03-30]]
-> - [[Calendar/Journal/Daily/2025-03-27\|2025-03-27]]
-> - [[Calendar/Journal/Daily/2025-04-07\|2025-04-07]]
-> - [[Calendar/Journal/Daily/2025-04-06\|2025-04-06]]
-> - [[Calendar/Journal/Daily/2025-04-05\|2025-04-05]]
-> - [[Calendar/Journal/Daily/2025-04-04\|2025-04-04]]
-> - [[Calendar/Journal/Daily/2025-03-12\|2025-03-12]]
-> - [[Calendar/Journal/Daily/2025-03-23\|2025-03-23]]
-> - [[Calendar/Journal/Daily/2025-03-17\|2025-03-17]]
-> - [[Calendar/Journal/Daily/2025-03-22\|2025-03-22]]
-> - [[Calendar/Journal/Daily/2025-03-21\|2025-03-21]]
-> - [[Calendar/Journal/Daily/2025-03-18\|2025-03-18]]
+>  - [[Calendar/Ideas/2025-06-29-IJ - The Human AI That Serves Capital\|2025-06-29-IJ - The Human AI That Serves Capital]]
+> - [[Calendar/Ideas/2025-07-05-IJ - Georges Bataille on Eroticism\|2025-07-05-IJ - Georges Bataille on Eroticism]]
+> - [[Calendar/Ideas/2024-06-15-IJ - Q Anon\|2024-06-15-IJ - Q Anon]]
+> - [[Calendar/Ideas/2024-03-20-WJ - An idea for a local media organization\|2024-03-20-WJ - An idea for a local media organization]]
+> - [[Calendar/Journal/Weekly/2023-06-w24\|2023-06-w24]]
+> - [[Calendar/Journal/Weekly/2023-12-w52\|2023-12-w52]]
+> - [[Calendar/Journal/Weekly/2023-05-w21\|2023-05-w21]]
+> - [[Calendar/Journal/Weekly/2023-05-w22\|2023-05-w22]]
+> - [[Calendar/Journal/Yearly/2022\|2022]]
+> - [[Calendar/Journal/Daily/2025-07-20\|2025-07-20]]
+> - [[Calendar/Journal/Daily/2025-07-13\|2025-07-13]]
+> - [[Calendar/Journal/Daily/2025-07-14\|2025-07-14]]
+> - [[Calendar/Journal/Daily/2025-07-16\|2025-07-16]]
+> - [[Calendar/Journal/Daily/2025-07-18\|2025-07-18]]
+> - [[Calendar/Journal/Daily/2025-07-19\|2025-07-19]]
+> - [[Calendar/Journal/Daily/2025-07-12\|2025-07-12]]
+> - [[Calendar/Journal/Daily/2025-07-09\|2025-07-09]]
+> - [[Calendar/Journal/Daily/2025-07-08\|2025-07-08]]
+> - [[Calendar/Journal/Daily/2025-07-17\|2025-07-17]]
+> - [[Calendar/Journal/Daily/2025-07-15\|2025-07-15]]
 > 
 { .block-language-dataview}
 

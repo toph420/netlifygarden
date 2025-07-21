@@ -59,9 +59,9 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:1204966)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1204966)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
     at Generator.next (&lt;anonymous&gt;)
     at eval (plugin:digitalgarden:90:61)</pre>
 ---

@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
-> type:: #📝 
+> categories:: #📝 
 > status:: #📝/🌿 
 > tags::  #on/ai #on/aiart 
-> topics:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
+> links:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|AI]]
 
 # AI Art Debate
 
@@ -40,8 +40,8 @@
 
 | File                                                                 |
 | -------------------------------------------------------------------- |
-| [[Cards/600 - Applied Sciences/Technology/AI/AI is BS\|AI is BS]] |
 | [[Sources/Tools + Plugins/Midjourney\|Midjourney]]                |
+| [[Cards/600 - Applied Sciences/Technology/AI/AI is BS\|AI is BS]] |
 
 { .block-language-dataview}
 

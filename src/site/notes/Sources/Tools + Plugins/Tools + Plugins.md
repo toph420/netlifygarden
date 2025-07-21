@@ -2,17 +2,15 @@
 {"dg-publish":true,"permalink":"/sources/tools-plugins/tools-plugins/"}
 ---
 
-> [!metadata]- Meta
-> up:: [[🏠 Home\|🏠 Home]]
-> categories:: #🗺/view  
-> links:: [[Atlas/📥 Sources\|📥 Sources]]
-
 
 # Tools + Plugins
 
 > All notes and docs for the tools, plugins, and languages
 
 See raindrop "Tools" collection and [[+ Encounters/Design Tools\|Design Tools]]
+
+![[Tools.base]]
+
 
 > [!example]- Latest Tools
 >  | Tools                                                                                                                                                                                                                             |
@@ -47,6 +45,7 @@ See raindrop "Tools" collection and [[+ Encounters/Design Tools\|Design Tools]]
 > | [[Sources/Tools + Plugins/Plugin - Tasks\|Plugin - Tasks]]<span class='summary'>\-</span>                                                                                                                                                                                                                                      |
 > | [[Sources/Tools + Plugins/Plugin - Quickadd\|Plugin - Quickadd]]<span class='summary'>\-</span>                                                                                                                                                                                                                                |
 > | [[Sources/Tools + Plugins/Plugin - Dataview\|Plugin - Dataview]]<span class='summary'>A plugin to display data from your notes, anywhere.</span>                                                                                                                                                                               |
+> | [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]]<span class='summary'>Docs and resources for Templater</span>                                                                                                                                                                                                |
 > | [[Sources/Tools + Plugins/Obsidian Scrapers\|Obsidian Scrapers]]<span class='summary'>A collection of [Templater](https://github.com/SilentVoid13/Templater) scripts for [Obsidian](https://obsidian.md/) that can be easily integrated into your templates to get information from different sites with a copied link.</span> |
 > 
 { .block-language-dataview}

@@ -21,7 +21,7 @@
 Stage 1 - Introduction
 - [The Principles of Communism](https://www.mlreadinghub.org/principles) by Engels
 - [The Foundations of Leninism](https://www.mlreadinghub.org/fol) by Stalin
-- [Dialectical and Historical Materialism](https://www.mlreadinghub.org/dhm) by Stalin - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]
+- [Dialectical and Historical Materialism](https://www.mlreadinghub.org/dhm) by Stalin - [[Sources/Zotero/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]
 - [Introduction to Political Economy](https://www.mlreadinghub.org/intro-to-political-economy) by the Economic Institute of the Academy of Sciences of the USSR
 
 Stage 2 - Intermediate
@@ -33,7 +33,7 @@ Stage 2 - Intermediate
 Stage 3 - Advanced
 - [Imperialism: the Highest Stage of Capitalism](https://www.mlreadinghub.org/imperialism) by Lenin
 - [Marxism and the National Question](https://www.mlreadinghub.org/national-question) by Stalin
-- [Oppose Book Worship](https://www.mlreadinghub.org/oppose-book-worship) by Mao - [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]
+- [Oppose Book Worship](https://www.mlreadinghub.org/oppose-book-worship) by Mao - [[Sources/Zotero/Oppose Book Worship\|Oppose Book Worship]]
 - [Where Do Correct Ideas Come From?](https://www.mlreadinghub.org/where-do-correct-ideas-come-from) by Mao
 - [On Practice](https://www.mlreadinghub.org/on-practice) by Mao
 - [On Contradiction](https://www.mlreadinghub.org/on-contradiction) by Mao

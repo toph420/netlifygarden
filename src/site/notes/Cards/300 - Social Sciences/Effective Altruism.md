@@ -5,10 +5,10 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/300 - Social Sciences/300 - Social Sciences\|Social Sciences]]
-> type:: #📝 
+> categories:: #📝 
 > tags::  #on/socialsciences 
 > status:: #📝/🌞
-> topics:: [[Philanthropy\|Philanthropy]]
+> links:: [[Philanthropy\|Philanthropy]]
 
 # Effective Altruism
 

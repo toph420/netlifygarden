@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/spirit-island/","title":"Spirit Island"}
+{"dg-publish":true,"permalink":"/encounters/spirit-island/","title":"Spirit Island","tags":["📝","📝/🌞","on/videogames"]}
 ---
-
-> [!metadata]- Meta
-> **up**:: [[🏠 Home\|🏠 Home]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
-> **tags**::  
-> **topics**:: 
-> **links**::
 
 
 # Spirit Island
@@ -17,7 +9,6 @@
 
 ## Guides
 
-
 ## Strategy
 
 ### Spirit: Lightning's Swift Strike
@@ -25,15 +16,9 @@
 - [Very Easy Winning Strategy Guide For Lightning Swift Strike | Spirit Island](https://boardgamegeek.com/thread/2681272/very-easy-winning-strategy-guide-lightning-swift-s)
 - [Spirit Island Strategy - Lightning's Swift Strike | Spirit Island](https://boardgamegeek.com/thread/2099442/spirit-island-strategy-lightnings-swift-strike)
 
-
 ## River Surges in Sunlight
 
 - [Basic Strategy - River](https://youtu.be/IW3LV-fp16g)
 ---
 up:: [[🃏 Board Games\|🃏 Board Games]]
-
-
-
-
-
 
