@@ -39,14 +39,14 @@
 > [!NOTE]+ 📝 Notes (`#on/naturalsciences` or in folder)
 >  | Note                                                                                     |
 > | ---------------------------------------------------------------------------------------- |
-> | [[+ Encounters/The Brain\|The Brain]]                                                 |
 > | [[Cards/500 - Natural Sciences/The Fermi Paradox\|The Fermi Paradox]]                 |
-> | [[Cards/500 - Natural Sciences/Decoding the human genome\|Decoding the human genome]] |
-> | [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]                             |
-> | [[Cards/500 - Natural Sciences/Animals/🦖 Dinosaurs\|🦖 Dinosaurs]]                   |
-> | [[Cards/500 - Natural Sciences/ACNES\|ACNES]]                                         |
 > | [[Cards/500 - Natural Sciences/Drugs/Kratom\|Kratom]]                                 |
+> | [[Cards/500 - Natural Sciences/Decoding the human genome\|Decoding the human genome]] |
 > | [[Cards/500 - Natural Sciences/Climate/Climate Change\|Climate Change]]               |
+> | [[Cards/500 - Natural Sciences/Animals/🦖 Dinosaurs\|🦖 Dinosaurs]]                   |
+> | [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]                             |
+> | [[Cards/500 - Natural Sciences/ACNES\|ACNES]]                                         |
+> | [[+ Encounters/The Brain\|The Brain]]                                                 |
 > 
 { .block-language-dataview}
 

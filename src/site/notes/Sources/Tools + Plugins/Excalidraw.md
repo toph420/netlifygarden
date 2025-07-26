@@ -21,8 +21,8 @@ up:: [[🏠 Home\|🏠 Home]]
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/🛠  
+> categories:: #📥/🛠  
 > tags::  #on/pkm 
 > status:: #📥/🟥
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Plugin Hotkeys\|Plugin Hotkeys]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]], [[Plugin Hotkeys\|Plugin Hotkeys]]
 > links::

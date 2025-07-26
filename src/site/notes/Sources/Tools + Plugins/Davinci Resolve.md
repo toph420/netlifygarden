@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
-> type:: #📥/🛠  
+> categories:: #📥/🛠  
 > tags::  #on/davinci, #on/tools 
 > status:: #📥/🟨
-> topics:: [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]
+> links:: [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]
 
 # Davinci Resolve
 - [[Cards/000 - Knowledge Management/Workflows/My Davinci Resolve Process\|My Davinci Resolve Process]]

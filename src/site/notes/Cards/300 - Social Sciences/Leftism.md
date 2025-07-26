@@ -20,6 +20,8 @@
 - [[+ Encounters/Communism\|Communism]]
 - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
 - [[+ Encounters/Anarchism\|Anarchism]]
+- [[Cards/300 - Social Sciences/Activism\|Activism]]
+
 ## Reading
 - Huge folder of resources — [Revolutionary Readings - Google Drive](https://drive.google.com/drive/mobile/folders/1tDJ_KiNWS_MPrbeZPZUj0yaof9RPYYtX?pli=1)
 - [Hakims Reading Reccs](https://youtube.com/playlist?list=PLX80nwePTowtKU2w6LsstSESwfkiS0Zta&si=7J10mzyYQ3K6y8dC)
@@ -27,32 +29,40 @@
 ## Films
 - [[The Battle of Chile\|The Battle of Chile]] - [‎The Battle of Chile: Part I review by Alexander Wood](https://boxd.it/4b4CV9) - an awesome review discussing the need for Marxist-Leninist approach
 
+## Media
+- See [[+ Encounters/Zines\|Zines]]
+- See [[+ Encounters/Streamers\|Streamers]]
+- [YUGOPNIK - YouTube](https://youtube.com/@YUGOPNIK)
+- [Second Thought - YouTube](https://www.youtube.com/@SecondThought)
+- [Hakim - YouTube](https://www.youtube.com/@YaBoiHakim)
+- [1Dime - YouTube](https://youtube.com/@1Dimee?si=E4iBGFgmPODb57EA)
+- [JohntheDuncan](https://youtube.com/@johntheduncan?si=3YsKUcoHNqezg3Et)
+- [Revolution and Ideology](https://youtube.com/@revolutionandideology?si=XmMF39qsZiavO_wd) - criminally underrated channel
+
 ---
 
-
 > [!NOTE]+ 📝 Notes (`#on/leftism`)
->  - [[+ Encounters/Noam Chomsky\|Noam Chomsky]]
+>  - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
+> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
+> - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
+> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
+> - [[+ Encounters/Noam Chomsky\|Noam Chomsky]]
 > - [[+ Encounters/Mikhail Bakunin\|Mikhail Bakunin]]
 > - [[+ Encounters/Liberalism\|Liberalism]]
 > - [[+ Encounters/Communism\|Communism]]
 > - [[+ Encounters/Anarchism\|Anarchism]]
-> - [[Cards/900 - History, Biography, Geography/Biography/Karl Marx\|Karl Marx]]
-> - [[Cards/300 - Social Sciences/Tankies\|Tankies]]
-> - [[Cards/300 - Social Sciences/Socialism\|Socialism]]
-> - [[Cards/300 - Social Sciences/How to Start a Revolution\|How to Start a Revolution]]
 > 
 { .block-language-dataview}
 
 > [!note]+ Sources
->  - [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]
-> - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+>  - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
+> - [[Sources/📰 Articles/The Principles of Communism\|The Principles of Communism]]
 > - [[Sources/📰 Articles/Life Without Law\|Life Without Law]]
 > - [[Sources/📰 Articles/Are You an Anarchist? The Answer May Surprise You!\|Are You an Anarchist? The Answer May Surprise You!]]
-> - [[Sources/📜 Papers/Oppose Book Worship by Mao Zedong\|Oppose Book Worship by Mao Zedong]]
 > - [[Sources/📚 Books/The Dispossessed\|The Dispossessed]]
-> - [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism]]
+> - [[Sources/Zotero/Oppose Book Worship\|Oppose Book Worship]]
 > - [[Sources/Clippings/2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation\|2025-01-15 - 'Three parties that mattered' extract from Homage to Catalonia  The Orwell Foundation]]
-> - [[Sources/📜 Papers/Dialectical and Historical Materialism by Joseph Stalin\|Dialectical and Historical Materialism by Joseph Stalin]]
+> - [[Sources/Clippings/2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism\|2025-01-16 - Reddit - what is the anarchist consensus on dialecticalhistorical materialism]]
 > - [[Sources/🎥 Videos/Intro to Theory of Values _ Chapter 1\|Intro to Theory of Values _ Chapter 1]]
 > 
 { .block-language-dataview}
@@ -70,14 +80,6 @@
 > - [[Sources/📰 Articles/Wage Labor and Capital\|Wage Labor and Capital]]
 > 
 { .block-language-dataview}
-
-> [!video] Videos and Channels
-> - [YUGOPNIK - YouTube](https://youtube.com/@YUGOPNIK)
-> - [Second Thought - YouTube](https://www.youtube.com/@SecondThought)
-> - [Hakim - YouTube](https://www.youtube.com/@YaBoiHakim)
-> - [1Dime - YouTube](https://youtube.com/@1Dimee?si=E4iBGFgmPODb57EA)
-> - [JohntheDuncan](https://youtube.com/@johntheduncan?si=3YsKUcoHNqezg3Et)
-> - [Revolution and Ideology](https://youtube.com/@revolutionandideology?si=XmMF39qsZiavO_wd) - criminally underrated channel
 
 > [!ava]- Curriculum
 > *See Zotero for PDFs*

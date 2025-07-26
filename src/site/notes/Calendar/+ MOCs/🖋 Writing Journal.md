@@ -52,6 +52,7 @@ views:
 
 ## Logged
 
+- #on/writingjournal she flew out of bed with sorcerer transition, jumped into her combat boots and a mini skirt, slithered into a
 - #on/writingjournal She was hired for the sole purpose of stealing a glance at the highest bidder, no matter who it was the guilt would be traced back to a sequence of events they couldn't possibly foresee. The night before the auction she met a twenty something graduate student in the dressing room. She fumbled with colors of sex and desire in the curtained hallway. Someone in the same mood tossed a love red bra over the hardly concealing curtain and clocked a set of clear inquiring eyes pass by. Fingers slid the silky satin divider and her heart cried for mercy.
 - #on/writingjournal her long frail fingers, with battle cries inscribed upon the knuckles, ripped the burning chrome door handle to it's limit, inviting the coo of  soft bodies to tear through the shock and plight of the outside. In a voice all but running away from her lips a grounding fair-trade blend slithered up, inside.
 - 01:05 #on/writingjournal the ol'factory memory clanged while what remained of the recycling center blazed, forged a new but beaten path. The phone calls danced on the silver swirls oozing out from under the locked door, the floor swelling of heat beneath these feet that have seen too much, laid rest on disobedient necks gasping for orders. He chuckled at the burn of fueling each consecutive arson with increasing denominations of cold hard cash.

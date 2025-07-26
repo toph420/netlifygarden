@@ -48,11 +48,11 @@
 > ## Zotero
 >  | File                                                                                                 |
 > | ---------------------------------------------------------------------------------------------------- |
+> | [[Sources/Zotero/The Accursed Share\|The Accursed Share]]                                         |
 > | [[Sources/Zotero/Deleuze, Freud and the Three Syntheses\|Deleuze, Freud and the Three Syntheses]] |
 > | [[Sources/Zotero/Ulysses (Gabler Ed.)\|Ulysses (Gabler Ed.)]]                                     |
 > | [[Sources/Zotero/Postscript on the Societies of Control\|Postscript on the Societies of Control]] |
 > | [[Sources/Zotero/The Logic of Sense\|The Logic of Sense]]                                         |
-> | [[Sources/Zotero/Nietzsche and Philosophy\|Nietzsche and Philosophy]]                             |
 > 
 { .block-language-dataview}
 

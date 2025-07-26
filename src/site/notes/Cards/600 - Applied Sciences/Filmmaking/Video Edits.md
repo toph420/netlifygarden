@@ -3,9 +3,8 @@
 ---
 
 > [!metadata]- Meta
-> **up**:: [[Cards/700 - Art and Recreation/Videos\|Videos]]
-> **type**:: #📝 
-> **status**:: #📝/🌞
+> **up**:: [[Atlas/🎥 Videos\|🎥 Videos]]
+> **type**:[](🎥%20Videos.md)*status**:: #📝/🌞
 > **tags**::  #on/videoediting 
 > **topics**:: [[Cards/600 - Applied Sciences/Filmmaking/Video Editing\|Video Editing]]
 > **links**:: [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]], [[Cards/600 - Applied Sciences/Filmmaking/Video Titles\|Video Titles]]
@@ -48,5 +47,5 @@
 ![[trim.BA1EC3B6-D8AC-4715-9A9E-71A269A5AA17.mov|Infinity Pool Technicolor Shower Scene]]
 
 ---
-up:: [[Cards/700 - Art and Recreation/Videos\|Videos]]
+up:: [[Atlas/🎥 Videos\|🎥 Videos]]
 

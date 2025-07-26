@@ -15,7 +15,7 @@ Man I've got soooo many things I want to write about. Here's a quick list of a b
 - [[Calendar/+ MOCs/💡 Ideas\|Ideas]]
 	- I'm always coming up with ideas for stuff like stories, edits, effects, and I want to challenge myself to flesh them out a bit more by forcing myself to dig deeper and write about them, to share them.
 - Reviews
-	- I consume a lot of content, from [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|TV Shows]], [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|Movies]], and [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|Podcasts]]. I want to share what I'm into and garner some inspiration for myself to build ideas and notes from. 
+	- I consume a lot of content, from [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|TV Shows]], [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|Movies]], and [[Cards/700 - Art and Recreation/Podcasts/Podcasts\|Podcasts]]. I want to share what I'm into and garner some inspiration for myself to build ideas and notes from. 
 - Technical Stuff
 	- Tutorials -- how I use stuff like [[Sources/Tools + Plugins/Descript\|Descript]] and [[Sources/Tools + Plugins/Davinci Resolve\|Davinci Resolve]]
 	- How I do business, create proposals, track projects in [[Sources/Tools + Plugins/Obsidian\|Obsidian]]

@@ -14,7 +14,7 @@
 
 > A collection of stuff related to Lovecraft 
 
-See [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]], [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]], [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]] for some related media, and [[+ Encounters/Short Stories\|Short Stories]] for a list of recommendations.
+See [[Cards/700 - Art and Recreation/Podcasts/Podcasts\|Podcasts]], [[Cards/700 - Art and Recreation/Movies and TV/🍿 My Movies\|🍿 My Movies]], [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]] for some related media, and [[+ Encounters/Short Stories\|Short Stories]] for a list of recommendations.
 
 - [Awesome companion to Lovecrafts stories](https://pca.st/podcast/56fbf810-09c1-013a-d565-0acc26574db2)
 - [Lovecraftian Horror - Wiki](https://en.wikipedia.org/wiki/Lovecraftian_horror)

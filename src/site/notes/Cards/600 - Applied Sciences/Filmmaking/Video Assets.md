@@ -23,6 +23,7 @@
 
 ## Tools
 - [Modyfi - Design without limits](https://www.modyfi.com/) - tools for animating 
+- [Jitter - Free motion graphics templates](https://jitter.video/templates/)
 
 ## Textures
 - [Free 8k textures](https://x.com/synthevisuals/status/1863286586320073060?s=46)

@@ -8,7 +8,7 @@
 > **status**:: #📝/🌞
 > **tags**:: #💡/story
 > **topics**:: 
-> **links**:: [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]
+> **links**:: [[Cards/700 - Art and Recreation/Podcasts/Podcasts\|Podcasts]]
 
 # Ideas Based on Podcasts
 

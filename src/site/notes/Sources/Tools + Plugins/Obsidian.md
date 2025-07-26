@@ -1,27 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/sources/tools-plugins/obsidian/"}
+{"dg-publish":true,"permalink":"/sources/tools-plugins/obsidian/","title":"Obsidian","tags":["📥","📥/🛠️","on/obsidian","on/pkm","on/tools"]}
 ---
 
-
-
-> [!metadata]- Meta
-> up:: [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]], [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
-> type:: #📥/🛠
-> status:: #📥/🟨 
-> tags::  #on/pkm #on/obsidian #on/tools
 
 # Obsidian
 
 > The Holy Grail of Second Brains
 
-> [!todo]+ 
-> See [[🏹 Action\|🏹 Action]] for tasks (`#🧠`) related to [[Atlas/🧠 Sid\|🧠 Sid]]
-> ```todoist
-> filter: "#Obsidian"
-> ```
+
 
 > [!Example]+ Jumping off points
-> - [[Atlas/🧠 Sid\|🧠 Sid]]
+> - [[Atlas/🧠 My Vault\|🧠 My Vault]]
+> - [[+ Encounters/Obsidian Todo\|Obsidian Todo]]
 > - [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]
 > - [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]
 > - [[Cards/000 - Knowledge Management/Obsidian Themes\|Obsidian Themes]]
@@ -34,18 +24,16 @@
 > 	- [Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here)
 > 	- [Obsidian Plugin Developer Docs](https://marcus.se.net/obsidian-plugin-docs/)
 
-
-
 ## Notes
 > [!NOTE]- 📝 Notes (`#on/obsidian`)
 >  | Note                                                                                                                                                                                                                              |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Atlas/🧠 Sid\|🧠 Sid]]<span class='summary'>The operation station of this here vault, formally known as Sid</span>                                                                                                           |
 > | [[Cards/900 - History, Biography, Geography/Biography/Aidan Helfant\|Aidan Helfant]]<span class='summary'>\-</span>                                                                                                            |
 > | [[Cards/000 - Knowledge Management/Callouts in Obsidian\|Callouts in Obsidian]]<span class='summary'>Examples of callouts in Obsidian</span>                                                                                   |
 > | [[Cards/000 - Knowledge Management/My Obsidian Styles\|My Obsidian Styles]]<span class='summary'>Tracking all the custom styled elements in this vault</span>                                                                  |
 > | [[Cards/000 - Knowledge Management/Obsidian Publish\|Obsidian Publish]]<span class='summary'>Obsidian Publish info and tips</span>                                                                                             |
 > | [[Cards/000 - Knowledge Management/Obsidian Themes\|Obsidian Themes]]<span class='summary'>Index of some of my favorite Obsidian themes</span>                                                                                 |
+> | [[+ Encounters/Obsidian Todo\|Obsidian Todo]]<span class='summary'>A note dedicated to stuff I need to do with my vault</span>                                                                                                 |
 > | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<span class='summary'>Examples of vaults, ideas for notes, customizing Obsidian</span>                                                                                        |
 > | [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]<span class='summary'>A running list of digital gardens and second brains that are published to the web</span>                                  |
 > | [[Cards/000 - Knowledge Management/The Konik Method\|The Konik Method]]<span class='summary'>Tips from the legend herself, Eleanor Konik</span>                                                                                |
@@ -64,13 +52,13 @@
 > 
 { .block-language-dataview}
 
-> [!NOTE]- 📝 Vaults
+> [!NOTE]- 📝 Vaults  
 > See [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]
 > 
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
 > - [Welcome 🌌 - John's Idea Galaxy - Obsidian Publish](https://publish.obsidian.md/johnmavrick/000+Digital+Garden/Welcome+%F0%9F%8C%8C)
 > - [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]] -- [[Canvas - SLRvb.canvas]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]
+> - [[TIMs Vault\|TIMs Vault]]
 > - [[Canvas - Lithou Flags.canvas]]
 > - [Dataview Example Vault](https://s-blu.github.io/obsidian_dataview_example_vault/) - see the dataview examples in the [[Dataview Queries Overview\|Dataview Queries Overview]]
 > - [Dataview Plugin - Joschua's Garden](https://joschuasgarden.com/50+Slipbox/Dataview+Plugin)
@@ -83,7 +71,7 @@
 > - [Pamela-Wang Starter Potato](https://github.com/Pamela-Wang/Obsidian-Starter-Vaults)
 > - [Simon Spati](https://brain.sspaeti.com/open-source-obsidian-publish-alternatives/)
 > 
->  ### Notes `#on/vaults`
+> ### Notes `#on/vaults`
 >  | Note                                                                                                                                                                                                                              |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[Calendar/Journal/Daily/2022-12-17\|2022-12-17]]<span class='summary'>Snow day!!</span>                                                                                                                                       |
@@ -93,48 +81,43 @@
 > | [[+ Encounters/Obsidian Vaults\|Obsidian Vaults]]<span class='summary'>Examples of vaults, ideas for notes, customizing Obsidian</span>                                                                                        |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]<span class='summary'>This guy has a beautiful vault and some great YouTube videos</span>                                               |
 > | [[Cards/000 - Knowledge Management/Public Second Brains\|Public Second Brains]]<span class='summary'>A running list of digital gardens and second brains that are published to the web</span>                                  |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]<span class='summary'>The GOAT vault, see the [[SLRvb Canvas.canvas\|SLRvb Canvas.canvas]] for a visual rundown</span>                                           |
-> | [[Cards/000 - Knowledge Management/Obsidian Vaults/TIM/TIMs Vault\|TIMs Vault]]<span class='summary'>This guys vault is sick, great philosophies about tagging and linking</span>                                              |
+> | [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Vault\|SLRvb Vault]]<span class='summary'>\-</span>                                                                                                             |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/Vault - Farouks\|Vault - Farouks]]<span class='summary'>Fire vault, great little panels and buttons</span>                                                                  |
 > | [[Cards/000 - Knowledge Management/Obsidian Vaults/Vault - John Mavrick\|Vault - John Mavrick]]<span class='summary'>John's vault is full of great templates for everyday use and interesting uses of different plugins</span> |
 > 
 { .block-language-dataview}
 
-
 > [!attention]- Unrequited (`-#on/obsidian`)
->  - [[Sources/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]
+>  - [[🏠 Home\|🏠 Home]]
+> - [[Sources/📰 Articles/Writing a Novel in Markdown\|Writing a Novel in Markdown]]
 > - [[Sources/📰 Articles/The Konik Method for Making Useful Notes\|The Konik Method for Making Useful Notes]]
+> - [[Sources/📰 Articles/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]
+> - [[Sources/📰 Articles/Nick Milos Hotkey Essentials\|Nick Milos Hotkey Essentials]]
+> - [[Sources/📰 Articles/How to Use Templater JS Scripts\|How to Use Templater JS Scripts]]
+> - [[Sources/📰 Articles/How to Use Templater JS Scripts 1\|How to Use Templater JS Scripts 1]]
 > - [[Sources/📰 Articles/Evergreen Notes Are Things or Statements About Things\|Evergreen Notes Are Things or Statements About Things]]
 > - [[Sources/🎥 Videos/Aidan Helfant - Understand the Zettelkasten Method in Obsidian\|Aidan Helfant - Understand the Zettelkasten Method in Obsidian]]
-> - [[Sources/Shabeblog Templater Snippets\|Shabeblog Templater Snippets]]
-> - [[Sources/How to Use Templater JS Scripts\|How to Use Templater JS Scripts]]
-> - [[Sources/Tools + Plugins/Obsidian Scrapers\|Obsidian Scrapers]]
 > - [[Sources/Tools + Plugins/Plugin - Text Generator\|Plugin - Text Generator]]
-> - [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]]
 > - [[Sources/Tools + Plugins/Plugin - Tasks\|Plugin - Tasks]]
 > - [[Sources/Tools + Plugins/Plugin - Quickadd\|Plugin - Quickadd]]
 > - [[Sources/Tools + Plugins/Plugin - Meta Bind\|Plugin - Meta Bind]]
 > - [[Sources/Tools + Plugins/Plugin - Emoji Shortcodes\|Plugin - Emoji Shortcodes]]
+> - [[Sources/Tools + Plugins/Obsidian Scrapers\|Obsidian Scrapers]]
 > - [[Sources/Tools + Plugins/Modular CSS Layout for Obsidian\|Modular CSS Layout for Obsidian]]
 > - [[Sources/Tools + Plugins/Hookmark\|Hookmark]]
 > - [[Sources/Tools + Plugins/Excalidraw\|Excalidraw]]
-> - [[Sources/Reddit Thread about Writing in Obsidian\|Reddit Thread about Writing in Obsidian]]
-> - [[Sources/Nick Milos Hotkey Essentials\|Nick Milos Hotkey Essentials]]
-> - [[🏠 Home\|🏠 Home]]
-> - [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
-> - [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Thoughts\|SLRvb Thoughts]]
-> - [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]]
 > - [[Cards/000 - Knowledge Management/Workflows/My Zotero Workflow\|My Zotero Workflow]]
 > - [[Cards/000 - Knowledge Management/What I want to do with Obsidian\|What I want to do with Obsidian]]
-> - [[Cards/000 - Knowledge Management/Tags\|Tags]]
+> - [[Cards/000 - Knowledge Management/Taking Notes\|Taking Notes]]
+> - [[Cards/000 - Knowledge Management/Snippet - Capacities Sidebar\|Snippet - Capacities Sidebar]]
+> - [[Cards/000 - Knowledge Management/Obsidian Vaults/SLRvb/SLRvb Thoughts\|SLRvb Thoughts]]
+> - [[Cards/000 - Knowledge Management/Obsidian Vaults/Petrichors Vault\|Petrichors Vault]]
 > - [[Cards/000 - Knowledge Management/My Hotkeys\|My Hotkeys]]
-> - [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > - [[Cards/000 - Knowledge Management/Atomic Notes\|Atomic Notes]]
+> - [[Cards/000 - Knowledge Management/000 - Knowledge Management\|000 - Knowledge Management]]
 > - [[Calendar/Journal/Daily/2022-10-23\|2022-10-23]]
 > 
 { .block-language-dataview}
-
 
 ## Plugins
 - [[Sources/Tools + Plugins/Plugin - Templater\|Plugin - Templater]]
@@ -148,6 +131,9 @@
 - [Periodic Notes Doc](https://github.com/liamcain/obsidian-periodic-notes)
 - [Tasks Reference](https://obsidian-tasks-group.github.io/obsidian-tasks/quick-reference/)
 
+## Tools
+- [Bases Toolbox](https://bases-toolbox.vercel.app/#dataview-converter) - convert data view to bases
+- [Obsidian & Plugin REPL cookbook](https://readwithai.substack.com/p/obsidian-plugin-repl-cookbook)
 ## Guides
 - [How to get started with Obsidian Dataview and DataviewJS | by Jacqui Read](https://medium.com/os-techblog/how-to-get-started-with-obsidian-dataview-and-dataviewjs-5d6b5733d4a4) 
 - [The Beginner’s Guide to DATAVIEW Obsidian Plugin — 10 areas where things can go wrong and how to fix them | by Denise Todd](https://denisetodd.medium.com/obsidian-dataview-for-beginners-a-checklist-to-help-fix-your-dataview-queries-11acc57f1e48)
@@ -160,37 +146,10 @@
 ## Forum Posts
 - [Fetching Title#1wt1](https://danielmathiot.tech/notes/2023-01-21+First+updates)
 
-## Templates 
+## Templates
 - [Template Hub](https://github.com/llZektorll/Template_Hub/tree/main/Templates) -- buncha generic templates in here
 
-
 ## Bookmarks
-
-> [!multi-column]
-> > [!links]- Links
-> > ```tasks
-> > not done
-> > tags include #on/obsidian
-> > tags include #🔗 
-> > hide scheduled date
-> > hide due date
-> > hide task count
-> > hide priority
-> > sort by filename
-> > ```
-> 
-> > [!video]- Videos
-> > ```tasks
-> > not done
-> > tags include #on/obsidian 
-> > tags include #🎥 
-> > hide scheduled date
-> > hide due date
-> > hide task count
-> > hide priority
-> > sort by filename
-> > ```
-
 
 > [!Links]+ 💧 Raindrop Bookmarks on AI
 > <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/tophg/obsidian-29060833/embed/theme=dark"></iframe>

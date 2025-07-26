@@ -9,9 +9,9 @@
 >> **type**:: #📥/📰 
 >> **status**:: #📥/🟧  
 >> **tags**:: #on/articles, #on/writing 
->> **topics**:: [[Cards/600 - Applied Sciences/Writing/🖋 Writing\|🖋 Writing]], [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+>> **topics**:: [[🖋 Writing\|🖋 Writing]], [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 >
->> [!metadata]- Article Info
+>> [!metadat[](Writing.md)fo
 >> **Author**:: [[P.D. Workman\|P.D. Workman]]
 >> **Title**:: Writing a Novel in Markdown
 >> **URL**:: "https://pdworkman.com/writing-a-novel-in-markdown/"

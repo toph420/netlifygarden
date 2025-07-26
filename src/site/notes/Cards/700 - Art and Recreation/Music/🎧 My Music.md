@@ -18,9 +18,10 @@
 ## Keaton's Korner
 
 ### Recommendations
--  #genre/RnB[Zack Fox](https://www.youtube.com/watch?v=khIOh7EzIl4)
+-  #genre/RnB [Zack Fox](https://www.youtube.com/watch?v=khIOh7EzIl4)
 - Lil Yachty new album 2023
 - [Girl with Fish - Album by feeble little horse | Spotify](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT?si=qZ1OULHWTnizhHXNYw1Mxw)
+- [Jane Remover - Revengeseekerz ALBUM REVIEW - YouTube](https://www.youtube.com/watch?v=CVtU-1G1Z1s) [[Jane Remover\|Jane Remover]]
 
 ---
 

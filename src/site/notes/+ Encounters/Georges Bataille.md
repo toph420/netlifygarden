@@ -9,9 +9,12 @@
 
 Website: https://en.wikipedia.org/wiki/Georges_Bataille
 
+## Books
+- [[Sources/Zotero/The Accursed Share\|The Accursed Share]]
 ## Resources
 
 - [Bataille in Context Syllabus](https://docs.google.com/document/u/2/d/1_rWadEdmlp5YRDRqhLE_PbnqkY5DGr_2HXuL5ZJRJYo/mobilebasic) - [[Acid Horizon\|Acid Horizon]] reading group, tons of great info here
+
 
 ---
 up:: [[Famous People\|Famous People]]

@@ -82,8 +82,13 @@
 	- #to/read [Nature's Queer Negativity: Between Barad and Deleuze](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2185&context=bb_pubs)
 - Check out [[Judith Butler\|Judith Butler]]
 - [[Michel Foucault\|Michel Foucault]] - [[Discipline and Punish - The Birth of the Prison\|Discipline and Punish - The Birth of the Prison]]
-- [CATASTROP(H)IC](https://catastrophic-site.neocities.org/) - theory, culture, art collective
+- #on/theory ⭐️ [CATASTROP(H)IC](https://catastrophic-site.neocities.org/) - theory, culture, art collective - this is **AMAZING**
 - #on/deleuze [[Synechdoche, New York\|Synechdoche, New York]] as a [[+ Encounters/Gilles Deleuze\|Gilles Deleuze]] experiment
 - Why is [[Steak N Shake\|Steak N Shake]] the face of fascism?
 - [[+ Encounters/Immanuel Kant\|Immanuel Kant]]
 - #on/finance [Maybe](https://opensourceprojects.dev/post/1946501628401799440) - open source finance app
+- #on/deleuze #to/read  [Deleuze and Anarchism](https://theanarchistlibrary.org/library/aragorn-eloff-chantelle-gray-van-heerden-deleuze-and-anarchism) 
+- #on/prompting [Anthropic's Prompt Engineering Interactive Tutorial](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/htmlview?pli=1#gid=869808629)
+- #on/theory [Daniel John Roden](https://x.com/turingcop?s=21&t=gyRX2W0x81b80X8f34EMoQ) - this guy has an interesting paper on Posthumanism, Nietzsche, and Deleuze
+- #on/theory [[Guy Debord\|Guy Debord]] - [[Society of the Spectacle\|Society of the Spectacle]] ([reading group](https://www.reddit.com/r/PhilosophyEvents/s/Kaqs7zDXR2)), Marxist , interesting person to look into, David Graeber said he preferred him to Baudrillard, potential to incorporate these ideas for [[Calendar/Ideas/2024-03-20-WJ - An idea for a local media organization\|An Idea for a Local Media Organization]], see this video: [YouTube](https://youtu.be/8CTf4myAa9k?si=hlbz1rtV9Mv5-2mI), also see [[Situationist International\|Situationist International]] [SI](https://en.m.wikipedia.org/wiki/Situationist_International)
+- [[+ Encounters/Jean Baudrillard\|Jean Baudrillard]] ![Stuff to Look Into - evil.png](/img/user/Extras/Attachments/Stuff%20to%20Look%20Into%20-%20evil.png)

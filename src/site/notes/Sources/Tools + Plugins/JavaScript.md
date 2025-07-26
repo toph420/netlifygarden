@@ -4,7 +4,7 @@
 
 > [!metadata]- Meta
 > up:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
-> type:: #📥/🛠 
+> categories:: #📥/🛠 
 > status:: #📥/🟥 
 > tags::  #on/language
 > links:: [[Calendar/+ MOCs/🧪 Code Diary\|🧪 Code Diary]], [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]

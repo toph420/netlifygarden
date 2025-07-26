@@ -5,11 +5,11 @@
 
 > [!metadata]- Meta
 > up:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
-> type:: #📥/🛠   
+> categories:: #📥/🛠   
 > tags:: #on/pkm, #on/plugins #on/obsidian 
 > status:: #📥/🟧 
-> topics:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
-> links:: [[Atlas/🧠 Sid\|🗳 My Vault]], [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
+> links:: [[Cards/600 - Applied Sciences/Technology/Coding/Coding\|Coding]]
+> links:: [[Atlas/🧠 My Vault\|🗳 My Vault]], [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
 
 # Dataview
 
@@ -21,6 +21,7 @@
 - [Napkinium's Dataview Examples](https://publish.obsidian.md/napkinium/Index)
 - [Dataview Query builder](https://s-blu.github.io/basic-dataview-query-builder/)
 - [Adding Metadata - Using fields](https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/)
+- [Bases Toolbox](https://bases-toolbox.vercel.app/#dataview-converter) - convert data view to bases
 
 
 ## Miscellaneous Snippets

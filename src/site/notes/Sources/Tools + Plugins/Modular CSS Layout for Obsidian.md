@@ -4,10 +4,10 @@
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/🛠
+> categories:: #📥/🛠
 > status:: #📥/🟧 
 > tags:: #on/pkm #on/plugins
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 > links::  [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]], [[Cards/000 - Knowledge Management/Hotkeys for Plugins\|Hotkeys for Plugins]]
 > language:: [[Sources/Tools + Plugins/CSS\|CSS]]
 
@@ -56,9 +56,9 @@
 
 > [!metadata]- Meta
 > up:: [[Atlas/📥 Sources\|📥 Sources]]
-> type:: #📥/🛠
+> categories:: #📥/🛠
 > status:: #📥/🟧 
 > tags:: #on/pkm #on/plugins
-> topics:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
+> links:: [[Sources/Tools + Plugins/Obsidian\|Obsidian]]
 > links::  [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]], [[Cards/000 - Knowledge Management/Hotkeys for Plugins\|Hotkeys for Plugins]]
 > language:: [[Sources/Tools + Plugins/CSS\|CSS]]

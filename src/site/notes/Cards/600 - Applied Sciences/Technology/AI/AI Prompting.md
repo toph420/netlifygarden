@@ -1,14 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cards/600-applied-sciences/technology/ai/ai-prompting/","title":"AI Prompting"}
+{"dg-publish":true,"permalink":"/cards/600-applied-sciences/technology/ai/ai-prompting/","title":"AI Prompting","tags":["on/ai","on/prompting"]}
 ---
 
-> [!metadata]- Meta
-> up:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
-> categories:: #📝 
-> status:: #📝/🌿 
-> tags::  #on/ai 
-> links:: [[Cards/600 - Applied Sciences/Technology/AI/Artificial Intelligence\|Artificial Intelligence]]
-> links:: [[Cards/600 - Applied Sciences/Technology/AI/AI Art\|AI Art]], [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]], [[Sources/Tools + Plugins/Midjourney\|Midjourney]], [[Sources/Tools + Plugins/Stable Diffusion\|Stable Diffusion]]
 
 # AI Prompting
 
@@ -19,14 +12,15 @@
 
 ## AI Art Prompting
 - [[Cards/600 - Applied Sciences/Technology/AI/Using Chat GPT to Generate Prompts for AI\|Using Chat GPT to Generate Prompts for AI]]
+-
 - [Zele.st](https://zele.st/NovelAI/) - huge resource for art styles and artists 
 - [Urania](https://www.urania.ai/top-sd-artists) - db of artists styles
 - [Proxima Centauri](https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=ab624266c6a44413b42a6c57a41d828c) - big notion page of artist studies
 - [Proxima Centauri - modifier styles](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582)
+
 ## Guides and Tools
 - [LearnPrompting.org](https://learnprompting.org/docs/intro)
 - [Prompt Hero](http://prompthero.com) - See what folks re prompting and their results
-- [Prompt Templates — 🦜🔗 LangChain](https://langchain.readthedocs.io/en/latest/modules/prompts.html)
 - [10 Incredible Prompt Styles to Try in Midjourney V4 - AiTuts](https://aituts.com/midjourney-v4-prompts-to-try/)
 - [AiTuts - The Most Comprehensive AI Resource for Creators and Builders](https://aituts.com/)
 - [Complete Guide to ControlNet for Stable Diffusion img2img - AiTuts](https://aituts.com/controlnet/)
@@ -34,15 +28,15 @@
 - [BestAIPrompts.art](https://bestaiprompts.art/midjourney/architecture-prompts)
 - [Awesome GPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [SnackPrompt - Discover Prompts](https://snackprompt.com/)
+- [PromptCraft - AI Prompt Engineering Made Simple](https://promptcraft.net/)
 
 ![5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg](/img/user/Extras/Attachments/5DB75EFE-8A2D-4DDF-84AA-EA5C2AE973C3.jpeg)
 
-## From the web
+## From the Web
 
 > [!tip]+ Tips for GPT
 > - Use [Convert Web Pages to Plain Text | Great for ChatGPT + SEO Use](https://totheweb.com/learning_center/tools-convert-html-text-to-plain-text-for-content-review/) to submit a plain text version of a website to [[Sources/Tools + Plugins/Chat GPT\|Chat GPT]]
 >
-
 
 ## Other Resources
 
@@ -57,11 +51,6 @@
 > -   [Thread of Cool Images](https://twitter.com/ivonatau/status/1605681809680830464)
 > -   [Lexica, a database of AI images](https://lexica.art/)
 > -   [Playground, another database of AI images](https://playgroundai.com/)
-
-
-
-
-
 
 ---
 up:: [[🏠 Home\|🏠 Home]]

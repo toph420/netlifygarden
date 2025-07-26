@@ -30,7 +30,6 @@
 > | [[+ Encounters/Chat - Literary Writing Exercises\|Chat - Literary Writing Exercises]]                                                         | Prompt: I need some exercises to get me writing, I'm interested in writing inspiration from authors like delillo, Pynchon, umberto eco, Philip k dick, bolano, Gaddis, Gass                                                                                                                                                                                                                   |
 > | [[+ Encounters/Sigil\|Sigil]]                                                                                                                 | a type of symbol used in magic. The term usually refers to a pictorial signature of a spirit (such as an angel, demon, or deity)                                                                                                                                                                                                                                                              |
 > | [[+ Encounters/Philosopher Table\|Philosopher Table]]                                                                                         | A useful table of philosophers and their beliefs                                                                                                                                                                                                                                                                                                                                              |
-> | [[+ Encounters/James Joyce\|James Joyce]]                                                                                                     | Notes about the author                                                                                                                                                                                                                                                                                                                                                                        |
 > | [[+ Encounters/Fashion\|Fashion]]                                                                                                             | Fashion related notes                                                                                                                                                                                                                                                                                                                                                                         |
 > | [[+ Encounters/Happiness Is an Activity\|Happiness Is an Activity]]                                                                           | {{VALUE:Summary}}                                                                                                                                                                                                                                                                                                                                                                             |
 > | [[+ Encounters/Aristotle - Nicomachean Ethics - Book 1\|Aristotle - Nicomachean Ethics - Book 1]]                                             | Notes related to Nicomachean Ethics, Book 1 by Aristotle                                                                                                                                                                                                                                                                                                                                      |
@@ -60,6 +59,7 @@
 > | [[+ Encounters/Rosicrucianism\|Rosicrucianism]]                                                                                               | a spiritual and cultural movement that arose in early modern Europe in the early 17th century after the publication of several texts announcing to the world a new esoteric order.                                                                                                                                                                                                            |
 > | [[Calendar/Ideas/2024-12-26-IJ - Short film - The Crying of Lot 49\|2024-12-26-IJ - Short film - The Crying of Lot 49]]                       | [[Sources/📚 Books/The Crying of Lot 49\|The Crying of Lot 49]] could totally be a crazy short film or movie                                                                                                                                                                                                                                                                                                                         |
 > | [[+ Encounters/Anarchism\|Anarchism]]                                                                                                         | Notes and reference to anarchist teachings                                                                                                                                                                                                                                                                                                                                                    |
+> | [[+ Encounters/Noam Chomsky\|Noam Chomsky]]                                                                                                   | My goat                                                                                                                                                                                                                                                                                                                                                                                       |
 > 
 { .block-language-dataview}
 
@@ -68,12 +68,12 @@
 > 
 >  | Notes                                                                                       |
 > | ------------------------------------------------------------------------------------------- |
+> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]       |
 > | [[Cards/600 - Applied Sciences/Writing/Writing\|Writing]]                                |
 > | [[Cards/600 - Applied Sciences/Technology/AI/AI Writing\|AI Writing]]                    |
 > | [[Cards/300 - Social Sciences/Leftism\|Leftism]]                                         |
 > | [[Cards/000 - Knowledge Management/My Meta\|My Meta]]                                    |
 > | [[Cards/600 - Applied Sciences/Filmmaking/Animation\|Animation]]                         |
-> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]       |
 > | [[Cards/700 - Art and Recreation/Music/🎧 My Music\|🎧 My Music]]                        |
 > | [[Cards/600 - Applied Sciences/Photography/Photography\|Photography]]                    |
 > | [[Cards/100 - Personal Management/💪 Health/Yoga\|Yoga]]                                 |
@@ -116,16 +116,16 @@
 { .block-language-dataview}
 
 > [!attention]- Untagged
->  - [[Sources/Tools + Plugins/Tools + Plugins\|Tools + Plugins]]
-> - [[+ Encounters/Untitled\|Untitled]]
-> - [[+ Encounters/Quick Notes/Hardcore History - Blueprint for Armageddon\|Hardcore History - Blueprint for Armageddon]]
-> - [[+ Encounters/Quick Notes/Tibetan Monastery Manuscripts\|Tibetan Monastery Manuscripts]]
-> - [[+ Encounters/Quick Notes/Test\|Test]]
-> - [[+ Encounters/Quick Notes/Stuff I need today \|Stuff I need today ]]
-> - [[+ Encounters/Quick Notes/Quick Actions widget\|Quick Actions widget]]
-> - [[+ Encounters/Quick Notes/Here's the name\|Here's the name]]
-> - [[+ Encounters/Quick Notes/GR Book Stores\|GR Book Stores]]
-> - [[+ Encounters/Quick Notes/Blurring in Davinci\|Blurring in Davinci]]
+>  - [[Spaces/🦆 Ducks Films/🌈 Project Board\|🌈 Project Board]]
+> - [[Spaces/🦆 Ducks Films/🌈 Ducks Projects/Greg Goss - Sundialed/Greg Goss - Sundialed\|Greg Goss - Sundialed]]
+> - [[Spaces/🦆 Ducks Films/Ducks Legal\|Ducks Legal]]
+> - [[Spaces/🦆 Ducks Films/Areas/🤷‍♂️ Prospects\|🤷‍♂️ Prospects]]
+> - [[Spaces/🦆 Ducks Films/Areas/🤑 Clients/Urban Core Collective/Urban Core Collective\|Urban Core Collective]]
+> - [[Spaces/🦆 Ducks Films/Areas/👤 Ducks Accounts\|👤 Ducks Accounts]]
+> - [[Spaces/🦆 Ducks Films/Areas/Filming Locations and Studios\|Filming Locations and Studios]]
+> - [[Spaces/🦆 Ducks Films/Areas/Edit Log\|Edit Log]]
+> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Marketing\|T-Shirt Marketing]]
+> - [[Spaces/🦆 Ducks Apparel/Areas/T-Shirt Market Research\|T-Shirt Market Research]]
 > 
 { .block-language-dataview}
 

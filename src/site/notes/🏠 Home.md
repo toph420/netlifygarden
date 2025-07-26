@@ -83,45 +83,45 @@ Elsewhere:
 > - [[Cards/900 - History, Biography, Geography/900 - History, Biography, Geography\|900 - History, Biography, Geography]]
 
 > [!note]+ New Notes
->  | Note                                                                                                                                      | Status                               |
-> | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Buying a House\|Buying a House]]<br><span class='block'>11:27 PM - July 20, 2025</span>                                 | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Streamers\|Streamers]]<br><span class='block'>11:13 PM - July 18, 2025</span>                                           | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Jeffrey Epstein\|Jeffrey Epstein]]<br><span class='block'>10:36 AM - July 17, 2025</span>                               | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Posthumanism\|Posthumanism]]<br><span class='block'>10:42 PM - July 16, 2025</span>                                     | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Micropolitics and Segmentarity\|Micropolitics and Segmentarity]]<br><span class='block'>10:43 PM - July 08, 2025</span> | <span class='center-block'>🌞</span> |
+>  | Note                                                                                                        | Status                               |
+> | ----------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[+ Encounters/Cozy Podcasts\|Cozy Podcasts]]<br><span class='block'>3:58 PM - July 26, 2025</span>      | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/NAS Storage\|NAS Storage]]<br><span class='block'>1:49 PM - July 22, 2025</span>          | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Buying a House\|Buying a House]]<br><span class='block'>11:27 PM - July 20, 2025</span>   | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Streamers\|Streamers]]<br><span class='block'>11:13 PM - July 18, 2025</span>             | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Jeffrey Epstein\|Jeffrey Epstein]]<br><span class='block'>10:36 AM - July 17, 2025</span> | <span class='center-block'>🌞</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modifed Notes
->  | Note                                                                                                                  | Status                               |
-> | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[+ Encounters/Buying a House\|Buying a House]]<br><span class='block'>11:29 PM - July 20, 2025</span>             | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/James Joyce\|James Joyce]]<br><span class='block'>10:53 PM - July 20, 2025</span>                   | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Idea Jotter\|Idea Jotter]]<br><span class='block'>6:21 AM - July 20, 2025</span>                    | <span class='center-block'>🌞</span> |
-> | [[+ Encounters/Stuff to Look Into\|Stuff to Look Into]]<br><span class='block'>1:56 AM - July 20, 2025</span>      | <span class='center-block'>🌲</span> |
-> | [[Cards/600 - Applied Sciences/Writing/Writing\|🖋 Writing]]<br><span class='block'>1:56 AM - July 20, 2025</span> | <span class='center-block'>\-</span> |
+>  | Note                                                                                                                                           | Status                               |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Cards/700 - Art and Recreation/Podcasts/Podcasts\|Podcasts]]<br><span class='block'>4:05 PM - July 26, 2025</span>                        | <span class='center-block'>🌿</span> |
+> | [[+ Encounters/Cozy Podcasts\|Cozy Podcasts]]<br><span class='block'>4:03 PM - July 26, 2025</span>                                         | <span class='center-block'>🌞</span> |
+> | [[Cards/900 - History, Biography, Geography/Biography/HP Lovecraft\|HP Lovecraft]]<br><span class='block'>3:58 PM - July 26, 2025</span>    | <span class='center-block'>\-</span> |
+> | [[Cards/700 - Art and Recreation/700 - Art and Recreation\|700 - Art and Recreation]]<br><span class='block'>3:58 PM - July 26, 2025</span> | <span class='center-block'>🌞</span> |
+> | [[+ Encounters/Stuff to Look Into\|Stuff to Look Into]]<br><span class='block'>3:08 PM - July 26, 2025</span>                               | <span class='center-block'>🌲</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ New [[Atlas/📥 Sources\|📥 Sources]]
 >  | Source                                                                                                                                                     | Status                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Zotero/The Accursed Share\|The Accursed Share]]<br><span class='block'>10:43 PM - July 25, 2025</span>                                        | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Naked Lunch\|Naked Lunch]]<br><span class='block'>10:04 PM - July 18, 2025</span>                                                    | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Tenth of December\|Tenth of December]]<br><span class='block'>11:03 PM - July 16, 2025</span>                                        | <span class='center-block'>🟥</span> |
 > | [[Sources/📚 Books/Crash\|Crash]]<br><span class='block'>9:52 PM - July 15, 2025</span>                                                                 | <span class='center-block'>🟥</span> |
 > | [[Sources/Zotero/Deleuze, Freud and the Three Syntheses\|Deleuze, Freud and the Three Syntheses]]<br><span class='block'>9:10 PM - July 13, 2025</span> | <span class='center-block'>🟧</span> |
-> | [[Sources/📚 Books/Junky\|Junky]]<br><span class='block'>9:50 PM - July 11, 2025</span>                                                                 | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}
 
 > [!note]+ Modified [[Atlas/📥 Sources\|📥 Sources]]
->  | Source                                                                                                                                               | Status                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-> | [[Sources/📚 Books/Naked Lunch\|Naked Lunch]]<br><span class='block'>11:27 PM - July 20, 2025</span>                                              | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/The Lathe of Heaven\|The Lathe of Heaven]]<br><span class='block'>1:56 AM - July 20, 2025</span>                               | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>1:56 AM - July 20, 2025</span> | <span class='center-block'>🟥</span> |
-> | [[Sources/📚 Books/Junky\|Junky]]<br><span class='block'>7:23 PM - July 18, 2025</span>                                                           | <span class='center-block'>🟥</span> |
-> | [[Sources/Tools + Plugins/Dia Browser\|Dia Browser]]<br><span class='block'>12:12 PM - July 17, 2025</span>                                       | <span class='center-block'>🟥</span> |
+>  | Source                                                                                                                                                                | Status                               |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+> | [[Sources/Zotero/The Accursed Share\|The Accursed Share]]<br><span class='block'>10:46 PM - July 25, 2025</span>                                                   | <span class='center-block'>🟥</span> |
+> | [[Sources/Zotero/Anti-Oedipus - Capitalism and Schizophrenia\|Anti-Oedipus - Capitalism and Schizophrenia]]<br><span class='block'>12:00 AM - July 23, 2025</span> | <span class='center-block'>🟨</span> |
+> | [[Sources/📚 Books/Naked Lunch\|Naked Lunch]]<br><span class='block'>11:27 PM - July 20, 2025</span>                                                               | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/The Lathe of Heaven\|The Lathe of Heaven]]<br><span class='block'>1:56 AM - July 20, 2025</span>                                                | <span class='center-block'>🟥</span> |
+> | [[Sources/📚 Books/Selected Stories of Philip K. Dick\|Selected Stories of Philip K. Dick]]<br><span class='block'>1:56 AM - July 20, 2025</span>                  | <span class='center-block'>🟥</span> |
 > 
 { .block-language-dataview}

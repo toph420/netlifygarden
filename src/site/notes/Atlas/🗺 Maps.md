@@ -27,7 +27,6 @@
 | [[Calendar/+ MOCs/🔗 The Dump\|🔗 The Dump]]                                                       | A dump of links, questions, ideas, and todos                                   |
 | [[Cards/000 - Knowledge Management/Workflows/My Process Guides\|My Process Guides]]                | Guides to all my apps and workflows                                            |
 | [[Cards/700 - Art and Recreation/Internet Cretors/📺 My YouTube Channels\|📺 My YouTube Channels]] | A record of my favorite YouTube channels                                       |
-| [[Cards/700 - Art and Recreation/Podcasts/🎙 My Podcasts\|🎙 My Podcasts]]                         | a log of podcasts i listen to and want to listen to                            |
 | [[Cards/700 - Art and Recreation/Movies and TV/📺 My TV Shows\|📺 My TV Shows]]                    | TV Shows we are watching and want to watch                                     |
 | [[Cards/700 - Art and Recreation/🎨 Inspiration\|🎨 Inspiration]]                                  | Get those creative juices flowing baby!                                        |
 | [[Cards/500 - Natural Sciences/Animals/Animals\|Animals]]                                          | I fucking love animals, this note is a map to all of my critter related notes! |
